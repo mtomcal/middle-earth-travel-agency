@@ -1,0 +1,337 @@
+{
+  "article_artifact_id": "article_1d61f8c2dfc7d1a2feb7f5cbf08bc9e836af996262639a3e6090c4d2238abb6e",
+  "canonical_title": "Eagles in Middle-earth",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_1d61f8c2dfc7d1a2feb7f5cbf08bc9e836af996262639a3e6090c4d2238abb6e",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Scholars have noticed that the Eagles appear as agents of eucatastrophe or deus ex machina throughout Tolkien's writings, from The Silmarillion and the accounts of Númenor to The Hobbit and The Lord of the Rings. Where Elves are good, and fully sentient, and Orcs bad, Eagles amongst other races are in between; the Hobbit Bilbo Baggins fears he will become their supper, torn up like a rabbit, and is indeed served rabbit for supper. The scholar Marjorie Burns notes, too, that Gandalf's association with Eagles is reminiscent of the god Odin in Norse mythology. Others have seen Biblical echoes, especially when the Eagle-messenger sings of the final victory to Faramir in phrases reminiscent of Psalm 24.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_754a8ef4b10b77e0b9b21b7e97032a3dc0e3f7178294f6253816549309a46b13",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_1d61f8c2dfc7d1a2feb7f5cbf08bc9e836af996262639a3e6090c4d2238abb6e",
+      "heading_path": [
+        "Analysis",
+        "Origins"
+      ],
+      "normalized_text": "thumb|Tolkien based his painting of an eagle in The Hobbit on this 1919 illustration of an immature golden eagle by Archibald Thorburn.",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_f0642041734bdcc7f91e9e1b8c472917218e7ad408752b7d652c16455afc51cb",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_1d61f8c2dfc7d1a2feb7f5cbf08bc9e836af996262639a3e6090c4d2238abb6e",
+      "heading_path": [
+        "Analysis",
+        "Biblical messenger"
+      ],
+      "normalized_text": "thumb|upright=0.8|Scholars have linked the Eagles to Christianity, as an Eagle is John the Evangelist's traditional symbol. Icon of St John with eagle, Kazan Cathedral, St. Petersburg",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_ba990b2925b713fdb1d55dcb64f9137885502e9b835279c72a882900f279c153",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Eagles_in_Middle-earth&action=history",
+  "namespace": 0,
+  "page_id": 436822,
+  "parent_revision_id": 1322115593,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1327238890",
+  "raw_wikitext": "{{short description|Animal from J. R. R. Tolkien's legendarium}}\n{{good article}}\n{{Use British English|date=May 2022}}\n{{Use dmy dates|date=January 2023}}\n{{Infobox fictional race\n| name               = Eagles\n| image              = J.R.R. Tolkien - Eagles.jpg\n| alt                =\n| caption            = \"Bilbo Woke Up with the Early Sun in His Eyes\" by [[J.R.R. Tolkien]], first published in a 1938 edition of ''[[The Hobbit]]''\n| iu_created_date    = [[First Age]]\n| leader             = [[Thorondor (Middle-earth)|Thorondor]], [[Gwaihir]]\n| home_world         = [[Middle-earth]]\n| base_of_operations = Encircling Mountains, [[Misty Mountains]]\n}}\nIn [[J. R. R. Tolkien]]'s [[Middle-earth]], the '''Eagles''' or '''Great Eagles'''<ref group=T name=\"FR-CE\">{{harvnb|Tolkien|1954a}} \"[[The Council of Elrond]]\"</ref><ref group=T name=\"Silm-RD\">{{harvnb|Tolkien|1977}}, \"Of the Ruin of Doriath\"</ref> are immense birds that are sapient and can speak. The Great Eagles resemble actual [[eagle]]s, but are much larger. Thorondor is said to have been the greatest of all birds, with a wingspan of {{convert|30|fathom|m+ft}}.<ref group=T name=\"Silm-RN\">{{harvnb|Tolkien|1977}}, \"Of the Return of the Noldor\"</ref> Elsewhere, the Eagles have varied in nature and size both within Tolkien's writings and in later [[Adaptations of The Lord of the Rings|adaptations]].\n\nScholars have noticed that the Eagles appear as agents of [[eucatastrophe]] or ''[[deus ex machina]]'' throughout Tolkien's writings, from ''[[The Silmarillion]]'' and the accounts of [[Númenor]] to ''[[The Hobbit]]'' and ''[[The Lord of the Rings]]''. Where Elves are good, and fully sentient, and Orcs bad, Eagles amongst other races are in between;<!--<ref group=T name=\"MR409-11\"/>: we don't cite the lead, ps look below for refs--> the [[Hobbit]] [[Bilbo Baggins]] fears he will become their supper, torn up [[Hobbit (word)#Rabbit|like a rabbit]], and is indeed served rabbit for supper. The scholar [[Marjorie Burns]] notes, too, that [[Gandalf]]'s association with Eagles is reminiscent of the god [[Odin]] in [[Norse mythology]]. Others have seen [[Christianity in Middle-earth|Biblical echoes]], especially when the Eagle-messenger sings of the final victory to [[Faramir]] in phrases reminiscent of [[Psalm 24]].<!--{{sfn|Shippey|2005|pp=226–228}}, but we don't cite the lead: whole of lead summarizes cited text in article body-->\n\n== Context ==\n\n{{further|J. R. R. Tolkien|Middle-earth|J. R. R. Tolkien's influences}}\n\n[[J. R. R. Tolkien]] was an English author and [[Philology|philologist]] of ancient [[Germanic languages]], specialising in [[Old English]]; he spent much of his career as a professor at the [[University of Oxford]].{{sfn|Carpenter|1977|pp=111, 200, 266}} He is best known for his novels about his invented [[Middle-earth]], ''[[The Hobbit]]'' and ''[[The Lord of the Rings]]'', and for the posthumously published ''[[The Silmarillion]]'' which provides a more mythical narrative about earlier ages. He invented [[Middle-earth peoples|several peoples]] for Middle-earth, including [[Elves in Middle-earth|Elves]], [[Dwarves in Middle-earth|Dwarves]], [[Hobbit]]s, [[Orc]]s, [[Trolls in Middle-earth|Trolls]], and Eagles, among others. A devout [[Roman Catholic]], he described ''The Lord of the Rings'' as \"a fundamentally religious and Catholic work\", [[Christianity in Middle-earth|rich in Christian symbolism]].<ref>{{harvnb|Carpenter|2023|loc=Letter 142 to [[Robert Murray (priest)|Robert Murray]], 2 December 1953 }}</ref>\n\n== Appearances ==\n\n=== First Age ===\n\nThroughout ''[[The Silmarillion]]'', the Eagles are associated with [[Manwë (Middle-earth)|Manwë]], the ruler of the sky and Lord of the [[Valar in Middle-earth|Valar]]. It is stated that \"spirits in the shape of hawks and eagles\" brought news from Middle-earth to his halls upon Taniquetil, the highest mountain in [[Valinor]],<ref group=T>{{harvnb|Tolkien|1977}}, \"Of the Beginning of Days\"</ref> and in the ''[[Valaquenta]]'' of \"all swift birds, strong of wing\".<ref group=T>{{harvnb|Tolkien|1977}}, \"Valaquenta\"</ref> Upon their first appearance in the main narrative, it is stated that the Eagles had been \"sent forth\" to Middle-earth by Manwë, to live in the mountains north of the land of [[Beleriand]], to \"watch upon\" [[Morgoth]],<ref group=T name=\"Silm-RN\"/> and to help the exiled [[Noldor]]in Elves \"in extreme cases\".<ref group=T name=\"MR138\">{{harvnb|Tolkien|1993}}, \"The Annals of Aman\"</ref> The Eagles were ruled by Thorondor, \"Lord of the Eagles\", and \"mightiest of all birds that have ever been\".<ref group=T>{{harvnb|Tolkien|1977}}, \"Of the Noldor in Beleriand\"</ref><ref group=T name=\"Silm-RB\">{{harvnb|Tolkien|1977}}, \"Of the Ruin of Beleriand\"</ref> When Turgon built the Hidden City of [[Gondolin]], the eagles of Thorondor became his allies, bringing him news and keeping spies and [[Orc]]s away.<ref group=T name=\"Silm-TFG\">{{harvnb|Tolkien|1977}}, \"Of Tuor and the Fall of Gondolin\"</ref><ref group=T name=\"Tuor\">{{harvnb|Tolkien|1980}}, \"Of Tuor and His Coming to Gondolin\", and note 25</ref> The eagles' watch was redoubled after the coming of [[Tuor]],<ref group=T name=\"Silm-RD\"/> enabling Gondolin to remain undiscovered longer than any other Elvish kingdom in Beleriand. When the city fell, the eagles protected the fugitives from ambushing orcs.<ref group=T name=\"Silm-TFG\"/> The Eagles fought alongside the army of the Valar, Elves, and Men during the [[War of Wrath]] at the end of the [[First Age]]. In ''The Silmarillion'' it is recounted that after the appearance of winged [[Dragons in Middle-earth|dragons]], \"all the great birds of heaven\" gathered under the leadership of Thorondor to [[Eärendil]], and destroyed the majority of the dragons in an aerial battle.<ref group=T>{{harvnb|Tolkien|1977}}, \"Of the Voyage of Eärendil\"</ref>\n\n=== Second Age ===\n\nOn the island of [[Númenor]] in the [[Second Age]], three Eagles guarded the summit of the holy mountain Meneltarma, appearing whenever anyone approached it, and staying in the sky during the Númenórean \"Three Prayers\" religious ceremony. The Númenóreans called them \"the Witnesses of Manwë\", believing he had sent them from Aman \"to keep watch upon the Holy Mountain and upon all the land\".<ref group=T name=\"UT-DN\">{{harvnb|Tolkien|1980}}, \"A Description of Númenor\"</ref> Another eyrie upon the tower of the King's House in the capital Armenelos was always inhabited by a pair of eagles, until the days of Tar-Ancalimon and the coming of Shadow to Númenor.<ref group=T name=\"UT-DN\"/> Many eagles lived upon the hills around Sorontil in the north of the island.<ref group=T name=\"UT-DN\"/> When the Númenóreans began to speak openly against the [[Ban of the Valar]], Manwë appeared as eagle-shaped storm clouds, called the \"Eagles of the Lords of the West\", to try to reason with or threaten them.<ref group=T>{{harvnb|Tolkien|1977}}, \"[[Akallabêth]]\"</ref>\n\n===Third Age===\n\nBy the end of the [[Third Age]], a colony of Eagles lived in the north of the [[Misty Mountains]], as described in ''The Hobbit''. These Eagles opposed the goblins; however, their relationship with the local [[Woodmen of Mirkwood|Woodmen]] was only cool, as the eagles often hunted their sheep.<ref group=T name=\"H-FPF\"/> They rescued [[List of The Hobbit characters#Thorin's company|Thorin's company]] from a band of goblins and [[Warg (Middle-earth)|Warg]]s,<ref group=T name=\"H-FPF\"/> ultimately carrying the dwarves to the Carrock.<ref group=T name=\"H-QL\">{{harvnb|Tolkien|1937}}, \"Queer Lodgings\"</ref> Later, having seen the mustering of goblins in the Mountains, a great flock of Eagles participated in the Battle of the Five Armies.<ref group=T>{{harvnb|Tolkien|1937}}, \"The Return Journey\"</ref>\n\nIn ''The Lord of the Rings'', the Eagles of the Misty Mountains helped the Elves of Rivendell and the [[Wizard (Middle-earth)|Wizard]] [[Radagast (Middle-earth)|Radagast]] to gather news of the Orcs.<ref group=T name=\"FR-CE\"/><ref group=T>{{harvnb|Tolkien|1954a}}, \"The Ring Goes South\"; \"A Journey in the Dark\"</ref> Gwaihir the Windlord carries news to [[Isengard]], rescues the wizard [[Gandalf]] from the top of the tower there, and again rescues Gandalf from the top of Celebdil after searching for him at [[Galadriel]]'s request.<ref group=T name=\"TT-WR\">{{harvnb|Tolkien|1954}},  \"The White Rider\"</ref> Gwaihir and his Eagles appear in great numbers towards the end of the book. The Eagles similarly arrive at the [[Battle of the Morannon]], helping the Host of the West against the [[Nazgûl]], while Gwaihir, Landroval, and Meneldor rescue [[Frodo Baggins]] and [[Samwise Gamgee]] from [[Mount Doom]] after the [[One Ring]] had been destroyed.<ref group=T name=\"RK-FC\">{{harvnb|Tolkien|1955}} \"The Field of Cormallen\"</ref>\n\n== Analysis ==\n\n=== Origins ===\n\n[[File:The birds of the British Isles and their eggs (8263817975) cropped.jpg|thumb|Tolkien based his painting of an eagle in ''The Hobbit'' on this 1919 illustration of an immature [[golden eagle]] by [[Archibald Thorburn]].<ref group=T name=\"Picture\"/>]]\n\nTolkien's painting of an eagle on a crag appears in some editions of ''The Hobbit''. According to [[Christopher Tolkien]], the author based this picture on a painting by the Scottish [[ornithological]] artist [[Archibald Thorburn]]<ref group=T name=\"Picture\">{{harvnb|Tolkien|1979}} plate 9</ref> of an immature [[golden eagle]], which Christopher found for him in [[Thomas Coward]]'s 1919 book ''The Birds of the British Isles and Their Eggs''.<ref group=T>{{harvnb|Tolkien|1937}}, Foreword to the 50th-anniversary edition</ref>\n\nThe Great Eagles appeared in \"The Fall of Gondolin\"<!--not the book of that name-->, the first tale about Middle-earth that Tolkien wrote in the late 1910s.<ref group=T>{{harvnb|Tolkien|1984b}} \"The Fall of Gondolin\"</ref> In Tolkien's early writings, the eagles were distinguished from other birds:<ref group=T>{{harvnb|Tolkien|1986}}, \"Ambarkanta\"</ref> common birds could keep aloft only within the lower layer of the space above the Earth,<ref group=T>{{harvnb|Tolkien|1987}}, \"The Fall of Númenor\", (i)</ref> while the Eagles of Manwë could fly \"beyond the lights of heaven to the edge of darkness\".<ref group=T name=\"Ainulindale-LR\">{{harvnb|Tolkien|1987}}, \"Ainulindalë\"</ref> The eagle-shaped clouds that appeared in Númenor formed one of Tolkien's recurring images of the [[Akallabêth|downfall]] of the island;<ref group=T>{{harvnb|Tolkien|1992}}, \"The Notion Club Papers\"</ref> they appear, too, in his [[J. R. R. Tolkien's explorations of time travel|abandoned time-travel stories]], ''[[The Lost Road]]'' and ''[[The Notion Club Papers]]''.<ref group=T>{{harvnb|Tolkien|1987}}, \"The Lost Road\", (ii)</ref>\n\n===Sentient beings===\n{{main|Tolkien's sentience dilemma}}\n\nTolkien faced the question of the Great Eagles' nature with apparent hesitation. In early writings there was no need to define it precisely, since he imagined that, beside the Valar, \"many lesser spirits... both great and small\" had entered the [[Eä]] upon its creation;<ref group=T>{{harvnb|Tolkien|1987}}, \"Quenta Silmarillion\", §2</ref> and such sapient creatures as the Eagles or [[Huan (Middle-earth)|Huan]] the Hound, in Tolkien's own words, \"have been rather lightly adopted from less 'serious' mythologies\".<ref group=T name=\"MR409-11\">{{harvnb|Tolkien|1993}}, \"Myths Transformed\", VIII</ref>  The phrase \"spirits in the shape of hawks and eagles\" in ''The Silmarillion'' derives from that stage of writing.<ref group=T name=\"Ainulindale-LR\"/> After completing ''The Lord of the Rings'', Tolkien moved toward a more carefully defined \"system\" of creatures. At the top were incarnates or Children of Ilúvatar: Elves and Men, those who possessed ''[[Cosmology of Tolkien's legendarium#Fëa and hröa|fëar]]'' or souls, with the defining characteristic of being able to speak;<ref group=T name=\"QE\">{{harvnb|Tolkien|1994}}, \"Quendi and Eldar\"</ref> next were self-incarnates, the [[Vala (Middle-earth)|Valar]] and [[Maia (Middle-earth)|Maiar]], \"angelic\" spirits that \"arrayed\" themselves in bodily forms of the incarnates or of animals,<ref group=T name=\"Ainulindale-LR\"/><ref group=T>{{harvnb|Tolkien|1993}}, \"Myths Transformed\", (VIII)</ref> and were able to communicate both by thought and speech;<ref group=T name=\"QE\"/> and finally animals, mere beasts, unable to speak. For some time Tolkien considered the Eagles as bird-shaped Maiar;<ref group=T name=\"MR138\"/> however, he realised that the statement about Gwaihir and Landroval's descent from Thorondor had already appeared in print in ''The Lord of the Rings'',<ref group=T name=\"MR409-11\"/> while he had long before rejected the notion of their being \"Children\" of the Valar and Maiar.<ref group=T>{{harvnb|Tolkien|1993}}, \"The Annals of Aman\"; \"The Later ''Quenta Silmarillion''\", ch. 1</ref> In the last of his notes on this topic, dated by his son Christopher to the late 1950s, Tolkien decided that the Great Eagles were animals that had been \"taught language by the Valar, and raised to a higher level—but they still had no ''fëar'' [souls].\"<ref group=T name=\"MR409-11\"/>\n\nThe Tolkien scholars [[Paul H. Kocher|Paul Kocher]] and [[Tom Shippey]] note that in ''The Hobbit'', the narrator provides a firm moral framework, with good elves, evil goblins, and the other peoples like dwarves and eagles somewhere in between. Shippey remarks that the eagles are in the narrator's \"euphemistic\" words, \"not kindly birds\".<ref group=T name=\"H-FPF\">{{harvnb|Tolkien|1937}}, \"Out of the Frying-Pan and into the Fire\"</ref>{{sfn|Kocher|1974|p=12}}{{sfn|Shippey|2005|pp=84, 91}} [[Marjorie Burns]] comments that the \"threat of being eaten [by the Eagle] is so dominant\" that the Hobbit Bilbo, who the Eagle described as being [[Hobbit (word)#Rabbit|rather like a rabbit]], is afraid of being torn up and eaten; he is relieved that he is not to become their supper, \"but rabbit is precisely what the eagles do bring them for supper\".{{sfn|Burns|2005|p=161}}\n\n===Norse mythology===\n\n{{further|Tolkien and the Norse}}\n\n[[File:Bracteate from Funen, Denmark (DR BR42).jpg|thumb|The Norse god [[Odin]], like [[Gandalf]], was associated with eagles.{{sfn|Burns|2005|pp=20, 71–72, 95–101}} A bird with a hooked beak beside Odin (named as ''houaz'', \"the high\") on a [[bracteate]] from [[Funen]], Denmark]]\n\nIn [[Norse mythology]], eagles were associated with the god [[Odin]]; for example, he escapes from [[Jotunheim]] back to [[Asgard]] as an eagle. Burns remarks the similarity with Gandalf, who repeatedly escapes by riding on an eagle. She comments that Tolkien's Eagles, like his Dwarves, Dragons, and Trolls, all signal Norse influence on his stories.{{sfn|Burns|2005|pp=20, 71–72, 95–101}}\n\n===''Deus ex machina''===\n\nBurns notes that Tolkien uses the Eagles three times to save his protagonists: to rescue Bilbo and company in ''The Hobbit''; to lift Gandalf from imprisonment by Saruman in the tower of [[Orthanc (Middle-earth)|Orthanc]]; and finally, to save Frodo and Sam from [[Mount Doom]] when they have destroyed the [[One Ring]].{{sfn|Burns|2005|p=72}} The Tolkien scholar [[Jane Chance]] describes these interventions as a ''[[deus ex machina]]'', a sudden and unexpected mechanism to bring about a [[eucatastrophe]].{{sfn|Chance|1980|p=124}} The screenwriter Brad Johnson, writing in ''Script'', argues that this last ''deus ex machina'' instance is a complete surprise to the audience, and undesirable as the sudden appearance of the Eagles \"takes the audience out of the scene emotionally\".<ref name=\"Johnson 2015\">{{cite web |last=Johnson |first=Brad |title=Pecs & the City: Deus Ex Machina and 'Lord of the Rings' |url=https://scriptmag.com/features/specs-city-deus-ex-machina-lord-rings |website=Script |access-date=11 March 2020 |date=29 July 2015}}</ref> Tolkien was aware of this problem, recognising the risky nature of the mechanism; in one of his [[The Letters of J. R. R. Tolkien|letters]], he wrote:<ref group=T name=\"Letter 210\"/>\n\n{{blockquote|The Eagles are a dangerous 'machine'. I have used them sparingly, and that is the absolute limit of their credibility or usefulness. The alighting of a Great Eagle of the Misty Mountains in the [[Shire (Middle-earth)|Shire]] is absurd; it also makes the later capture of G[andalf] by [[Saruman]] incredible, and spoils the account of his escape\".<ref group=T name=\"Letter 210\">{{harvnb|Carpenter|2023|loc=#210 to F. Ackerman, June 1958 }}</ref>}}\n\n=== Biblical messenger ===\n\n{{further|Christianity in Middle-earth}}\n\n[[File:GRM Inv. J-3182.jpg|thumb|upright=0.8|Scholars have linked the Eagles [[Christianity in Middle-earth|to Christianity]], as an Eagle is [[John the Evangelist]]'s traditional symbol.<ref name=\"Risden 2011\"/> [[Icon]] of St John with eagle, [[Kazan Cathedral, St. Petersburg]] ]]\n\nShippey notes that throughout ''The Lord of the Rings'' Tolkien carefully avoided direct reference to Christianity, so as not to make the story an [[allegory]]. He comments however that in one place \"Revelation seems very close and allegory does all but break through\", namely the eucatastrophic moment when the Eagle-messenger sings to [[Faramir]] about Frodo and Sam's destruction of the One Ring:{{sfn|Shippey|2005|pp=226–228}}\n\n{{blockquote|<poem>Sing now, ye people in the Tower of Anor\nfor the realm of Sauron is ended for ever,\n   and the Dark Tower is thrown down.\n\nSing and rejoice, ye people of the Tower of Guard,\nfor your watch hath not been in vain,\nand the Black Gate is broken, \nand your King hath passed through,\n   and he is victorious.{{sfn|Shippey|2005|pp=226–228}} </poem>}}\n\nShippey writes that this is certainly Biblical, indeed that it is specifically in the style of [[Psalm 24]] in the [[King James Version]] of the Bible, with its phrases \"Lift up your heads, O ye gates, and be ye lift up, ye everlasting doors, for the King of glory shall come in\".{{sfn|Shippey|2005|pp=226–228}} E. L. Risden, making a different connection with Christianity, describes the Eagles' rescue of Frodo and Sam as a \"ritual rebirth\", and the rescuing bird as \"a symbol of the spirit\", [[John the Evangelist]]'s traditional symbol.<ref name=\"Risden 2011\">{{cite book |last=Risden |first=E. L. |chapter=Tolkien's Resistance to Linearity |editor1-last=Bogstad |editor1-first=Janice M. |editor2-last=Kaveny |editor2-first=Philip E. |title=[[Picturing Tolkien]] |chapter-url=https://books.google.com/books?id=jNjKrXRP0G8C&pg=PA219 |year=2011 |publisher=[[McFarland & Company|McFarland]] |isbn=978-0-7864-8473-7 |page=81}}</ref>\n\n== Adaptations ==\n\nDifferent adaptations of Tolkien's books treated both the nature of the Eagles and their role in the plots with varying level of faithfulness to originals. The first scenario for an animated motion-picture of ''The Lord of the Rings'' proposed to Tolkien in 1957 was turned down because of several cardinal deviations, among which Tolkien's biographer [[Humphrey Carpenter]] recorded that \"virtually all walking was dispensed with in the story and the [[Company of the Ring]] were transported everywhere on the backs of eagles\".{{sfn|Carpenter|1977|p=229 \"Cash or Kudos\"}}\n\nAccording to the fantasy artist [[Larry Dixon (fantasy artist)|Larry Dixon]], the digitally animated eagles in [[Peter Jackson]]'s [[The Lord of the Rings (film series)|''The Lord of the Rings'' film trilogy]] were based on a stuffed [[golden eagle]] he had provided to [[Weta Workshop]].<ref>{{cite web |last=Dixon |first=Larry |author-link=Larry Dixon (fantasy artist) |url=http://gryphonking.aelfhame.net/iview.php3?folder=art/theman&name=0410largwai |title=Larry with Gwaihir |publisher=[[Larry Dixon (fantasy artist)|Larry Dixon]]|access-date=26 July 2010 |archive-date=26 July 2009 |archive-url=https://web.archive.org/web/20090726104712/http://gryphonking.aelfhame.net/iview.php3?folder=art/theman&name=0410largwai |url-status=live}}</ref> Two large sculptures of the eagles from the trilogy were installed in [[Wellington Airport]] in 2013, each having a wingspan of {{convert|50|ft|m}} and weighing {{convert|2600|lb|kg}}. They were removed in 2025.<ref>{{Cite web |date=2025-05-05 |title=A giant sculpture of Gandalf riding an eagle departs Wellington airport for good |url=https://apnews.com/article/zealand-wellington-airport-eagles-gandalf-f5567f30c1ba13e71d84dcc1180c1832 |access-date=2025-07-23 |website=AP News |language=en}}</ref>\n\nIn the 2011 video game ''[[The Lord of the Rings: War in the North]]'', an eagle named Beleram acts as a supporting character, aiding the players in battle.<ref name=\"Goldstein 2011\">{{cite web |last1=Goldstein |first1=Hilary |title=E3 2011: Lord of the Rings: War in the North -- The Giant Eagle has Landed ...On your enemy's face |url=https://www.ign.com/articles/2011/05/31/e3-2011-lord-of-the-rings-war-in-the-north-the-giant-eagle-has-landed |publisher=IGN |access-date=29 November 2022 |date=31 May 2011 |quote=War in the North is actually about a group of four characters. The fourth being the giant eagle, Beleram.}}</ref>\n\n== References ==\n\n=== Primary ===\n\n{{reflist|group=T|28em}}\n\n=== Secondary ===\n{{reflist|28em}}\n\n=== Sources ===\n\n* {{cite book |last=Burns |first=Marjorie |author-link=Marjorie Burns |title=Perilous Realms: Celtic and Norse in Tolkien's Middle-earth |title-link=Perilous Realms |year=2005 |publisher=[[University of Toronto Press]] |location=Toronto, Ontario, Canada |isbn=0-8020-3806-9 }}\n* {{ME-ref|Biography}} <!--Carpenter 1977-->\n* {{ME-ref|Letters}}   <!--Carpenter 1981-->\n* {{cite book |last=Chance |first=Jane |author-link=Jane Chance |title=[[Tolkien's Art: 'A Mythology for England']] |publisher=[[Macmillan Publishers|Macmillan]] |year=1980 |orig-date=1979 |isbn=978-0-333-29034-7}}\n* {{cite book |last=Kocher |first=Paul |author-link=Paul H. Kocher |title=Master of Middle-earth: The Achievement of J.R.R. Tolkien |title-link=Master of Middle-earth |date=1974 |orig-year=1972 |publisher=Penguin Books |isbn=0140038779 }}\n* {{ME-ref|ROAD}}      <!--Shippey 2005-->\n* {{ME-ref|TH}}\n* {{ME-ref|FOTR}}\n* {{ME-ref|TT}}\n* {{ME-ref|ROTK}}\n* {{ME-ref|Silm}}\n* {{ME-ref|Pictures}}\n* {{ME-ref|UT}}\n* {{ME-ref|BoLT2}}\n* {{ME-ref|LROW}}\n* {{ME-ref|Shaping}}\n* {{ME-ref|SD}}\n* {{ME-ref|MR}}\n* {{ME-ref|WotJ}}\n\n{{The Lord of the Rings}}\n{{Middle-earth}}\n\n{{DEFAULTSORT:Eagle (Middle-Earth)}}\n[[Category:Middle-earth races]]\n[[Category:Middle-earth animals]]\n[[Category:Fictional eagles]]\n[[Category:Fictional talking animals]]",
+  "redirect_chain": [
+    {
+      "source_title": "Lord of the Eagles",
+      "target_title": "Eagles in Middle-earth"
+    }
+  ],
+  "revision_id": 1327238890,
+  "revision_timestamp": "2025-12-13T11:39:09Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Context"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Context"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "First Age"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "Second Age"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "Third Age"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "Third Age"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Origins"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Origins"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Sentient beings"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Sentient beings"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Sentient beings"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Norse mythology"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Norse mythology"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Norse mythology"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Deus ex machina"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Deus ex machina"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Biblical messenger"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Biblical messenger"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Biblical messenger"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: block quotation",
+      "structure_type": "block quotation"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Biblical messenger"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Biblical messenger"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

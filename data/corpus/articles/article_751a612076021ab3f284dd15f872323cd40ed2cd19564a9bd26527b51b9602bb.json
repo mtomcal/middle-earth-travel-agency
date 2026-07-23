@@ -1,0 +1,481 @@
+{
+  "article_artifact_id": "article_751a612076021ab3f284dd15f872323cd40ed2cd19564a9bd26527b51b9602bb",
+  "canonical_title": "Geography of Middle-earth",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_751a612076021ab3f284dd15f872323cd40ed2cd19564a9bd26527b51b9602bb",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "In The Lord of the Rings, Middle-earth at the end of the Third Age is described as having free peoples, namely Men, Hobbits, Elves, and Dwarves in the West, opposed to peoples under the control of the Dark Lord Sauron in the East. Some commentators have seen this as implying a moral geography of Middle-earth. Tolkien scholars have traced many features of Middle-earth to literary sources such as Beowulf, the Poetic Edda, or the mythical Myrkviðr. They have in addition suggested real-world places such as Venice, Rome, and Constantinople/Byzantium as analogues of places in Middle-earth. The cartographer Karen Wynn Fonstad has created detailed thematic maps for Tolkien's major Middle-earth books, The Hobbit, The Lord of the Rings, and The Silmarillion.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_90b87cb18472aca739c36d6a4ae1832fe57bf1201ad68a32fc4b8fe439e5bb7a",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_751a612076021ab3f284dd15f872323cd40ed2cd19564a9bd26527b51b9602bb",
+      "heading_path": [
+        "Thematic mapping"
+      ],
+      "normalized_text": "thumb|upright=1.4|Fonstad created \"the most comprehensive set\" of thematic maps of Middle-earth, such as Frodo and Sam's route to Mount Doom to destroy the One Ring.|alt=Example of detailed map by Karen Wynn Fonstad",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_b7be73d2e5c79a5dfdc2781cb4a707914c3d86679b739674b2313dd12d394544",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_751a612076021ab3f284dd15f872323cd40ed2cd19564a9bd26527b51b9602bb",
+      "heading_path": [
+        "Analysis",
+        "Moral geography"
+      ],
+      "normalized_text": "rect 100 100 200 250 The Shire rect 500 50 850 150 Tolkien and race rect 150 350 450 550 Gondor rect 650 350 850 550 Mordor rect 550 550 750 650 Harad",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_03c736c607d33c968abdfa06a91ce578655938fe1842531ba8738fb2d836823c",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_751a612076021ab3f284dd15f872323cd40ed2cd19564a9bd26527b51b9602bb",
+      "heading_path": [
+        "Analysis",
+        "Moral geography"
+      ],
+      "normalized_text": "rect 10 10 900 675 commons:File:Tolkien's Moral Geography of Middle-Earth.svg }}",
+      "paragraph_ordinal": 5,
+      "passage_id": "passage_72010da2161ea35929ed58fd329b7c6c53dcb64f2045d4f8710a7d58a99cf558",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_751a612076021ab3f284dd15f872323cd40ed2cd19564a9bd26527b51b9602bb",
+      "heading_path": [
+        "Analysis",
+        "Origins"
+      ],
+      "normalized_text": "thumb|upright|Tolkien borrowed the Arthurian place-name Brocéliande for an early version of Beleriand. 1868 illustration by Gustave Doré|alt=Illustration of legendary medieval forest",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_3daa40b4ca127b5465326dbdf88253c19ed649311a7377a6f80d049803230cb1",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_751a612076021ab3f284dd15f872323cd40ed2cd19564a9bd26527b51b9602bb",
+      "heading_path": [
+        "Analysis",
+        "Origins"
+      ],
+      "normalized_text": "About the origins of his storytelling and the place of cartography within it, Tolkien stated in a letter:",
+      "paragraph_ordinal": 6,
+      "passage_id": "passage_72500351e664b4364dfeea1f80d1ed56a23dbc27d46a6da7bc76e457a8932200",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Geography_of_Middle-earth&action=history",
+  "namespace": 0,
+  "page_id": 46503631,
+  "parent_revision_id": 1354472702,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1354473138",
+  "raw_wikitext": "{{Short description|Geography of a fictional continent}}\n{{good article}}\n{{Use British English|date=February 2023}}\n{{Use dmy dates|date=February 2023}}\nThe '''geography of Middle-earth''' encompasses the physical, political, and moral [[geography]] of [[J. R. R. Tolkien]]'s fictional continent [[Middle-earth]] on the planet [[Arda (Middle-earth)|Arda]], but widely taken to mean all of creation (''[[Eä]]'') as well as all of his writings about it.<ref name=\"Garbowski 2013\">{{cite encyclopedia |last=Garbowski |first=Christopher |editor-last=Drout |editor-first=Michael D. C. |editor-link=Michael D. C. Drout |title=Middle-earth |encyclopedia=[[The J. R. R. Tolkien Encyclopedia]] |year=2013 |orig-year=2007 |publisher=[[Routledge]] |isbn=978-0-415-86511-1 |pages=422–427}}</ref> Arda was created as a flat world, incorporating a Western continent, [[Aman (J. R. R. Tolkien)|Aman]], which became the home of the godlike [[Valar]], as well as Middle-earth. At the end of the [[First Age]], the Western part of Middle-earth, [[Beleriand]], was drowned in the War of Wrath. In the [[Second Age]], a large island, [[Númenor]], was created in the Great Sea, [[Belegaer]], between Aman and Middle-earth; it was destroyed in a cataclysm near the end of the Second Age, in which Arda was remade as a spherical world, and Aman was removed so that Men could not reach it.\n\nIn ''[[The Lord of the Rings]]'', Middle-earth at the end of the [[Third Age]] is described as having free peoples, namely [[Men (Middle-earth)|Men]], [[Hobbit]]s, [[Elf (Middle-earth)|Elves]], and [[Dwarf (Middle-earth)|Dwarves]] in the West, opposed to peoples under the control of the Dark Lord [[Sauron]] in the East. Some commentators have seen this as [[Tolkien and race|implying a moral geography]] of Middle-earth. Tolkien scholars have traced many features of Middle-earth to literary sources such as ''[[Beowulf]]'', the ''[[Poetic Edda]]'', or the mythical ''[[Myrkviðr]]''. They have in addition suggested real-world places such as [[Venice]], [[Rome]], and [[Constantinople]]/[[Byzantium]] as analogues of places in Middle-earth. The [[Cartography|cartographer]] [[Karen Wynn Fonstad]] has created detailed thematic maps for Tolkien's major Middle-earth books, ''[[The Hobbit]]'', ''The Lord of the Rings'', and ''[[The Silmarillion]]''.\n\n== Cosmology ==\n\n{{main|Cosmology of Tolkien's legendarium}}\n\n[[File:Downfall of Númenor.svg|thumb|center|upright=2.5|The Downfall of [[Númenor]] and the Changing of the World. In the [[First Age]], the Elves lived in [[Beleriand]]. In the First and [[Second Age]]s, [[Valinor]] was across the sea, Belegaer, from Middle-earth, with Númenor in between for most of the Second Age. At the end of the Second Age, Númenor was destroyed and Valinor removed from [[Arda (Middle-earth)|Arda]].{{sfn|Shippey|2005|pp=324–328 \"The Lost Straight Road\"}} The outlines of the continents are purely schematic.|alt=Infographic of the change of cosmology from flat-world to round-world]]\n\nTolkien's Middle-earth was part of his created world of [[Arda (Tolkien)|Arda]]. It was a flat world surrounded by ocean. It included the [[Aman (Tolkien)|Undying Lands of Aman]] and [[Eressëa]], which were all part of the wider creation, [[Eä]]. Aman and Middle-earth were separated from each other by the Great Sea [[Belegaer]], analogous to the [[Atlantic Ocean]]. The western continent, Aman, was the home of the [[Vala (Middle-earth)|Valar]], and the Elves called the [[Eldalië|Eldar]].<ref group=T>{{harvnb|Carpenter|2023|loc=31 }}</ref><ref name=\"Garbowski 2013\"/> Initially, the western part of Middle-earth was the subcontinent [[Beleriand]]; it was engulfed by the ocean at the end of the [[First Age]].<ref name=\"Garbowski 2013\"/> [[Maiar|Ossë]], on behalf of the Valar, then raised the island continent of [[Númenor]] as a gift to the now homeless [[Men in Middle-earth|Men]] of Beleriand, thenceforth called [[Númenóreans]].\n\nAfter [[Eru Ilúvatar]] destroyed Númenor near the end of the Second Age, he remade Arda as a round world, and the Undying Lands were removed from Arda so that Men could not reach them. The [[Elf (Middle-earth)|Elves]] could go there only by the [[Straight Road]] and in ships capable of passing out of the sphere of the earth. Tolkien then equated Arda, consisting of both Middle-earth's planet and the heavenly Aman, with the [[Solar System]], the Sun and Moon being celestial objects in their own right, no longer orbiting the Earth.<ref name=\"Garbowski 2013\"/><ref>{{cite journal |last=Larsen |first=Kristine |title=A Little Earth of His Own: Tolkien's Lunar Creation Myths |journal=In the Ring Goes Ever on: Proceedings of the Tolkien 2005 Conference |volume=2 |editor=Sarah Wells |publisher=[[The Tolkien Society]] |pages=394–403 |year=2008}}</ref>\n\n== Physical geography ==\n\n{{anchor|Beleriand|Lindon|Ered Luin}}\n{{further|Tolkien's maps|The Atlas of Middle-earth}}\n\n{{Sketch Map of Middle-earth|upright=3|caption=Map with clickable links of the north-west of [[Middle-earth]] at the end of the [[Third Age]], showing Eriador (left) and [[Rhovanion]] (right). At extreme left are Lindon and the Blue Mountains, all that remains of [[Beleriand]] after the [[War of Wrath]].}}\n\n=== Beleriand, Lindon ===\n\n{{main|Beleriand}}\n\nThe extreme west of Middle-earth in the First Age was [[Beleriand]]. It and Eriador were separated from much of the south of Middle-earth by the Great Gulf. Beleriand was largely destroyed in the cataclysm of the [[War of Wrath]], leaving only a remnant coastal plain, Lindon, just to the west of the Ered Luin (also called Ered Lindon or Blue Mountains). The cataclysm divided Ered Luin and Lindon by the newly created Gulf of Lune; the northern part was Forlindon, the southern Harlindon.{{sfn|Fonstad|1991|pp=9–15}}\n\n=== Eriador ===\n\n{{anchor|Weathertop|Amon Sûl|Hollin|Eregion|Evendim|Minhiriath}}\n\nIn the northwest of Middle-earth, Eriador was the region between the Ered Luin and the Misty Mountains. Early in the Third Age, the northern kingdom of Arnor founded by [[Elendil]] occupied a large part of the region. After its collapse, much of Eriador became wild; regions such as Minhiriath, on the coast south of the River Baranduin (Brandywine), were abandoned. A small part of the region was occupied by [[Hobbit]]s to form [[the Shire]]. To the northwest lay Lake Evendim, once called Nenuial by the Elves. A remnant of the ancient forest of Eriador survived throughout the Third Age just to the east of the Shire as the [[Old Forest]], the domain of [[Tom Bombadil]].<ref name=\"Old Forest\" group=T>{{harvnb|Tolkien|1954a|loc=book 1, ch. 6 \"The Old Forest\"}}</ref> Northeast of there is [[Bree (Middle-earth)|Bree]], the only place where hobbits and Men live in the same villages. Further east from Bree is the hill of Weathertop with the ancient fortress of Amon Sûl, and then [[Rivendell]], the home of [[Elrond]]. South from there is the ancient land of Hollin, once the elvish land of Eregion, where the [[Rings of Power]] were forged. \nAt the Grey Havens (Mithlond), on the Gulf of Lune, [[Cirdan|Círdan]] built the ships in which the Elves departed from Middle-earth to Valinor.<ref group=T>{{harvnb|Tolkien|1955|loc=book 6, ch. 9 \"The Grey Havens\", and Appendix B}}</ref>{{sfn|Fonstad|1991|pp=72–75}}\n\n=== Misty Mountains ===\n\nThe Misty Mountains were thrown up by the Dark Lord [[Melkor]] in the [[First Age]] to impede [[Oromë]], one of the Valar, who often rode across Middle-earth hunting.<ref group=T>{{harvnb|Tolkien|1977|loc=ch. 3 \"Of the Coming of the Elves and the Captivity of Melkor\"}}</ref> The [[Dwarf (Middle-earth)|Dwarf]]-realm of [[Moria (Middle-earth)|Moria]] was built in the First Age beneath the midpoint of the mountain range. The two major passes across the mountains were the High Pass or Pass of Imladris near [[Rivendell]], with a higher and a lower route,<ref group=T>{{harvnb|Tolkien|1980|pp=271, 281}}</ref><ref group=T>{{harvnb|Tolkien|1937|p=105}}</ref> and the all-year Redhorn Pass further south near Moria.{{sfn|Fonstad|1991|pp=79–82}}\n\n=== Rhovanion ===\n\nEast of the Misty Mountains, Anduin, the Great River, flows southwards, with the forest of [[Mirkwood]] to its east. On its west bank opposite the southern end of Mirkwood is the Elvish land of [[Lothlorien]]. Further south, backing on to the Misty Mountains, lies the forest of [[Fangorn]], home of the tree-giants, the [[ent]]s. In a valley at the southern end of the Misty Mountains is [[Isengard]], home to the [[wizard (Middle-earth)|wizard]] [[Saruman]].{{sfn|Fonstad|1991|p=53}}\n\n=== Lands to the South ===\n\n{{anchor|Argonath|Emyn Muil|Sarn Gebir|Falls of Rauros|Rauros}}\n\nJust to the South of both Fangorn and Isengard is the wide grassy land of the [[Riders of Rohan]], who provide [[cavalry]] to its southerly neighbour, [[Gondor]]. The River Anduin passes the hills of Emyn Muil and the enormous rock statues of the Argonath and flows through the dangerous rapids of Sarn Gebir and over the Falls of Rauros into Gondor. Gondor's border with Rohan is the Ered Nimrais, the White Mountains, which run east–west from the sea to a point near the Anduin; at that point is Gondor's capital city, [[Minas Tirith]].{{sfn|Fonstad|1991|pp=83–89}}\n\nAcross the river to the East is the land of [[Mordor]]. It is bordered to the north by the Ered Lithui, the Ash Mountains; to the west by the Ephel Duath, the Mountains of Shadow. Between those two ranges, at Mordor's northwest tip, are the Black Gates of the [[Morannon]]. In the angle between the two ranges is the volcanic Plateau of Gorgoroth, with the tall volcano of Orodruin or [[Mount Doom]], where the Dark Lord [[Sauron]] forged the [[One Ring]]. To the mountain's east is Sauron's Dark Tower, [[Barad-dûr]].{{sfn|Fonstad|1991|pp=90–93}}\n\n{{anchor|Khand}}\nTo the south of Gondor and Mordor lie [[Harad]] and Khand.{{sfn|Fonstad|1991|p=53}}\n\n=== Lands to the East ===\n\nTo the east of Rhovanion and to the north of Mordor lies the Sea of Rhûn, home to the [[Easterling (Middle-earth)|Easterlings]]. North of that lie the Iron Hills of [[Dáin II Ironfoot|Dain]]'s [[Dwarves (Middle-earth)|dwarves]]; between those and Mirkwood is [[Lonely Mountain|Erebor, the Lonely Mountain]], once home to [[Smaug]] the [[Dragon (Middle-earth)|dragon]], and afterwards to [[Thorin Oakenshield|Thorin]]'s dwarves.{{sfn|Fonstad|1991|pp=76–77}} The large lands to the east of Rhûn and to the south and east of Harad are not described in the stories, which take place in the north-western part of Middle-earth.<ref name=\"Magoun South 2013\">{{cite encyclopedia |last=Magoun |first=John F. G. |editor-last=Drout |editor-first=Michael D.C. |editor-link=Michael D. C. Drout |title=South, The |encyclopedia=[[The J. R. R. Tolkien Encyclopedia]] |year=2013 |orig-year=2007 |publisher=[[Routledge]] |isbn=978-0-415-86511-1 |pages=622–623}}</ref><ref name=\"Magoun East 2013\">{{cite encyclopedia |last=Magoun |first=John F. G. |editor-last=Drout |editor-first=Michael D.C. |editor-link=Michael D. C. Drout |title=East, The |encyclopedia=[[The J. R. R. Tolkien Encyclopedia]] |year=2013 |orig-year=2007 |publisher=[[Routledge]] |isbn=978-0-415-86511-1 |page=139}}</ref>\n\n== Thematic mapping ==\n\n{{further|The Atlas of Middle-earth}}\n\n[[File:Fonstad_Mount_Doom_detail.jpg|thumb|upright=1.4|Fonstad created \"the most comprehensive set\" of thematic maps of Middle-earth, such as [[Frodo Baggins|Frodo]] and [[Samwise Gamgee|Sam]]'s route to [[Mount Doom]] to destroy the [[One Ring]].<ref name=\"Danielson 2018\"/>|alt=Example of detailed map by Karen Wynn Fonstad]]\n\nThe events of ''The Hobbit'' and ''The Lord of the Rings'' take place in the north-west of the continent of Middle-earth. Both [[quest]]s begin in the Shire, travel east through the wilds of Eriador to [[Rivendell]] and then across the Misty Mountains, involve further travels in the lands of [[Rhovanion]] or Wilderland to the east of those mountains, and return home to the Shire. The cartographer [[Karen Wynn Fonstad]] prepared ''[[The Atlas of Middle-earth]]'' to clarify and map the two journeys – of [[Bilbo Baggins]] in ''The Hobbit'', and of [[Frodo Baggins]] in ''The Lord of the Rings'' – as well as the events described in ''[[The Silmarillion]]''.{{sfn|Fonstad|1991|pp=vii, ix–xi}} The editor of ''Tolkien Studies'', [[David Bratman]], notes that the atlas provides historical, [[Geological map|geological]], and battle maps, with a detailed commentary and explanation of how Fonstad approached the mapping task from the available evidence.<ref>{{cite web |last=Bratman |first=David |author-link=David Bratman |title=Studies in English on the works of J.R.R. Tolkien |url=https://www.tolkienestate.com/en/learning/thoughts-and-studies/studies-tolkien-english.html |url-status=dead |archive-url=https://web.archive.org/web/20200515235036/https://www.tolkienestate.com/en/learning/thoughts-and-studies/studies-tolkien-english.html |archive-date=15 May 2020 |publisher=[[Tolkien Estate]] |access-date=29 October 2021 |date=2007}}</ref> Michael Brisbois, also in ''Tolkien Studies'', describes the atlas as \"authorized\",<ref name=\"Brisbois 2005\">{{cite journal |last=Brisbois |first=Michael J. |title=Tolkien's Imaginary Nature: An Analysis of the Structure of Middle-earth |journal=Tolkien Studies |via=Project Muse |volume=2 |issue=1 |year=2005 |doi=10.1353/tks.2005.0009 |pages=197–216 |s2cid=170238657 }}</ref> while the cartographers Ina Habermann and Nikolaus Kuhn take Fonstad's maps as defining Middle-earth's geography.<ref name=\"Habermann Kuhn 2011\">{{cite journal |last1=Habermann |first1=Ina |last2=Kuhn |first2=Nikolaus |title=Sustainable Fictions – Geographical, Literary and Cultural Intersections in J. R. R. Tolkien's The Lord of the Rings |journal=[[The Cartographic Journal]] |volume=48 |issue=4 |year=2011 |doi=10.1179/1743277411y.0000000024 |pages=263–273 |s2cid=140630128 }}</ref>\n\nStentor Danielson, a Tolkien scholar, notes that Tolkien did not provide the same \"elaborate textual history\" to contextualise his maps [[Tolkien's frame stories|as he did for his writings]]. Danielson suggests that this has assisted the tendency among Tolkien's fans to treat his maps as \"geographical fact\".<ref name=\"Danielson 2018\">{{cite journal |last=Danielson |first=Stentor |date=21 July 2018 |title=Re-reading the Map of Middle-earth: Fan Cartography's Engagement with Tolkien's Legendarium |url=https://scholar.valpo.edu/journaloftolkienresearch/vol6/iss1/4 |journal=[[Journal of Tolkien Research]] |volume=6 |issue=1}}</ref> He calls Fonstad's atlas \"magisterial\",<ref name=\"Danielson 2018\"/> and comments that like Tolkien, Fonstad worked from the assumption that the maps, like the texts, \"are objective facts\" which the cartographer must fully reconcile. He gives as an instance the work that she did to make the journey of Thorin's company in ''The Hobbit'' consistent with the map, something that Tolkien found himself unable to do.<!--p. 7--> Danielson writes that in addition, Fonstad created \"the most comprehensive set\" of thematic maps of Middle-earth, presenting geographic data including political boundaries, climate, population density, and the routes of characters and armies.<ref name=\"Danielson 2018\"/>\n\n== Political geography ==\n\nAt the end of the Third Age, much of the northwest of Middle-earth is wild, with traces here and there of ruined cities and fortresses from earlier civilisations among the mountains, rivers, forests, hills, plains and marshes.{{sfn|Fonstad|1991|pp=74–75}} The major nations that appear in ''The Lord of the Rings'' are Rohan{{sfn|Fonstad|1991|pp=132–133, 136–137}} and Gondor on the side of the Free Peoples,{{sfn|Fonstad|1991|pp=138–139}} and Mordor and its allies Harad (Southrons) and Rhûn (Easterlings) on the side of the Dark Lord.{{sfn|Fonstad|1991|pp=143–147, 151, 154}} Gondor, once extremely powerful, is by that time much reduced in its reach, and has lost control of Ithilien (bordering Mordor) and South Gondor (bordering Harad).{{sfn|Fonstad|1991|pp=141–142}} \nForgotten by most of the rest of the world is the Shire, a small region in the northwest of Middle-earth inhabited by hobbits amidst the abandoned lands of Eriador.{{sfn|Fonstad|1991|pp=69–71}}\n\n== Analysis ==\n\n=== Moral geography ===\n\n{{further|Tolkien and race}}\n\nWith his \"Southrons\" from Harad, Tolkien had—in the view of John Magoun, writing in the ''[[J. R. R. Tolkien Encyclopedia]]''—constructed a \"fully expressed moral geography\",<ref name=\"Magoun South 2013\"/> from the hobbits' home in the Northwest, evil in the East, and \"imperial sophistication and decadence\" in the South. Magoun explains that Gondor is both virtuous, being West, and has problems, being South; Mordor in the Southeast is hellish, while Harad in the extreme South \"regresses into hot savagery\".<ref name=\"Magoun South 2013\"/> Steve Walker similarly speaks of \"Tolkien's moral geography\", naming the North \"barbaric\", South \"the region of decadence\", East \"danger\" but also the \"locale of adventure\", West \"safety\" (and uttermost West \"ultimate safety\"), North-West \"specifically English insularity\" where hobbits of the Shire live \"in provincial satisfaction\".{{sfn|Walker|2009|pp=51–53}} \n\n{{#tag:imagemap|\nFile:Tolkien's Moral Geography of Middle-Earth.svg{{!}}thumb{{!}}upright={{{upright|1.5}}}{{!}}center{{!}}{{{caption|Imagemap with clickable links of Tolkien's moral geography of Middle-earth, according to John Magoun<ref name=\"Magoun South 2013\"/> }}}\n\nrect 100 100  200  250 [[The Shire]] \nrect 500  50  850  150 [[Tolkien and race]] \nrect 150 350  450  550 [[Gondor]]\nrect 650 350  850  550 [[Mordor]]\nrect 550 550  750  650 [[Harad]]\n\nrect  10  10  900 675 [[commons:File:Tolkien's Moral Geography of Middle-Earth.svg]]\n}}\n\n[[Jared Lobdell]] writes of the significance of North and West, and of their opposites. He describes \"the dominant myth\" of ''The Lord of the Rings'' as being \"of the West\", writing that if the West represents Heaven, then the East at least in part stands for Hell \"though the symmetry is incomplete\".{{sfn|Lobdell|2004|pp=72–87}} The asymmetry derives from the fact that the West encompasses both the drowned and vanished Númenor, and the Undying Lands of the Uttermost West, by the Third Age \"beyond the circles of the World\" and unreachable except by the [[Old Straight Road]]. Middle-earth is then in the middle, between this elaborate West and the ordinary East of the planet [[Arda (Middle-earth)|Arda]].{{sfn|Lobdell|2004|pp=72–87}} Tolkien's conception of the West, Lobdell writes, is derived from [[Brasil (mythical island)|Hy Breasail]], the Isles of the Blest [[Celtic influences on Tolkien|in Celtic mythology]]; on the drowned [[Lyonesse]]{{sfn|Lobdell|2004|pp=72–87}} which had, the legend runs, been part of England;<ref name=\"Whitfield\">{{cite book |last1=Whitfield |first1=Henry |title=Scilly and its Legends |date=1852 |publisher=Kessinger Legacy Reprints; originally F.T. Vibert |pages=12–24 }}</ref> and on the Celtic [[Immram]] tales, the voyages to the West in that mythology. Númenor, in the shape of the Isle of Elenna, will be raised up again at the end of the world: it is not part of Middle-earth.{{sfn|Lobdell|2004|pp=72–87}} The North, Lobdell writes, then preserves the memory of the West, just as it preserves [[Evil in Middle-earth|ancient Evil]] in the form of [[Old Man Willow]] and the [[Barrow-wight]]s.{{sfn|Lobdell|2004|pp=87–91}}\n\n{| class=\"wikitable\" style=\"margin: 1em auto; text-align:center;\"\n|+ [[Jared Lobdell]]'s view of the asymmetric West and East in ''The Lord of the Rings''{{sfn|Lobdell|2004|pp=72–87}}\n|-\n! style=\"width: 250px;\" colspan=2 | West \n! style=\"width: 120px;\" | Middle\n! style=\"width: 250px;\" | East\n|-\n| [[Undying Lands]]<br/>(inaccessible) || [[Númenor]]<br/>(drowned; will be raised up) || [[Middle-earth]] || The geographical East of [[Arda (Middle-earth)|Arda]]\n|}\n\nOther scholars such as Walter Scheps and Isabel G. MacCaffrey have noted Middle-earth's \"spatial cum moral dimensions\",<ref name=\"Scheps 1975\">{{cite book |last=Scheps |first=Walter |chapter=The Interlace Structure of 'The Lord of the Rings' |editor-last=Lobdell |editor-first=Jared |editor-link=Jared Lobdell |title=[[A Tolkien Compass]] |date=1975 |publisher=[[Open Court Publishing Company|Open Court]] |isbn=978-0-8754-8303-0 |pages=44–45}}</ref><ref name=\"MacCaffrey 1959\">{{cite book |last1=MacCaffrey |first1=Isabel G. |title=Paradise Lost as Myth |url=https://archive.org/details/paradiselostasmy0000macc |url-access=registration |date=1959 |publisher=[[Harvard University Press]] |oclc=1041902253 |page=[https://archive.org/details/paradiselostasmy0000macc/page/55 55]}}</ref> though not identically with Magoun's interpretation. In their view, North and West are generally good, South and East evil. That places the Shire and the elves' [[Grey Havens]] in the Northwest as certainly good, and Mordor in the Southeast as certainly evil; Gondor in the Southwest is in their view morally ambivalent, matching the characters of both [[Boromir]] and [[Denethor]]. They observe further that the Shire's four quadrants or \"Farthings\" serve as a \"microcosm\" of the moral geography of Middle-earth as a whole: thus, the evil [[Nazgûl|Black Riders]] appear first in the Eastfarthing, while the once good but corrupted [[Saruman]]'s men arrive in the Southfarthing.<ref name=\"Scheps 1975\"/> J. K. Newman compares the adventurous quest to Mordor to \"the perpetual temptation felt in the West 'to hold the gorgeous East in fee'\" (citing [[William Wordsworth|Wordsworth]] on [[Venice]]), in a tradition which he traces back to [[Herodotus]] and to the myth of the [[Golden Fleece]].<ref>{{cite journal |last=Newman |first=J. K. |title=J.R.R. Tolkien's 'The Lord of the Rings': A Classical Perspective |journal=Illinois Classical Studies |volume=30 |year=2005 |pages=229–247 |jstor=23065305}}</ref>\n\n=== Origins ===\n\n{{further|Tolkien's influences}}\n\n[[File:Middle-earth's Geographic Influences.svg|thumb|center|upright=3|Classical, medieval, and recent [[Tolkien's influences|influences on the geography of Middle-earth]]. All locations are approximate.<ref name=\"Garth 2020\">Main source is {{cite book |last=Garth |first=John |author-link=John Garth (author) |title=The Worlds of J. R. R. Tolkien: The Places that Inspired Middle-earth |title-link=The Worlds of J. R. R. Tolkien |date=2020 |publisher=[[Frances Lincoln Publishers]] & [[Princeton University Press]] |isbn=978-0-7112-4127-5 |pages=12–13<!--The Shire-->, 39<!--Harad-->, 41, 151<!--Gondor-->, 32<!--Dwarves-->, 30<!--Trolls-->, 37<!--Numenor-->, 55<!--Elves-->, 88<!--Misty Mts-->, 159–168, 175, 182<!--Mordor--> and throughout}}; minor sources are listed at [[:File:Middle-earth's_Geographic_Influences.svg]].</ref>|alt=Influences on Middle-earth's geography]]\n\n[[File:Idylls of the King 18.jpg|thumb|upright|Tolkien borrowed the [[Arthurian legend|Arthurian]] place-name [[Brocéliande]] for an early version of Beleriand.<ref name=\"Fimi 2007\"/> 1868 illustration by [[Gustave Doré]]|alt=Illustration of legendary medieval forest ]]\n\nTolkien scholars including [[John Garth (author)|John Garth]] have traced many features of Middle-earth to literary sources or real-world places. Some places in Middle-earth can be more or less firmly associated with a single place in the real world, while other locations have had two or more real-world origins proposed for them. The sources are diverse, spanning [[Tolkien and the classical world|classical]], [[Tolkien and the medieval|medieval]], and [[Tolkien's modern sources|modern elements]].<ref name=\"Garth 2020\"/> Other elements relate to [[Old English poetry]]: several of the customs of Rohan in particular can be traced to ''[[Beowulf and Middle-earth|Beowulf]]'', on which Tolkien was an expert.<ref name=\"Shippey 2005 OE\">{{harvnb|Shippey|2005|pp=66–74, 90–97, and throughout}}</ref>\n\nSome Middle-earth placenames were based on the sound of places named in literature; thus, Beleriand was borrowed from the [[Brocéliande|Broceliand]] of medieval romance.<ref name=\"Fimi 2007\">{{cite journal |last=Fimi |first=Dimitra |author-link=Dimitra Fimi  |title=Tolkien's 'Celtic type of legends': Merging Traditions|journal=[[Tolkien Studies]] |volume=4 |year=2007 |pages=53–72 |doi=10.1353/tks.2007.0015|s2cid=170176739 }}</ref> Tolkien tried out many invented names [[Sound and language in Middle-earth|in search of the right sound]], in Beleriand's case including Golodhinand, Noldórinan (\"valley of the [[Noldor]]\"), Geleriand, Bladorinand, Belaurien, Arsiriand, Lassiriand, and Ossiriand (later used as a name for the easternmost part of Beleriand).<ref group=T>{{harvnb|Tolkien|1986|loc=\"Commentary on Canto I\"}}</ref> The Elves have been linked to Celtic mythology.<ref name=\"Fimi 2006\">{{cite news |last=Fimi |first=Dimitra |author-link=Dimitra Fimi |title=\"Mad\" Elves and \"Elusive Beauty\": Some Celtic Strands of Tolkien's Mythology |publisher=Dimitra Fimi |date=August 2006 |url=http://dimitrafimi.com/articlesandessays/mad-elves-and-elusive-beauty-some-celtic-strands-of-tolkiens-mythology/}}</ref> The [[Battle of the Pelennor Fields]] has parallels with the [[Battle of the Catalaunian Plains|Battle of the Catalaunian Fields]].<ref name=\"Solopova 2009\">{{ME-ref|Solopova|pp. 70-73}}</ref> The Misty Mountains derive from the ''[[Poetic Edda]]'', where the protagonist in the ''[[Skírnismál]]'' notes that his quest will involve misty mountains peopled with orcs and giants,<ref name=\"Shippey 2005\">{{harvnb|Shippey|2005|pp=80–81, 114}}</ref> while the mountains' character was partly inspired by Tolkien's travels in the [[Swiss Alps]] in 1911.<ref group=T>{{harvnb|Carpenter|2023|loc=#306 to Michael Tolkien, 1967 }}</ref> Mirkwood is based on ''[[Myrkviðr]]'', the romantic vision of the dark forests of the North.<ref name=\"Drout2007\">{{cite book |chapter=Mirkwood |last=Evans |first=Jonathan |author-link=Jonathan Evans (scholar) |title=J. R. R. Tolkien Encyclopedia: Scholarship and Critical Assessment |title-link=J. R. R. Tolkien Encyclopedia |editor=Drout, Michael D. C. |editor-link=Michael D. C. Drout |publisher=[[Routledge]]|year=2006 |pages=429–430 |isbn=0-415-96942-5}}</ref>\nScholars have likened Gondor to [[Byzantium]] (medieval Istanbul),<ref>{{cite book |title=Tolkien and the Study of his Sources |last=Librán-Moreno |first=Miryam |publisher=[[McFarland & Company|McFarland]] |year=2011 |isbn=978-0-7864-6482-1 |editor-last=Fisher |editor-first=Jason |author-link=Jason Fisher |pages=84–116 |chapter='Byzantium, New Rome!' Goths, Langobards and Byzantium in ''The Lord of the Rings'' |chapter-url=https://books.google.com/books?id=98VQ3gHsVsMC&q=Gondor+Byzance&pg=PA98}}</ref> while Tolkien connected it to Venice.<ref group=T>{{harvnb|Carpenter|2023|loc=#168 to R. Jeffrey, September 1955 }}</ref> The [[Harad|Corsairs of Umbar]] have been linked to the [[Barbary corsairs]] of the late Middle Ages.<ref>{{cite book |last=Bowers |first=John M. |title=Tolkien's Lost Chaucer |url=https://books.google.com/books?id=Q5OwDwAAQBAJ&pg=PA170 |year=2019 |publisher=Oxford University Press |isbn=978-0-19-258029-0 |page=170}}</ref> Númenor echoes the mythical [[Atlantis]] described by [[Plato]].<ref name=\"Letters Atlantis\" group=T>{{harvnb|Carpenter|2023|loc=#131 to [[Milton Waldman]] c. 1951, #154 to [[Naomi Mitchison]] 25 September 1954, #156 draft to [[Robert Murray (priest)|Robert Murray]], 4 November 1954, #227 to Mrs E. C. Ossen Drijver 5 January 1961 }}</ref>\n\nAbout the origins of his storytelling and [[Tolkien's maps|the place of cartography]] within it, Tolkien stated in a letter:<ref name=\"Shippey 2005\"/>\n\n{{blockquote|I wisely started with a map, and made the story fit (generally with meticulous care for distances). The other way about lands one in confusions and impossibilities, and in any case it is weary work to compose a map from a story.<ref group=T>{{harvnb|Carpenter|2023|loc=#144 to [[Naomi Mitchison]], 25 April 1954 }}</ref>}}\n\nWriting in ''[[Mythlore]]'', [[Jefferson P. Swycaffer]] suggested that the political and strategic situations of Gondor and Mordor in the [[Siege of Gondor]] were \"analogous to [[Constantinople]] facing the boxshape of [[Asia Minor]]\"; that \"Dol Amroth makes a fine [[Republic of Venice|Venice]]\"; that the Rohirrim and their grasslands are comparable to \"[[Kingdom of Hungary|Hungary of the Magyars]], who were weak allies of Byzantine Constantinople\"; and that the [[Corsairs of Umbar]] resembled the [[Barbary pirates]] who served [[Mehmed the Conqueror]].<ref name=\"Swycaffer 1983\">{{cite journal |last=Swycaffer |first=Jefferson |year=1983 |title=Historical Motivations for the Siege of Minas Tirith |journal=[[Mythlore]] |volume=10 |at=article 14 |url=https://dc.swosu.edu/cgi/viewcontent.cgi?article=1687&context=mythlore}}</ref>\n\nThe linguist [[David Salo]] writes that Gondor recalls \"a kind of decaying Byzantium\"; its piratical enemy Umbar like the seagoing [[Carthage]]; the Southrons (of Harad) \"Arab-like\"; and the Easterlings \"suggesting [[Sarmatians]], [[Huns]] and [[Pannonian Avars|Avars]]\".<ref name=\"DriverRay2004\">{{cite book |last=Salo |first=David |author-link=David Salo |chapter=Heroism and Alienation through Language in ''The Lord of the Rings'' |editor1-last=Driver |editor1-first=Martha W. |editor2-last=Ray |editor2-first=Sid |title=The Medieval Hero on Screen: Representations from Beowulf to Buffy |chapter-url=https://books.google.com/books?id=CB6hBAAAQBAJ&pg=PA26 |date=2004 |publisher=[[McFarland & Company|McFarland]] |isbn=978-0-7864-1926-5 |pages=23–37}}</ref>\n\n=== Geology ===\n\n{{main|Geology of Middle-earth}}\n\nThe [[geologist]]s Margaret M. Howes in 1967,{{sfn|Howes|1967|pp=3-15}} Robert C. Reynolds in 1974,{{sfn|Reynolds|1974|pp=67–71}} and then [[William Sarjeant]] in 1992, used the information from the [[Tolkien's artwork|illustrations]], [[Tolkien's maps|maps]], and text of [[J. R. R. Tolkien]]'s fiction, especially ''[[The Lord of the Rings]]'', to create a conjectural reconstruction of [[Middle-earth]]'s geology. They proposed tectonic movements and glaciations to shape the described landscapes.{{sfn|Sarjeant|1995|pp=334-339}} \n\nThe geologist Alex Acks, writing on [[Tor.com]], outlines mismatches between Tolkien's maps and the processes of [[plate tectonics]] which shape the Earth's [[continent]]s and [[mountain range]]s. Acks comments that no natural process creates right-angle junctions in mountain ranges, such as are seen around [[Mordor]] and at both ends of the [[Misty Mountains]] on Tolkien's maps.{{sfn|Acks|2017a}} In addition, Tolkien's rivers fail to behave like natural rivers, forming regularly-branched streams in [[drainage basin]]s demarcated by high ground.{{sfn|Acks|2017b}}\n\n== References ==\n\n=== Primary ===\n\n{{reflist|group=T|28em}}\n\n=== Secondary ===\n{{reflist|28em}}\n\n=== Sources ===\n\n* {{Cite web |last=Acks |first=Alex |date=1 August 2017a |title=Tolkien's Map and The Messed Up Mountains of Middle-earth |url=https://www.tor.com/2017/08/01/tolkiens-map-and-the-messed-up-mountains-of-middle-earth/ |url-status=live |archive-url=https://web.archive.org/web/20170801192309/https://www.tor.com/2017/08/01/tolkiens-map-and-the-messed-up-mountains-of-middle-earth/ |archive-date=1 August 2017 |access-date=6 October 2023 |website=[[Tor.com]] }} \n* {{Cite web |last=Acks |first=Alex |date=10 October 2017b |title=Tolkien's Map and the Perplexing River Systems of Middle-earth |url=https://www.tor.com/2017/10/10/tolkiens-map-and-the-perplexing-river-systems-of-middle-earth/ |url-status=live |archive-url=https://web.archive.org/web/20171011054903/https://www.tor.com/2017/10/10/tolkiens-map-and-the-perplexing-river-systems-of-middle-earth/ |archive-date=11 October 2017 |access-date=6 October 2023 |website=[[Tor.com]] }}\n* {{ME-ref|Letters}} <!--Carpenter 1981-->\n* {{ME-ref|AoME}}    <!--Fonstad 1991-->\n* {{cite journal |last=Howes |first=Margaret M. |title=The Elder Ages and the later glaciations of the Pleistocene Epoch |journal=[[Tolkien Journal]] |volume=3 |issue=2 (8) |year=1967 |pages=3-21 |url=https://dc.swosu.edu/cgi/viewcontent.cgi?article=1034&context=tolkien_journal}}\n* {{cite book |last=Lobdell |first=Jared |author-link=Jared Lobdell |chapter= \"In the Far Northwest of the Old World\" |pages=71–93 |title=The World of the Rings |publisher=[[Open Court Publishing Company|Open Court]] |year=2004 |isbn=978-0-87548-303-0}}\n* {{cite journal |last=Reynolds |first=Robert C. |year=1974 |title=The geomorphology of Middle-earth |journal=The Swansea Geographer |volume=11 |pages=67-71}}\n* {{cite journal |last=Sarjeant |first=William Antony Swithin |author-link=William Sarjeant |title=The Geology of Middle-earth |journal=[[Mallorn]] |date=1995 |volume=33 |pages=334-339 |url=https://journals.tolkiensociety.org/mallorn/issue/view/34/35}}\n* {{ME-ref|ROAD}}    <!--Shippey 2005-->\n* {{ME-ref|TH}}\n* {{ME-ref|FOTR}}\n* {{Me-ref|ROTK}}\n* {{ME-ref|Silm}}\n* {{ME-ref|UT}}\n* {{ME-ref|Shaping}}\n* {{cite book |last=Walker |first=Steve |title=The Power of Tolkien's Prose: Middle-Earth's Magical Style |publisher=[[Palgrave Macmillan]] |publication-place=New York |year=2009 |isbn=978-0-230-61992-0}}\n\n{{Middle-earth}}\n{{Lord of the Rings}}\n\n[[Category:Middle-earth themes]]\n[[Category:Middle-earth locations|*]]",
+  "redirect_chain": [
+    {
+      "source_title": "Arnor (Middle-earth)",
+      "target_title": "Geography of Middle-earth"
+    }
+  ],
+  "revision_id": 1354473138,
+  "revision_timestamp": "2026-05-16T17:10:54Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Cosmology"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Cosmology"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Cosmology"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Cosmology"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Physical geography"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Physical geography"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Physical geography",
+        "Beleriand, Lindon"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Physical geography",
+        "Beleriand, Lindon"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Physical geography",
+        "Eriador"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Physical geography",
+        "Eriador"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Physical geography",
+        "Misty Mountains"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Physical geography",
+        "Rhovanion"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Physical geography",
+        "Lands to the South"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Physical geography",
+        "Lands to the South"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Physical geography",
+        "Lands to the South"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Physical geography",
+        "Lands to the South"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Physical geography",
+        "Lands to the East"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Thematic mapping"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Thematic mapping"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Thematic mapping"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Political geography"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Moral geography"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Moral geography"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Moral geography"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Moral geography"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Moral geography"
+      ],
+      "paragraph_ordinal": 7,
+      "reason": "excluded by extractor policy: table",
+      "structure_type": "table"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Moral geography"
+      ],
+      "paragraph_ordinal": 8,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Origins"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Origins"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Origins"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Origins"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Origins"
+      ],
+      "paragraph_ordinal": 7,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Origins"
+      ],
+      "paragraph_ordinal": 8,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Origins"
+      ],
+      "paragraph_ordinal": 9,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Geology"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Geology"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Geology"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

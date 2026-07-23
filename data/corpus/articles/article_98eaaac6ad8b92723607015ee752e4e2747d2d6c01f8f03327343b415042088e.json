@@ -1,0 +1,656 @@
+{
+  "article_artifact_id": "article_98eaaac6ad8b92723607015ee752e4e2747d2d6c01f8f03327343b415042088e",
+  "canonical_title": "Númenor",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_98eaaac6ad8b92723607015ee752e4e2747d2d6c01f8f03327343b415042088e",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "The end of Númenor echoes the Biblical stories of the fall of man and the destruction of Sodom and Gomorrah, and John Milton's Paradise Lost. The tale forms part of the theme of decline and fall in Middle-earth that runs throughout Tolkien's legendarium, ancient Númenor representing a now-mythical age of greatness. Scholars, and Tolkien himself, have noted likenesses between Númenor and ancient civilisations including ancient Egypt, Mesopotamia, Phoenicia, and Carthage. Its language, Adûnaic, was modelled on Semitic languages. Tolkien chose to make the names of its months reflect those of the French Republican calendar, translated into his Elvish languages.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_b27411aa216c2c4df859ad98eb4bc79a8d476cfc421b307a7d772ef5494f653a",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_98eaaac6ad8b92723607015ee752e4e2747d2d6c01f8f03327343b415042088e",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "A novel (That Hideous Strength) by Tolkien's friend C. S. Lewis makes reference to a land called Numinor as \"the true West\". The television series The Lord of the Rings: The Rings of Power is set mainly in the Second Age, with Númenor's port city of Armenelos serving as a central location in the storyline.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_98ed6e1da0074c0140ac1ccb475b98144e5896058469ede2b0e1fdeda3db179f",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_98eaaac6ad8b92723607015ee752e4e2747d2d6c01f8f03327343b415042088e",
+      "heading_path": [
+        "Fictional geography",
+        "Physical geography"
+      ],
+      "normalized_text": "thumb|upright=2|Map of Númenor, with its principal cities",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_98a1bfce6617dc7291511f79c37a816952e12dfec0e4ad65e61ed54274d2a666",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_98eaaac6ad8b92723607015ee752e4e2747d2d6c01f8f03327343b415042088e",
+      "heading_path": [
+        "Fictional geography",
+        "Human geography"
+      ],
+      "normalized_text": "A tall tower was constructed in Armenelos by the first King Elros, son of the seafaring hero Eärendil; the White Tree Nimloth, living symbol of the Kingdom, was planted in the days of the sixth King, the explorer Tar-Aldarion. During the reign of the last King, the proud Ar-Pharazôn, a giant circular temple to Morgoth was built in the city, over five hundred feet in diameter and as much in height to its cornice line, with a silver dome above that. The dome had an oculus, from which the smoke of numerous burned sacrifices rose, tarnishing the silver. Andúnië, \"Sunset\", was a western port, facing the Undying Lands; the Eldar used to land there. Valandil was the first Lord of Andúnië. Other ports included Rómenna and Eldalondë. As the Shadow fell over Númenor, Armenelos overtook Andúnië.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_1f1f12f8301c92113b38e745199a50126671ee03bead3419a213adb38aa3d52c",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_98eaaac6ad8b92723607015ee752e4e2747d2d6c01f8f03327343b415042088e",
+      "heading_path": [
+        "Fictional history",
+        "Cataclysm"
+      ],
+      "normalized_text": "Sauron himself was caught in the cataclysm he had helped bring about. His body was destroyed, and he never again had a fair form. He fled back to Middle-earth as a monstrous spirit of hatred that \"passed as a shadow and a black wind over the sea\", and returned to Mordor.",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_c0c4595940722780f39a3ef27560e5d273f1b7f5aa3e7ee4617e92e9df14ed98",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_98eaaac6ad8b92723607015ee752e4e2747d2d6c01f8f03327343b415042088e",
+      "heading_path": [
+        "Analysis",
+        "Atlantis"
+      ],
+      "normalized_text": "thumb|upright=2|Tolkien wrote of Númenor as Atlantis in several of his letters. Athanasius Kircher's map (inverted to show North at top) of Atlantis between America and Europe (\"Hispania\", Spain), 1669",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_1a6f5730713e0f6b325b530a96b38f0341d6dbff700949184dccde5842d71d05",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_98eaaac6ad8b92723607015ee752e4e2747d2d6c01f8f03327343b415042088e",
+      "heading_path": [
+        "Analysis",
+        "Fall of man"
+      ],
+      "normalized_text": "thumb|The downfall of Númenor has been compared to the Biblical fall of man. The serpent tempts Adam and Eve to eat the forbidden fruit, Notre Dame de Paris.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_2deabccad5dc13f186b5156df8c9e01e0256f8dd64f255b5f8a0eb25ce394ba1",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_98eaaac6ad8b92723607015ee752e4e2747d2d6c01f8f03327343b415042088e",
+      "heading_path": [
+        "Analysis",
+        "Philology and time-travel"
+      ],
+      "normalized_text": "thumb|\"The Atlantis Wave\" by H. R. Millar in The Story of the Amulet by E. Nesbit, 1908",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_73240b21f4f4774bc77d1997ee43cb8e53681554db8aac75424dd0276512d1a8",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_98eaaac6ad8b92723607015ee752e4e2747d2d6c01f8f03327343b415042088e",
+      "heading_path": [
+        "Adaptations"
+      ],
+      "normalized_text": "thumb|upright=1.5|\"Looming marble structures\": the port city of Armenelos in Númenor in The Lord of the Rings: The Rings of Power, as envisaged by production designer Ramsey Avery",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_c1764ee95008580761e85334ef7d54aabcb9f853ec9c8d471ca32c0791fd1bfa",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=N%C3%BAmenor&action=history",
+  "namespace": 0,
+  "page_id": 21920512,
+  "parent_revision_id": 1359348381,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1359350591",
+  "raw_wikitext": "{{Short description|Fictional place in J. R. R. Tolkien's writings}}\n{{redirect|Siril|the software application|Siril (software)}}\n{{good article}}\n{{Use British English|date=May 2022}}\n{{Infobox fictional location\n| name         = Númenor\n| series       = [[J. R. R. Tolkien|<span class=\"vcard\"><span class=\"fn\">J. R. R. Tolkien</span></span>'s]] [[Tolkien's legendarium|legendarium]]\n| type         = Island kingdom\n| blank_label  = Location\n| blank_data   = Island west of [[Middle-earth]]\n| blank_label1 = Fictional era\n| blank_data1  = [[Second Age]]\n| blank_label2 = Founder\n| blank_data2  = Elros Tar-Minyatur\n| first        = ''[[The Lord of the Rings]]''\n}}\n'''Númenor''', also called '''Elenna-nórë''' or '''Westernesse''', is a fictional place in [[J. R. R. Tolkien]]'s writings. It was the kingdom occupying a large island to the west of [[Middle-earth]], the main setting of Tolkien's writings, and was the greatest civilization of [[Man (Middle-earth)|Men]]. However, after centuries of prosperity, many of its inhabitants ceased to worship the One God, [[Eru Ilúvatar]], and they rebelled against the [[Valar]]. They invaded [[Valinor]] in an erroneous search for immortality, resulting in the destruction of the island and the death of most of its people. Tolkien intended Númenor to allude to the legendary [[Atlantis]].<ref name=\"Letters Atlantis\" group=T>{{harvnb|Carpenter|2023|loc=#131, 154, 156, 227. }}</ref>\n\nThe end of Númenor echoes the Biblical stories of the [[fall of man]] and the destruction of [[Sodom and Gomorrah]], and [[John Milton]]'s ''[[Paradise Lost]]''. The tale forms part of the theme of [[decline and fall in Middle-earth]] that runs throughout [[Tolkien's legendarium]], ancient Númenor representing a now-mythical age of greatness. Scholars, and Tolkien himself, have noted likenesses between Númenor and ancient civilisations including [[ancient Egypt]], [[Mesopotamia]], [[Phoenicia]], and [[Carthage]]. Its language, [[Adûnaic]], was modelled on [[Semitic languages]]. Tolkien chose to make the names of its months reflect those of the [[French Republican calendar]], translated into his [[Elvish languages of Middle-earth|Elvish languages]].\n\nA novel (''[[That Hideous Strength]]'') by Tolkien's friend [[C. S. Lewis]] makes reference to a land called Numinor as \"the true West\". The television series ''[[The Lord of the Rings: The Rings of Power]]'' is set mainly in the Second Age, with Númenor's port city of Armenelos serving as a central location in the storyline.\n\n== Fictional geography ==\n\n=== Physical geography ===\n\n[[File:Númenor Sketch Map.svg|thumb|upright=2|Map of Númenor, with its principal cities]]\n\n{{Transliteration|en|A Description of the Island of Númenor}}, published in ''[[Unfinished Tales]]'', was supposedly [[Tolkien's frame stories|derived from the archives]] of [[Gondor]].<ref name=\"Description of Númenor\" group=T/> Númenor was in the Great Sea, closer to [[Valinor|Aman]] in the West than to [[Middle-earth]] in the east.<ref name=\"Akallabêth\" group=T/> In shape it was a star, with five [[peninsula]]s extending from the central region, which was around {{convert|250|mi|km}} across.<ref name=\"Description of Númenor\" group=T/> [[Karen Wynn Fonstad]] estimated the island to be 167,691 square miles [435,017&nbsp;km<sup>2</sup>] in area.<ref>{{harvnb|Fonstad|1991}}, page 191</ref> {{anchor|Mittalmar|Andustar|Hyarnustar|Hyarrostar|Orrostar|Forostar}}\nNúmenor had six main regions: the five promontories, named Andustar, Hyarnustar, Hyarrostar, Orrostar, and Forostar; and the central area, Mittalmar, which contained the capital city Armenelos.<ref name=\"Description of Númenor\" group=T/><ref name=\"HA\" group=T>{{harvnb|Tolkien|1996}}, \"The History of the Akallabêth\"</ref><ref name=\"LE\" group=T/> The fifth king Tar-Meneldur built a tower in Forostar to watch the stars.<ref name=\"Aldarion and Erendis\" group=T/>\n\n=== Human geography ===\n\n{{anchor|Armenelos|White Tree|Andúnië|Rómenna|Eldalondë}}\n\nA tall tower was constructed in Armenelos by the first King Elros, son of the seafaring hero [[Eärendil and Elwing|Eärendil]]; the [[White Tree]] Nimloth, living symbol of the Kingdom, was planted in the days of the sixth King, the explorer Tar-Aldarion. During the reign of the last King, the proud Ar-Pharazôn, a giant circular temple to [[Morgoth]] was built in the city, over five hundred feet in diameter and as much in height to its cornice line, with a silver dome above that. The dome had an [[Oculus (architecture)|oculus]], from which the smoke of numerous burned sacrifices rose, tarnishing the silver.<ref name=\"Akallabêth\" group=T/>\nAndúnië, \"Sunset\", was a western port, facing the Undying Lands; the Eldar used to land there. Valandil was the first Lord of Andúnië. Other ports included Rómenna and Eldalondë. As the Shadow fell over Númenor, Armenelos overtook Andúnië.<ref name=\"Description of Númenor\" group=T/>\n\n=== Culture ===\n\n{{anchor|Númenórean|Elendil}}\n{{further|Architecture in Middle-earth}}\n\nThe Númenóreans were descended from the [[Man (Middle-earth)|Edain]] of [[Beleriand]], with three clans: the people of Hador, the people of Bëor, and the Folk of Haleth. Most descended from the fair-haired and blue-eyed people of Hador. The settlers of the western regions, especially Andustar, came mostly from the people of Bëor, with darker hair and grey eyes.<ref name=\"Aldarion and Erendis\" group=T/> A few remnants of the Folk of Haleth and a few families of the [[Drúedain]] were also present.<ref name=\"Drúedain\" group=T>{{harvnb|Tolkien|1980}}, \"The Drúedain\", note 7.</ref> The average Númenórean was taller than two {{Transliteration|mis|rangar}}, or 6'4\".<ref group=T>{{harvnb|Tolkien|1980}}, \"The Disaster of the Gladden Fields\", \"Appendix: Númenórean Linear Measures\"</ref> Númenóreans not of the Line of Elros lived for 200 years, with royal kindred living much longer; their lifespan diminished due to their rebellion.<ref group=T>{{harvnb|Tolkien|1980}}, \"The Line of Elros: Kings of Númenor\"</ref> Coming-of-age was at 25 years.<ref name=\"Aldarion and Erendis\" group=T/>\n\n{{anchor|Language}}\nTheir common language, [[Adûnaic]], was derived from [[Taliska]], the speech of the Hadorians.<ref group=T>{{harvnb|Tolkien|1977}}, ch. 18 \"Of the Coming of Men into the West\"</ref><ref name=\"PM368\" group=T>{{harvnb|Tolkien|1996}}, \"The Problem of ''Ros''\", p. 368 and note 5.</ref> Most Númenóreans knew Sindarin; noble families also knew the High-elven [[Quenya]], employing it in works of lore and nomenclature.<ref name=\"PM329\" group=T>{{harvnb|Tolkien|1996}}, \"Of Dwarves and Men\" note 71, pp. 329–330.</ref><ref name=\"Aldarion and Erendis\" group=T/> When the friendship with the Elves was broken, usage of Sindarin and Quenya lessened, until King Ar-Adûnakhôr forbade their teaching, and knowledge of the elven tongues was only preserved by the Faithful.<ref name=\"LE\" group=T/>\n\n{{anchor|Rituals}}\nBefore the coming of the Shadow, the Númenóreans maintained traditions of worship of [[Ilúvatar]] and respect to the Valar. Among these were the setting a bough of the fragrant [[List of fictional plants#In J. R. R. Tolkien's Middle-earth|{{Transliteration|qya|oiolairë}}]] upon the prow of a departing ship,<ref name=\"Aldarion and Erendis\" group=T/> the ceremonies concerned with the passing of the Sceptre, and laying down one's life. The most famous traditions were the Three Prayers, during which the people climbed to the summit of Meneltarma and the King praised Eru Ilúvatar. These were the spring prayer for a good year, {{Transliteration|qya|Erukyermë}}; the midsummer prayer for a good harvest, {{Transliteration|qya|Erulaitalë}}; and the autumn harvest thanksgiving, {{Transliteration|qya|Eruhantalë}}.<ref name=\"Description of Númenor\" group=T/>\n\nThe Númenórean calendar, the \"King's Reckoning\", is similar to the [[Gregorian calendar|Gregorian]], with a week of seven days, a year of 365 days except in [[leap year]]s, and twelve months ({{Transliteration|qya|astar}}): ten with 30 days and two with 31.<ref name=\"RotK_Appendix D\" group=T>{{harvnb|Tolkien|1955}} Appendix D</ref>\n\n== Fictional history ==\n=== Land of gift ===\nNúmenor was raised from the sea as a gift from the [[Valar]] to the [[Edain]] who had stood with the [[Elves in Middle-earth|Elves]] of [[Beleriand]] against [[Morgoth]] in the wars of the [[First Age]].<ref group=T>{{harvnb|Tolkien|1980}}: Part Two, II Aldarion and Erendis, \"The Further Course of the Narrative\"</ref> Early in the [[Second Age]], most Edain who had survived the wars left Middle-earth for Númenor, sailing in ships provided and steered by the Elves. The migration took 50 years and brought 5,000 to 10,000 people to the island.<ref group=T>{{harvnb|Tolkien|1996}}, p.145.</ref><ref name=\"LE\" group=T>{{harvnb|Tolkien|1980}}, part 2, III, \"The Line of Elros\".</ref> Elros [[Half-elven]], son of [[Eärendil]], gave up his immortality to become a Man and the first King of Númenor. The Númenóreans became a powerful people, friendly with Elves, both of [[Eressëa]] and of Middle-earth. The Elves of Eressëa brought gifts including skills and plants. Elros brought a measure of Elvish blood and [[Magic in Middle-earth#By race|magical power]]. Among these gifts were seven [[palantíri|{{Transliteration|qya|palantíri}}]], magical orbs that could foresee the future, for the Lords of Andúnië.<ref name=\"Akallabêth\" group=T/>\n\n=== Sea-kings ===\n\nNúmenor was surrounded by the [[Belegaer|Great Sea]] of [[Arda (Tolkien)|Arda]], and the sea had a profound influence on Númenor's culture and history. From the earliest times in its history, [[Fish as food|fish]] from the sea were a significant part of Númenórean diet; those providing this food were Númenor's first sea-farers.<ref name=\"Description of Númenor\" group=T>{{harvnb|Tolkien|1980}}, part 2, ch. 1 \"A Description of the Island of Númenor\"</ref> The Númenóreans swiftly became skilled [[Shipbuilding|shipbuilders]] and [[Seafaring|mariners]], with a desire to explore and master the ocean. There was one limitation on this activity: the Ban of the Valar. The Valar prohibited the Edain from sailing west out of sight of the island. This was because the [[Undying Lands]], forbidden to mortals, lay tantalizingly close to the west of Númenor.\nSo the Númenóreans explored the other seas. They reached [[Middle-earth]] to the east, and explored its coasts including the Eastern Sea on the far side of Middle-earth. They brought their civilization to the Men of Middle-earth, who called them the Sea-kings.<ref name=\"Akallabêth\" group=T>{{harvnb|Tolkien|1977}}, \"[[Akallabêth]]\"</ref> News of Númenórean seafarers spread far inland in Middle-earth; even the reclusive [[Ents]] heard of the coming of \"the Great Ships\".<ref group=T>{{harvnb|Tolkien|1954}}, book 3, ch. 4 \"Treebeard\"</ref>\nNúmenóreans had established good relations with [[Gil-galad]], the king of the High Elves of the northwest of Middle-earth, whose ships sailed from the Grey Havens.<ref name=\"Aldarion and Erendis\" group=T>{{harvnb|Tolkien|1980}}, part 2, ch. 2 \"Aldarion and Erendis\"</ref>\nAldarion founded the Uinendili, a guild of sea-farers, in honour of Uinen, goddess of the Sea.<ref name=\"Description of Númenor\" group=T/><ref name=\"Aldarion and Erendis\" group=T/> He succeeded to the throne and became known as the Mariner-king. He established Vinyalondë (later called Lond Daer), the first Númenórean settlement in Middle-earth. This port provided access to the great forests of [[Eriador]], which the Númenóreans needed for shipbuilding.\nThe Númenóreans assisted Gil-galad in Middle-earth's War of the Elves and Sauron, which broke out after the forging of the [[One Ring]]. Tar-Minastir, later the eleventh King of Númenor, assembled an armada, and sent it to Gil-galad's aid. The forces of Númenor and the Elves defeated Sauron.<ref name=\"Akallabêth\" group=T/>\n\n=== The Shadow looms ===\n\nThe increasing power of the Númenóreans had a dark side: the exploitation of Middle-earth's forests devastated much of Eriador. The Númenóreans established further settlements in Middle-earth, coming to rule a coastal empire with no rival. At first, they engaged with the Men of Middle-earth in a friendly manner, but Minastir's successors, Tar-Ciryatan and Tar-Atanamir \"the Great\", became tyrannical, oppressing the Men of Middle-earth and exacting heavy tribute.\nThe Númenóreans made [[Umbar]], the harbour city in [[Harad|the south]] of Middle-earth, into a great fortress and expanded [[Pelargir]], a landing in [[Gondor]] near the Mouths of the [[Geography of Middle-earth#Rhovanion|Anduin]]. \nThe \"King's Men\" among the Númenóreans became jealous of Elves for their immortality, resenting the Ban of the Valar, and sought everlasting life.\nThose who remained loyal to the Valar and friendly to the Elves (and using Elvish languages) were the \"Faithful\" or \"Elf-friends\" ({{Transliteration|qya|Elendili}}); they were led by the Lords of Andúnië. In the reign of Tar-Ancalimon (S.A. 2221-2386), the King's Men became dominant, and the Faithful became a persecuted minority accused of being \"spies of the Valar\".<ref name=\"Akallabêth\" group=T/>\n\n{{anchor|Ar-Pharazôn}}\n\n=== Sauron ===\n\nLate in the Second Age, Ar-Pharazôn, the 25th monarch of Númenor, sailed to Middle-earth to challenge [[Sauron]],<ref group=T>{{harvnb|Tolkien|1992}}, pp. 250, 284, 437</ref> who had claimed to be the King of Men and overlord of Middle-earth. Ar-Pharazôn landed at Umbar to do battle, and upon seeing the might of Númenor, Sauron's armies fled, forcing Sauron to surrender without a fight. He was brought back to Númenor as a prisoner, but soon seduced the king and many other Númenóreans, promising them eternal life if they worshipped his master [[Morgoth|Melkor]]. With Sauron as his advisor, Ar-Pharazôn had a {{convert|500|ft|m|adj=on}} tall temple erected in Armenelos. In this temple [[human sacrifice]]s were offered to Melkor. The White Tree Nimloth, which stood before the King's House in Armenelos and whose fate was tied to the line of kings, was cut down and burned as a sacrifice to Melkor, at Sauron's direction. [[Isildur]] rescued a fruit of the tree; it became an ancestor of the [[White Tree of Gondor]].<ref name=\"Akallabêth\" group=T/>\n\n=== Cataclysm ===\n\n{{further|The Silmarillion#Akallabêth}}\n\n[[File:Downfall of Númenor.svg|thumb|upright=2.5|The Downfall of Númenor and the Changing of the World.{{sfn|Shippey|2005|pp=324-328, \"The Lost Straight Road\"}} The outlines of the continents are purely schematic.]]\n\nPrompted by Sauron and fearing old age and death, Ar-Pharazôn built a great armada and sailed into the West to make war upon the Valar, intending to seize the Undying Lands of [[Valinor]] and achieve immortality. Sauron remained behind. Ar-Pharazôn landed on the shores of [[Aman (Tolkien)|Aman]]. As the Valar were forbidden to take direct action against Men, [[Manwë (Middle-earth)|Manwë]], chief of the Valar, called upon [[Eru Ilúvatar]], the One God.\nIn response, Eru caused the Changing of the World: the hitherto [[flat Earth|flat world]] of [[Arda (Middle-earth)|Arda]] was transformed into a globe, Númenor sank beneath the ocean,<ref name=\"Akallabêth\" group=T/><ref>{{cite book |first=Robert |last=Foster |author-link=Robert Foster (author) |date=1978 |title=[[The Complete Guide to Middle-earth]] |publisher=[[Allen & Unwin|Unwin Paperbacks]] |chapter=Change of the World |isbn=0-04-803001-5}}</ref> and the Undying Lands were removed from the Earth forever. Only the Elves could continue to sail the [[Old Straight Road]], which now meant travelling out of Arda. All the people on the island were drowned; only the Faithful, who had already sailed away, survived. Most of Ar-Pharazôn's armada met its doom in the cataclysm.<ref name=\"Akallabêth\" group=T/>\n\nSauron himself was caught in the cataclysm he had helped bring about. His body was destroyed, and he never again had a fair form. He fled back to Middle-earth as a monstrous spirit of hatred that \"passed as a shadow and a black wind over the sea\",<ref name=\"Akallabêth\" group=T/> and returned to [[Mordor]].<ref name=\"Akallabêth\" group=T/>\n\n{{anchor|Dúnedain|Arnor|Gondor}}\n\n=== Aftermath ===\n\nThe Faithful, led by the nobleman [[Elendil]], had come to Middle-earth. Elendil's sons, Isildur and Anárion, founded the two Kingdoms in Exile: Arnor in the north, and [[Gondor]] in the south. The two kingdoms attempted to maintain Númenórean culture. Gondor flourished, and \"for a while its splendour grew, recalling somewhat of the might of Númenor\".<ref group=T>{{harvnb|Tolkien|1954a}}, book 2, ch. 2 \"[[The Council of Elrond]]\"</ref> Sauron gathered strength in Mordor, setting the scene for a struggle lasting thousands of years.<ref name=\"Akallabêth\" group=T/>\n\nOther Númenóreans survived in Middle-Earth. These were called Black Númenóreans since they worshipped the Darkness and were \"enamoured of evil knowledge\".<ref name=\"Black Gate Opens\" group=T>{{harvnb|Tolkien|1955}}, book 5, ch. 10 \"The Black Gate Opens\"</ref>\n\n== Analysis ==\n\nOriginally intended to be a [[Time in J. R. R. Tolkien's fiction|part of a time-travel story]] in ''[[The Notion Club Papers]]'', Tolkien once saw the tale of the fall of Númenor as a conclusion to his ''[[The Silmarillion]]'' and the \"last tale\" about the Elder Days. Later, with the emergence of ''The Lord of the Rings'', it became the link back to his mythology of earlier ages.<ref name=\"LR1\" group=T>{{harvnb|Tolkien|1987}}, \"The early history of the legend\".</ref><ref name=\"Flieger2005\">{{cite book |last=Flieger |first=Verlyn |author-link=Verlyn Flieger |chapter=The Artifice |title=Interrupted Music: The Making of Tolkien's Mythology |title-link=Interrupted Music |chapter-url=https://books.google.com/books?id=Q6zgmCf_kY4C&pg=PA95 |year=2005 |publisher=[[Kent State University Press]] |isbn=978-0-87338-824-5 |pages=95–99; ''see also'' Chapter 6, section \"Drowned Lands\"}}</ref><ref name=\"Lee2020\">{{cite book |last=Flieger |first=Verlyn |author-link=Verlyn Flieger |chapter='The Lost Road' and 'The Notion Club Papers': Myth, History, and Time-travel |editor-last=Lee |editor-first=Stuart D. |editor-link=Stuart D. Lee |title=[[A Companion to J. R. R. Tolkien]] |chapter-url=https://books.google.com/books?id=vsPXDwAAQBAJ&pg=PA161 |date=11 May 2020 |publisher=John Wiley & Sons |isbn=978-1-119-65602-9 |pages=161–171}}</ref>\n\n{{anchor|Westernesse}}\n\n=== Lyonesse ===\n\nNúmenor first appears in ''The Lord of the Rings'', as the vague land of \"Westernesse\", an advanced civilisation which had existed long ago, far to the west over the Sea, and the ancestral home of the [[Dúnedain]]. Tolkien chose the name for its resonance with \"[[Lyonesse]]\", a faraway land that sank into the sea in the [[Middle English]] romance ''[[King Horn]]''.<ref group=T>[[Tolkien, J. R. R.]], \"[[Translations of The Lord of the Rings#Tolkien's Guide to the Names in The Lord of the Rings|Nomenclature of The Lord of the Rings]]\" in {{harvnb|Hammond|Scull|2005}}</ref><ref group=T>{{harvnb|Carpenter|2023|loc=#276 to Dick Plotz, 'Thain' of the [[Tolkien Society of America]], 12 September 1965 }}</ref>\n\n=== Atlantis ===\n\n{{further|Tolkien and the classical world}}\n\n[[File:Atlantis Kircher Mundus subterraneus 1678 inverted.jpg|thumb|upright=2|Tolkien wrote of Númenor as [[Atlantis]] in several of his letters.<ref name=\"Letters Atlantis\" group=T/> [[Athanasius Kircher]]'s map (inverted to show North at top) of Atlantis between America and Europe (\"Hispania\", Spain), 1669]]\n\n[[Atlantis]] ({{langx|grc|Ἀτλαντὶς νῆσος|lit=island of [[Atlas (mythology)|Atlas]]}}) is a fictional island mentioned within an [[allegory]] on the [[hubris]] (excessive pride leading to a downfall) of nations in the ancient Greek philosopher [[Plato]]'s works [[Timaeus (dialogue)|{{Transliteration|la|Timaeus}}]] and [[Critias (dialogue)|{{Transliteration|la|Critias}}]].<ref>{{cite book |first=John R. |last=Hale |title=Lords of the Sea: The Epic Story of the Athenian Navy and the Birth of Democracy |location=New York City |publisher=[[Penguin Books]]|year=2009 |isbn=978-0-670-02080-5 |page=368 |url=https://books.google.com/books?id=z1iI-C4r09oC |quote=Plato also wrote the myth of Atlantis as an allegory of the archetypal [[thalassocracy]] or naval power.}}</ref>\n\nAccording to Tolkien in a letter from 1968, he had written the story of Númenor as \"a new version of the Atlantis legend\" as a result from a challenge by C. S. Lewis to write a time-travel story. Tolkien himself had recurring dreams of an \"ineluctable Wave\" from the quiet sea or towering over the green inlands throughout his life.{{sfn|Fernández Camacho|2023|pp=67-69}}\n\nTolkien's history of the Downfall of Númenor therefore remained faithful to Plato's story of Atlantis,{{sfn|Fernández Camacho|2023|pp=72-77}} and exhibits significant influences from {{Transliteration|la|Timaeus}} and {{Transliteration|en|Critias}}.{{sfn|Fernández Camacho|2023|pp=67-69}}{{sfn|Fernández Camacho|2023|pp=72-77}} Similarly to how Plato invented a tradition through which the story of Atlantis was allegedly handed down from Egyptian priests to [[Solon]] and members of the family of [[Critias]], Tolkien created one in the form of the figure of [[Ælfwine (Tolkien)|Ælfwine]] who met the Elves who had preserved ancient lost knowledge.{{sfn|Fernández Camacho|2023|pp=72-77}}\n\nTolkien had his character Lowdham in [[The Notion Club Papers|{{Transliteration|en|The Notion Club Papers}}]] describe Númenor's name {{Transliteration|qya|Atalante}} as an \"Avallonian,\" that is Elvish, word. In this, Tolkien emulated how Plato rearticulated the origin of the name of Atlantis as being derived from its first high king, Atlas, although its name was in fact a reference to the Titan Atlas who held the sky on his shoulders outside of the Pillars of Herakles, as well as Plato's rearticulation of the origin of the name of the city of [[Cádiz|Gadira]] as being derived from Atlas's twin brother Gadiros despite the fictional king's name being in reality a reference to the city.{{sfn|Fernández Camacho|2023|pp=72-77}}\n\nSimilarly to how Plato internally claimed in his text that his account of Atlantis represented the truth behind the confused words of the Egyptian priests, Tolkien himself also described his story of Númenor as being the truth behind Plato's own account, and he had Lowdham in {{Transliteration|en|The Notion Club Papers}} claim that if Atlantis referred to Atlas, then it would connect the story with a \"mountain regarded as the Pillar of Heaven,\" that is [[Atlas Mountains|Mount Atlas]], which would in turn refer to Mount Meneltarma in Númenor.{{sfn|Fernández Camacho|2023|pp=72-77}}\n\nThe destruction of Númenor earned it the [[Quenya]] name {{Transliteration|qya|Atalantë}}, {{lit|the Downfallen}};<ref name=\"Akallabêth\" group=T/>{{efn|The Adûnaic word for {{Transliteration|qya|Atalantë}} is [[Akallabêth|{{Transliteration|mis|Akallabêth}}]], the name of the story of the Downfall.<ref name=\"Akallabêth\" group=T/><ref name=\"Etymologies\" group=T>{{harvnb|Tolkien|1987}}, \"[[The Etymologies (Tolkien)|The Etymologies]]\"</ref>}} Tolkien described his invention of this additional allusion to Atlantis as a happy accident when he realized that the Quenya root {{Transliteration|qya|talat-}} \"to fall\" could be incorporated into a name for Númenor.<ref group=T>{{harvnb|Carpenter|2023|loc=#257 to Christopher Bretherton, 16 July 1964 }}</ref>{{sfn|Fernández Camacho|2023|pp=67-69}} Tolkien wrote of Númenor as Atlantis in several of his letters.<ref name=\"Letters Atlantis\" group=T/>\n\nThe commentator Charles Delattre has noted that Númenor matches the myth of Atlantis, the only drowned island in surviving ancient literature, in multiple details:<ref name=\"Delattre 2007\">{{cite journal |last=Delattre |first=Charles |journal=Revue de littérature comparée |date=March 2007 |volume=323 |issue=3|doi=10.3917/rlc.323.0303|doi-access=free|title=Númenor et l'Atlantide: Une écriture en héritage |pages=303–322 |language=fr |quote=Il est évident que dans ce cadre, Númenor est une réécriture de l’Atlantide, et la lecture du Timée et du Critias de Platon n’est pas nécessaire pour suggérer cette référence au lecteur de Tolkien |url=https://www.cairn.info/revue-de-litterature-comparee-2007-3-page-303.htm|url-access=subscription }}</ref>\n\n* it began as a perfect world, geometrically laid out to reflect its balance and harmony;<ref name=\"Delattre 2007\"/>\n* it abounds in valuable minerals; and it has unmatched power, with a strong fleet able to project control far beyond its shores, like ancient Athens;<ref name=\"Delattre 2007\"/>\n* Númenor's pride, too, writes Delattre, matches the [[hubris]] of Plato's Atlantis;<ref name=\"Delattre 2007\"/>\n* and its downfall recalls the destruction of Atlantis, the divine [[Old Testament]] retribution on [[Sodom and Gomorrah]], and [[John Milton|Milton]]'s ''[[Paradise Lost]]''.<ref name=\"Delattre 2007\"/>\n\n=== Fall of man ===\n\n{{further|Christianity in Middle-earth}}\n\n[[File:2017 Notre-Dame de Paris P52.jpg|thumb|The downfall of Númenor has been compared to the Biblical [[fall of man]].<ref name=\"Schweicher 1996\"/> The [[Serpent (Bible)|serpent]] tempts [[Adam (Bible)|Adam]] and [[Eve]] to eat the forbidden fruit, [[Notre Dame de Paris]]. ]]\n\nTolkien, a devout [[Roman Catholic]],{{sfn|Shippey|2005|p=64}} stated that {{Transliteration|en|The Downfall of Númenor}} ({{Transliteration|mis|Akallabêth}}) was effectively a second [[fall of man]], with \"its central theme .. (inevitably, I think, in a story of Men) a Ban, or Prohibition\".<ref group=T>{{harvnb|Carpenter|2023|loc=#131 to [[Milton Waldman]], c. 1951 }}</ref> [[Bradley J. Birzer]], writing in the ''[[J.R.R. Tolkien Encyclopedia]]'', notes that Tolkien thought that every story was essentially about a fall, and accordingly his legendarium contains many \"falls\": that of Morgoth, of [[Fëanor]] and his relatives, and that of Númenor among them.<ref>{{cite encyclopedia |last=Birzer |first=Bradley J. |author-link=Bradley J. Birzer |editor-last=Drout |editor-first=Michael D. C. |editor-link=Michael D. C. Drout |title=Fall of Man|encyclopedia=[[J.R.R. Tolkien Encyclopedia|J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment]] |year=2013 |orig-year=2007 |publisher=[[Routledge]] |isbn=978-0-415-86511-1 |pages=187–188}}</ref> Eric Schweicher writes in ''[[Mythlore]]'' that the ban was \"soon defied\", as in the Biblical fall.<ref name=\"Schweicher 1996\">{{cite journal |last1=Schweicher |first1=Eric |title=Aspects of the Fall in The Silmarillion |journal=[[Mythlore]] |date=15 October 1996 |volume=21 |issue=2  |url=https://dc.swosu.edu/mythlore/vol21/iss2/26/}}</ref> The temptation for the Númenoreans was the desire for [[immortality]], and the ban that they broke was not to sail towards the [[Valinor|Undying Lands of Aman]].<ref>{{cite encyclopedia |last=Garbowski |first=Christopher |editor-last=Drout |editor-first=Michael D. C. |editor-link=Michael D. C. Drout |title=Immortality |encyclopedia=[[J.R.R. Tolkien Encyclopedia|J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment]] |year=2013 |orig-year=2007 |publisher=[[Routledge]] |isbn=978-0-415-86511-1 |pages=292–293}}</ref>{{efn|The Biblical temptation before the fall was the desire for knowledge of good and evil, and the prohibition that was broken was eating the fruit of the tree of that knowledge.<ref>{{bibleverse||Genesis|3|KJV}}</ref>}}\n\n=== Decline and fall ===\n\n{{further|Decline and fall in Middle-earth}}\n\nThe names connected by his philological studies formed for Tolkien the possibility of [[Decline and fall in Middle-earth|an inexorable downward progression]], from the long-lost mythical world of Númenor in the Second Age, to his fantasy world of Middle-earth in the Third Age, also now lost, to the real ancient Germanic and Anglo-Saxon thousands of years later, and finally down to the modern world, where names like Edwin still survive, all (in the fiction) that is left of Middle-earth, carrying for the knowledgeable philologist a hint of a rich living English mythology. Shippey notes that in Númenor, the myth would have been still stronger, as being an Elf-friend, one of the hated {{Transliteration|qya|Elendili}}, marked a person out to the King's Men faction as a target for human sacrifice to Morgoth. Tolkien's \"continuous playing with names\" led to characters and situations, and sometimes to stories.{{sfn|Shippey|2005|pp=336-337}} <!-- need to mention [[Owen Barfield]] here -->\n\nDelattre states that the position of Númenor in Tolkien's Middle-earth is curious, being \"at once marginal and central\",<ref name=\"Delattre 2007\"/> not least because in {{Transliteration|en|The Lord of the Rings}}, the glory of Númenor is already ancient history, evoking a sense of loss and nostalgia. This, he writes, is just one of many losses and downfalls in [[Tolkien's legendarium]], leading finally to the last remnants of Númenor in the North, the Dúnedain, and the last Númenorean kingdom, Gondor, which \"keeps alive the illusion that Númenor still exists in the South\".<ref name=\"Delattre 2007\"/>\n\n[[Marjorie Burns]] writes that the feeling of \"inevitable disintegration\"<ref name=\"Burns 1989\">{{cite journal |last=Burns |first=Marjorie J. |author-link=Marjorie Burns |title=J.R.R. Tolkien and the Journey North |journal=[[Mythlore]] |date=1989 |volume=15 |issue=4 |pages=5–9 |url=https://dc.swosu.edu/mythlore/vol15/iss4/1/ |jstor=26811938}}</ref> is borrowed from the Nordic world view, which emphasises that all may be lost at any moment.<ref name=\"Burns 1989\"/> She writes that in [[Norse mythology]], this began during the creation: in the realm of fire, [[Muspell]], the [[jötunn]] [[Surt (mythology)|Surt]] was even then awaiting the end of the world. Burns comments that in that mythology, even the gods can die, everything has an end, and that, \"though [the evil] Sauron may go, the elves will fade as well.\"<ref name=\"Burns 1989\"/>\n\n=== Historical ===\n\n{{further|Adûnaic}}\n\n[[File:Smiting god, wearing an Egyptian atef crown MET DP368653 (cropped).jpg|thumb|upright=0.8|Tolkien likened the winged crown of Gondor to the Egyptian winged [[atef]] crown.{{sfn|Carpenter|2023|loc=#211 To Rhona Beare, 14 October 1958}}]]\n\nTolkien described the later Númenóreans of Gondor as \"best pictured in (say) Egyptian terms\", resembling [[ancient Egypt]]ians in their love of and power to build large monuments, and in their interest in ancestry and tombs.{{sfn|Carpenter|2023|loc=#211 To Rhona Beare, 14 October 1958}} The crown of Gondor was tall and winged, like an ancient Egyptian [[Atef|atef crown]].{{sfn|Carpenter|2023|loc=#211 To Rhona Beare, 14 October 1958}} Adûnaic was modelled on [[Semitic languages]]:{{sfn|Fernández Camacho|2023|p=83}} Tolkien described it as having [[Semitic root#Triconsonantal roots|Semitic-like triconsonantal roots]] and an affinity with the Dwarvish language [[Khuzdul]], itself modelled after Semitic languages.{{sfn|Fernández Camacho|2023|p=78}} Some [[History of Mesopotamia|Mesopotamian]] influences were present in early versions of Númenor, such as Sauron's name {{Transliteration|mis|Zigûr}} and Tar-Miriel's name, {{Transliteration|mis|Istar}}.{{sfn|Fernández Camacho|2023|p=78}} Tolkien compared the Númenóreans to the [[Jews]] in two of his letters.{{sfn|Fernández Camacho|2023|p=78}}{{sfn|Carpenter|2023|loc=#211 To Rhona Beare, 14 October 1958}} He equated the Númenórean practice of having just one place of worship at the summit of Mount Meneltarma with that of the Jews at their single [[Temple in Jerusalem]].{{sfn|Carpenter|2023|loc=#156 draft to Robert Murray, SJ, 4 November 1954}}{{sfn|Fernández Camacho|2023|p=82}} Númenor has parallels with ancient [[Phoenicia]] and [[Ancient Carthage|Carthage]], being militarily powerful at sea, and worshipping a god with human sacrifice.{{sfn|Fernández Camacho|2023|p=83}}\n\n=== Philology and time-travel ===\n\n{{further|Time in Tolkien's fiction}}\n\nTolkien was a professional [[philologist]]. For him, the existence of ideas embodied in ancient words and names indicated that there must have been \"some original conception\",{{sfn|Shippey|2005|pp=336-337}} a once-living tradition, behind those ideas. The Tolkien scholar [[Tom Shippey]] notes that in Tolkien's ''[[The Lost Road and Other Writings|The Lost Road]]'', the key names are from [[Germanic mythology]], and they speak of elves:{{sfn|Shippey|2005|pp=336-337}}\n\n{| class=\"wikitable\" style=\"margin:1em auto;\"\n|-\n! Germanic || [[Old English]] !! Meaning !! Modern name !! In Númenor{{sfn|Shippey|2005|pp=336-337}}\n|-\n| [[Alboin|{{Transliteration|gem|Alboin}}]] || [[Ælfwine|{{Transliteration|ang|Ælfwine}}]] || Elf-friend || {{Transliteration|en|Alwin}}, {{Transliteration|en|Elwin}}, {{Transliteration|en|Aldwin}} || {{Transliteration|qya|Elendil}}\n|-\n| [[Audoin|{{Transliteration|gem|Audoin}}]] || [[Eadwine|{{Transliteration|ang|Eadwine}}]] || Bliss-friend || {{Transliteration|en|Edwin}} || {{Transliteration|qya|Herendil}}\n|-\n| — || {{Transliteration|ang|Oswine}} || God-friend|| {{Transliteration|en|Oswin}}, cf. {{Transliteration|en|Oswald}} || {{Transliteration|qya|Valandil}}<br/>(\"[[Valar]]-friend\") \n|}\n\n[[File:The Atlantis Wave by H. R. Millar in The Story of the Amulet by E. Nesbit 1908.jpg|thumb|\"The Atlantis Wave\" by [[H. R. Millar]] in ''[[The Story of the Amulet]]'' by [[E. Nesbit]], 1908]]\n\nBoth the use of a pair of related time-travellers with Old English names,<ref name=\"Luling 2012\">{{cite journal |last=Luling |first=Virginia |title=Going back: time travel in Tolkien and E. Nesbit |journal=[[Mallorn (journal)|Mallorn]]|date=2012 |issue=53 (Spring 2012) |pages=30–31 |url=https://journals.tolkiensociety.org/mallorn/article/download/66/60}}</ref> and the idea of visiting Atlantis at the time of its destruction, echo events in children's books by [[Edith Nesbit]], who Tolkien described as \"an author I delight in\". Nesbit's 1906 ''[[The Story of the Amulet]]''<!--which Tolkien mentions in a letter, and which he owned--> has Atlantis destroyed by a combination of volcanic eruption and a [[tsunami]]. Kullmann and Siepmann comment that the tsunami must have resonated with Tolkien's recurring [[Dreams and visions in The Lord of the Rings|\"Atlantis complex\" dream]], ascribed also to the Tolkien-figure of [[Faramir]], of a great wave that rushes in over the treetops.{{sfn|Kullmann|Siepmann|2021|pp=72–74}} Nesbit's 1908 ''[[The House of Arden]]'' has as its central device a brother and sister named Edred (\"Bliss-counsel\") and Elfrida (\"Elf-strength\") who visit several earlier times, always meeting a similar pair of characters.<ref name=\"Luling 2012\"/>\n\n{{anchor|Calendar}}\n\n=== Origins of the calendar ===\n\n{{see also|The Shire#Calendar}}\n\nTolkien chose to [[calque]] the calendar of Númenor on the [[French Republican calendar]]. For example, the names of the third month of Winter, {{Transliteration|qya|Súlímë}}, {{Transliteration|sjn|Gwaeron}}, and {{Transliteration|fr|Ventôse}}, all mean 'Windy'.<ref name=\"Allan 1978 151\"/>\n\n{| class=\"wikitable\" style=\"margin:1em auto;\"\n![[Quenya]]<ref name=\"RotK_Appendix D\" group=T/>\n![[Sindarin]]<ref name=\"RotK_Appendix D\" group=T/>\n!Meaning\n![[French Republican calendar|French<br/>Republican]]<ref name=\"Allan 1978 151\"/>\n!Fr. Rep.<br/>meaning\n|-\n|{{Transliteration|qya|Narvinyë}} || {{Transliteration|sjn|Narwain}} || new sun<ref name=\"GtS_Appendix 6\" group=T>{{harvnb|Salo|2004|loc=Appendix 6}}</ref> || [[Nivôse|{{Transliteration|fr|Nivôse}}]] || snowy\n|-\n|{{Transliteration|qya|Nénimë}} || {{Transliteration|sjn|Nínui}} || watery<ref name=\"GtS_Appendix 6\" group=T/> || [[Pluviôse|{{Transliteration|fr|Pluviôse}}]] || rainy\n|-\n|{{Transliteration|qya|Súlimë}} || {{Transliteration|sjn|Gwaeron}} || windy / wind month<ref name=\"GtS_Appendix 6\" group=T/><ref name=\"Silm_Appendix, sul entry\" group=T>{{harvnb|Tolkien|1977}}, Appendix, s.v. ''sul''</ref> || [[Ventôse|{{Transliteration|fr|Ventôse}}]] || windy\n|-\n|{{Transliteration|qya|Víressë}} || {{Transliteration|sjn|Gwirith}} || new / young / budding? <ref name=\"GtS_Appendix 6\" group=T/> || [[Germinal (French Republican Calendar)|{{Transliteration|fr|Germinal}}]] || budding\n|-\n|{{Transliteration|qya|Lótessë}} || {{Transliteration|sjn|Lothron}} || flower month<ref name=\"GtS_Appendix 6\" group=T/> || [[Floréal|{{Transliteration|fr|Floréal}}]] || flowery\n|-\n|{{Transliteration|qya|Nárië}} || {{Transliteration|sjn|Nórui}} || sunny<ref name=\"GtS_Appendix 6\" group=T/> || [[Prairial|{{Transliteration|fr|Prairial}}]] || grassy\n|-\n|{{Transliteration|qya|Cermië}} || {{Transliteration|sjn|Cerveth}} || harvest <ref name=\"Allan 1978 151\">{{cite book |title=An Introduction to Elvish |page=[https://archive.org/details/introductiontoel00alla/page/151 151] |first=Jim |last=Allan |publisher=Grahaeme Young |year=1978 |isbn=978-0-905220-10-9 |url-access=registration |url=https://archive.org/details/introductiontoel00alla/page/151}}</ref> || [[Messidor|{{Transliteration|fr|Messidor}}]] || (wheat) harvest\n|-\n|{{Transliteration|qya|Urimë}} || {{Transliteration|sjn|Urui}} || hot<ref name=\"Silm_Appendix, ur entry\" group=T>{{harvnb|Tolkien|1977}}, Appendix, s.v. ''ur''</ref> || [[Thermidor|{{Transliteration|fr|Thermidor}}]] || hot\n|-\n|{{Transliteration|qya|Yavannië}} || {{Transliteration|sjn|Ivanneth}} || fruit giving<ref name=\"GtS_Appendix 6\" group=T/> || [[Fructidor|{{Transliteration|fr|Fructidor}}]] || fruit\n|-\n|{{Transliteration|qya|Narquelië}} || {{Transliteration|sjn|Narbeleth}} || sun-fading<ref name=\"BoLT_Cottage of Lost Play, pg 41\" group=T>{{harvnb|Tolkien|1984|loc=\"Cottage of Lost Play\", p. 41 footnote}}</ref> || [[Vendémiaire|{{Transliteration|fr|Vendémiaire}}]] || wine harvest\n|-\n|{{Transliteration|qya|Hísimë}} || {{Transliteration|sjn|Hithui}} || misty<ref name=\"Silm_Appendix, hith entry\" group=T>{{harvnb|Tolkien|1977}}, Appendix, s.v. ''hith''</ref> || [[Brumaire|{{Transliteration|fr|Brumaire}}]] || misty, foggy\n|-\n|{{Transliteration|qya|Ringarë}} || {{Transliteration|sjn|Girithron}} || cold / shivering month<ref name=\"GtS_Appendix 6\" group=T/> || [[Frimaire|{{Transliteration|fr|Frimaire}}]] || cold, frosty\n|}\n\n== Adaptations ==\n\n[[File:Rings_of_Power_Port_of_Númenor.jpg|thumb|upright=1.5|\"Looming marble structures\":<ref name=\"EWAveryJul2022\"/> the [[port]] city of Armenelos in Númenor in ''[[The Lord of the Rings: The Rings of Power]]'', as envisaged by production designer Ramsey Avery<ref name=\"EWAveryJul2022\"/>]]\n\n[[C. S. Lewis]]'s 1945 novel ''[[That Hideous Strength]]'' makes reference to Numinor, as \"the true West\",<ref>{{cite book |title=[[That Hideous Strength]] |first=C. S. |last=Lewis |author-link=C. S. Lewis |orig-year=1945 |year=1976 |edition=14th |publisher=[[Pan Books]] |pages=165–166 |isbn=0-330-02170-2}}</ref> which Lewis credits as a then-unpublished creation of [[J. R. R. Tolkien]]; they were friends and colleagues at [[Oxford University]], and members of [[The Inklings]] literary discussion group. The misspelling came from Lewis's only hearing Tolkien say the name in one of his readings.<ref name=\"Duriez2003\">{{cite book |last=Duriez |first=Colin |author-link=Colin Duriez |title=Tolkien and C.S. Lewis: The Gift of Friendship |url=https://books.google.com/books?id=GQMwj9mcE-AC&pg=PA102 |year=2003 |publisher=Paulist Press |isbn=978-1-58768-026-7 |pages=102–103}}</ref>\n\nThe television series ''[[The Lord of the Rings: The Rings of Power]]'' is set mainly in the Second Age. It includes the port city of Armenelos in Númenor, [[Architecture in Middle-earth|its architecture]] designed to convey the character of its people.<ref name=\"VFFeb2022\">{{cite web |last1=Breznican |first1=Anthony |last2=Robinson |first2=Joanna |date=10 February 2022 |title=Amazon's Lord of the Rings Series Rises: Inside The Rings of Power |url=https://www.vanityfair.com/hollywood/2022/02/amazon-the-rings-of-power-series-first-look |url-access=limited |archive-url=https://web.archive.org/web/20220210153746/https://www.vanityfair.com/hollywood/2022/02/amazon-the-rings-of-power-series-first-look |archive-date=10 February 2022 |access-date=10 February 2022 |website=[[Vanity Fair (magazine)|Vanity Fair]]}}</ref><ref name=\"May2022ScreeningTOR3\">{{cite web |date=10 June 2022 |title=Showrunners and John Howe reveal more of Rings of Power |url=https://www.theonering.net/torwp/2022/06/10/113318-showrunners-and-john-howe-reveal-more-of-rings-of-power/ |url-status=live |archive-url=https://web.archive.org/web/20220610143910/https://www.theonering.net/torwp/2022/06/10/113318-showrunners-and-john-howe-reveal-more-of-rings-of-power/ |archive-date=10 June 2022 |access-date=27 June 2022 |website=[[TheOneRing.net]]}}</ref> The set is described as \"an entire seaside city\" with buildings, alleyways, shrines, graffiti, and a ship docked at the harbour.<ref name=\"EWNumenorJul2022\">{{cite magazine |last=Coggan |first=Devan |date=13 July 2022 |title=Get an exclusive look at 'The Lord of the Rings: The Rings of Power' |url=https://ew.com/tv/lord-of-the-rings-the-rings-of-power-numenor-first-look/ |url-status=live |archive-url=https://web.archive.org/web/20220714010836/https://ew.com/tv/lord-of-the-rings-the-rings-of-power-numenor-first-look/ |archive-date=14 July 2022 |access-date=31 July 2022 |magazine=[[Entertainment Weekly]]}}</ref> The production designer Ramsey Avery based Númenor's \"looming marble structures\" on [[Ancient Greek architecture|Ancient Greece]] and [[Venice]], while he used the colour blue to reflect the culture's emphasis on water and sailing.<ref name=\"EWAveryJul2022\">{{cite magazine |last=Coggan |first=Devan |date=19 July 2022 |title=How 'The Lord of the Rings: The Rings of Power' crafted a new (old) Middle-earth |url=https://ew.com/tv/lord-of-the-rings-the-rings-of-power-production-design/ |url-status=live |archive-url=https://web.archive.org/web/20220719201151/https://ew.com/tv/lord-of-the-rings-the-rings-of-power-production-design/ |archive-date=19 July 2022 |access-date=1 August 2022 |magazine=[[Entertainment Weekly]]}}</ref>\n\n== See also ==\n\n* [[Charn]]\n\n== Notes ==\n{{notelist}}{{Clear}}\n\n== References ==\n\n=== Primary ===\n\n{{reflist|group=T|28em}}\n\n=== Secondary ===\n{{reflist}}\n\n=== Sources ===\n{{commons category|Númenor}}\n\n{{refbegin}}\n* {{cite journal |last=Fernández Camacho |first=Pamina |date=2023 |title=Elven-Latin and Semitic Adûnaic: Linguistic, Religious, and Political Strife in Tolkien's Island of Númenor |url=https://www.euppublishing.com/doi/abs/10.3366/ink.2023.0176 |journal=[[Journal of Inklings Studies]] |volume=13 |issue=2 |pages=67–86 |doi=10.3366/ink.2023.0176 |access-date=15 June 2024|url-access=subscription }}\n* {{ME-ref|Letters}} <!--Carpenter 2023 [1981]-->\n* {{ME-ref|Atlas}}   <!--Fonstad 1991-->\n* {{ME-ref|RC}}      <!--Hammond & Scull 2005-->\n* {{cite book |last=Kullmann |first=Thomas |last2=Siepmann |first2=Dirk |title=Tolkien as a Literary Artist |publisher=[[Palgrave Macmillan]] |publication-place=Cham |year=2021 |isbn=978-3-030-69298-8}}\n* {{cite book |last=Salo |first=David |author-link=David Salo |title=A gateway to Sindarin : a grammar of an Elvish language from J.R.R. Tolkien's 'Lord of the Rings' |publisher=[[University of Utah Press]] |publication-place=Salt Lake City |year=2004 |isbn=978-0-87480-800-1 | oclc=54960199 }}\n* {{ME-ref|ROAD}}    <!--Shippey 2005-->\n* {{ME-ref|FOTR}}\n* {{ME-ref|TT}}\n* {{ME-ref|ROTK}}\n* {{ME-ref|Silm}}\n* {{ME-ref|UT}}\n* {{ME-ref|BOLT}}\n* {{ME-ref|LR}}\n* {{ME-ref|SD}}\n* {{ME-ref|PoMe}}\n{{refend}}\n\n{{Middle-earth}}\n\n{{DEFAULTSORT:Numenor}}\n[[Category:Númenor| ]]\n[[Category:Middle-earth realms]]\n[[Category:Middle-earth islands]]\n[[Category:Works set in Atlantis]]\n\n[[de:Regionen und Orte in Tolkiens Welt#Númenor]]\n[[la:Geographia Legendarii Tolkien#Numenor]]",
+  "redirect_chain": [],
+  "revision_id": 1359350591,
+  "revision_timestamp": "2026-06-14T19:26:27Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional geography",
+        "Physical geography"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional geography",
+        "Human geography"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional geography",
+        "Culture"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional geography",
+        "Culture"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional geography",
+        "Culture"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional geography",
+        "Culture"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional geography",
+        "Culture"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "Land of gift"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "Sea-kings"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "The Shadow looms"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "The Shadow looms"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "Sauron"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "Cataclysm"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "Cataclysm"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "Cataclysm"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "Cataclysm"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "Aftermath"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "Aftermath"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Lyonesse"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Atlantis"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Atlantis"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Atlantis"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Atlantis"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Atlantis"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Atlantis"
+      ],
+      "paragraph_ordinal": 7,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Atlantis"
+      ],
+      "paragraph_ordinal": 8,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Atlantis"
+      ],
+      "paragraph_ordinal": 9,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Atlantis"
+      ],
+      "paragraph_ordinal": 10,
+      "reason": "excluded by extractor policy: list",
+      "structure_type": "list"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Fall of man"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Fall of man"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Decline and fall"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Decline and fall"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Decline and fall"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Decline and fall"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Historical"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Historical"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Historical"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Philology and time-travel"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Philology and time-travel"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Philology and time-travel"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: table",
+      "structure_type": "table"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Philology and time-travel"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Philology and time-travel"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Origins of the calendar"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Origins of the calendar"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Origins of the calendar"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: table",
+      "structure_type": "table"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "See also"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: list",
+      "structure_type": "list"
+    },
+    {
+      "heading_path": [
+        "Notes"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

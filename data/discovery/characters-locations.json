@@ -1,0 +1,82 @@
+{
+  "records": [
+    {
+      "discovery_reference": "https://en.wikipedia.org/wiki/Category:Middle-earth_characters",
+      "discovery_route": "category or API",
+      "discovery_timestamp": "2026-07-20T15:28:59.976294+00:00",
+      "observed_page_id": 540826,
+      "observed_page_title": "List of Middle-earth characters"
+    },
+    {
+      "discovery_reference": "https://en.wikipedia.org/wiki/Category:Middle-earth_characters",
+      "discovery_route": "category or API",
+      "discovery_timestamp": "2026-07-20T15:28:59.976294+00:00",
+      "observed_page_id": 15789335,
+      "observed_page_title": "File:TN-Luthien-Web.jpg"
+    },
+    {
+      "discovery_reference": "https://en.wikipedia.org/wiki/Category:Middle-earth_locations",
+      "discovery_route": "category or API",
+      "discovery_timestamp": "2026-07-20T15:28:59.976294+00:00",
+      "observed_page_id": 33167692,
+      "observed_page_title": "A Map of Middle-earth"
+    },
+    {
+      "discovery_reference": "https://en.wikipedia.org/wiki/Category:Middle-earth_locations",
+      "discovery_route": "category or API",
+      "discovery_timestamp": "2026-07-20T15:28:59.976294+00:00",
+      "observed_page_id": 528892,
+      "observed_page_title": "Journeys of Frodo"
+    },
+    {
+      "discovery_reference": "https://en.wikipedia.org/wiki/Category:Middle-earth_locations",
+      "discovery_route": "category or API",
+      "discovery_timestamp": "2026-07-20T15:28:59.976294+00:00",
+      "observed_page_id": 442044,
+      "observed_page_title": "The Atlas of Middle-earth"
+    },
+    {
+      "discovery_reference": "https://en.wikipedia.org/wiki/Category:Middle-earth_locations",
+      "discovery_route": "category or API",
+      "discovery_timestamp": "2026-07-20T15:28:59.976294+00:00",
+      "observed_page_id": 46503631,
+      "observed_page_title": "Geography of Middle-earth"
+    },
+    {
+      "discovery_reference": "https://en.wikipedia.org/wiki/Category:Middle-earth_locations",
+      "discovery_route": "category or API",
+      "discovery_timestamp": "2026-07-20T15:28:59.976294+00:00",
+      "observed_page_id": 23139208,
+      "observed_page_title": "Middle-earth"
+    },
+    {
+      "discovery_reference": "https://en.wikipedia.org/wiki/Category:Middle-earth_locations",
+      "discovery_route": "category or API",
+      "discovery_timestamp": "2026-07-20T15:28:59.976294+00:00",
+      "observed_page_id": 819116,
+      "observed_page_title": "Two Trees of Valinor"
+    },
+    {
+      "discovery_reference": "https://en.wikipedia.org/wiki/Category:Middle-earth_locations",
+      "discovery_route": "category or API",
+      "discovery_timestamp": "2026-07-20T15:28:59.976294+00:00",
+      "observed_page_id": 33250267,
+      "observed_page_title": "File:Baynes-Map of Middle-earth.jpg"
+    },
+    {
+      "discovery_reference": "https://en.wikipedia.org/wiki/Category:Middle-earth_locations",
+      "discovery_route": "category or API",
+      "discovery_timestamp": "2026-07-20T15:28:59.976294+00:00",
+      "observed_page_id": 8988654,
+      "observed_page_title": "File:GWWaroftheRingWarRoom.PNG"
+    },
+    {
+      "discovery_reference": "https://en.wikipedia.org/wiki/Category:Middle-earth_locations",
+      "discovery_route": "category or API",
+      "discovery_timestamp": "2026-07-20T15:28:59.976294+00:00",
+      "observed_page_id": 33249686,
+      "observed_page_title": "File:Remington-Map of Middle-earth.jpg"
+    }
+  ],
+  "schema_version": 1
+}

@@ -1,0 +1,252 @@
+{
+  "article_artifact_id": "article_eafb9483bccdc0d8cd9a1e023d9a9004f2ff3ca587d290274c008e25867fb8f5",
+  "canonical_title": "Radagast",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_eafb9483bccdc0d8cd9a1e023d9a9004f2ff3ca587d290274c008e25867fb8f5",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "His role in Tolkien's writings is so slight that it has been described as a plot device, though scholars have noted his contribution to the evident paganism in Middle-earth. He played a more significant role in Peter Jackson's The Hobbit film series, where he was portrayed by Sylvester McCoy. Some aspects of his characterisation were invented for the films, but the core elements of his character—namely communing with animals, skill with herbs, and shamanistic ability to change his shape and colours—are all described in Tolkien's works. He is also a character in role-playing video games based on Tolkien's writings.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_0876dc61a46733b2d60a5fc5c305b579e2c39a49f1a89c228927b38be9a89df0",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_eafb9483bccdc0d8cd9a1e023d9a9004f2ff3ca587d290274c008e25867fb8f5",
+      "heading_path": [
+        "Appearances"
+      ],
+      "normalized_text": "thumb|upright|Tolkien's Radagast, with his affinity for animals, knowledge of herbs, and shape-changing abilities, has been compared to a shaman. Altai shaman pictured.",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_e7222a6a8d2ed5f3176269a5eae3e0ac1482c472610198ecb1ce044d3084b544",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_eafb9483bccdc0d8cd9a1e023d9a9004f2ff3ca587d290274c008e25867fb8f5",
+      "heading_path": [
+        "Etymology and origins"
+      ],
+      "normalized_text": "The in-fiction etymology, according to the essay \"The Istari\" in Unfinished Tales, is that the name Radagast means \"tender of beasts\" in Adûnaic, one of Tolkien's fictional languages. However, Christopher Tolkien says that his father intended to change this derivation and bring Radagast in line with the other wizard-names, Gandalf and Saruman, by associating it with the old language of the Men of the Vales of Anduin. No alternative meaning is provided with this new association; indeed, Tolkien stated that the name was \"not now clearly interpretable\". His title the Brown is simply a reference to his earth-brown robes; each of the wizards has a cloak of a different colour.",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_d8fae397828326d0b67bbfe1fccf9494d02373b888b966c5619cd07eab26fb91",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_eafb9483bccdc0d8cd9a1e023d9a9004f2ff3ca587d290274c008e25867fb8f5",
+      "heading_path": [
+        "Adaptations",
+        "In film"
+      ],
+      "normalized_text": "thumb|Radagast's sled chase in The Hobbit: An Unexpected Journey was filmed in the Strath Taieri, Otago, New Zealand",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_88eb72f0eaf693f1651d94d5300f6c0f2a179b06c3eb8606da1ceb4eeba501a8",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Radagast&action=history",
+  "namespace": 0,
+  "page_id": 62767,
+  "parent_revision_id": 1345724663,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1357834855",
+  "raw_wikitext": "{{Short description|Wizard in J.R.R. Tolkien's fictional Middle-earth}}\n{{About|The Lord of the Rings character|other uses|Radegast (disambiguation)}}\n{{good article}}\n{{Use British English|date=September 2024}}\n{{Use dmy dates|date=September 2024}}\n{{Infobox character\n| name    = Radagast the Brown\n| series  = [[J. R. R. Tolkien|Tolkien]]\n| image   = Sylvester McCoy as Radagast the Brown.jpg\n| caption = Radagast was played by Sylvester McCoy in Peter Jackson's film trilogy of The Hobbit.\n| alias   = Aiwendil\n| race    = [[Maiar]] ([[Wizards (Middle-earth)|wizards]])\n| lbl24   = Book(s)\n| data24  = ''[[The Hobbit]]'' (1937)<br/>''[[The Fellowship of the Ring]]'' (1954)<br/>''[[The Silmarillion]]'' (1977)<br/>''[[Unfinished Tales]]'' (1980)\n}}\n'''Radagast the Brown''' is a fictional character in [[J. R. R. Tolkien]]'s [[Tolkien's legendarium|legendarium]]. A [[Wizard (Middle-earth)|wizard]] and associate of [[Gandalf]], he appears briefly in ''[[The Hobbit]]'', ''[[The Lord of the Rings]]'', ''[[The Silmarillion]]'', and ''[[Unfinished Tales]]''.\n\nHis role in Tolkien's writings is so slight that it has been described as a [[plot device]],<ref name=\"Harvey 2011\"/> though scholars have noted his contribution to the evident [[paganism in Middle-earth]]. He played a more significant role in [[Peter Jackson]]'s [[The Hobbit (film series)|''The Hobbit'' film series]], where he was portrayed by [[Sylvester McCoy]]. Some aspects of his characterisation were invented for the films, but the core elements of his character—namely communing with animals, skill with herbs, and [[shaman]]istic ability to change his shape and colours—are all described in Tolkien's works. He is also a character in [[role-playing video game]]s based on Tolkien's writings.\n\n== Appearances ==\n\n[[File:SB - Altay shaman with drum.jpg|thumb|upright|Tolkien's Radagast, with his affinity for animals, knowledge of herbs, and shape-changing abilities, has been compared to a [[shaman]].<ref name=\"Harvey 2011\"/> [[Altai people|Altai]] shaman pictured.]]\n\n''[[Unfinished Tales]]'' explains that Radagast, like the other Wizards, came from [[Valinor]] around the year 1000 of the [[Third Age]] of Middle-earth and was one of the angelic [[Maia (Middle-earth)|Maiar]]. His original name is said to have been ''Aiwendil'', meaning ''bird-friend'' in Tolkien's [[fictional language|invented language]] of [[Quenya]]. [[Yavanna]], one of the god-like [[Valar]], forces Radagast's fellow wizard [[Saruman]] to accept him as a companion, which, Tolkien says, may have been one of the reasons Saruman was contemptuous of him, to the point of scornfully calling him \"simple\" and \"a fool\".<ref name=\"ut\" group=T>{{harvnb|Tolkien|1980|loc=''[[Unfinished Tales]]'', part 4, ch. 2 \"The Istari\"}}</ref> However, he is an ally and confidant of [[Gandalf]], who describes him in ''[[The Hobbit]]'' as his \"cousin\". He is a friend of the [[shapeshifting|skin-changer]] [[Beorn]], something that Gandalf relies upon to get his party of [[Dwarf (Middle-earth)|Dwarves]] and a [[Hobbit]] accepted by a sceptical Beorn.<ref name=\"Rad_Hob\" group=T>{{harvnb|Tolkien|1937|loc=''[[The Hobbit]],'' ch. 7 \"Queer Lodgings\"}}</ref><ref name=\"Birns 2007\"/>\n\nRadagast lives at Rhosgobel on the western eaves of [[Mirkwood]], its name deriving from [[Sindarin]] ''rhosc gobel'', meaning \"brown village\".<ref name=\"ut\" group=T/> Radagast has a strong affinity for—and relationship with—wild animals. It is said he speaks the many tongues of birds, and is a \"master of shapes and changes of hue\". Radagast is described by Gandalf as \"never a traveller, unless driven by great need\", \"a worthy Wizard\", and \"honest\".<ref name=\"fotr\" group=T>{{harvnb|Tolkien|1954|loc=''[[The Fellowship of the Ring]]'', book 2, ch. 2 \"[[The Council of Elrond]]\"}}</ref>\n\nIn ''[[The Fellowship of the Ring]]'', during the [[Council of Elrond]], Gandalf tells of a previous encounter with Radagast. Radagast was unwittingly used by Saruman to lure Gandalf to his tower of [[Orthanc]], where Gandalf was captured. Fortuitously, Radagast also helped rescue him by sending [[Gwaihir]] the eagle to Orthanc with news of the movements of [[Sauron]]'s forces. When Gwaihir saw that Gandalf was imprisoned on the top of the tower he carried him off to safety.<ref name=\"fotr\" group=T/> The only other reference to Radagast in ''[[The Lord of the Rings]]'' is after the Council of Elrond when scouts are sent out. It is reported that Radagast is not at his home at Rhosgobel.<ref group=T>{{harvnb|Tolkien|1954|loc=''[[The Fellowship of the Ring]]'', book 2, ch. 3 \"The Ring Goes South\"}}</ref>\n\n''[[The Silmarillion]]'' briefly summarizes the same events in ''Of the Rings of Power and the Third Age'', stating that Radagast is \"the friend of all birds and beasts\",<ref name=\"Of the Rings of Power\" group=T/> and noting that he innocently helps Saruman to assemble \"a great host of spies\"<ref name=\"Of the Rings of Power\" group=T/> including many birds.<ref name=\"Of the Rings of Power\" group=T>{{harvnb|Tolkien|1977|loc=''[[The Silmarillion]]'', ''Of the Rings of Power and the Third Age''}}</ref>\n\n== Etymology and origins ==\n\nThe in-fiction etymology, according to the essay \"The [[Istari]]\" in ''[[Unfinished Tales]]'', is that the name ''Radagast'' means \"tender of beasts\" in [[Adûnaic]], one of Tolkien's fictional languages. However, [[Christopher Tolkien]] says that his father intended to change this derivation and bring Radagast in line with the other wizard-names, Gandalf and Saruman, by associating it with [[Languages constructed by Tolkien#Linguistic mapping|the old language of the Men of the Vales of Anduin]]. No alternative meaning is provided with this new association; indeed, Tolkien stated that the name was \"not now clearly interpretable\". His title ''the Brown'' is simply a reference to his earth-brown robes; each of the wizards has a cloak of a different colour.<ref name=\"ut\" group=T/>\n\nThe name Radagast is found in [[Edward Gibbon]]'s 1776–1789 ''[[Decline and Fall of the Roman Empire]]'', in the form \"[[Radagaisus]]\", the name of a [[Goths|Gothic]] king.{{sfn|Shippey|2005|p=396}} [[Slavic mythology]] contains a [[Radegast (god)|god named Radegast]]; this has been interpreted as \"welcome guest\", making him the god of hospitality.<ref name=\"Aitamurto Simpson 2014\">{{cite book |title=Modern Pagan and Native Faith Movements in Central and Eastern Europe |last1=Aitamurto |first1=Kaarina |last2=Simpson |first2=Scott |publisher=[[Routledge]] |year=2014 |page=356 |isbn=9781317544623 |url=https://books.google.com/books?id=2L3oBAAAQBAJ&pg=PA356}}</ref> Tolkien's wizard may represent an echo of this Slavic tradition,<ref name=\"Orr 1994\">{{cite journal |last=Orr |first=Robert |title=Some Slavic Echos in J. R. R. Tolkien's Middle-earth |journal=Germano-Slavica |volume=8 |year=1994 |pages=23–34}}</ref> a rare source among all the diverse [[J. R. R. Tolkien's influences#Mythology|influences on Tolkien's writings]].<ref name=\"Birns 2007\"/>\n\nTolkien wrote that [[Josef Madlener]]'s \"''Der Berggeist''\", which shows a man in a hat seated in a forest, communing with a wild deer, inspired his Gandalf<ref name=\"Carpenter 1977\">{{cite book |last=Carpenter |first=Humphrey |author-link=Humphrey Carpenter |title=[[J. R. R. Tolkien: A Biography]] |date=1977 |publisher=[[Allen & Unwin]] |location=London |isbn=978-0049280373 |page=51}}</ref> and set him thinking about the wizards Gandalf, [[Saruman]], and Radagast.{{sfn|Hammond |Scull |2005|pp=240–245}}\n\n== Analysis ==\n\nRadagast appears so briefly that he has been described as a plot device for Saruman's treachery, rather than a genuine character. From the clues given, that he is a \"master of shapes and a changer of hues\", his friendship and communication with animals, and his skill in herbs, he resembles a [[shaman]].<ref name=\"Harvey 2011\">{{cite book |last=Harvey |first=Greg |title=The Origins of Tolkien's Middle-earth For Dummies |url=https://books.google.com/books?id=MocR5l-N8xIC&pg=PT159 |date=2011 |publisher=[[Wiley (publisher)|John Wiley & Sons]] |isbn=978-1-118-06898-4 |pages=159–160}}</ref><ref name=\"Birns 2007\">{{cite journal |last=Birns  |first=Nicholas |author-link=Nicholas Birns |year=2007 |title=The Enigma of Radagast: Revision, Melodrama, and Depth |journal=[[Mythlore]] |volume=26 |issue=1 |pages=113–126 |url=https://dc.swosu.edu/mythlore/vol26/iss1/8}}</ref> He has been described as \"one of the most interesting enigmas in Tolkien's writings\"; given the treason of Saruman, he and Gandalf are the only two wizards available to counter [[Sauron]], but Radagast fails to answer [[Elrond]]'s call.<ref>{{cite news |last=Winick |first=Stephen |title=In Defense of The Hobbit: An Unexpected Journey |url=https://www.huffpost.com/entry/the-hobbit-lotr_b_2399998 |access-date=4 June 2020 |work=[[HuffPost]] |date=5 March 2013}}</ref>\n\nIn a letter, Tolkien wrote that Radagast gave up his mission as a Wizard by becoming too obsessed with animals and plants, but stated that he did not believe that Radagast's failure was as great as Saruman's.<ref name=\"hiy\" group=T>{{harvnb|Carpenter|2023|loc=''[[The Letters of J. R. R. Tolkien|Letters]]'', #156 to [[Robert Murray (priest)|Robert Murray, S.J.]], 4 November 1954}}</ref> Christopher Tolkien commented that Radagast might not have failed completely, as he was specifically chosen by the Vala [[Yavanna]] for a mission to protect the plants and animals.<ref name=\"ut\" group=T/>\n\nThe Tolkien scholar [[Patrick Curry (author)|Patrick Curry]] writes that the Slavic Radagast is the pagan patron of the Czech [[Beskids|Beskyd mountains]], depicted with a bird atop his [[horned helmet]]. In his view, this suggests that Tolkien's Radagast is one of many examples of [[paganism in Middle-earth]].{{sfn|Curry|1998|p=114}}\n\n==Adaptations==\n\n===In film===\n[[File:Sylvester_McCoy_as_Radagast_the_Brown.jpg|thumb|left|upright|Radagast was played as \"a bumbling hero\" by [[Sylvester McCoy]] in [[Peter Jackson]]'s film trilogy of ''The Hobbit''.{{sfn|Sibley|2012|pp=130–135}}]]\n\nIn [[Peter Jackson]]'s ''[[The Hobbit: An Unexpected Journey]]'', Radagast is played by [[Sylvester McCoy]],<ref>{{cite web |url=http://filmonic.com/sylvester-mccoy-is-radagast-the-brown |title=Sylvester McCoy is Radagast the Brown |publisher=Filmonic |date=27 October 2010 |access-date=3 April 2011 |url-status=dead |archive-url=https://web.archive.org/web/20111004073717/http://filmonic.com/sylvester-mccoy-is-radagast-the-brown |archive-date=4 October 2011}}</ref> and is expanded far beyond his brief role in the book.{{sfn|Sibley|2012|pp=130–135}} McCoy stated that he saw Radagast as \"very otherworldly with, as Tolkien depicts him, an empathy and kinship with nature, a Middle-earth version of [[St Francis of Assisi]]\". McCoy added that while Radagast was rather absent-minded, he comes out as \"a bumbling hero\". As for his house, McCoy said that the idea was that the tree decided to grow right through it, and Radagast agreed that he and the tree could live together.{{sfn|Sibley|2012|pp=130–135}} In the film, Radagast is the first wizard to visit [[Dol Guldur]] after he realizes that an evil power has infected the wood in which he lives. He discovers that a [[Necromancer]] (who turns out to be [[Sauron]]) has taken residence in the ruined fortress. In Dol Guldur he encounters the spirit of the [[Witch-king of Angmar]], as well as the shadow of the Necromancer himself, and escapes with the Morgul blade taken from the Witch-king.{{sfn|Sibley|2012|pp=130–135}} Radagast's means of transportation is a sled pulled by enormous rabbits, a concept entirely original to the movie.{{sfn|Sibley|2012|pp=130–135}} Radagast meets Gandalf, [[Bilbo Baggins]], and the Dwarves en route to [[Erebor]], and tells them of his discovery in Dol Guldur. When [[List of The Hobbit characters#Thorin's company|Thorin's Company]] are attacked by [[Orc (Middle-earth)|Orcs]] riding [[Warg (Middle-earth)|Warg]]s, Radagast mounts his sled and provides a distraction. Later, Saruman makes contemptuous remarks about Radagast during a meeting with Gandalf, [[Elrond]], and [[Galadriel]].{{sfn|Holston|Winchester|2018|pp=130–132}} The writer [[Brian Sibley]] comments that the fact that Tolkien said little about Radagast gave Jackson's screenwriters freedom to make of the character what they liked.{{sfn|Sibley|2012|pp=130–135}} ''[[The Economist]]'' wrote that Radagast the Brown had been created from Tolkien's \"sparse and bare\" hints as to his character.<ref>{{cite news |last=Prospero |title=An unexpected disappointment |url=https://www.economist.com/prospero/2012/12/11/an-unexpected-disappointment |access-date=4 June 2020 |newspaper=[[The Economist]] |date=11 December 2012}}</ref> The sled chase was filmed in the [[Strath Taieri]] glacial valley of New Zealand's [[South Island]], strewn with real boulders.<ref>{{cite web |title=The Hobbit: An Unexpected Journey 2012 |url=https://www.movie-locations.com/movies/h/Hobbit-An-Unexpected-Journey.php |website=Movie Locations |access-date=4 June 2020}}</ref>\n\n[[File:Taieri Plain, Otago, New Zealand, June 2009.jpg|thumb|Radagast's sled chase in ''[[The Hobbit: An Unexpected Journey]]'' was filmed in the [[Strath Taieri]], Otago, New Zealand]]\n\nIn ''[[The Hobbit: The Desolation of Smaug]]'', Radagast appears with Gandalf in a few scenes. The two wizards investigate an empty tomb, determining that the [[Nazgûl]] are once again awake and have been summoned. Gandalf bids Radagast to go and tell [[Galadriel]] of all they find, and that the [[White Council]] must make a pre-emptive move on Dol Guldur. Inside the ruins, Gandalf confronts the Necromancer and finds that he is indeed Sauron, just as Radagast had thought.{{sfn|Holston|Winchester|2018|pp=132–133}}\n\nIn ''[[The Hobbit: The Battle of the Five Armies]]'', Radagast arrives in Dol Guldur as the White Council battle Sauron and the Nazgûl, and carries the wounded Gandalf on his sled.<ref>{{cite web |title=The Hobbit: The Battle of the Five Armies Quotes – 'Will you follow me, one last time?' |url=https://www.moviequotesandmore.com/battle-of-the-five-armies-quotes/ |website=Movie Quotes and More |access-date=19 June 2020}}</ref> In the final battle, Radagast leads a charge of the [[Eagles in Middle-earth|Great Eagles]] at the end of the battle to assist the Dwarves, [[Men in Middle-earth|Men]], and [[Elves in Middle-earth|Elves]] against the Orcs.\n\n===In games===\n\nRadagast features in computer and video games such as those from [[Games Workshop]].<ref name=\"RobbSimpson2013\">{{cite book |last1=Robb |first1=Brian J. |last2=Simpson |first2=Paul |title=Middle-earth Envisioned: The Hobbit and The Lord of the Rings: On Screen, On Stage, and Beyond |url=https://books.google.com/books?id=Nds_AQAAQBAJ&pg=PA4090 |year=2013 |publisher=Race Point |location=London, England|isbn=978-1-937994-27-3 |page=90}}</ref> He plays an expanded role in the [[massively multiplayer online role-playing game]] ''[[The Lord of the Rings Online]]'', which makes him a leader in a part of Middle-earth, allowing players to interact with him.<ref name=\"Voorhees Call2012\">{{cite book |last1=Voorhees |first1=Gerald A. |last2=Call |first2=Joshua |last3=Whitlock |first3=Katie |title=Dungeons, Dragons, and Digital Denizens: The Digital Role-Playing Game |url=https://books.google.com/books?id=TIzHzRs18I8C&pg=PA123 |date=2012 |publisher=[[Continuum International Publishing Group]] |location=London |isbn=978-1-4411-9518-0 |page=123}}</ref><ref name=\"Tresca2014\">{{cite book |last=Tresca |first=Michael J. |title=The Evolution of Fantasy Role-Playing Games |url=https://books.google.com/books?id=8H8bzqj6S4sC&pg=PA38 |year=2014 |publisher=[[McFarland (publisher)|McFarland]] |location=Jefferson, North Carolina |isbn=978-0-7864-6009-0 |page=38}}</ref>\n\n==References==\n\n===Primary===\n\n{{reflist|24em|group=T}}\n\n===Secondary===\n{{reflist|24em}}\n\n==Sources==\n\n{{colbegin|colwidth=28em}}\n* {{ME-ref|Letters}} <!--Carpenter-->\n* {{cite book |last=Curry |first=Patrick |author-link=Patrick Curry (author) |url=https://books.google.com/books?id=mz2d3gYJpLkC |title=Defending Middle-Earth: Tolkien: Myth and Modernity |year=1998 |orig-year=1997 |publisher=[[HarperCollins]] |isbn=978-0-261-10371-9}}\n* {{cite book |last1=Hammond |first1=Wayne G. |author1-link=Wayne G. Hammond |last2=Scull |first2=Christina |author2-link=Christina Scull |title=The Lord of the Rings: A Reader's Companion |title-link=The Lord of the Rings: A Reader's Companion |publisher=[[HarperCollins]] |year=2005 |isbn=978-0-00-720907-1}}\n* {{cite book |last1=Holston |first1=Kim R. |last2=Winchester |first2=Tom |title=Science Fiction, Fantasy and Horror Film Sequels, Series and Remakes: An Illustrated Filmography, Volume II (1996-2016) |url=https://books.google.com/books?id=gqFGDwAAQBAJ&pg=PT139 |year=2018 |publisher=[[McFarland & Company|McFarland]] |isbn=978-0-7864-9685-3}}\n* {{ME-ref|ROAD}}\n* {{cite book |last=Sibley |first=Brian |author-link=Brian Sibley |title=The Hobbit: An Unexpected Journey Official Movie Guide |url=https://books.google.com/books?id=e5srNGZN70wC&pg=PT219 |year=2012 |publisher=[[Houghton Mifflin Harcourt|Houghton Mifflin]] |isbn=978-0-547-89930-5}}\n* {{ME-ref|TH}}\n* {{cite book |last=Tolkien |first=J. R. R. |author-link=J. R. R. Tolkien |year=1954 |title=[[The Fellowship of the Ring]] |publisher=[[Allen & Unwin]] |oclc=647030791}}\n* {{ME-ref|Silm}}\n* {{ME-ref|UT}}\n\n{{colend}}\n\n{{Hobbit}}\n{{The Lord of the Rings}}\n\n{{DEFAULTSORT:Radagast (Middle-Earth)}}\n[[Category:The Lord of the Rings characters]]\n[[Category:Middle-earth wizards]]\n[[Category:Fictional shamans]]\n[[Category:Literary characters introduced in 1954]]\n[[Category:Male characters in literature]]",
+  "redirect_chain": [],
+  "revision_id": 1357834855,
+  "revision_timestamp": "2026-06-04T23:24:09Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Etymology and origins"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Etymology and origins"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "In film"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "In film"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "In film"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "In film"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "In games"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

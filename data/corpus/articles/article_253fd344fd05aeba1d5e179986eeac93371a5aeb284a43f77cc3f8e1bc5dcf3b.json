@@ -1,0 +1,263 @@
+{
+  "article_artifact_id": "article_253fd344fd05aeba1d5e179986eeac93371a5aeb284a43f77cc3f8e1bc5dcf3b",
+  "canonical_title": "Húrin",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_253fd344fd05aeba1d5e179986eeac93371a5aeb284a43f77cc3f8e1bc5dcf3b",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Scholars have remarked the power and grimness of the tale. Tom Shippey calls the scene where Húrin is freed after 28 years by the Dark Lord Morgoth the \"lyric core\" of the tale of the fall of Gondolin. Christopher Garbowski comments that when Húrin cries aloud, revealing the hidden entrance to Gondolin, the effect is quite unlike that of The Lord of the Rings. Helen Lasseter Freeh comments on the version in Unfinished Tales where Húrin and Morgoth discuss luck and fate in Middle-earth. Shippey remarks that Tolkien often provides double explanations of events throughout his Middle-earth writings, so that their cause could be luck, but could equally be fate, the will of the godlike Valar.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_f23e6766e122b4f761e1a5045ab2c281e84bf411f051e2d1d4479cd6c98fb0bc",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_253fd344fd05aeba1d5e179986eeac93371a5aeb284a43f77cc3f8e1bc5dcf3b",
+      "heading_path": [
+        "Fictional history"
+      ],
+      "normalized_text": "thumb|upright=2|Sketch map of Beleriand. Dor-lómin is at top left, Gondolin top centre, Doriath centre with the Forest of Brethil to its left and the river Sirion running southwards, centre. Angband is in the Thangorodrim mountains, top.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_1431b6c6f7e25dac8548ae0162c5b6da07a4430064de1a8128caae7c1fb49209",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_253fd344fd05aeba1d5e179986eeac93371a5aeb284a43f77cc3f8e1bc5dcf3b",
+      "heading_path": [
+        "Fictional history"
+      ],
+      "normalized_text": "Húrin travels to the forest of Brethil where his son and daughter died, and meets Morwen at their grave, just before she dies. In anger and despair he seeks out the Folk of Haleth, blaming them for the deaths of his wife and children; a revolt ensues, killing the last Haladin. Hardang the Chieftain of Brethil fears and imprisons Húrin. A leader, Manthor, sets the people against Hardang; they kill him. Manthor too is killed; he asks Húrin: \"Was not this your true errand, Man of the North: to bring ruin upon us to weigh against thine own?\"",
+      "paragraph_ordinal": 7,
+      "passage_id": "passage_7b82385cd7b23114edcb94fc45a3e626bf6a1587b8e37f43add5270e7d07a55f",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=H%C3%BArin&action=history",
+  "namespace": 0,
+  "page_id": 444355,
+  "parent_revision_id": 1339785818,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1357831819",
+  "raw_wikitext": "{{Short description|Man in Tolkien's legendarium}}\n{{redirect|Hurin}}\n{{good article}}\n{{Use British English|date=September 2021}}\n{{Infobox character\n| name   = Húrin\n| series = [[J. R. R. Tolkien|Tolkien]]\n| alias  = Thalion, the Steadfast,<br/>Lord of Dor-lómin\n| race   = [[Man (Middle-earth)|Men]]\n| gender = Male\n| lbl24  = Book(s)\n| data24 = ''[[The Silmarillion]]'',<br/>''[[The Children of Húrin]]'',<br/>''[[The War of the Jewels]]'',<br/>''[[Unfinished Tales]]''\n}}\n'''Húrin''' is a fictional character in the [[Middle-earth]] [[legendarium]] of [[J. R. R. Tolkien]]. He is introduced in ''[[The Silmarillion]]'' as a hero of [[Man (Middle-earth)|Men]] during the [[First Age]], said to be the greatest warrior of both the [[Edain]] (Men of [[Númenor]] and their descendants) and all Men in Middle-earth. His actions, however, bring catastrophe and ruin to his family and to the people of [[Beleriand]].\n\nScholars have remarked<!--not 'on', that's something different--> the power and grimness of the tale. [[Tom Shippey]] calls the scene where Húrin is freed after 28 years by the Dark Lord [[Morgoth]] the \"lyric core\" of the tale of the [[fall of Gondolin]]. Christopher Garbowski comments that when Húrin cries aloud, revealing the hidden entrance to Gondolin, the effect is quite unlike that of ''[[The Lord of the Rings]]''. Helen Lasseter Freeh comments on the version in ''[[Unfinished Tales]]'' where Húrin and Morgoth discuss [[luck and fate in Middle-earth]]. Shippey remarks that [[Tolkien's ambiguity|Tolkien often provides double explanations]] of events throughout his Middle-earth writings, so that their cause could be luck, but could equally be fate, the will of the godlike Valar.\n\n{{anchor|Galdor|Hador|Huor}}\n\n== Fictional history ==\n\n{{anchor|Hador}}\n\n{{quote box|width=40%|[Húrin] was shorter in stature than other men of his kin; in this he took after his mother's people, but in all else he was like Hador his grandfather, fair of face and golden-haired, strong in body and fiery of mood. But the fire in him burned steadily, and he had great endurance of will. Of all Men of the North he knew most of the counsels of the [[Noldor]].<ref name=\"UT\" group=T>{{harvnb|Tolkien|1980|loc=''[[Narn i Hîn Húrin]]'', ''The childhood of Túrin''}}</ref>}}\n\n[[File:Sketch Map of Beleriand.svg|thumb|upright=2|Sketch map of [[Beleriand]]. Dor-lómin is at top left, [[Gondolin]] top centre, [[Doriath (Middle-earth)|Doriath]] centre with the Forest of Brethil to its left and the river Sirion running southwards, centre. Angband is in the Thangorodrim mountains, top.]]\n\nHúrin is the elder son of Galdor of the House of Hador and Hareth of the Men of Haladin, who are [[Edain]]; his younger brother is Huor.<ref name=\"Coming of Men into the West\" group=T>{{harvnb|Tolkien|1977}}, ch. 17 \"Of the Coming of Men into the West\"</ref> They live with their uncle Haldir in Dor-lómin in [[Beleriand]], and join a war party against the [[Orc (Middle-earth)|Orcs]]. The brothers are cut off from their company and chased by Orcs in the Vale of Sirion. The [[Vala (Middle-earth)|Vala]] Ulmo, Lord of Waters, causes a mist to arise from the river, and they escape. Two [[Eagle (Middle-earth)|Eagles]] bring them to the hidden [[Elves in Middle-earth|Elvish]] city of [[Gondolin]]. King [[Turgon of Gondolin|Turgon]] welcomes them, remembering Ulmo's prophecy that the House of Hador will aid Gondolin in its time of need. Turgon's nephew [[Maeglin]] urges that they not be allowed to leave, but Turgon overrides him; swearing secrecy, they return to Dor-lómin.<ref name=\"Childhood of Túrin\" group=T>{{harvnb|Tolkien|2007}}, \"The Childhood of Túrin\", pp. 35–37</ref>\n\n[[Morgoth]]'s orcs attack [[Hithlum]], killing Húrin's father; Húrin chases the Orcs away and becomes the Lord of his people. He marries Morwen, who bears him a son, [[Túrin Turambar|Túrin]], and a daughter, [[Nienor]]. Húrin rides his horse Arroch, 'Noble horse',<ref name=\"UT\" group=T/> to battle alongside his brother. In the midst of battle he meets Turgon again. Losing the battle, Húrin and Huor take a stand, allowing Turgon to escape. Huor is killed, but Húrin fights until he is buried under a mountain of Orcs and [[Troll (Middle-earth)|Trolls]]. Gothmog Lord of [[Balrog]]s brings him to Morgoth's fortress, [[Angband (Middle-earth)|Angband]]. Morgoth tries to force Húrin to reveal where Gondolin is. When Húrin refuses, Morgoth curses him along with his kin and puts him on a high mountain peak in chains, and lets him see and hear from the seat the evils that [[The Children of Húrin|will befall his son and daughter]], but not the good they will do. Húrin is embittered to learn that his children, both under a dragon-spell, marry each other, conceive a child, and commit [[suicide]].<ref name=\"Túrin Turambar\" group=T>{{harvnb|Tolkien|1977}}, ch. 21 \"Of Túrin Turambar\"</ref>\n\nAfter twenty-eight years of imprisonment and the death of his children, Morgoth releases Húrin: \"He had grown grim to look upon: his hair and beard were white and long, but there was a fell light in his eyes. He walked unbowed, and yet carried a great black staff; but he was girt with a sword.\"<ref name=\"Wanderings of Húrin\" group=T>{{harvnb|Tolkien|1994|loc=\"The Wanderings of Húrin\", pp. 252, 297}}</ref> He is brought to his old homelands, but enemies are living there. Seven outlaws join Húrin; they go to the Vale of Sirion. Húrin abandons his followers and seeks the entrance to [[Gondolin]], but it is closed, and Turgon does not wish to allow him in. Húrin cries out against Turgon, [[The Fall of Gondolin|revealing the location of Gondolin]] to Morgoth's spies, and leaves. Too late, Turgon changes his mind and sends Eagles, but they do not find Húrin.<ref name=\"Narn\" group=T>{{harvnb|Tolkien|1980|loc=\"Narn i Hîn Húrin\"}}</ref>\n\nHúrin travels to the forest of Brethil where his son and daughter died, and meets Morwen at their grave, just before she dies. In anger and despair he seeks out the Folk of Haleth, blaming them for the deaths of his wife and children; a revolt ensues, killing the last Haladin. Hardang the Chieftain of Brethil fears and imprisons Húrin. A leader, Manthor, sets the people against Hardang; they kill him. Manthor too is killed; he asks Húrin: \"Was not this your true errand, Man of the North: to bring ruin upon us to weigh against thine own?\"<ref name=\"Wanderings of Húrin\" group=T/>\n\nHúrin and the outlaws go to [[Nargothrond]]. They take the dragon's gold from the dwarf who had claimed it, to avenge his family. They bring the treasure, including the dwarves' necklace, the Nauglamír, to [[Doriath (Middle-earth)|Doriath]]; they insult [[Thingol]] by giving the necklace as payment for his care of Húrin's kin. This brings a curse on Doriath, leading to its downfall.<ref name=\"Of the Ruin of Doriath\" group=T>{{harvnb|Tolkien|1977}}, ch. 22 \"Of the Ruin of Doriath\"</ref> [[Melian (Middle-earth)|Melian]] the [[Maia (Middle-earth)|Maia]], queen of Doriath, uses kind words to reach Húrin's clouded mind. Húrin sees that all his deeds have only aided Morgoth. A broken man, he drowns himself in the sea, ending the life of the \"mightiest of the warriors of mortal men\".<ref name=\"Of the Ruin of Doriath\" group=T/>\n\n== Descent of Húrin ==\n{{TúrinTuor family tree}}\n\n== Analysis ==\n\n=== Effects ===\n\n{{further|The Fall of Gondolin}}\n\nThe [[Tolkien research|Tolkien scholar]] [[Tom Shippey]] writes that the \"lyric core\" of the story of the [[fall of Gondolin]], the source of narrative dynamism amidst all the description and [[Tolkien's Middle-earth family trees|genealogy]] in ''The Silmarillion'', is the scene where Húrin is set free after 28 years imprisoned by Morgoth. In his view, \"everything in this scene is emblematic\";<ref name=\"Shippey 2005 p283\"/> the sun sets behind the Mountains of Shadow, standing for the coming catastrophe, but \"the real sunset is in Húrin's heart\".<ref name=\"Shippey 2005 p283\"/>  The dynamism is revealed, Shippey writes, by asking who is at fault on this occasion: is it Húrin, for despair, or Turgon, for being suspicious? Shippey comments that to answer fully would be to retell \"the whole unhappy story of Middle-earth.\"<ref name=\"Shippey 2005 p283\"/> He explains that the matter hinges on \"a conflict of kinship\"; Húrin remembers from many years earlier how he suffered to help Turgon; but though Turgon knows Húrin's situation, the royal Elf \"refuses to trust the man who saved him once\", and does not relent until it is too late. It is thus vital to the scene, and to the whole story, that the reader appreciates why Húrin goes into this emotional sunset; and that in turn requires the reader to know about his kinship with Turgon, from the family tree.<ref name=\"Shippey 2005 p283\">{{harvnb|Shippey|2005|pp=283–287}}</ref>\n\nChristopher Garbowski writes in the ''[[J.R.R. Tolkien Encyclopedia]]'' that the depiction of Húrin in ''[[The War of the Jewels]]'', crying aloud in the wilderness by the hidden entrance to Gondolin, creates a very different and far less optimistic and effect to that of ''[[The Lord of the Rings]]'', which had already been written. The Vala [[Manwë (Middle-earth)|Manwe]] sends an eagle to Turgon for help, but the account seems, writes Garbowski, to allow no time for the message to arrive. He calls Shippey's description of the scene, a \"posed tableau\", apt.<ref name=\"Garbowski 2013\">{{cite encyclopedia |last=Garbowski |first=Christopher |editor-last=Drout |editor-first=Michael D. C. |editor-link=Michael D. C. Drout |title=Middle-earth |encyclopedia=[[J.R.R. Tolkien Encyclopedia]] |year=2013 |orig-year=2007 |publisher=[[Routledge]] |isbn=978-0-415-86511-1 |page=424}}</ref>\n\n=== Tolkien's choices ===\n\nAlex Lewis, writing in ''[[Mythlore]]'', asserts that Tolkien introduced a historical bias into the tale of Húrin's coming to Gondolin. He suggests that Tolkien chose to favour Turgon at the expense of Maeglin, because Turgon was a direct ancestor of [[Elrond]]. Since [[Ancestry as guide to character in Tolkien's legendarium|in Tolkien's view ancestry indicated character]], that meant that Turgon had to be spared the blame for the fall of Gondolin –  Húrin had to take this blame in his place. Lewis comments that the long version in ''[[The Book of Lost Tales]]'' differs markedly from the account in ''[[The Silmarillion]]'' here. He notes that Tolkien started to revise the tale but never completed the revision.<ref name=\"Lewis 1996\"/> Lewis asserts, too, that \"Hurin was a far better tactician than [[Fingon]] or Turgon. He had the best idea of keeping the high-ground advantage\", putting this down to Tolkien's bias in favour of Elves over Men.<ref name=\"Lewis 1996\">{{cite journal |last=Lewis |first=Alex |year=1996 |title=Historical Bias in the Making of The Silmarillion |journal=[[Mythlore]] |volume=21 |issue=2 |at=Article 25 |url=https://dc.swosu.edu/mythlore/vol21/iss2/25}}</ref>\n\nDavid Greenman, also in ''Mythlore'', proposes a [[Tolkien and the classical world|classical influence on Tolkien]]. He describes the sad tale of Húrin as \"[[Aristotelian tragedy|Aristotelian Epic-Tragedy]]\", as defined in the ''[[Poetics]]'' in terms of Aristotelian elements such as \"plot, ... spectacle, language, character, ... reversal, and catharsis\".<ref name=\"Greenman 1988\">{{cite journal |last=Lewis |first=Alex |year=1988 |title=The Silmarillion as Aristotelian Epic-Tragedy |journal=[[Mythlore]] |volume=14 |issue=3 |at=Article 4 |url=https://dc.swosu.edu/mythlore/vol14/iss3/4}}</ref>\n\nThe [[lawyer|attorney]] Douglas Kane, writing in ''[[Tolkien Studies]]'', discusses Húrin's trial as described in ''[[The Wanderings of Húrin]]'', published in ''[[The War of the Jewels]]''. He assaults Hardang with a stool; he is drugged and put on trial; Manthor advises him. Húrin \"falsely charges\" the people of Brethil with failing to help Morwen. Kane calls the tale \"some of Tolkien's most incisive political commentary\", citing \"Húrin's cold comfort to Manthor on his deathbed\":  telling Manthor that his friendship \"was rooted in self-interest\", as he hoped to \"use his defense of Húrin to further his own ambition to become the Chieftain.\"<ref>{{cite journal |last=Kane |first=Douglas C. |title=Law and Arda |journal=[[Tolkien Studies]] |volume=9 |year=2012 |pages=37–57 |doi=10.1353/tks.2012.0007}}</ref>\n\n=== Fate and free will ===\n\n{{further|Luck and fate in Middle-earth}}\n\nThe Tolkien scholar Helen Lasseter Freeh notes that the longer version of the tale of Túrin Turambar in ''Unfinished Tales'' (the ''Narn'') contains a dialogue between Morgoth and Húrin about fate and providence. Despite his imprisonment, Húrin insists that Morgoth cannot control everything. While Morgoth does not directly contradict this, he says he will spread a \"cloud of Doom\" on everyone Húrin loves, and \"wherever they go, evil shall arise\". Túrin lives a life of disaster, in which Freeh sees the hand of fate, which threatens to overwhelm Túrin's free will.<ref name=\"Wood2015\">{{cite book |last=Wood |first=Ralph C. |author-link=Ralph C. Wood |chapter=On Fate, Providence, and Free Will in 'The Silmarillion' |title=Tolkien among the Moderns |chapter-url=https://books.google.com/books?id=OFAFDgAAQBAJ&pg=PT65 |year=2015 |publisher=[[University of Notre Dame Press]] |isbn=978-0-268-09674-8 |pages=65–75}}</ref><ref name=\"Shippey 2005 p296\"/> Shippey comments that Morgoth is one of the [[Valar]], whose power in the world appears as [[Luck and fate in Middle-earth|luck, or chance, or fate]]. Terrible things in the ''Narn'' seem to be coincidences; but, writes Shippey, Tolkien often  [[Tolkien's ambiguity|gives double explanations]] of these events, one fate, one just accident.<ref name=\"Shippey 2005 p296\">{{harvnb|Shippey|2005|pp=296–304}}</ref>\n\n== See also ==\n\n* ''[[The Children of Húrin]]'', a novel assembled by Christopher Tolkien from his father's fragmentary manuscripts\n* [[The Lay of the Children of Húrin]], an early [[Alliterative verse|alliterative poem]] telling of the tragic life of Húrin's son [[Túrin Turambar|Túrin]].\n\n== References ==\n\n===Primary===\n\n{{reflist|group=T|28em}}\n\n===Secondary===\n{{reflist|28em}}\n\n===Sources===\n\n* {{ME-ref|ROAD}} <!--Shippey 2005-->\n* {{ME-ref|Silm}} <!--Tolkien 1977-->\n* {{ME-ref|UT}}   <!--Tolkien 1980-->\n* {{ME-ref|WJ}}   <!--Tolkien 1994-->\n* {{ME-ref|CH}}   <!--Tolkien 2007-->\n\n{{Middle-earth}}\n\n{{DEFAULTSORT:Hurin}}\n[[Category:Middle-earth Edain]]\n[[Category:The Silmarillion characters]]\n[[Category:The Children of Húrin characters]]\n[[Category:Fictional sole survivors]]\n[[Category:Fictional suicides]]\n[[Category:Literary characters introduced in 1977]]",
+  "redirect_chain": [],
+  "revision_id": 1357831819,
+  "revision_timestamp": "2026-06-04T22:59:04Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 8,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Descent of Húrin"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Effects"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Effects"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Effects"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Tolkien's choices"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Tolkien's choices"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Tolkien's choices"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Fate and free will"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Fate and free will"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "See also"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: list",
+      "structure_type": "list"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

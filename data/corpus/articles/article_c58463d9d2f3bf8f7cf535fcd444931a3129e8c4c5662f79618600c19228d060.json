@@ -1,0 +1,380 @@
+{
+  "article_artifact_id": "article_c58463d9d2f3bf8f7cf535fcd444931a3129e8c4c5662f79618600c19228d060",
+  "canonical_title": "Thorin Oakenshield",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_c58463d9d2f3bf8f7cf535fcd444931a3129e8c4c5662f79618600c19228d060",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Commentators have noted that Thorin is Old Norse both in name and character, being surly, illiberal, independent, proud, aristocratic, and like all Dwarves greedy for gold. Tolkien was a Roman Catholic; from a Christian perspective, Thorin exemplifies the deadly sin of avarice, but is able to free himself from it at the time of his death. This deathbed conversion has been compared to the moral transformation of Ebenezer Scrooge in Charles Dickens's A Christmas Carol.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_5d5270bea83d5eccab3e59a5bec7ca8f887438b64e276bae8e286e8576dc522d",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_c58463d9d2f3bf8f7cf535fcd444931a3129e8c4c5662f79618600c19228d060",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Thorin appears in Peter Jackson's The Hobbit film series, in the Rankin/Bass animated version, and in the 1982 game of the same name.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_05aa95ed9de3a2d9a12e558e6696c322ffc3f472bef1b2286f019ccc97692cf3",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_c58463d9d2f3bf8f7cf535fcd444931a3129e8c4c5662f79618600c19228d060",
+      "heading_path": [
+        "Appearances",
+        "The Hobbit"
+      ],
+      "normalized_text": "{{Quote box | quote = Others took up the song and it rolled loud and high over the lake.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_488d3e646cb1b84316f7f0e92bed967d4d3df63b3e3325d3c6913d912edbe6e5",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_c58463d9d2f3bf8f7cf535fcd444931a3129e8c4c5662f79618600c19228d060",
+      "heading_path": [
+        "Appearances",
+        "The Hobbit"
+      ],
+      "normalized_text": "{{Quote box | quote = \"How came you by it?\" shouted Thorin in gathering rage.",
+      "paragraph_ordinal": 7,
+      "passage_id": "passage_77a2127ce12534646c5109a1c23908091ce2c591102b786446eb3cbfeac1aa6e",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_c58463d9d2f3bf8f7cf535fcd444931a3129e8c4c5662f79618600c19228d060",
+      "heading_path": [
+        "Appearances",
+        "The Hobbit"
+      ],
+      "normalized_text": "\"I gave it to them!\" squeaked Bilbo...",
+      "paragraph_ordinal": 8,
+      "passage_id": "passage_dfab928e65912149ac386c5dd92365ffd3494ece70203fc3f1ec9426bce24ea7",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_c58463d9d2f3bf8f7cf535fcd444931a3129e8c4c5662f79618600c19228d060",
+      "heading_path": [
+        "Appearances",
+        "The Hobbit"
+      ],
+      "normalized_text": "\"You! You!\" cried Thorin, turning upon him and grasping him with both hands. \"You miserable hobbit! You undersized – burglar!\" | source = Thorin responds angrily to Bilbo's taking of the Arkenstone in ch. 17 \"The Clouds Burst\" | width = 35% | align = right }}",
+      "paragraph_ordinal": 9,
+      "passage_id": "passage_fd98283db06b7873d732dde80ce58fb156bbabc7f7b41025d96f4e52061d4875",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_c58463d9d2f3bf8f7cf535fcd444931a3129e8c4c5662f79618600c19228d060",
+      "heading_path": [
+        "Adaptations"
+      ],
+      "normalized_text": "thumb|Richard Armitage as Thorin Oakenshield in Peter Jackson's The Hobbit",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_9f115a4b54aa8238dc0a1f043a2c285e2eb9d816c7a7938fd86933b199b132b8",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Thorin_Oakenshield&action=history",
+  "namespace": 0,
+  "page_id": 58143,
+  "parent_revision_id": 1361189032,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1362034184",
+  "raw_wikitext": "{{short description|Leader of the Dwarves in The Hobbit}}\n{{good article}}\n{{Infobox character\n| name        = Thorin Oakenshield\n| image       = <!-- PLEASE DO NOT ADD FAN ART HERE -->\n| series      = [[J. R. R. Tolkien|Tolkien]]\n| title     = [[King under the Mountain]]<br/>[[Kings of Durin's folk|King of Durin's Folk]]\n| race        = [[Dwarf (Middle-earth)|Dwarf]]\n| lbl24       = Book(s)\n| data24      = ''[[The Hobbit]]'' (1937)<br/> ''[[Unfinished Tales]]'' (1980)\n}}\n<!-- \n      PLEASE DO NOT ADD FAN ART HERE \n-->\n'''Thorin Oakenshield''' ('''Thorin II''') is a fictional character in [[J. R. R. Tolkien]]'s 1937 novel ''[[The Hobbit]]''. Thorin is the leader of [[List of The Hobbit characters#Thorin's company|the Company]] of [[Dwarf (Middle-earth)|Dwarves]] who aim to reclaim the Lonely Mountain from [[Smaug]] the [[Dragon (Middle-earth)|dragon]].  He is the son of Thráin II, grandson of Thrór, and becomes King of [[Durin|Durin's Folk]] during their exile from [[Erebor]]. Thorin's background is further elaborated in Appendix A of Tolkien's 1955 novel ''[[The Return of the King]]'', and in ''[[Unfinished Tales]]''.\n\nCommentators have noted that Thorin is [[Old Norse]] both in name and character, being surly, illiberal,<ref name=\"Shippey 2005\"/> independent, proud, aristocratic, and like all Dwarves greedy for gold. Tolkien was a [[Roman Catholicism|Roman Catholic]]; from a [[Christianity|Christian]] perspective, Thorin exemplifies the [[Seven deadly sins|deadly sin]] of [[avarice]], but is able to free himself from it at the time of his death. This deathbed conversion has been compared to the moral transformation of [[Ebenezer Scrooge]] in [[Charles Dickens]]'s ''[[A Christmas Carol]]''.\n\nThorin appears in Peter Jackson's [[The Hobbit (film series)|''The Hobbit'' film series]], in the [[The Hobbit (1977 film)|Rankin/Bass animated version]], and in the 1982 game of [[The Hobbit (1982 video game)|the same name]].\n\n==Appearances==\n===''The Hobbit''===\n\n{{Quote box\n | quote  = \"Long ago in my grandfather Thror's time our family was driven out of the far North, and came back with all their wealth and their tools to this Mountain on the map.\"\n | source = Thorin describes his background to [[Bilbo Baggins|Bilbo]] in ch. 1 \"An Unexpected Party\"\n | width  = 35%\n | align  = right\n}}\n\nIn ''The Hobbit'', Thorin, a Dwarf-King in exile and [[List of The Hobbit characters#Thorin's company|twelve other Dwarves]] visited [[Bilbo Baggins]] at his home in [[the Shire]]. The wizard [[Gandalf]] had advised Thorin and the other dwarves to hire Bilbo as a [[burglar]] to help them steal their treasure back from the [[Dragon (Middle-earth)|dragon]] [[Smaug]]. Smaug had attacked the Dwarves's mountain, [[Erebor]] (also known as the Lonely Mountain), about 150 years before, and had taken both the mountain and the dwarves' treasure. Thorin was determined to get the treasure back. He especially wanted the Arkenstone, the Heart of the Mountain, which was an heirloom of the dwarves' Kingdom.<ref group=T>{{harvnb|Tolkien|1937}}, ch. 1 \"An Unexpected Party\"</ref>\n\n{{Quote box\n | quote  = Others took up the song and it rolled loud and high over the lake.\n\n<poem>\n ''The King beneath the mountains,''\n ''The King of carven stone,''\n ''The lord of silver fountains''\n ''Shall come into his own!''</poem>\n | source = The people of Lake-town welcome Thorin in ch. 10 \"A Warm Welcome\"\n | width  = 35%\n | align  = right\n}}\n\nOn their journey, the dwarves and Bilbo were taken captive by a band of [[Troll (Middle-earth)|trolls]]; Thorin was the only dwarf not to be taken unawares. After Gandalf rescued the company (letting dawn turn the trolls to stone), they opened the trolls' lair. Thorin found the Elven blade [[Orcrist]] in the trolls' cache.<ref group=T>{{harvnb|Tolkien|1937}}, ch. 2 \"Roast Mutton\"</ref> Later, Thorin used Orcrist to fight [[Orc (Middle-earth)|goblins]] in the tunnels beneath the [[Misty Mountains]]. While the rest of the company battled the goblins, Bilbo found a [[One Ring|magic ring]] in a tunnel under the Misty Mountains and used it to escape from the creature Gollum and from the goblins.<ref group=T>{{harvnb|Tolkien|1937}}, ch. 4 \"Over Hill and Under Hill\"</ref> \n\nWhen the Dwarves were captured by the [[Silvan Elves|Wood-elves]] of [[Mirkwood]], Thorin insisted that the others not disclose their quest to their captors.<ref group=T>{{harvnb|Tolkien|1937}}, ch. 8 \"Flies and Spiders\"</ref> Bilbo, invisible with his magic ring, evaded capture and organised the company's escape, which they accomplished by floating in barrels out of the Wood-elves' fastness. When Thorin emerged from his barrel at [[Esgaroth|Lake-town]], he marched up to the town's leaders and identified himself as King Under the Mountain.<ref group=T>{{harvnb|Tolkien|1937}}, ch. 10 \"A Warm Welcome\"</ref>\n\n{{Quote box\n | quote  = \"How came you by it?\" shouted Thorin in gathering rage.\n\n \"I gave it to them!\" squeaked Bilbo...\n\n \"You! You!\" cried Thorin, turning upon him and grasping him with both hands. \"You miserable hobbit! You undersized – burglar!\"\n | source = Thorin responds angrily to Bilbo's taking of the Arkenstone in ch. 17 \"The Clouds Burst\"\n | width  = 35%\n | align  = right\n}}\n\nWith provisions from Lake-town, Thorin led the company to Erebor.<ref group=T>{{harvnb|Tolkien|1937}}, ch. 11 \"On the Doorstep\"</ref> Seeing that Smaug was not there, the Dwarves reclaimed some of the treasure; Thorin gave Bilbo \"a small coat of mail\" made of ''[[mithril]]'' as the first installment of the payment due for his services.<ref name=\"Not at Home\" group=T>{{harvnb|Tolkien|1937}}, ch. 13 \"Not at Home\"</ref>{{efn|Decades later, in ''The Lord of the Rings'', Bilbo gave the ''mithril'' shirt to his relative, [[Frodo Baggins]]. Frodo was \"staggered\" to learn that the mithril shirt's worth \"was greater than the value of the whole Shire and everything in it\".<ref group=T>{{harvnb|Tolkien|1954a}}, book 2, ch. 4, \"A Journey in the Dark\"</ref>}} The Dwarves then learnt from the ancient [[raven]] Roäc that Smaug had been killed: [[Bard the Bowman]] had managed to shoot Smaug as the dragon was in the process of destroying Lake-town.<ref name=\"Gathering of the Clouds\" group=T>{{harvnb|Tolkien|1937}}, ch. 15 \"The Gathering of the Clouds\"</ref> \n\nFaced with demands from [[Thranduil]] the Elvenking and Bard for a fair share of the treasure to be distributed to the Wood-elves and the men of Lake-town, Thorin refused to acknowledge their right to any of the hoard. He fortified the Mountain against his new rivals and sent to his cousin [[Dáin II Ironfoot|Dáin Ironfoot]] for reinforcements.<ref name=\"Gathering of the Clouds\" group=T/> Thorin was furious when he discovered that Bilbo had stolen the Arkenstone to use as a bargaining chip, and he sent him from the Mountain. Conflict amongst the dwarves, men, and elves was averted only by an invasion of goblins and [[Warg (Middle-earth)|warg]]s, whereupon the Dwarves joined forces with the Wood-elves, the men of Lake-town, and the great [[Eagle (Middle-earth)|eagles]] in the Battle of Five Armies.<ref group=T>{{harvnb|Tolkien|1937}}, ch. 17 \"The Clouds Burst\"</ref> \n\n{{Quote box\n | quote  = \"If more of us valued food and cheer and song above hoarded gold, it would be a merrier world. But, sad or merry, I must leave it now. Farewell.\"\n | source = Thorin repents on his deathbed, accepting Bilbo in ch. 18 \"The Return Journey\"\n | width  = 35%\n | align  = right\n}}\n\nDuring the battle, Thorin was mortally wounded, but he made his peace with Bilbo before he died. When Thorin died, he was buried with the Arkenstone. Orcrist was laid upon his tomb.  The blade would glow blue if Orcs should approach; thus, they could not take the Mountain by surprise. Thorin was succeeded as leader of Durin's Folk by his cousin Dáin.<ref name=\"Return Journey\" group=T>{{harvnb|Tolkien|1937}}, ch. 18 \"The Return Journey\"</ref>\n\n===''The Lord of the Rings''===\nPart III of Appendix A in ''[[The Return of the King]]'' gives an overview of the history of Durin's Folk and more of Thorin's background. When Thorin was 53 (young for a Dwarf), he marched with a mighty dwarf-army against the orcs of [[Moria (Middle-earth)|Moria]]. After the battle he led his people to establish a foothold in the [[Blue Mountains (Middle-earth)|Blue Mountains]] west of the Shire.<ref group=T>{{harvnb|Tolkien|1955}}, Appendix A, Part III</ref>\n\n===''Unfinished Tales''===\n''[[Unfinished Tales]]'' elaborates on Thorin's reasons for accepting Bilbo into his company. As depicted in the story \"[[The Quest of Erebor]]\", Thorin met with Gandalf in [[Bree (Middle-earth)|Bree]] shortly before the quest began.  Gandalf persuaded him that stealth, rather than force, was needed to infiltrate Erebor; they would therefore need a burglar. Gandalf feared that [[Sauron]] could use Smaug as a weapon, and was concerned that Thorin's pride and quick temper would ruin the mission to destroy the [[Dragon (Middle-earth)|dragon]]. He thought that Bilbo would be a calming influence on Thorin, as well as a genuinely valuable addition to the company. Thorin, who did not think much of Hobbits, reluctantly agreed, calculating that Bilbo's presence would be a small price to pay for Gandalf's help.<ref group=T>{{harvnb|Tolkien|1980}}, part 3, ch. 3 \"[[The Quest of Erebor]]\"</ref>\n\n==Origins==\n[[File:Hild and Hjadningavig on Hammars (I).JPG|thumb|Detail from the [[Stora Hammars stones|Stora Hammars I stone]], depicting the ''[[Hjaðningavíg]]''<ref>{{cite web |last=Dutton |first=Douglas Robert |title=Narratives: Hjaðningavíg |url=https://skaldic.abdn.ac.uk/db.php?id=6&if=myth&table=narrative |publisher=The Skaldic Project |access-date=5 May 2020}}</ref>]]\n\nTolkien adopted Thorin's names from the ''Dvergatal'', the list of Dwarves, in the [[Old Norse]] poem \"[[Völuspá]]\", which is part of the ''[[Poetic Edda]]''.<ref>{{ME-ref|Solopova|p. 20}}</ref> The name \"Thorin\" (''Þorinn'') appears in stanza 12, where it is used for a [[Norse Dwarves|dwarf]], and the name \"Oakenshield\" (''Eikinskjaldi'') in stanza 13. The name \"Thorin\" ultimately derives from that of the Norse god [[Thor]]; it means ''darer'' or ''bold one''.<ref>{{cite book |first=J.R.R. |last=Tolkien |editor-first=John D. |editor-last=Rateliff |editor-link=John D. Rateliff |title=The History of The Hobbit |volume=2 |chapter=Return to Bag End |publisher=[[Houghton Mifflin]] |date=2007 |isbn=978-0-00-725066-0 |title-link=The History of The Hobbit}}</ref>\n<ref>{{Cite web |url=https://www.sacred-texts.com/neu/poe/poe03.htm |title=Poetic Edda |access-date=27 September 2007 |last=Bellows |first=Henry Adams (trans.) |author-link=Henry Adams Bellows (businessman) |date=1936}}</ref> The names also appear in [[Snorri Sturluson]]'s ''[[Prose Edda]]''.<ref>{{Cite web |first=Snorri |last=Sturluson |author-link=Snorri Sturluson |url=http://www.cybersamurai.net/Mythology/nordic_gods/LegendsSagas/Edda/ProseEdda/GylfaginningXI-XX.htm |title=Prose Edda |access-date=27 September 2007 |url-status=dead |archive-url=https://web.archive.org/web/20070927194935/http://www.cybersamurai.net/Mythology/nordic_gods/LegendsSagas/Edda/ProseEdda/GylfaginningXI-XX.htm |archive-date=27 September 2007 |df=dmy-all}} Tr. [[Arthur Gilchrist Brodeur]].</ref>\n\n[[Dwarf (folklore)|Dwarfs]] in [[Germanic folklore]] are skilled in metalwork, including making weapons, ships, rings and jewellery; they are knowledgeable, strong, and turn to stone in sunlight. They are characterised as having a strong association with gold, mining, wealth, living underneath mountains, and being long-lived, ungrateful, and getting into arguments about payment. The Tolkien critic [[Tom Shippey]] suggests that Tolkien's \"master-text\" for his Dwarves was the ''[[Hjaðningavíg]]''. In that legend, the Dwarves are characterised by [[revenge]], as in \"the long and painful vengeance of [Thorin's father] Thráin for [Thorin's grandfather] Thrór\", and Shippey argues that Tolkien chose these qualities for his Dwarves.<ref>{{Cite web |url=https://norse-mythology.org/gods-and-creatures/Dwarves/ |title=Dwarves |last=McCoy |first=Daniel |website=norse-mythology.org}}</ref><ref>{{cite book |last=Shippey |first=Tom |author-link=Tom Shippey |title=[[The Road to Middle-Earth]] |date=2005 |edition=Third |orig-year=1982 |publisher=[[HarperCollins]] |isbn=978-0261102750 |pages=70–72}}</ref>\n\n== Analysis ==\n\nShippey writes that in chapters 6–8 of ''The Hobbit'', Tolkien explores \"with delight that surly, [[wikt:illiberal|illiberal]] independence often the distinguishing mark of [[Old Norse]] heroes\".<ref name=\"Shippey 2005\">{{cite book |last=Shippey |first=Tom |author-link=Tom Shippey |title=The Road to Middle-Earth |date=2005 |edition=Third |orig-year=1982 |publisher=HarperCollins |isbn=978-0261102750 |pages=90–91}}</ref> The philosophers Gregory Bassham and Eric Bronson contrast the way Tolkien introduces hobbits, as \"plain, quiet folks who never do anything unexpected\", with how Thorin would have \"introduce[d] himself, with [[aristocratic]] titles and songs of ancient lineage. We do not open the book to read of the wrath of Thorin the way we learn of the wrath of [[Achilles]] in the opening lines of ''[[The Iliad]]''.\"<ref name=\"Bassham Bronson 2012 p67\">{{cite book |last1=Bassham |first1=Gregory |last2=Bronson |first2=Eric |title=The Hobbit and Philosophy: For When You've Lost Your Dwarves, Your Wizard, and Your Way |url=https://books.google.com/books?id=33HUiYwuBxQC |year=2012 |publisher=John Wiley & Sons |isbn=978-0-470-40514-7 |pages=67}}</ref> \n\nThe Tolkien scholar [[Paul H. Kocher]] writes that Tolkien characterises Dwarves as having the \"[[Cardinal sins|cardinal sin]] of 'possessiveness'\",<ref name=\"Kocher 1974\">{{cite book |last=Kocher |first=Paul |author-link=Paul H. Kocher |title=Master of Middle-earth: The Achievement of J.R.R. Tolkien |title-link=Master of Middle-earth |date=1974 |orig-year=1972 |publisher=Penguin Books |isbn=0140038779 |page=26}}</ref> seen sharply when Bard the Bowman makes what Bilbo feels is a fair offer for a share of Smaug's treasure, and Thorin flatly refuses, his \"dwarfish lust for gold fevered by brooding on the dragon's hoard\".<ref name=\"Kocher 1974\"/>\n\nThe [[Jesuit]] John L. Treloar, writing in ''[[Mythlore]]'', suggests that Tolkien, a Catholic, explores the [[seven deadly sins]] in his Middle-earth writings. He states that in ''The Hobbit'', both Smaug and Thorin exemplify [[avarice]], but respond to it differently. In his view, Smaug is evil and lets avarice destroy him, whereas Thorin, sharing the general weakness of Dwarves for this particular vice, nevertheless has sufficient good will to free himself of it at the time of his death.<ref name=\"Treloar 1989\">{{cite journal |last1=Treloar |first1=John L. |title=The Middle-earth Epic and the Seven Capital Vices |journal=[[Mythlore]] |date=1989 |volume=16 |issue=1 (59) |pages=37–42 |jstor=26812105}}</ref>\n\nBassham and Bronson compare Thorin's deathbed \"conversion\" from his [[greed]] and [[pride]], as he reconciles himself with Bilbo, to [[Ebenezer Scrooge]]'s \"big moral transformation\" from grumpy [[miser]]liness to generosity and cheerfulness in [[Charles Dickens]]'s 1843 novella ''[[A Christmas Carol]]''.<ref name=\"Bassham Bronson 2012 p14\">{{cite book |last1=Bassham |first1=Gregory |last2=Bronson |first2=Eric |title=The Hobbit and Philosophy: For When You've Lost Your Dwarves, Your Wizard, and Your Way |url=https://books.google.com/books?id=33HUiYwuBxQC |year=2012 |publisher=John Wiley & Sons |isbn=978-0-470-40514-7 |pages=14–15}}</ref>\n\n== Adaptations ==\n\n[[File:Thorin, from the Hobbit.jpg|thumb|[[Richard Armitage (actor)|Richard Armitage]] as Thorin Oakenshield in [[Peter Jackson]]'s ''[[The Hobbit (film series)|The Hobbit]]'']]\n\nIn the [[The Hobbit (1977 film)|1977 animated version of ''The Hobbit'']], Thorin is voiced by [[Hans Conried]].<ref>{{cite web |title=Hans Conried |url=https://www.behindthevoiceactors.com/Clive-Revill/ |publisher=Behind the Voice Actors |access-date=5 May 2020}}</ref>\n\nIn the 1985 Soviet television play ''[[The Hobbit (1985 film)|The Hobbit]]'', Thorin was played by [[Anatoly Ravikovich]].<ref>{{cite web |title=The Fairytale Journey of Mr. Bilbo Baggins, the Hobbit (TV) |url=https://www.filmaffinity.com/en/film290802.html |website=FilmAffinity |access-date=13 November 2023}}</ref>\n\nIn [[Peter Jackson]]'s three-film adaptation of ''[[The Hobbit (film series)|The Hobbit]]'' (2012–2014), Thorin is portrayed by [[Richard Armitage (actor)|Richard Armitage]].<ref>{{cite magazine |last=Winning |first=Josh |url=https://www.totalfilm.com/news/see-richard-armitage-as-thorin-oakenshield-in-the-hobbit |title=See Richard Armitage as Thorin Oakenshield in The Hobbit|magazine=[[Total Film]]|publisher=[[Future Publishing]]|location=London, England|date=18 July 2011|access-date=4 September 2011}}</ref> The film adaptation adds to Thorin's quest an arch-enemy in the form of the villainous [[Orc (Middle-earth)|orc]] leader Azog,<ref>{{cite news |last=Berlatsky |first=Noah |title=Peter Jackson's Violent Betrayal of Tolkien |url=https://www.theatlantic.com/entertainment/archive/2012/12/peter-jacksons-violent-betrayal-of-tolkien/266294/ |work=[[The Atlantic]] |date=17 December 2012}}</ref> as well as a history of enmity with Thranduil, which began with a dispute between his grandfather Thrór and the Elvenking over the White Gems of Lasgalen.<ref name=\"Duarte 2020\">{{cite web |last=Duarte |first=M. Enois |title=The Hobbit: The Desolation Of Smaug- 4K Ultra HD Blu-ray |url=https://ultrahd.highdefdigest.com/90910/thehobbitthedesolationofsmaug4kultrahdbluray.html|publisher=High-Def Digest |access-date=19 January 2021 |date=14 December 2020}}</ref><ref name=\"BI 2014\">{{cite news |title=The New 'Hobbit' Movie Is Basically A Toned-Down Version Of The Final 'Lord Of The Rings' |url=https://www.businessinsider.com/hobbit-battle-of-the-five-armies-review-2014-12 |access-date=18 January 2021 |work=[[Business Insider]] |date=16 December 2014}}</ref> In his review, Erik Kain from ''[[Forbes]]'' wrote that Thorin stood out as a remarkable character with shades of dark and light, at once heroic and stubborn to a fault.<ref name=\"Forbes 2014\">{{cite news |last=Kain |first=Erik |title='The Hobbit: Battle Of The Five Armies' Review: This Is The End|url=https://www.forbes.com/sites/erikkain/2014/12/18/the-hobbit-battle-of-the-five-armies-review-this-is-the-end/ |access-date=18 July 2021 |work=[[Forbes]] |date=18 December 2014}}</ref>\n\nIn the 1982 game [[The Hobbit (1982 video game)|''The Hobbit'']] Thorin appears as an [[artificial intelligence|AI]] controlled character and one of his seemingly random actions (\"Thorin sits down and starts singing about gold\", which occurs when the player does nothing for a while) became quite famous.<ref>{{cite journal |first=Stuart |last=Campbell |url=https://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue72/Pages/YourSinclair7200028.jpg |title=Top 100 Speccy Games |journal=[[Your Sinclair]] |issue=72 |publisher=[[Dennis Publishing]] |date=December 1991 |page=28}}</ref> In the [[The Hobbit (2003 video game)|2003 video game]], Thorin is voiced by [[Clive Revill]].<ref>{{cite web |title=Clive Revill |url=https://www.behindthevoiceactors.com/Hans-Conried/ |publisher=Behind the Voice Actors |access-date=5 May 2020}}</ref>\n\n==Family tree==\n{{Durin's Folk}}\n\n==Notes==\n{{Notelist}}\n\n==References==\n\n===Primary===\n\n{{reflist|group=T|28em}}\n\n===Secondary===\n{{reflist|28em}}\n\n=== Sources ===\n\n* {{ME-ref|TH}}\n* {{ME-ref|FOTR}}\n* {{ME-ref|ROTK}}\n* {{ME-ref|UT}}\n\n==External links==\n{{Portal|Speculative fiction|Children and Young Adult Literature}}\n\n{{Hobbit}}\n\n{{Use dmy dates|date=February 2020}}\n\n[[Category:Middle-earth Dwarves]]\n[[Category:Middle-earth rulers]]\n[[Category:Fictional kings]]\n[[Category:The Hobbit characters]]\n[[Category:Literary characters introduced in 1937]]\n[[Category:Television characters introduced in 1977]]",
+  "redirect_chain": [],
+  "revision_id": 1362034184,
+  "revision_timestamp": "2026-07-01T15:24:48Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "The Hobbit"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "The Hobbit"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "The Hobbit"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: block quotation",
+      "structure_type": "block quotation"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "The Hobbit"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "The Hobbit"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "The Hobbit"
+      ],
+      "paragraph_ordinal": 10,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "The Hobbit"
+      ],
+      "paragraph_ordinal": 11,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "The Hobbit"
+      ],
+      "paragraph_ordinal": 12,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "The Hobbit"
+      ],
+      "paragraph_ordinal": 13,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "The Lord of the Rings"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "Unfinished Tales"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Origins"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Origins"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Origins"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Family tree"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Notes"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "External links"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "External links"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "External links"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "External links"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

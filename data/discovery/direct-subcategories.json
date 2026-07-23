@@ -1,0 +1,126 @@
+{
+  "query": "direct subcategories only; recurse=false; per-source cap=500",
+  "records": [
+    {
+      "category_title": "Category:Lists of Middle-earth characters",
+      "discovery_timestamp": "2026-07-20T15:33:48.333148+00:00",
+      "observed_page_id": 37254202,
+      "source_category": "Category:Middle-earth characters"
+    },
+    {
+      "category_title": "Category:Middle-earth character redirects",
+      "discovery_timestamp": "2026-07-20T15:33:48.333148+00:00",
+      "observed_page_id": 63032217,
+      "source_category": "Category:Middle-earth characters"
+    },
+    {
+      "category_title": "Category:The Children of H\u00farin characters",
+      "discovery_timestamp": "2026-07-20T15:33:48.333148+00:00",
+      "observed_page_id": 10885112,
+      "source_category": "Category:Middle-earth characters"
+    },
+    {
+      "category_title": "Category:The Hobbit characters",
+      "discovery_timestamp": "2026-07-20T15:33:48.333148+00:00",
+      "observed_page_id": 5941955,
+      "source_category": "Category:Middle-earth characters"
+    },
+    {
+      "category_title": "Category:The Lord of the Rings characters",
+      "discovery_timestamp": "2026-07-20T15:33:48.333148+00:00",
+      "observed_page_id": 42003746,
+      "source_category": "Category:Middle-earth characters"
+    },
+    {
+      "category_title": "Category:The Silmarillion characters",
+      "discovery_timestamp": "2026-07-20T15:33:48.333148+00:00",
+      "observed_page_id": 5868263,
+      "source_category": "Category:Middle-earth characters"
+    },
+    {
+      "category_title": "Category:Middle-earth animals",
+      "discovery_timestamp": "2026-07-20T15:33:48.333148+00:00",
+      "observed_page_id": 14663125,
+      "source_category": "Category:Middle-earth characters"
+    },
+    {
+      "category_title": "Category:Middle-earth deities and spirits",
+      "discovery_timestamp": "2026-07-20T15:33:48.333148+00:00",
+      "observed_page_id": 62026256,
+      "source_category": "Category:Middle-earth characters"
+    },
+    {
+      "category_title": "Category:Middle-earth monsters",
+      "discovery_timestamp": "2026-07-20T15:33:48.333148+00:00",
+      "observed_page_id": 66550236,
+      "source_category": "Category:Middle-earth characters"
+    },
+    {
+      "category_title": "Category:Middle-earth races",
+      "discovery_timestamp": "2026-07-20T15:33:48.333148+00:00",
+      "observed_page_id": 1910229,
+      "source_category": "Category:Middle-earth characters"
+    },
+    {
+      "category_title": "Category:Middle-earth rulers",
+      "discovery_timestamp": "2026-07-20T15:33:48.333148+00:00",
+      "observed_page_id": 14892279,
+      "source_category": "Category:Middle-earth characters"
+    },
+    {
+      "category_title": "Category:Middle-earth wizards",
+      "discovery_timestamp": "2026-07-20T15:33:48.333148+00:00",
+      "observed_page_id": 20187890,
+      "source_category": "Category:Middle-earth characters"
+    },
+    {
+      "category_title": "Category:Middle-earth location redirects",
+      "discovery_timestamp": "2026-07-20T15:33:48.333148+00:00",
+      "observed_page_id": 63048299,
+      "source_category": "Category:Middle-earth locations"
+    },
+    {
+      "category_title": "Category:Middle-earth battles",
+      "discovery_timestamp": "2026-07-20T15:33:48.333148+00:00",
+      "observed_page_id": 715811,
+      "source_category": "Category:Middle-earth locations"
+    },
+    {
+      "category_title": "Category:Middle-earth castles and fortresses",
+      "discovery_timestamp": "2026-07-20T15:33:48.333148+00:00",
+      "observed_page_id": 4424072,
+      "source_category": "Category:Middle-earth locations"
+    },
+    {
+      "category_title": "Category:Middle-earth forests",
+      "discovery_timestamp": "2026-07-20T15:33:48.333148+00:00",
+      "observed_page_id": 9948263,
+      "source_category": "Category:Middle-earth locations"
+    },
+    {
+      "category_title": "Category:Middle-earth islands",
+      "discovery_timestamp": "2026-07-20T15:33:48.333148+00:00",
+      "observed_page_id": 4357352,
+      "source_category": "Category:Middle-earth locations"
+    },
+    {
+      "category_title": "Category:Middle-earth realms",
+      "discovery_timestamp": "2026-07-20T15:33:48.333148+00:00",
+      "observed_page_id": 12362282,
+      "source_category": "Category:Middle-earth locations"
+    },
+    {
+      "category_title": "Category:Middle-earth regions",
+      "discovery_timestamp": "2026-07-20T15:33:48.333148+00:00",
+      "observed_page_id": 13163949,
+      "source_category": "Category:Middle-earth locations"
+    },
+    {
+      "category_title": "Category:Middle-earth populated places",
+      "discovery_timestamp": "2026-07-20T15:33:48.333148+00:00",
+      "observed_page_id": 15043114,
+      "source_category": "Category:Middle-earth locations"
+    }
+  ],
+  "schema_version": 1
+}

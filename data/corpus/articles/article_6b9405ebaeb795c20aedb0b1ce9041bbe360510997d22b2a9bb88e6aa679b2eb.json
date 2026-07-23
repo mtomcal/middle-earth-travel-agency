@@ -1,0 +1,259 @@
+{
+  "article_artifact_id": "article_6b9405ebaeb795c20aedb0b1ce9041bbe360510997d22b2a9bb88e6aa679b2eb",
+  "canonical_title": "Company of the Ring",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_6b9405ebaeb795c20aedb0b1ce9041bbe360510997d22b2a9bb88e6aa679b2eb",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Scholars have commented that Tolkien saw community as the right way to live. They note, too, that the Company is diverse both in culture and in personal qualities, and bound together by friendship, a model very different from the western image of the lone hero. Tolkien uses the term \"company\" far more often than \"fellowship\", the word coming from Latin companio, a person who shares bread, suggesting a co-traveller on the road or a group with a shared purpose. The Company of the Ring has been likened to the Arthurian order of the Knights of the Round Table, a group that has many points of similarity including a person carrying the burden of a quest, a returning King, an accompanying Wizard, and a treacherous knight.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_c0c78dd491ab1be27d3646fa58ff77cc0f334b6f8bc909332ca28169af64b203",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Company_of_the_Ring&action=history",
+  "namespace": 0,
+  "page_id": 926149,
+  "parent_revision_id": 1361169835,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1361189134",
+  "raw_wikitext": "{{good article}}\n{{short description|Theme in Tolkien's fantasy}}\n{{Use British English|date=September 2024}}\n{{Use dmy dates|date=September 2024}}\nThe '''Company of the Ring''', also called the '''Fellowship of the Ring''' and the '''Nine Walkers''', is a fictional group of nine representatives from the [[free peoples of Middle-earth]]: [[Elves in Middle-earth|Elves]], [[Dwarves in Middle-earth|Dwarves]], [[Men in Middle-earth|Men]], and [[Hobbit]]s; and a [[Wizards in Middle-earth|Wizard]]. The group is described in the first volume of ''[[The Lord of the Rings]]'', itself titled [[The Fellowship of the Ring (book)|''The Fellowship of the Ring'']]. The number nine is chosen, as the book's author [[J. R. R. Tolkien]] states, to match and oppose the nine Black Riders or [[Ringwraith]]s. \n\nScholars have commented that Tolkien saw community as the right way to live. They note, too, that the Company is diverse both in culture and in personal qualities, and bound together by friendship, a model very different from the [[Hero's journey|western image of the lone hero]]. Tolkien uses the term \"company\" far more often than \"fellowship\", the word coming from Latin ''companio'', a person who shares bread, suggesting a co-traveller on the road or a group with a shared purpose. The Company of the Ring has been likened to the  [[Arthurian]] order of the [[Knights of the Round Table]], a group that has many points of similarity including a person carrying the burden of [[Quests in Middle-earth|a quest]], a returning King, an accompanying Wizard, and a treacherous knight.\n\n== Context ==\n\n[[J. R. R. Tolkien]] (1892–1973) was an English [[Catholic Church|<!--a powerful influence on his writing-->Roman Catholic]] writer, poet, [[philology|philologist]], and academic, best known as the author of the [[high fantasy]] works ''[[The Hobbit]]'', published in 1937, and its sequel ''[[The Lord of the Rings]]'', published in 1954–55.{{sfn|Carpenter|1978|pp=111, 200, 266 and throughout}} Set in the [[fictional world]] of [[Middle-earth]], ''The Lord of the Rings'' is one of the [[List of best-selling books|best-selling books ever written]], with over 150 million copies sold.{{sfn|Wagner|2007}}\n\n== Narrative ==\n\n{{Sketch Map of Middle-earth|upright=2|caption=[[Image map]] with clickable links of the north-west of [[Middle-earth]] at the end of the [[Third Age]]|position=right}}\n\nThe main plot of ''The Lord of the Rings'' is [[Quests in Middle-earth|a quest]] to destroy the [[One Ring]], to prevent it from falling into the hands of its creator, the Dark Lord [[Sauron]].<ref name=\"Council of Elrond\" group=T>{{harvnb|Tolkien|1954a|loc=book 2, ch. 2 \"[[The Council of Elrond]]\"}}</ref> [[The Council of Elrond|A council is held]] in [[Rivendell]] to decide how to achieve this. A hobbit, [[Frodo Baggins]], is to bear the Ring to the land of [[Mordor]] to destroy it in the fires of [[Mount Doom]].<ref name=\"Council of Elrond\" group=T/> He is to be assisted by a Company representing the Free Peoples of [[Middle-earth]].<ref name=\"The Ring Goes South\" group=T>{{harvnb|Tolkien|1954a|loc=book 2, ch.3, \"[[The Ring Goes South]]\"}}</ref> [[Elrond]] announces that\n\n{{blockquote|The Company of the Ring shall be Nine; and the Nine Walkers shall be set against the [[Nine Riders]] that are evil...<ref name=\"The Ring Goes South\" group=T/> }}\n\nThe Company sets out on [[Quests in Middle-earth|the quest]] at the beginning of winter.<ref name=\"The Ring Goes South\" group=T/> It is led by the Wizard [[Gandalf]];<ref name=\"The Ring Goes South\" group=T/> he takes the company south through the wild lands of [[Eriador]]. They attempt to cross the [[Misty Mountains]], but are driven back. Instead, they travel through the mines of [[Moria (Middle-earth)|Moria]].<ref group=T>{{harvnb|Tolkien|1954a|loc=book 2, ch. 4, \"A Journey in the Dark\"}}</ref> Gandalf falls while fighting a [[Balrog]] there, allowing the others to escape.<ref group=T>{{harvnb|Tolkien|1954a|loc=book 2, ch. 5, \"The Bridge of Khazad-Dum\"}}</ref> [[Aragorn]] leads the Fellowship to [[Lothlórien]],<ref group=T name=\"Lothlórien\">{{harvnb|Tolkien|1954a}}, book 2, ch. 6 \"Lothlórien\"</ref> and then in boats down the [[River Anduin]].<ref group=T name=\"Great River\">{{harvnb|Tolkien|1954a}}, book 2, ch. 9 \"The Great River\"</ref>\n\nAfter some days on the river, the Company camp at Parth Galen to decide what to do. The next day, the Company is broken. While the others argue about the route to take, [[Frodo Baggins|Frodo]] slips away and [[Boromir]] follows him. Boromir demands the Ring from Frodo. To escape, Frodo puts on the Ring, making himself invisible.<ref name=\"Breaking of the Fellowship\" group=T>{{harvnb|Tolkien|1954a}} book 2, ch. 10, \"The Breaking of the Fellowship\"</ref> \n[[Meriadoc Brandybuck|Merry]] and [[Peregrin Took|Pippin]] are captured by a group of [[Orc]]s. Boromir is killed defending them.<ref name=\"Uruk-hai\" group=T>{{harvnb|Tolkien|1954}}, book 3, ch. 1 \"The Uruk-hai\"</ref> Aragorn, [[Legolas]] and [[Gimli (Middle-earth)|Gimli]] give Boromir's body a boat burial;<ref name=\"Departure of Boromir\" group=\"T\">{{harvnb|Tolkien|1954}}, book 3, ch. 1 \"The Departure of Boromir\"</ref> they then set off in pursuit of Merry and Pippin.<ref name=\"Riders of Rohan\" group=T>{{harvnb|Tolkien|1954}}, book 3, ch. 2 \"The Riders of Rohan\"</ref> [[Sam Gamgee|Sam]] catches up with Frodo as he, still invisible, sets out to cross the river in one of the boats; the two of them set out together to Mordor.<ref name=\"Breaking of the Fellowship\" group=T/> Frodo and Sam manage, after many hardships, to reach Mount Doom. The Ring is destroyed, and Sauron is utterly vanquished. The Company of the Ring is victorious.<ref name=\"Mount Doom\" group=T>{{harvnb|Tolkien|1955|loc=book 6, ch. 3 \"Mount Doom\"}}</ref>\n\n{| class=\"wikitable sortable\" style=\"margin: 1em auto;\"\n|+ The Nine Walkers of the Company<ref name=\"The Ring Goes South\" group=T/>\n|-\n! Race !! Name !! Description\n|-\n| [[Maiar|Maia]] || [[Gandalf]] || A [[Wizards in Middle-earth|Wizard]], guide of the Company\n|-\n| [[Elves in Middle-earth|Elf]] || [[Legolas]] || Prince of [[Mirkwood]]\n|-\n| [[Dwarves in Middle-earth|Dwarf]] || [[Gimli (Middle-earth)|Gimli]] || Dwarf of the [[Lonely Mountain]]\n|-\n| [[Men in Middle-earth|Man]] || [[Aragorn]] || [[Dúnedain|Ranger of the North]], heir to the throne of [[Gondor]]\n|-\n| [[Men in Middle-earth|Man]] || [[Boromir]] || Heir to the [[Gondor#Stewards|Steward of Gondor]]\n|-\n| [[Hobbit]] || [[Frodo Baggins]] || Bearer of the [[One Ring]]\n|-\n| [[Hobbit]] || [[Samwise Gamgee]] || Frodo's gardener\n|-\n| [[Hobbit]] || [[Merry Brandybuck]] || Heir to the [[The_Shire#Buckland|Master of Buckland]]\n|-\n| [[Hobbit]] || [[Pippin Took]] || Heir to the [[The_Shire#Government|Thain of the Shire]]\n|}\n\n== Analysis ==\n\n=== Theme of community ===\n\n{{further|Nazgûl}}\n\nThe [[Inklings]] scholar Ariel Little writes that Tolkien saw community as the \"ideal model for life\"<!--p. 304-->. This desired type of community, as seen in the Company of the Ring, is specifically diverse, in culture and in personal qualities, a team bound together by friendship and relying completely on the strengths of each individual member to forward the common cause. This is the reverse of the character of what Tolkien states is the evil assemblage that opposes the Company, who are in Little's words \"homogeneous, discordant, and intensely individualistic.\"<!--pp. 305–306-->{{sfn|Little|2020|pp=304–315}} Little comments that this \"community-based model of heroism\" is radically unlike the [[Hero's journey|western image of the lone hero]].{{sfn|Little|2020|pp=304–315}} The Christian theologian [[Ralph C. Wood]] writes that \"the greatness of the Nine Walkers lies in the modesty of both their abilities and accomplishments. Their strength lies in their weakness, in their solidarity as a company unwilling to wield controlling power over others.\"{{sfn|Wood|2011|pp=121}} Rebecca Munro notes that in the Company, \"no one acts alone without dependence on the deeds of others\".{{sfn|Munro|2014|p=645}} Little adds that even when the Company is split into smaller groups, it is not destroyed; the three smaller groups—Frodo and Sam on the way to Mordor; Merry and Pippin supporting each other; Aragorn, Legolas, and Gimli acting as a team—continue to function as communities.{{sfn|Little|2020|pp=304–315}}\n\n[[File:Nine Walkers vs Nine Riders.svg|thumb|center|upright=2.8|Nine Walkers vs Nine Riders: the free Company of the Ring is opposed to the enslaved Nine [[Nazgûl]]. Tolkien made the two groups match in number but differ sharply in character.{{sfn|Little|2020|pp=304–315}}<ref name=\"Council of Elrond\" group=T/>]]\n\nMartina Juričková writes in ''[[Mallorn (journal)|Mallorn]]'' that Tolkien uses the term \"company\" far more often than \"fellowship\" to describe the group: \"company\" appears more than 130 times, against just 9 for \"fellowship\".{{sfn|Juričková |2014|pp=32–34}} She notes that Tolkien was a [[philologist]], fully aware of the etymologies of these terms, and the resulting slight differences in their meanings. \"Company\" and \"companion\" are from the Latin ''companio'', in turn from ''con'' (\"with\") and ''panis'' (\"bread\"), hence \"person who shares bread [with you]\", such as a co-traveller or a member of a group with a shared purpose.{{sfn|Juričková |2014|pp=32–34}}{{sfn|Online Etymology Dictionary|2024}} \"Fellow\", on the other hand, derives from [[Old English]] ''feolaga'', \"a fee-layer\", a person who joins in a financial venture. Juričková comments that this could mean an equal, \"a peer with whom I have something in common\"; but that in modern English it can equally well mean someone \"of lower rank or considered to be of little importance or worth\" (as in \"that fellow over there\"). That would explain, she suggests, why Tolkien could use \"fellowship\" with its positive connotations, while avoiding the loosely-used word \"fellow\" for the Nine Walkers.{{sfn|Juričková |2014|pp=32–34}}\n\n=== Arthurian origins ===\n\n{{further|Celtic influences on Tolkien#Arthurian legend}}\n\n[[File:Holy Grail Tapestry -The Arming and Departure of the Kniights (detail).jpg|thumb|upright=2|Scholars have likened the Company of the Ring to the [[Knights of the Round Table]].{{sfn|Gálvez-Gómez|2018|pp=88–92}} Detail of ''The Arming and Departure of the Knights'', 19th-century tapestry by [[Edward Burne-Jones]], [[William Morris]], and [[John Henry Dearle]] ]]\n\nTolkien scholars note that while Tolkien criticised the [[Matter of Britain|mythology of King Arthur]], and disliked its explicit mentions of Christian themes, there are multiple parallels in his writings, not least of Aragorn to King Arthur, suggesting that Tolkien certainly made use of the mythology.{{sfn|Finn|2005|pp=23-26}}{{sfn|Flieger|2005|pp=33–44}}{{sfn|Jardillier|2003}} Laura Gálvez-Gómez specifically likens the Company of the Ring to the Arthurian order of the [[Knights of the Round Table]]. In both, there is \"a chosen hero who carries the main burden\" on a quest, a returning King with the gift of healing, an accompanying Wizard, a treacherous knight, and \"a hero without courtly manners who finally becomes a knight\".{{sfn|Gálvez-Gómez|2018|pp=88–95}}{{-}}\n\n{| class=\"wikitable sortable\" style=\"margin: 1em auto;\"\n|+ Laura Gálvez-Gómez's analysis of Arthurian features of the Company{{sfn|Gálvez-Gómez|2018|pp=88–92}}\n|-\n! Element !! Company of the Ring !! [[Knights of the Round Table|Order of the Round Table]]\n|-\n! Unifying symbol \n| [[One Ring]]<br/>All of Middle-earth || [[Round Table]]<br/>Equality, loyalty, and friendship \n|-\n! Returning King \n| [[Aragorn]]<br/>* raised by Elves<br/>* Inherits sword [[Andúril]] || [[King Arthur|Arthur]]<br/>* Raised among fairies<br/>* Inherits sword [[Excalibur]]\n|-\n! Wizard,<br/>King's adviser \n| [[Gandalf]]<br/>''Mithrandir'' || [[Merlin]]<br/>''Myrddin''\n|-\n! Burden-carrier \n| [[Frodo Baggins|Frodo]]<br/>* Ring-bearer || [[Galahad]] or [[Percival|Perceval]]<br/>* [[Holy Grail|Grail]] Knight\n|-\n! Most loyal knight \n| [[Sam Gamgee|Sam]] || [[Bedivere]]\n|-\n! Treacherous knight \n| [[Boromir]] || [[Agravain]], [[Mordred]] \n|-\n! Minor knight \n| [[Meriadoc Brandybuck]] || Meriadoc \n|-\n! No courtly manners,<br/>becomes a knight \n| [[Peregrin Took]] || [[Percival|Perceval]] \n|}\n\n== In adaptations ==\n\n[[File:Fellowship.JPG|thumb|upright=2|The members of the Company as portrayed in [[Peter Jackson]]'s 2001 film ''[[The Lord of the Rings: The Fellowship of the Ring (film)|The Lord of the Rings: The Fellowship of the Ring]]''. From left to right: (top row) [[Aragorn]], [[Gandalf]], [[Legolas]], [[Boromir]], (bottom row) [[Samwise Gamgee|Sam]], [[Frodo Baggins|Frodo]], [[Merry Brandybuck|Merry]], [[Pippin Took|Pippin]], [[Gimli (Middle-earth)|Gimli]].{{sfn|Cast|2002}} The casting is widely admired.{{sfn|Rotten|2020}} Even Tolkien scholars hostile to the films admired the casting and costumes.{{sfn|Thompson|2011}} The hobbits and dwarf were [[Production of The Lord of the Rings film series#Scale|made to appear to scale by methods including]] scale doubles of film sets, [[forced perspective]], [[green-screen]]ing, and choosing actors of differing heights.{{sfn|New Line Cinema|2004}} ]]\n\nAll the members of the Company of the Ring are portrayed in [[Peter Jackson]]'s 2001 film ''[[The Lord of the Rings: The Fellowship of the Ring (film)|The Lord of the Rings: The Fellowship of the Ring]]''.{{sfn|Cast|2002}} According to [[Rotten Tomatoes]], a consensus of film critics described the casting as \"pitch-perfect\".{{sfn|Rotten|2020}} The Company was played by the following actors:{{sfn|Cast|2002}}\n\n* [[Elijah Wood]] as [[Frodo Baggins]]\n* [[Ian McKellen]] as [[Gandalf|Gandalf the Grey]]\n* [[Viggo Mortensen]] as [[Aragorn]]\n* [[Sean Bean]] as [[Boromir]]\n* [[Sean Astin]] as [[Samwise Gamgee]]\n* [[Dominic Monaghan]] as [[Meriadoc Brandybuck]]\n* [[John Rhys-Davies]] as [[Gimli (Middle-earth)|Gimli]]\n* [[Orlando Bloom]] as [[Legolas]]\n* [[Billy Boyd (actor)|Billy Boyd]] as [[Peregrin Took]]\n\nTolkien scholars were divided about [[Peter Jackson's interpretation of The Lord of the Rings|Jackson's film representation of Tolkien's novel]], but even scholars generally hostile to the film version have respected its visual presentation, admiring the casting, costumes, props, and cinematography.{{sfn|Thompson|2011|p=25–26, 31}} The diminutive scale of the four hobbits, and of the dwarf Gimli, [[Production of The Lord of the Rings film series#Scale|was achieved by the use of several methods]], including scale doubles of film sets, [[forced perspective]], and [[green-screen]]ing to combine reduced images of hobbits and dwarf with unscaled images of the other members of the Company. To make the dwarf appear slightly taller than the hobbits without requiring additional scale doubles, a tall actor was chosen to play the dwarf.{{sfn|New Line Cinema|2004}}\n\n== References ==\n\n=== Primary ===\n\n{{reflist|group=T|22em}}\n\n=== Secondary ===\n\n{{reflist|22em}}\n\n=== Sources ===\n\n{{refbegin|30em}}\n* {{cite book |last=Carpenter |first=Humphrey |author-link=Humphrey Carpenter |title=J. R. R. Tolkien: A Biography |title-link=J. R. R. Tolkien: A Biography |year=1978 |orig-year=1977 |publisher=[[Unwin Paperbacks]] |isbn=978-0-04928-039-7}}\n* {{cite video |ref={{harvid|Cast|2002}} |title=The Fellowship of the Cast |medium=DVD |publisher=[[New Line Cinema]] |year=2002}}\n* {{cite journal |last=Finn |first=Richard J. |title=Arthur and Aragorn: Arthurian influence in ''The Lord of the Rings'' |journal=[[Mallorn (journal)|Mallorn]] |issue=43 |year=2005 |pages=23–26 |url=https://journals.tolkiensociety.org/mallorn/article/download/118/112 |jstor=45320521}}\n* {{cite book |last=Flieger |first=Verlyn |author-link=Verlyn Flieger |year=2005 |title=Interrupted Music: The Making Of Tolkien's Mythology |publisher=[[Kent State University Press]] |url=https://books.google.com/books?id=Q6zgmCf_kY4C&q=Tolkien+%22Red+Book%22+Haggard&pg=PA150 |isbn=9780873388245}}\n* {{cite book |last=Gálvez-Gómez |first=Laura |chapter=The Ring and the Grail |title=Persistence and Resistance in English Studies |year=2018 |pages=88–96 |publisher=[[Cambridge Scholars Publishing]] |isbn=978-1-5275-1228-3 |chapter-url=https://books.google.com/books?id=fp9fDwAAQBAJ&pg=PA88}}\n* {{cite journal |last=Jardillier |first=Claire |title=Tolkien under the influence: Arthurian Legends in The Lord of the Rings |journal=Bulletin des Anglicistes Médiévistes, Bulletin de l'Association des Médiévistes Anglicistes de l'Enseignement Supérieur |issue=63 |year=2003 |pages=57–78}}\n* {{cite journal |last=Juričková |first=Martina |title=Friendship in Tolkien's world |journal=[[Mallorn (journal)|Mallorn]] |issue=55 |year=2014 |pages=32–34 |url=https://journals.tolkiensociety.org/mallorn/article/download/54/48}}\n* {{cite book |last=Little |first=Ariel |chapter=<!--22. -->Hope remains while the company is true: The community heroic in the Fellowship of the Ring |title=The Inklings and Culture: A Harvest of Scholarship from the Inklings Institute of Canada |year=2020 |pages=304–315 |publisher=Cambridge Scholars Publishing |isbn=978-1-5275-6265-3 |chapter-url=https://books.google.com/books?id=8WMOEAAAQBAJ&dq=members+of+Fellowship+of+the+Ring&pg=PA304}}\n* {{cite journal |last=Munro |first=Rebecca |title=The Art of The Lord of the Rings: A Defense of the Aesthetic |journal=Religion and the Arts |year=2014 |volume=18 |issue=5 |pages=636–652 |doi=10.1163/15685292-01805002}}\n* {{cite AV media |type=DVD |title=Weta Digital |publisher=New Line Cinema |date=2004 |ref={{harvid|New Line Cinema|2004}}}}\n* {{cite web |ref={{harvid|Online Etymology Dictionary|2024}} |url=https://www.etymonline.com/word/companion |title=companion (n.) |publisher=[[Online Etymology Dictionary]] |access-date=6 January 2025}}\n* {{cite web |ref={{harvid|Rotten|2020}} |url=https://www.rottentomatoes.com/m/the_lord_of_the_rings_the_fellowship_of_the_ring |archive-url=https://web.archive.org/web/20200517125839/https://www.rottentomatoes.com/m/the_lord_of_the_rings_the_fellowship_of_the_ring |title=The Lord of the Rings: The Fellowship of the Ring (2001) |website=[[Rotten Tomatoes]] |publisher=[[Fandango Media|Fandango]] |year=2020 |archive-date=17 May 2020 |access-date=17 May 2020 |url-status=live}}\n* {{cite book |last=Thompson |first=Kristin |author-link=Kristin Thompson |chapter=Gollum Talks to Himself: Problems and Solutions in Peter Jackson's ''The Lord of the Rings'' |editor1-last=Bogstad |editor1-first=Janice M. |editor2-last=Kaveny |editor2-first=Philip E. |title=[[Picturing Tolkien: Essays on Peter Jackson's The Lord of the Rings Film Trilogy]] |chapter-url=https://books.google.com/books?id=jNjKrXRP0G8C&pg=PA25 |year=2011 |publisher=[[McFarland & Company]] |isbn=978-0-7864-8473-7 |pages=25–45 |access-date=6 November 2024 |archive-date=13 July 2021 |archive-url=https://web.archive.org/web/20210713085043/https://books.google.com/books?id=jNjKrXRP0G8C&pg=PA25 |url-status=live}}\n* {{ME-ref|FOTR}}\n* {{ME-ref|TT}}\n* {{ME-ref|ROTK}}\n* {{cite web |last=Wagner |first=Vit |url=https://www.thestar.com/entertainment/article/203389 |title=Tolkien proves he's still the king |work=[[Toronto Star]] |date=16 April 2007 |access-date=8 March 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110309035210/http://www.thestar.com/entertainment/article/203389 |archive-date=9 March 2011}}\n* {{cite book |last=Wood |first=Ralph C. |author-link=Ralph C. Wood |chapter=J. R. R. Tolkien: His Sorrowful Vision of Joy |editor1-last=Hein |editor1-first=David |editor2-last=Henderson |editor2-first=Edward |chapter-url=https://books.google.com/books?id=yjFNAwAAQBAJ&pg=PA121 |title=C. S. Lewis and his Friends |publisher=[[SPCK]] |year=2011 |pages=116–134 |isbn=978-1-61097-791-3 }}\n{{refend}}\n\n{{Lord of the Rings}}\n\n[[Category:The Lord of the Rings characters]]\n[[Category:Themes of The Lord of the Rings]]\n[[Category:Male characters in literature]]\n[[Category:Male characters in film]]\n[[Category:Fictional nonets]]",
+  "redirect_chain": [],
+  "revision_id": 1361189134,
+  "revision_timestamp": "2026-06-26T07:14:28Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Context"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Narrative"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Narrative"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Narrative"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Narrative"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Narrative"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Narrative"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: table",
+      "structure_type": "table"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Theme of community"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Theme of community"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Theme of community"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Theme of community"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Arthurian origins"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Arthurian origins"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Arthurian origins"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Arthurian origins"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: table",
+      "structure_type": "table"
+    },
+    {
+      "heading_path": [
+        "In adaptations"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "In adaptations"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "In adaptations"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: list",
+      "structure_type": "list"
+    },
+    {
+      "heading_path": [
+        "In adaptations"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

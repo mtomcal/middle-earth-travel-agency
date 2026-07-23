@@ -1,0 +1,483 @@
+{
+  "article_artifact_id": "article_84af469d83ad008ea560e957ba3394bd91fddf09a479aeffd8588c82dd5a51f9",
+  "canonical_title": "Battle of Helm's Deep",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_84af469d83ad008ea560e957ba3394bd91fddf09a479aeffd8588c82dd5a51f9",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Tolkien based Helm's Deep on England's Cheddar Gorge, and the Glittering Caves of Aglarond on the cave complex that he had visited there. The army of Rohan was according to Tolkien armed and equipped much like that of the armies depicted in the Bayeux Tapestry. He noted further that his walking forest was partly a response to Shakespeare's Macbeth, which tells of the coming of \"Great Birnam Wood to high Dunsinane hill\". Scholars have likened the way Aragorn, Éomer, and Gimli heroically hold off the army of Orcs to Horatius Cocles's heroic defence of a bridge of ancient Rome.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_f01b3b49503f5c275e8be20002904ad4b3621930358243feb91271c33d2a5a1a",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_84af469d83ad008ea560e957ba3394bd91fddf09a479aeffd8588c82dd5a51f9",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Peter Jackson's 2002 film The Two Towers makes the battle dramatic, following Tolkien's account quite closely, but with changes to the forces involved: the defenders include a group of Elf-warriors sent by Elrond; the attackers include neither men nor wargs (battle-wolves).",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_dada4aa41d4a1c46ab2fffd7e71eb7daf3fefa9fe5de8be68eb63fd79d182a4f",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_84af469d83ad008ea560e957ba3394bd91fddf09a479aeffd8588c82dd5a51f9",
+      "heading_path": [
+        "Fictional geography"
+      ],
+      "normalized_text": "thumb|The caves in Cheddar Gorge inspired Tolkien's Glittering Caves of Aglarond, at the head of the gorge of Helm's Deep.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_25d893a4d4a62f09f15e0a0ba506462ebb8be4c7e83b83139633d442cc1d32b0",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_84af469d83ad008ea560e957ba3394bd91fddf09a479aeffd8588c82dd5a51f9",
+      "heading_path": [
+        "Description",
+        "Background"
+      ],
+      "normalized_text": "Théoden had been released by the Wizard Gandalf from the influence of Gríma Wormtongue, his malevolent adviser and Saruman's spy. He then sets out to the Fords of Isen, where his marshal Erkenbrand was fighting Saruman's forces. However, Théoden found out that his forces had been scattered. Gandalf advised him to take refuge in the Hornburg fortress of Helm's Deep. Gandalf then left on an unexplained errand. Théoden's army went to the area, where local people were commanded by a captain called Gamling the Old. Many of the men there were very old or young. The women and children of Théoden's capital Edoras were safe in Dunharrow, led by the King's niece Éowyn.",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_ddca3cb589233714470d6e1fa3628614a460aec19b81a286ad1319b7d62ad4f6",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_84af469d83ad008ea560e957ba3394bd91fddf09a479aeffd8588c82dd5a51f9",
+      "heading_path": [
+        "Description",
+        "The battle"
+      ],
+      "normalized_text": "The forces of Saruman, common Orcs, large Uruk-hai, \"half-orcs and goblin-men\", and Dunlendings (Men of Dunland), arrived at Helm's Deep on a stormy night. They stormed the first defence, Helm's Dike, forcing the defenders to fall back to the fortress. They attempted to break down the gate with a battering ram, but a sortie led by Aragorn and Éomer briefly scattered the attackers.",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_f432cca5eb39d1e1f8050cf4f56810b47bcaf069d5ffc8c9664e774acb5e71bf",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_84af469d83ad008ea560e957ba3394bd91fddf09a479aeffd8588c82dd5a51f9",
+      "heading_path": [
+        "Description",
+        "The battle"
+      ],
+      "normalized_text": "Saruman's forces broke through the Hornburg gate just before dawn. At this moment, Helm's horn was sounded, and Théoden and Aragorn rode out, followed by all the Rohirrim left inside. They cut their way through the Orcs and drove them back from the fortress walls to Helm's Dike.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_f277b8eb4046c303ffa2fda56a3d8d8cd32d12dcb55e2288006db671e519ecbd",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_84af469d83ad008ea560e957ba3394bd91fddf09a479aeffd8588c82dd5a51f9",
+      "heading_path": [
+        "Description",
+        "The battle"
+      ],
+      "normalized_text": "As day dawned, both armies saw that a forest of angry, tree-like Huorns now filled the valley, trapping Saruman's army. Above them, Gandalf appeared on Shadowfax, with Erkenbrand and a thousand footsoldiers who had escaped from the Fords of Isen. They charged into the fray. The Dunlendings dropped their weapons, while the Orcs fled into the Huorn forest and were destroyed.",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_1e4067a9580322f1cb2fa54465fdc7fc8dbeddaf5e4231075c556c865fb0164e",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_84af469d83ad008ea560e957ba3394bd91fddf09a479aeffd8588c82dd5a51f9",
+      "heading_path": [
+        "Description",
+        "The battle"
+      ],
+      "normalized_text": "thumb|upright=3.3|center|Battle of Helm's Deep",
+      "paragraph_ordinal": 5,
+      "passage_id": "passage_cda692edb4ff14165c6b727064e0f393353fffe792ec7999a10ec6d69ed6ef06",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_84af469d83ad008ea560e957ba3394bd91fddf09a479aeffd8588c82dd5a51f9",
+      "heading_path": [
+        "Description",
+        "Aftermath"
+      ],
+      "normalized_text": "After the battle, the Dunlendings were given amnesty by Erkenbrand and allowed to return home (much to their surprise, since Saruman had told them that the men of Rohan would burn all survivors alive). The Rohirrim required that all hostilities cease, and that the Dunlendings retreat behind the River Isen again and never recross while bearing arms. Before they were freed, though, the Dunlending captives were put to work in repairing the fortress.",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_48e8b7ae968d7c8b74f4e850ef39c72af12a8892a4967148cec77c004c9387cb",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_84af469d83ad008ea560e957ba3394bd91fddf09a479aeffd8588c82dd5a51f9",
+      "heading_path": [
+        "Description",
+        "Aftermath"
+      ],
+      "normalized_text": "The bodies of the Orcs that had entered the forest of Huorns were never seen again; the Huorns had buried them in an earthen mound known as \"Death's Down\".",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_8a411d95d78a08b6023d2e63063873cd2043fca4a8c00c21b21ebb35d6e76ff0",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_84af469d83ad008ea560e957ba3394bd91fddf09a479aeffd8588c82dd5a51f9",
+      "heading_path": [
+        "Description",
+        "Aftermath"
+      ],
+      "normalized_text": "Among the Rohirrim dead was Háma, captain of Théoden's personal guard and doorward of his hall; the Orcs had hewn his corpse, an atrocity that Théoden recalled during his later parley with Saruman. Gimli had been wounded, but had killed 42 Orcs to Legolas's 41.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_a890975d0f8955c5c22505e8f71b721402ae00d4e3f2f50b587e08bfb8aea019",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_84af469d83ad008ea560e957ba3394bd91fddf09a479aeffd8588c82dd5a51f9",
+      "heading_path": [
+        "Analysis",
+        "Bayeux Tapestry style"
+      ],
+      "normalized_text": "In a 1958 letter to Rhona Beare, one of a group of enthusiasts, Tolkien stated that the Rohirrim \"were not 'Mediaeval' in our sense\" (as the Third Age was meant to be thousands of years earlier) but that all the same \"the styles of the Bayeux Tapestry (made in England) fit them well enough\", explaining that the soldiers in the tapestry are wearing chain-mail.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_b2e66580cdcb2901b40aca224ea52043f0631cbdacd5bad7ecc462d5c62cc54e",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_84af469d83ad008ea560e957ba3394bd91fddf09a479aeffd8588c82dd5a51f9",
+      "heading_path": [
+        "Analysis",
+        "Classical influence"
+      ],
+      "normalized_text": "thumb|upright=0.9|Tolkien made use of Livy's tale of the heroic bridge defence by Horatius Cocles, perhaps partly via Macaulay's version in his 1842 Lays of Ancient Rome.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_5063e00380b9a09cedcffd8254ca5f0ef12bbb4c678e0c551cc2e83620e6ea7c",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_84af469d83ad008ea560e957ba3394bd91fddf09a479aeffd8588c82dd5a51f9",
+      "heading_path": [
+        "Adaptations",
+        "Peter Jackson's film"
+      ],
+      "normalized_text": "upright=1.25|thumb|The Battle of Helm's Deep in Peter Jackson's The Lord of the Rings: The Two Towers",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_728cc317c8466b2ee53eae5421b27c7e0ad54af5472b27b98e94c2bdf1e12aa7",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_84af469d83ad008ea560e957ba3394bd91fddf09a479aeffd8588c82dd5a51f9",
+      "heading_path": [
+        "Adaptations",
+        "Peter Jackson's film"
+      ],
+      "normalized_text": "In the film, 10,000 of Saruman's Uruk-hai, with no Orcs of other races, Dunlendings or wargs to accompany them, lay siege to the fortress, defended by around 300 Rohirrim. Soon after, a large group of the Elves of Lothlórien join the defences, sent by Elrond, at Galadriel's prompting. The defenders suffer heavy losses, but hold out until dawn, when Gandalf arrives with 2,000 riders led by Éomer, who turn the tide of the battle and rout Saruman's forces.",
+      "paragraph_ordinal": 5,
+      "passage_id": "passage_e00cb55934263e656dba83caff5acd46bf7787bac28e9e916a892a19f60e34b8",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_84af469d83ad008ea560e957ba3394bd91fddf09a479aeffd8588c82dd5a51f9",
+      "heading_path": [
+        "Adaptations",
+        "Peter Jackson's film"
+      ],
+      "normalized_text": "In the original script of the film, Elrond and Arwen had gone to see Galadriel in person, and it was Arwen who led the Elves to fight alongside the Rohan defenders. Jackson rejected Arwen's involvement, revising her character from a \"warrior princess\" to a role closer to that of the book, but kept the Elves in the battle. Huorns appear only in additional scenes in the Extended Edition, later released on DVD.",
+      "paragraph_ordinal": 6,
+      "passage_id": "passage_8046486322a78c43529fd62e2d1125a7ae2c45fb688c92e2b2b271d25853509c",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Battle_of_Helm%27s_Deep&action=history",
+  "namespace": 0,
+  "page_id": 173616,
+  "parent_revision_id": 1358485636,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1358526773",
+  "raw_wikitext": "{{short description|Battle in Tolkien's \"The Lord of the Rings\"}}\n{{good article}}\nThe '''Battle of Helm's Deep''', also called the '''Battle of the Hornburg''', is a fictional battle in [[J. R. R. Tolkien]]'s ''[[The Lord of the Rings]]'' that saw the total destruction of the forces of the [[Wizard (Middle-Earth)|Wizard]] [[Saruman]] by the army of [[Rohan (Middle-earth)|Rohan]], assisted by a forest of tree-like [[Huorns]]. \n{{Infobox military conflict\n| conflict          = Battle of Helm's Deep\n| partof            = [[War of the Ring]]\n| image             = File:Cheddar Gorge 1890s.jpg\n| image_size        = 200\n| caption           = Helm's Deep is based on [[Cheddar Gorge]], a steep-sided [[limestone]] valley in [[South West England]], seen here in the 1890s<ref name=\"Cheddar\"/>\n| date              = 3-4 March 3019\n| place             = [[Helm's Deep]]\n| result            = Victory for Rohan\n| combatant1        = {{flagicon image|Flag of the Kingdom of Rohan No Border.svg}} [[Rohan, Middle-earth|Rohan]]\n| combatant2        = {{flagicon image|Flag of Isengard.svg}} [[Isengard]]\n| commander1        = {{flagicon image|Flag of the Kingdom of Rohan No Border.svg}} [[Théoden]]<br>{{flagicon image|Flag of the Kingdom of Rohan No Border.svg}} [[Aragorn]]<br>{{flagicon image|Flag of the Kingdom of Rohan No Border.svg}} [[Gandalf]]<br>{{flagicon image|Flag of the Kingdom of Rohan No Border.svg}} [[Éomer]]<br>{{flagicon image|Flag of the Kingdom of Rohan No Border.svg}} Erkenbrand\n| commander2        = {{flagicon image|Flag of Isengard.svg}} Unknown orc commander\n| strength1         = ~1,000+ horsemen led by King Theoden<br>~1,000± warriors and militiamen of Westfold<br>~1,000 foot soldiers brought by Gandalf led by Erkenbrand.\n| strength2         = About 10,000 [[Uruk-Hai]]\n| casualties1       = Unknown\n| casualties2       = Almost all\n}}\n\nHelm's Deep was a valley in the north-western [[Ered Nimrais|White Mountains]] of [[Middle-earth]]. Helm's Deep, with its fortress the Hornburg, becomes the refuge of some of the army of Rohan, the Rohirrim, under King [[Théoden]], from assault by the forces of Saruman. Although Théoden says that \"the Hornburg has never fallen to assault,\" in the battle a massive army of [[Uruk-hai]] and Dunlendings sent by Saruman almost overwhelms the defences. Saruman's [[Orc (Middle-earth)|Orcs]] breach the fortress wall that blocks the valley by setting off an explosion in a [[culvert]]; [[Aragorn]] names it \"Saruman's devilry\" and \"the fire of [[Orthanc]]\"; the critic [[Tom Shippey]] calls it \"a kind of gunpowder\".{{sfn|Shippey|2005|page=194}} The defenders hold out in the fortress until dawn, when Théoden and Aragorn lead a [[cavalry charge]] that drives the Orcs from the fortress. They are surprised to see the valley to the enemy's rear blocked by a forest of tree-like Huorns that have walked from [[Fangorn]] in the night. On the side of the valley are relieving forces assembled by [[Gandalf]] and Erkenbrand, a Rohirrim leader. These attack, driving the Orcs into the angry Huorn forest, from which the Orcs never emerge; the Huorns bury the Orcs' bodies in an earthen mound known as \"Death's Down\".\n\nTolkien based Helm's Deep on England's [[Cheddar Gorge]], and the Glittering Caves of Aglarond on the cave complex that he had visited there. The army of Rohan was according to Tolkien armed and equipped much like that of the armies depicted in the [[Bayeux Tapestry]]. He noted further that his walking forest was partly a response to [[William Shakespeare|Shakespeare]]'s ''[[Macbeth]]'', which tells of the coming of \"Great [[Birnam Wood]] to high Dunsinane hill\". Scholars have likened the way Aragorn, Éomer, and Gimli heroically hold off the army of Orcs to [[Horatius Cocles]]'s heroic defence of a bridge of [[ancient Rome]].\n\n[[Peter Jackson]]'s 2002 [[The Lord of the Rings: The Two Towers|film ''The Two Towers'']] makes the battle dramatic, following Tolkien's account quite closely, but with changes to the forces involved: the defenders include a group of [[Elf (Middle-earth)|Elf]]-warriors sent by [[Elrond]]; the attackers include neither men nor [[Warg#Tolkien|wargs]] (battle-wolves).\n\n== Fictional geography ==\n\n{{anchor|Glittering Caves of Aglarond}}\n\n[[File:Miniature reflections in Gough's Cave - geograph.org.uk - 1232463.jpg|thumb|The caves in Cheddar Gorge inspired Tolkien's Glittering Caves of Aglarond, at the head of the gorge of Helm's Deep.<ref name=\"Cheddar\"/>]]\n\nHelm's Deep is based on the [[Cheddar Gorge]], a [[limestone]] gorge {{convert|400|ft|abbr=on}} deep in the [[Mendip Hills]], with a large cave complex that Tolkien visited on his honeymoon in 1916 and revisited in 1940, and which he acknowledged as the origin of the Glittering Caves of Aglarond at the head of Helm's Deep, behind the fortress.<ref group=T>{{harvnb|Carpenter|2023|loc=#321 to P. Rourke, February 1971 }}</ref><ref name=\"Cheddar\">{{cite book |last1=Hammond |first1=Wayne G. |author-link1=Wayne G. Hammond |last2=Scull |first2=Christina |author-link2=Christina Scull |title=[[The Lord of the Rings: A Reader's Companion]] |year=2005 |publisher=HarperCollins |location=London |isbn=0-00-720907-X |page=420}}</ref>\n\nHelm's Deep is properly the narrow gorge or ravine<ref name=\"Helm's Deep\" group=T>{{harvnb|Tolkien|1954|loc=book 3, ch. 7 \"Helm's Deep\"}}</ref><ref name=\"House of Eorl\" group=T>{{harvnb|Tolkien|1955|loc=Appendix A, II The House of Eorl}}</ref> at the head of a larger valley (the Deeping-coomb), but the name is also used for the fortifications at the mouth of the gorge and the larger valley below.<ref group=T>{{harvnb|Carpenter|2023|loc=#210 to Forrest J. Ackerman, June 1958 }}</ref><ref name=\"Flotsam and Jetsam\" group=T>{{harvnb|Tolkien|1955|loc=book 3, ch. 2 \"Flotsam and Jetsam\"}}</ref><ref name=\"Passing of the Grey Company\" group=T>{{harvnb|Tolkien|1955|loc=book 5, ch. 2 \"The Passing of the Grey Company\"}}</ref> The gorge, which wound deep into the [[Ered Nimrais|White Mountains]] at the feet of the Thrihyrne mountain, led into the Glittering Caves of Aglarond, an extensive series of spectacular [[speleothems]]. In ''[[The Lord of the Rings]]'', the [[Dwarf (Middle-earth)|Dwarf]] [[Gimli (Middle-earth)|Gimli]], who like all dwarves is well versed in geology, is horrified that the caves are used only as a refuge, describing them lyrically as:\n\n{{quote|immeasurable halls, filled with everlasting music of water that tinkles into pools, as fair as [[Kheled-zâram]] in the starlight. […] when torches are kindled and men walk on the sandy floors under the echoing domes, ah! then […] gems and crystals and veins of precious ore glint in the polished walls; and the light glows through folded marbles, shell-like, translucent as the living hands of Queen [[Galadriel]]. There are columns of white and saffron and dawn-rose […] fluted and twisted into dreamlike forms; they spring up from many-coloured floors to meet the glistening pendants of the roof: wings, ropes, curtains fine as frozen clouds; spears, banners, pinnacles of suspended palaces! Still lakes mirror them: a glimmering world looks up from dark pools covered with clear glass; cities such as the mind of [[Durin the Deathless|Durin]] could scarce have imagined in his sleep, stretch on through avenues and pillared courts, or into the dark recesses where no light can come.<ref name=\"Road to Isengard\" group=T>{{harvnb|Tolkien|1954|loc=book 3, ch. 8 \"Road to Isengard}}</ref>}}\n\nThe mouth of the gorge, Helm's Gate, was closed by the battlemented Deeping Wall, {{convert|20|ft|abbr=on}} tall, and wide enough for four men to stand abreast, with a [[culvert]] for the Deeping-stream which flowed down the valley. At one end of the wall the Hornburg castle stood on a spur of the mountain; a long stair led to its rear gate, and a long causeway led down forwards from its main gate. About two furlongs (400 metres) down from the gate was an outer trench and rampart, Helm's Dike, built right across the Deeping-coomb. Tolkien drew detailed sketches of the fortifications.{{sfn|Hammond|Scull|1995|loc=pictures 160 & 161 (p. 165) }}\n\nThe valley was named after King Helm Hammerhand of Rohan, when he and his people sought refuge from the invading [[Dunland|Dunlendings]] under [[Wulf (Middle-earth)|Wulf]] during the winter of {{ME-date|TA|2758–2759}}.<ref name=\"House of Eorl\" group=T>{{harvnb|Tolkien|1955|loc=Appendix A, II The House of Eorl}}</ref>\n\n{{anchor|Battle of the Hornburg}}\n\n== Description ==\n\n=== Background ===\n\nThéoden had been released by the Wizard [[Gandalf]] from the influence of [[Gríma|Gríma Wormtongue]], his malevolent adviser and Saruman's spy. He then sets out to the Fords of Isen, where his marshal Erkenbrand was fighting Saruman's forces. However, Théoden found out that his forces had been scattered. Gandalf advised him to take refuge in the Hornburg fortress of Helm's Deep. Gandalf then left on an unexplained errand. Théoden's army went to the area, where local people were commanded by a captain called Gamling the Old. Many of the men there were very old or young. The women and children of Théoden's capital [[Edoras]] were safe in [[Dunharrow]], led by the King's niece [[Éowyn]].<ref name= \"Helm's Deep\" group=T/>\n\nThe garrison of Helm's Deep consisted of some 1,000 men, but around 1,000 more defenders had arrived from across Rohan by the time of the battle.<ref>{{harvnb|Fonstad|1991|p=132}}</ref> The enemy, [[Saruman]]'s army, consisted of at least 10,000 Orcs and men, most marching from [[Isengard]] to Helm's Deep, and others heading to the Fords of Isen.<ref name=\"Helm's Deep\" group=T/><ref group=T>{{harvnb|Tolkien|1980|loc=Part 3, ch. 5 \"The Battles of the Fords of Isen\"<!--p. 363-->}}</ref> An additional force of [[Men (Middle-earth)|Men]] of Dunland joined the enemy.<ref name=\"Helm's Deep\" group=T/>\n\n=== The battle ===\n\nThe forces of Saruman, common Orcs, large Uruk-hai, \"half-orcs and goblin-men\", and Dunlendings (Men of Dunland), <!--book: film is discussed later--> arrived at Helm's Deep on a stormy night. They stormed the first defence, Helm's Dike, forcing the defenders to fall back to the fortress. They attempted to break down the gate with a [[battering ram]], but a sortie led by [[Aragorn]] and [[Éomer]] briefly scattered the attackers.<ref name=\"Helm's Deep\" group=T/>\n\nThe Orcs and Dunlendings raised ladders to scale the wall, but were held back by the Men of Rohan atop the wall. Orcs crept into the culvert and made a breach in the wall using a \"blasting-fire\" from Orthanc, perhaps \"a kind of [[gunpowder]]\";{{sfn|Shippey|2005|page=194}} Saruman's army rushed in. Some defenders retreated to the Glittering Caves of Aglarond, while others retreated to the Hornburg.<ref name=\"Helm's Deep\" group=T/>\n\nSaruman's forces broke through the Hornburg gate just before dawn. At this moment, Helm's horn was sounded, and Théoden and Aragorn rode out, followed by all the Rohirrim left inside. They cut their way through the Orcs and drove them back from the fortress walls to Helm's Dike.<ref name=\"Helm's Deep\" group=T/>\n\nAs day dawned, both armies saw that a forest of angry, tree-like [[Huorns]] now filled the valley, trapping Saruman's army. Above them, Gandalf appeared on [[Shadowfax (Middle-earth)|Shadowfax]], with Erkenbrand and a thousand footsoldiers who had escaped from the Fords of Isen. They charged into the fray. The Dunlendings dropped their weapons, while the Orcs fled into the Huorn forest and were destroyed.<ref name=\"Helm's Deep\" group=T/>\n\n[[File:Battle of Helm's Deep.svg|thumb|upright=3.3|center|Battle of Helm's Deep<ref name=\"Helm's Deep\" group=T/>]]\n\n=== Aftermath ===\n\nAfter the battle, the Dunlendings were given amnesty by Erkenbrand and allowed to return home (much to their surprise, since Saruman had told them that the men of Rohan would burn all survivors alive). The Rohirrim required that all hostilities cease, and that the Dunlendings retreat behind the [[River Isen]] again and never recross while bearing arms. Before they were freed, though, the Dunlending captives were put to work in repairing the fortress.<ref name= \"Helm's Deep\" group=T/>\n\nThe bodies of the Orcs that had entered the forest of Huorns were never seen again; the Huorns had buried them in an earthen mound known as \"Death's Down\".<ref name=\"Helm's Deep\" group=T/>\n\nAmong the Rohirrim dead was Háma, captain of Théoden's personal guard and doorward of [[Meduseld|his hall]]; the Orcs had hewn his corpse, an atrocity that Théoden recalled during his later parley with Saruman. Gimli had been wounded, but had killed 42 Orcs to Legolas's 41.<ref name= \"Helm's Deep\" group=T/>\n\n== Development ==\n\n=== Literary history ===\n\nIn Book III, ch. 5 of ''The Two Towers'', Helm is described only as a \"hero of old wars\"; Tolkien did not envision him as a king when he wrote that chapter.<ref group=T>{{harvnb|Tolkien|1990}} (''The History of Middle-earth'', vol VIII, p. 408)</ref>\n\nTolkien had not yet envisioned Helm's Deep in his first sketch for the decisive battle between Rohan and the forces of Saruman. In an outline published in ''The Treason of Isengard'' as “The Story Foreseen from Fangorn,\" the Rohirrim rode west at Gandalf's urging, as in the published text, but met the army of Saruman on the open plain. An indecisive battle ensued, after which the Rohirrim camped for the night, and woke to see the enemy surrounded and destroyed by a wood that had appeared overnight.<ref group=T>{{harvnb|Tolkien|1989}} (''The History of Middle-earth'', vol VII, p. 435-436)</ref>\n\n=== Later writings ===\n\nAfter the publication of ''The Lord of the Rings,'' Tolkien wrote about the history of [[Rohan (Middle-earth)|Rohan]], in writings now collected by his son Christopher in ''[[Unfinished Tales]]''. These state that the fortresses of Aglarond and [[Angrenost]] (renamed Isengard by the Rohirrim) were built by [[Gondor]] to guard the shoulders of the [[Gap of Rohan]]. Like Angrenost to the north, it was initially well guarded, but as the population of [[Gondor#Calenardhon|Calenardhon]] dwindled it was not maintained and was left to a hereditary small guard who intermarried with [[Dunlending]]s. When Cirion, [[Steward of Gondor]], gave Calenardhon to the [[Éothéod]], Aglarond was transferred into the care of the Rohirrim, who named it ''Súthburg'' (\"South-fortress\" in Old English). The Gondorian guard was merged with that of Isengard. Guard duty of the Fords was initially shared between Gondor and Rohan, but later maintained only by the Rohirrim.<ref name=\"Cirion and Eorl\" group=T>{{harvnb|Tolkien|1980|loc=part 3, ch. 3 \"Cirion and Eorl and the Friendship of Gondor and Rohan\"}}</ref>\n\n== Analysis ==\n\n=== Bayeux Tapestry style ===\n\n{{further|Tolkien and the medieval}}\n\n[[File:Odo bayeux tapestry.png|thumb|upright=1.25|Tolkien stated that the styles of the [[Bayeux Tapestry]] (detail shown) fitted the [[Rohirrim]] \"well enough\".<ref name=\"Letter 211\" group=T>{{harvnb|Carpenter|2023|loc=No. 211 }}</ref>]]\n\nIn a 1958 letter to Rhona Beare, one of a group of enthusiasts, Tolkien stated that the Rohirrim \"were not '[[Mediaeval]]' in our sense\" (as the [[Third Age]] was meant to be thousands of years earlier) but that all the same \"the styles of the [[Bayeux Tapestry]] (made in England) fit them well enough\", explaining that the soldiers in the tapestry are wearing [[chain-mail]].<ref name=\"Letter 211\" group=T/>\n\n=== Shakespeare rewritten ===\n\n{{further|Shakespeare's influence on Tolkien}}\n\nTolkien noted in a letter that he had created walking tree-creatures partly in response to his \"bitter disappointment and disgust from schooldays with the shabby use made in [[William Shakespeare|Shakespeare]]'s ''[[Macbeth]]'' of the coming of 'Great [[Birnam Wood]] to high Dunsinane hill': I longed to devise a setting in which the trees might really march to war\".<ref group=T>{{harvnb|Carpenter|2023|loc=#163, footnote }}</ref> The Tolkien scholar [[Tom Shippey]] calls it a \"shock\" that the battle is decided by having a forest of Huorns destroy Saruman's army of Orcs.{{sfn|Shippey|2005|page=184}}\n\n=== Classical influence ===\n\n{{further|Tolkien and the classical world}}\n\n[[File:Lays of Ancient Rome.jpg|thumb|upright=0.9|Tolkien made use of [[Livy]]'s tale of the heroic bridge defence by [[Horatius Cocles]], perhaps partly via [[Thomas Babington Macaulay|Macaulay]]'s version in his 1842 ''[[Lays of Ancient Rome]]''.<ref name=\"Oughton 2022\"/>]]\n\nCharles Oughton likens the Battle of Helm's Deep to [[Livy]]'s account of [[Horatius Cocles]]'s heroic defence of Rome's [[Pons Sublicius]] bridge. The heroes Aragorn, [[Éomer]], and [[Gimli (Middle-earth)|Gimli]] hold off the army of Orcs; Horatius holds off the army of [[Etruscan civilization|Etruscans]] at the bridge. Oughton finds multiple matches between the two accounts. Several of these are not present in [[Thomas Babington Macaulay]]'s poem \"[[Horatius (poem)|Horatius]]\" which retells Livy's tale, though Oughton suggests that Tolkien did make additional use of Macaulay for some details.<ref name=\"Oughton 2022\">{{cite journal |last=Oughton |first=Charles W. |title=Roman Heroes at Helm's Deep? |journal=Thersites |doi=10.34679/THERSITES.VOL15.214 |date=2022 |volume=15 There and Back Again: Tolkien and the Greco–Roman World (eds. Alicia Matz and Maciej Paprocki) |url=https://thersites-journal.de/index.php/thr/article/view/214}}</ref>\n\n=== Danish landscape ===\n\nThe historian Casper Clemmensen suggests that Tolkien may have been inspired by the Danish landscape, with the island of [[Hjelm (island)|Hjelm]] (\"Helm\") serving as the inspiration for the name.<ref>{{Cite news |last=Sternberg |first=Sarah Rothkegel |date=22 May 2022 |title=Historien om Tolkien og Jylland er langt større, end jeg troede  |language=da |trans-title=The story of Tolkien and Jutland is much bigger than I thought |url=https://jyllands-posten.dk/jpaarhus/ECE14021493/historien-om-tolkien-og-jylland-er-langt-stoerre-end-jeg-troede/ |url-status=live |archive-url=https://web.archive.org/web/20250101223713/https://jyllands-posten.dk/jpaarhus/ECE14021493/historien-om-tolkien-og-jylland-er-langt-stoerre-end-jeg-troede/ |archive-date=1 January 2025 |access-date=1 January 2025 |work=[[Jyllands-Posten]]}}</ref>\n\n== Adaptations ==\n\n=== Peter Jackson's film ===\n\n{{see also|Peter Jackson's interpretation of The Lord of the Rings}}\n\n[[File:Helmsdeep-siege.jpg|upright=1.25|thumb|The Battle of Helm's Deep in [[Peter Jackson]]'s ''[[The Lord of the Rings: The Two Towers]]'']]\n\nIn [[Peter Jackson]]'s 2002 film ''[[The Lord of the Rings: The Two Towers|The Two Towers]]'', the [[keep]] was built into the mountainside and resembles a [[World War I]] [[bunker]], in accordance with Tolkien's history as a soldier in that war. The entrance to the Glittering Caves of Aglarond is within the Hornburg itself, rather than at the top of the deep behind the Deeping Wall as in the book, while the [[Uruk-hai]] assault the main gateway in a [[testudo formation|testudo]], or locked-shields style formation, and the 'blasting fire' is depicted as gunpowder.<ref name=\"Harvey2011\">{{cite book |last=Harvey |first=Greg |title=The Origins of Tolkien's Middle-earth For Dummies |chapter-url=https://books.google.com/books?id=MocR5l-N8xIC&pg=PT343 |date=2011 |publisher=John Wiley & Sons |isbn=978-1-118-06898-4 |pages=343ff |chapter=Chapter 26: Top Ten Ways the 'Lord of the Rings' Books Differ from the Movies, 8. The Battle of the Hornburg at Helm's Deep}}</ref><ref>{{cite web |last=Purdom |first=Clayton |title=Breaking down Lord Of The Rings' triumphant battle of Helm's Deep |url=https://www.avclub.com/breaking-down-lord-of-the-rings-triumphant-battle-of-h-1798258857 |website=AV Club |date=3 August 2017}}</ref> The battle was filmed mainly at night, in frequent heavy natural rain or when necessary with artificial rain on the actors, for more than three months.<ref name=Daswick/> \n\nThe Helm's Deep set used some [[computer-generated imagery]]; some parts were constructed as full size sets; some shots used a 1/4 scale physical model, while more distant shots used a 1/85 scale model. In the final battle scene, [[Wētā FX|Weta]]'s \"Massive\" crowd simulation software and \"Grunt\" rendering software were used, with thousands of Uruk-hai modelled using Alias/Wavefront's \"Maya\" software.<ref>{{cite journal |last1=Doyle |first1=Audrey |title=The Two Towers |url=http://www.cgw.com/Publications/CGW/2003/Volume-26-Issue-2-Feb-2003-/The-Two-Towers.aspx |journal=Computer Graphics World |date=February 2003 |volume=26 |issue=2}}</ref> It has been described as one of the greatest battle scenes in film, combining \"technical mastery, sweeping spectacle and tonal balance\".<ref name=Daswick>{{cite news |last=Daswick |first=Tyler |title=15 Years Later, No One's Matched LOTR's Battle at Helm's Deep |url=https://relevantmagazine.com/culture/film/15-years-later-no-ones-matched-lotrs-battle-at-helms-deep/ |website=Relevant |date=18 December 2017}}</ref><ref>{{cite web |last=Dey |first=Simantini |title=Game of Thrones: The Long Night Played by the Rules Invented in LOTR's 'Helm's Deep', Here's How |url=https://www.news18.com/news/movies/game-of-thrones-the-long-night-played-by-the-rules-invented-in-lotrs-helms-deep-heres-how-2124359.html |publisher=[[News18]] |date=2 May 2019}}</ref> \n\nIn the film, 10,000 of Saruman's Uruk-hai, with no Orcs of other races, Dunlendings or [[Warg#Tolkien|wargs]] to accompany them, lay siege to the fortress, defended by around 300 Rohirrim. Soon after, a large group of the [[Elf (Middle-earth)|Elves]] of [[Lothlórien]] join the defences, sent by [[Elrond]], at Galadriel's prompting. The defenders suffer heavy losses, but hold out until dawn, when Gandalf arrives with 2,000 riders led by Éomer, who turn the tide of the battle and rout Saruman's forces.<ref>\"The Lord of the Rings:  The Two Towers (Extended Edition)\", [[New Line Cinema]], Ch. 23; Aragorn states that Éomer is heading north with 2,000 riders.</ref> \n\nIn the original script of the film, Elrond and [[Arwen]] had gone to see Galadriel in person, and it was Arwen who led the Elves to fight alongside the Rohan defenders. Jackson rejected Arwen's involvement, revising her character from a \"warrior princess\" to a role closer to that of the book, but kept the Elves in the battle. Huorns appear only in additional scenes in the Extended Edition, later released on DVD.<ref>''The Two Towers: Extended Edition'', \"From Book to Screen\". DVD, [[New Line Cinema]], 2002.</ref>\n<!--This article is about the battle, not the film. Please do not add anything here without citing a reliable source, nor anything that is not essential to THIS article.-->\n\n=== Other ===\n<!--The Battle of the Hornburg is a key part of [[Ralph Bakshi]]'s 1978 [[The Lord of the Rings (1978 film)|animated adaptation]].{{cn|date=February 2020}}--> \n<!--The fortress was featured as a scenario board in the [[Lord of the Rings (board game)|Lord of the Rings board game]], first released in 2000.{{cn|date=February 2020}}-->\n\nThe 2013 expansion to [[The Lord of the Rings Online]] entitled ''[[The Lord of the Rings Online: Helm's Deep|Helm's Deep]]'' depicts the fortress of Helm's Deep as well as the surrounding area of Western Rohan, the Battle of Helm's Deep featuring prominently.<ref>{{cite web |title=Lord of the Rings Online: Unofficial FAQ |work=LOTRO Source |url=http://lotro.tentonhammer.com/index.php?module=ContentExpress&func=display&ceid=100#4 |access-date=2007-08-24 |url-status=dead |archive-url=https://web.archive.org/web/20081227082300/http://lotro.tentonhammer.com/index.php?module=ContentExpress&func=display&ceid=100#4 |archive-date=2008-12-27}}</ref>\n\n== See also ==\n\n* [[Battle of the Pelennor Fields]] – the next battle, in which the Rohirrim ride to the rescue of Gondor\n* [[Battle of the Morannon]] – the last battle of the Third Age, with a contingent of the Rohirrim\n\n== References ==\n\n=== Primary ===\n\n{{reflist|group=T}}\n\n=== Secondary ===\n\n{{reflist}}\n\n=== Sources ===\n\n* {{ME-ref|Letters}} <!--Carpenter 1981-->\n* {{ME-ref|AOME}}    <!--Fonstad 1991-->\n* {{ME-ref|A&I}}     <!--Hammond Scull 1995-->\n* {{ME-ref|ROAD}}    <!--Shippey 2005-->\n* {{ME-ref|TT}} <!--Two Towers-->\n* {{ME-ref|RotK}}\n* {{ME-ref|UT}}\n* {{ME-ref|Treason}} <!--1989-->\n* {{ME-ref|WR}}\n\n{{The Lord of the Rings}}\n{{Middle-earth}}\n\n[[Category:Fictional story elements introduced in 1954]]\n[[Category:Middle-earth castles and fortresses]]\n[[Category:Middle-earth battles]]",
+  "redirect_chain": [
+    {
+      "source_title": "Helm's Deep",
+      "target_title": "Battle of Helm's Deep"
+    }
+  ],
+  "revision_id": 1358526773,
+  "revision_timestamp": "2026-06-09T07:07:07Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional geography"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional geography"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional geography"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional geography"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional geography"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional geography"
+      ],
+      "paragraph_ordinal": 7,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional geography"
+      ],
+      "paragraph_ordinal": 8,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Description",
+        "Background"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Description",
+        "The battle"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Development",
+        "Literary history"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Development",
+        "Literary history"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Development",
+        "Later writings"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Bayeux Tapestry style"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Bayeux Tapestry style"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Shakespeare rewritten"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Shakespeare rewritten"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Classical influence"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Classical influence"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Danish landscape"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Peter Jackson's film"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Peter Jackson's film"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Peter Jackson's film"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Other"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "See also"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: list",
+      "structure_type": "list"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

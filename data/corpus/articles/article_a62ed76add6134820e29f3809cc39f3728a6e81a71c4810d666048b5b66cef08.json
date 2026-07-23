@@ -1,0 +1,676 @@
+{
+  "article_artifact_id": "article_a62ed76add6134820e29f3809cc39f3728a6e81a71c4810d666048b5b66cef08",
+  "canonical_title": "Middle-earth",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_a62ed76add6134820e29f3809cc39f3728a6e81a71c4810d666048b5b66cef08",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Tolkien's Middle-earth is peopled not only by Men, but by Elves, Dwarves, Ents, and Hobbits, and by monsters including Dragons, Trolls, and Orcs. Through the imagined history, the peoples other than Men dwindle, leave, or fade, until, after the period described in the books, only Men are left on the planet.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_bc0542bebdcd2893aea01fa2beeaf46d33f34ddb0ca433edc01a066ee4776589",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_a62ed76add6134820e29f3809cc39f3728a6e81a71c4810d666048b5b66cef08",
+      "heading_path": [
+        "Context: Tolkien's legendarium"
+      ],
+      "normalized_text": "thumb|upright=1.75|Arda began as a symmetrical flat disc, and was repeatedly transformed through cataclysmic interventions by the Valar and by the creator, Eru Ilúvatar.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_6ebcc87a6d6788175dd366b1d5221423f33e7aed6a05b6541b5aea8c8c995bf2",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_a62ed76add6134820e29f3809cc39f3728a6e81a71c4810d666048b5b66cef08",
+      "heading_path": [
+        "Context: Tolkien's legendarium"
+      ],
+      "normalized_text": "The Valar withdrew from direct involvement in the affairs of Middle-earth after the defeat of Morgoth, but in later years they sent the wizards or Istari to help in the struggle against Sauron. The most important wizards were Gandalf the Grey and Saruman the White. Gandalf remained true to his mission and proved crucial in the fight against Sauron. Saruman, however, became corrupted and sought to establish himself as a rival to Sauron for absolute power in Middle-earth. Other races involved in the struggle against evil were Dwarves, Ents and most famously Hobbits. The early stages of the conflict are chronicled in The Silmarillion, while the final stages of the struggle to defeat Sauron are told in The Hobbit and in The Lord of the Rings.",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_dda7d608106412b43758dc0d6adc4eb0a1b3a1b2f2116f4e1fd43c59172b6cb4",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_a62ed76add6134820e29f3809cc39f3728a6e81a71c4810d666048b5b66cef08",
+      "heading_path": [
+        "Context: Tolkien's legendarium"
+      ],
+      "normalized_text": "Conflict over the possession and control of precious or magical objects is a recurring theme in the stories. The First Age is dominated by the doomed quest of the elf Fëanor and most of his Noldorin clan to recover three precious jewels called the Silmarils that Morgoth stole from them (hence the title The Silmarillion). The Second and Third Age are dominated by the forging of the Rings of Power, and the fate of the One Ring forged by Sauron, which gives its wearer the power to control or influence those wearing the other Rings of Power.",
+      "paragraph_ordinal": 6,
+      "passage_id": "passage_bdf8db2ce216d18b066cb9944aa260a5a0425e1cc8b913d6bd2e431abf24f520",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_a62ed76add6134820e29f3809cc39f3728a6e81a71c4810d666048b5b66cef08",
+      "heading_path": [
+        "Etymology"
+      ],
+      "normalized_text": "thumb|upright=1.2|Medieval Christian cosmology: heaven above, earth in the middle, hell below. Vank Cathedral, Isfahan.",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_14c92edec5bdde31d46a1e3a69275ee4407a4f5ee74e9a6482b3de1288cbfafa",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_a62ed76add6134820e29f3809cc39f3728a6e81a71c4810d666048b5b66cef08",
+      "heading_path": [
+        "Etymology",
+        "Use by Tolkien"
+      ],
+      "normalized_text": "Tolkien's first encounter with the term middangeard, as he stated in a letter, was in an Old English fragment he studied in 1913–1914:",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_21e2a19aaed337451875792d8f2318e616e9fc6765680eed47690f7ce15d8d2f",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_a62ed76add6134820e29f3809cc39f3728a6e81a71c4810d666048b5b66cef08",
+      "heading_path": [
+        "Etymology",
+        "Extended usage"
+      ],
+      "normalized_text": "thumb|upright=1.5|Arda versus \"Middle-earth\": Middle-earth is in geographic terms the name of the continent inhabited by Elves, Dwarves and Men, excluding the home of the Valar on Aman, while Arda is the name of the world. However, \"Middle-earth\" is widely used for the whole of Tolkien's legendarium. (Depicted: Arda in the Years of the Trees)",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_54ffc83793e40b14dee0df4883529a3c3297c0b7c119930cb83ae7b18c96f06d",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_a62ed76add6134820e29f3809cc39f3728a6e81a71c4810d666048b5b66cef08",
+      "heading_path": [
+        "Geography",
+        "Maps"
+      ],
+      "normalized_text": "thumb|upright|\"A Map of Middle-earth\" by Pauline Baynes, 1970. This map depicts only the north-west of the continent of Middle-earth.",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_aa710aaeab51722c4d9a575ab5f8f5a990d2d23132226882e33f75e9dc5a8c9a",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_a62ed76add6134820e29f3809cc39f3728a6e81a71c4810d666048b5b66cef08",
+      "heading_path": [
+        "Geography",
+        "Correspondence with the geography of Earth"
+      ],
+      "normalized_text": "In another letter, Tolkien made correspondences in latitude between Europe and Middle-earth:",
+      "paragraph_ordinal": 5,
+      "passage_id": "passage_c2ac79681e59f2d2dcd4324c4b0f3077d0a4e58186833b642c18f210c374cc16",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_a62ed76add6134820e29f3809cc39f3728a6e81a71c4810d666048b5b66cef08",
+      "heading_path": [
+        "Geography",
+        "Correspondence with the geography of Earth"
+      ],
+      "normalized_text": "In another letter he stated:",
+      "paragraph_ordinal": 7,
+      "passage_id": "passage_fda3212178ee7dadceee5b69ef932378e62fa77d9088bca7ed314fed3ade18d6",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Middle-earth&action=history",
+  "namespace": 0,
+  "page_id": 23139208,
+  "parent_revision_id": 1361353425,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1361377780",
+  "raw_wikitext": "{{short description |Continent in Tolkien's legendarium}}\n{{other uses}}\n{{good article}}\n{{Use British English|date=August 2024}}\n{{Use dmy dates |date=November 2019}}\n{{Infobox fictional location\n |name      = Middle-earth\n |image     = Baggins residence 'Bag End' with party sign.jpg\n |caption   = [[Bag End]] in [[The Shire]], from [[Peter Jackson]]'s [[The Lord of the Rings (film series)|''The Lord of the Rings'' film series]]\n |series    = [[The Lord of the Rings]]\n |creator   = [[J. R. R. Tolkien]]\n |genre     = [[Fantasy]]\n |type      = Central continent of a [[fantasy world]]; also used as [[Metonym|a shorthand]] for the whole [[legendarium]]\n}}\n'''Middle-earth''' is the [[Setting (narrative)|setting]] of much of the English writer [[J. R. R. Tolkien]]'s fantasy. The term is equivalent to the ''[[Midgard|Miðgarðr]]'' of [[Norse mythology]] and ''Middangeard'' in [[Old English]] works, including ''[[Beowulf]]''. Middle-earth is the [[oecumene]] (i.e. the human-inhabited world, or the central continent of [[Earth]]) in Tolkien's imagined [[mythopoeia|mythological past]]. His most widely read works, ''[[The Hobbit]]'' and ''[[The Lord of the Rings]]'', are set entirely in Middle-earth. \"Middle-earth\" has also become [[Metonym|a shorthand term]] for [[Tolkien's legendarium]], his large body of fantasy writings, and for the entirety of his fictional world.\n\nMiddle-earth is the main continent of [[Cosmology of Tolkien's legendarium#Spherical-earth cosmology|Earth (Arda)]] in an imaginary period of the past, ending with Tolkien's [[Third Age]], about 6,000 years ago.<ref name=\"letter211\" group=T>{{harvnb|Carpenter|2023|loc=#211 to Rhona Beare, 14 October 1958, last footnote }}</ref> Tolkien's tales of Middle-earth mostly focus on the north-west of the continent. This region is suggestive of Europe, the north-west of the [[Old World]], with the environs of [[Shire (Middle-earth)|the Shire]] [[England in Middle-earth|reminiscent of England]], but, more specifically, the [[West Midlands (region)|West Midlands]], with the town at its centre, [[Hobbiton]], at the same latitude as [[Oxford]].\n\nTolkien's [[Middle-earth peoples|Middle-earth is peopled]] not only by [[Man (Middle-earth)|Men]], but by [[Elves (Middle-Earth)|Elves]], [[Dwarves (Middle-earth)|Dwarves]], [[Ent]]s, and [[Hobbit]]s, and by monsters including Dragons, [[Troll (Middle-earth)|Trolls]], and [[Orc]]s. Through the imagined history, the peoples other than Men dwindle, leave, or fade, until, after the period described in the books, only Men are left on the planet.\n\n== Context: Tolkien's legendarium ==\n\n{{further|Tolkien's legendarium}}\n\n[[File:Arda in the Ages of the Lamps.svg|thumb|upright=1.75|Arda began as a symmetrical flat disc, and was repeatedly transformed through cataclysmic interventions by the [[Valar]] and by the creator, [[Eru Ilúvatar]].]]\n\nTolkien's stories chronicle the struggle to control the world (called [[Arda (Middle-earth)|Arda]]) and the continent of Middle-earth between, on one side, the angelic [[Vala (Middle-earth)|Valar]], the [[Elf (Middle-earth)|Elves]] and their allies among [[Man (Middle-earth)|Men]]; and, on the other, the demonic [[Melkor]] or ''Morgoth'' (a Vala fallen into evil), his followers, and their subjects, mostly [[Orc (Middle-earth)|Orcs]], [[Dragon (Middle-earth)|Dragons]] and enslaved Men.<ref group=T>{{harvnb|Tolkien|1977}}, Ch. 3 \"Of the Coming of the Elves and the Captivity of Melkor\"</ref> In later ages, after Morgoth's defeat and expulsion from Arda, his place is taken by his lieutenant [[Sauron]], a [[Maiar|Maia]].<ref name=\"Of the Rings of Power\" group=T>{{harvnb|Tolkien|1977}}, \"Of the Rings of Power and the Third Age\"</ref>\n\nThe Valar withdrew from direct involvement in the affairs of Middle-earth after the defeat of Morgoth, but in later years they sent the wizards or [[Istari]] to help in the struggle against Sauron. The most important wizards were [[Gandalf|Gandalf the Grey]] and [[Saruman |Saruman the White]]. Gandalf remained true to his mission and proved crucial in the fight against Sauron. Saruman, however, became corrupted and sought to establish himself as a rival to Sauron for absolute power in Middle-earth. Other races involved in the struggle against evil were [[Dwarf (Middle-earth)|Dwarves]], [[Ent]]s and most famously [[Hobbit]]s. The early stages of the conflict are chronicled in ''[[The Silmarillion]]'', while the final stages of the struggle to defeat Sauron are told in ''[[The Hobbit]]'' and in ''[[The Lord of the Rings]]''.<ref name=\"Of the Rings of Power\" group=T/>\n\n{{Sketch Map of Middle-earth|upright=2.6|right|caption=[[Image map]] with clickable links of the north-west of Middle-earth at the end of the [[Third Age]], showing Eriador (left) and [[Rhovanion]] (right). At extreme left are Lindon and the Blue Mountains, all that remains of [[Beleriand]] after the [[War of Wrath]].}}\n\nConflict over the possession and control of precious or magical objects is a recurring theme in the stories. The [[First Age]] is dominated by the doomed quest of the elf [[Fëanor]] and most of his [[Noldor]]in clan to recover three precious jewels called the [[Silmaril]]s that Morgoth stole from them (hence the title ''The Silmarillion''). The [[Second Age|Second]] and [[Third Age]] are dominated by the forging of the [[Rings of Power]], and the fate of the [[One Ring]] forged by Sauron, which gives its wearer the power to control or influence those wearing the other Rings of Power.<ref name=\"Of the Rings of Power\" group=T/>\n\n== Etymology ==\n\n[[File:Vank Cathedral, Isfahan - Heaven, Earth, Hell.jpg|thumb|upright=1.2|Medieval [[Christian cosmology]]: [[heaven]] above, earth in the middle, [[hell]] below.<ref name=\"Khoddam Fisher 2012\"/> [[Vank Cathedral]], Isfahan.]]\n\nIn ancient [[Germanic mythology]], the world of Men is known by several names. The [[Old English language|Old English]] ''middangeard'' descends from an earlier [[Germanic languages|Germanic]] word and so has [[cognate]]s such as the [[Old Norse language|Old Norse]] ''Miðgarðr'' from [[Norse mythology]], transliterated to modern English as ''[[Midgard]]''. The original meaning of the second element, from [[Proto-Germanic language|Proto-Germanic]] ''gardaz'', was \"enclosure\", cognate with English \"yard\"; ''middangeard'' was assimilated by folk etymology to \"middle earth\".<ref name=\"Letter 165\" group=T>{{harvnb|Carpenter|2023|loc=#165 to the Houghton Mifflin Co., 30 June 1955 }}</ref><ref name=\"etymonline\">{{cite web |last=Harper |first=Douglas |author-link=Douglas Harper |title=Midgard |work=Online Etymological Dictionary; etymonline.com |url=http://www.etymonline.com/index.php?term=Midgard |access-date=12 March 2010}}</ref> Middle-earth was at the centre of nine worlds in Norse mythology, and of three worlds (with [[heaven]] above, [[hell]] below) in some later [[Christian cosmology|Christian versions]].<ref name=\"Khoddam Fisher 2012\">{{cite book |last=Christopher |first=Joe R. |chapter=The Journeys To and From Purgatory Island: A Dantean Allusion at the End of C. S. Lewis's 'The Nameless Isle' |editor-last1=Khoddam |editor-first1=Salwa|editor-last2=Hall |editor-first2=Mark R. |editor-last3=Fisher |editor-first3=Jason |editor-link3=Jason Fisher |title=C. S. Lewis and the Inklings: Discovering Hidden Truth |chapter-url=https://books.google.com/books?id=QbAwBwAAQBAJ&pg=PA197 |year=2012 |publisher=[[Cambridge Scholars Publishing]] |isbn=978-1-4438-4431-4 |page=206}}</ref>\n\n=== Use by Tolkien ===\n\nTolkien's first encounter with the term ''middangeard'', as he stated in a letter, was in an Old English fragment he studied in 1913–1914:<ref name=\"Letter 297\" group=T/>\n\n<blockquote>''Éala éarendel engla beorhtast / ofer middangeard monnum sended.''<br/>Hail Earendel, brightest of angels / above the middle-earth sent unto men.</blockquote>\n\nThis is from the ''[[Crist I]]'' poem by [[Cynewulf]]. The name ''Éarendel'' was the inspiration for Tolkien's mariner [[Eärendil]],<ref name=\"Letter 297\" group=T>{{harvnb|Carpenter|2023|loc=#297 draft for a letter to a 'Mr Rang', August 1967 }}</ref> who set sail from the lands of Middle-earth to ask for aid from the angelic powers, the [[Vala (Middle-earth)|Valar]]. Tolkien's earliest poem about Eärendil, from 1914, the same year he read the ''Crist'' poem, refers to \"the mid-world's rim\".<ref name=\"RingofWords164\">{{cite book |last1=Gilliver |first1=Peter |author-link=Peter Gilliver |last2=Marshall |first2=Jeremy |last3=Weiner |first3=Edmund |title=The Ring of Words: Tolkien and the Oxford English Dictionary |edition=1st |year=2006 |publisher=Oxford University Press |isbn=978-0-19-861069-4 |url=https://archive.org/details/ringofwordstolki00gill |page=164}}</ref> Tolkien considered ''middangeard'' to be \"the abiding place of men\",<ref group=T>{{harvnb|Carpenter|2023|loc=#151 to Hugh Brogan, 18 September 1954; #183, Notes on [[W. H. Auden]]'s review of ''The Return of the King'', 1956; and #283 to Benjamin P. Indick, 7 January 1966 }}</ref> the physical world in which Man lives out his life and destiny<!--(T. states this is the same as ancient Greek οἰκουμένη \"oikouménê\")-->, as opposed to the unseen worlds above and below it, namely [[Heaven]] and [[Hell]]. He states that it is \"my own mother-earth for ''place''\", but in an imaginary past time, not some other planet.<ref name=\"Tolkien\" group=T>{{harvnb|Carpenter|2023|loc=#211 to Rhona Beare, 14 October 1958 }}</ref> He began to use the term \"Middle-earth\" in the late 1930s, in place of the earlier terms \"Great Lands\", \"Outer Lands\", and \"Hither Lands\".<ref name=\"RingofWords164\"/> The first published appearance of the word \"Middle-earth\" in Tolkien's works is in the prologue to ''The Lord of the Rings'': \"Hobbits had, in fact, lived quietly in Middle-earth for many long years before other folk even became aware of them\".<ref name=\"LOTR2\" group=T/>\n\n=== Extended usage ===\n\n[[File:Arda in the Years of the Trees.svg|thumb|upright=1.5|[[Arda (Middle-earth)|Arda]] versus \"Middle-earth\": Middle-earth is in geographic terms the name of the continent inhabited by Elves, Dwarves and Men, excluding the home of the [[Valar]] on [[Aman (J. R. R. Tolkien)|Aman]], while Arda is the name of the world. However, \"Middle-earth\" is widely used for the whole of [[Tolkien's legendarium]].<ref name=\"Bratman 2013\"/> (Depicted: Arda in the [[Years of the Trees]])]]\n\nThe term Middle-earth has come to be applied as a shorthand for the entirety of Tolkien's legendarium, instead of the technically more appropriate, but lesser known terms \"Arda\" for the physical world and \"[[Eä]]\" for the physical reality of creation as a whole. In careful geographical terms, Middle-earth is a continent on Arda, excluding regions such as Aman and the isle of Númenor. The alternative wider use is reflected in book titles such as ''[[The Complete Guide to Middle-earth]]'', ''[[The Road to Middle-earth]]'', ''[[The Atlas of Middle-earth]]'', and [[Christopher Tolkien]]'s 12-volume series ''[[The History of Middle-earth]]''.<ref name=\"Bratman 2013\">{{cite encyclopedia |last=Bratman |first=David |author-link=David Bratman |title=History of Middle-earth: Overview |editor-last=Drout |editor-first=Michael D. C. |editor-link=Michael D. C. Drout |encyclopedia=[[J.R.R. Tolkien Encyclopedia]] |year=2013 |orig-year=2007 |publisher=[[Routledge]] |isbn=978-0-415-86511-1 |pages=273–274 }}</ref><ref name=\"Harvey 2011\">{{cite book |last=Harvey |first=Greg |title=The Origins of Tolkien's Middle-earth For Dummies |url=https://books.google.com/books?id=MocR5l-N8xIC&pg=PT15 |year=2011 |publisher=[[John Wiley & Sons]] |isbn=978-1-118-06898-4 |at=Chapter 1: The Worlds of Middle-earth}}</ref>\n\n=== In other works ===\n\nTolkien's biographer [[Humphrey Carpenter]] states that Tolkien's Middle-earth is the known world, \"recalling the Norse ''Midgard'' and the equivalent words in early English\", noting that Tolkien made it clear that this was \"''our'' world ... in a purely imaginary ... period of antiquity\".{{sfn|Carpenter|1977|p=98}} Tolkien explained in a letter to his publisher that it \"is just a use of Middle English ''middle-erde''<!--Tolkien's italics in this quotation--> (or ''erthe''), altered from Old English ''Middangeard'': the name for the inhabited lands of men 'between the seas'.\"<ref name=\"Letter 165\" group=T/> There are allusions to a similarly or identically named world in the work of other writers both before and after him. [[William Morris]]'s 1870 translation of the ''[[Volsung Saga]]'' calls the world \"Midgard\".<ref name=\"Morris2015\">{{cite book |last=Morris |first=William |author-link=William Morris |title=Delphi Complete Works of William Morris (Illustrated) |url=https://books.google.com/books?id=dgHgCQAAQBAJ&pg=PT5104 |year=2015 |publisher=Delphi Classics |isbn=978-1-910630-92-1 |page=5104}}</ref> [[Margaret Widdemer]]'s 1918 poem \"The Gray Magician\" contains the lines: \"I was living very merrily on Middle Earth / As merry as a maid may be / Till the Gray Magician came down along the road / And flung his cobweb cloak on me...\"<ref>{{cite web |url=http://digital.library.upenn.edu/women/widdemer/paradise/paradise.html#p21 |title=The Old Road to Paradise by Margaret Widdemer}}</ref> [[C. S. Lewis]]'s 1938–1945 ''[[Space Trilogy]]'' calls the home planet \"Middle-earth\" and specifically references Tolkien's unpublished legendarium; both men were members of [[the Inklings]] literary discussion group.<ref>{{cite web |last=Ford |first=G. L. |title=Christopher Tolkien, 1924-2020 Keeper of Middle-earth's Legacy |date=17 January 2020 |url=https://bookandfilmglobe.com/creators/christopher-tolkien-1924-2020/ |publisher=Book and Film Globe |access-date=26 July 2020 |quote=Lewis's Space Trilogy drew on Tolkien’s Middle-earth lore at several points, where he used it to deepen the mythology underlying his action.}}</ref>\n\n== Geography ==\n{{main|Geography of Middle-earth}}\n\nWithin the overall context of his [[legendarium]], Tolkien's Middle-earth was part of his created world of Arda (which includes the [[Aman (Tolkien)|Undying Lands of Aman]] and [[Eressëa]], removed from the rest of the physical world), which itself was part of the wider creation he called Eä. Aman and Middle-earth are separated from each other by the Great Sea [[Belegaer]], though they make contact in the far north at the Grinding Ice or Helcaraxë. The western continent, Aman, was the home of the [[Vala (Middle-earth)|Valar]], and the Elves called the [[Eldalië|Eldar]].<ref group=T>{{harvnb|Tolkien|1977}}, ch. 3 \"Of the Coming of the Elves and the Captivity of Melkor\"</ref> On the eastern side of Middle-earth was the Eastern Sea. Most of the events in Tolkien's stories take place in the north-west of Middle-earth. In the [[First Age]], further to the north-west was the subcontinent [[Beleriand]]; it was engulfed by the ocean at the end of the First Age.<ref name=\"Harvey 2011\"/>\n\n=== Maps ===\n\n[[File:Baynes-Map of Middle-earth.jpg|thumb|upright|\"[[A Map of Middle-earth]]\" by [[Pauline Baynes]], 1970. This map depicts only the north-west of the continent of Middle-earth.<ref name=\"Hammond Anderson 1993\"/>]]\n\n{{main|Tolkien's maps}}\n\nTolkien prepared [[Tolkien's maps|several maps]] of Middle-earth. Some were published in his lifetime. The main maps are those published in ''[[The Hobbit]]'', ''[[The Lord of the Rings]]'', ''[[The Silmarillion]]'', and ''[[Unfinished Tales]]'', and appear as foldouts or illustrations. Tolkien insisted that maps be included in the book for the benefit of readers, despite the expense involved.<ref group=T>{{harvnb|Carpenter|2023|loc=#137 to [[Rayner Unwin]], 11 April 1953; #139 to [[Rayner Unwin]], 8 August 1953; #141 to Allen & Unwin, 9 October 1953; #144 to [[Naomi Mitchison]], 25 April 1954; #160 to Rayner Unwin, 6 March 1955; #161 to Rayner Unwin, 18 April 1955 }}</ref> The definitive and iconic map of Middle-earth was published in ''The Lord of the Rings''.<ref group=T>{{harvnb|Tolkien|1954|loc=foldout map in first edition}}</ref> It was refined with Tolkien's approval by the illustrator [[Pauline Baynes]], using Tolkien's detailed annotations, with vignette images and larger paintings at top and bottom, into a stand-alone poster, \"[[A Map of Middle-earth]]\".<ref name=\"Hammond Anderson 1993\">{{cite book |title=J.R.R. Tolkien: A Descriptive Bibliography |last1=Hammond |first1=Wayne G. |author-link1=Wayne G. Hammond |first2=Douglas A. |last2=Anderson |author-link2=Douglas A. Anderson |date=1993 |publisher=St. Paul's Bibliographies |isbn=978-1-873040-11-9 |page=376 |url=https://archive.org/details/jrrtolkiendescri0000hamm/page/376 }}</ref>\n\n=== Cosmology ===\n\n{{main|Cosmology of Tolkien's legendarium}}\n\n[[File:Downfall of Númenor.svg|thumb|upright=2|The Downfall of [[Númenor]] and the Changing of the World. The intervention of Eru Ilúvatar cataclysmically reshaped Arda into a sphere.{{sfn|Shippey|2005|pp=324–328}}]]\n\nIn Tolkien's conception, Arda was created specifically as \"the Habitation\" (''Imbar'' or ''Ambar'') for the [[Children of Ilúvatar]] ([[Elf (Middle-earth)|Elves]] and [[Man (Middle-earth)|Men]]).<ref>{{cite book |chapter=Arda |last=Bolintineanu |first=Alexandra |pages=24–25 |title=[[J. R. R. Tolkien Encyclopedia]] |editor=Drout, Michael D. C. |editor-link=Michael D. C. Drout |isbn=978-0-415-86511-1 |publisher=[[Routledge]] |date=2013}}</ref> It is envisaged in a [[flat Earth]] cosmology, with the stars, and later also the sun and moon, revolving around it. Tolkien's sketches show a disc-like face for the world which looked up to the stars. However, Tolkien's legendarium addresses the [[spherical Earth]] paradigm by depicting a catastrophic transition from a flat to a spherical world, known as the [[Akallabêth]], in which [[Aman (Tolkien)|Aman]] became inaccessible to mortal Men.{{sfn|Shippey|2005|pp=324–328}}\n\n=== Correspondence with the geography of Earth ===\n\nTolkien described the region in which the [[Hobbit]]s lived as \"the North-West of the Old World, east of the Sea\",<ref name=\"LOTR2\" group=T>{{harvnb|Tolkien|1954a}}, \"Prologue\"</ref> and the north-west of the [[Old World]] is essentially [[Europe]], especially [[Great Britain|Britain]]. However, as he noted in private letters, the geographies do not match, and he did not consciously make them match when he was writing:<ref name=\"Letter 169\" group=T>{{harvnb|Carpenter|2023|loc=#169 to Hugh Brogan, 11 September 1955 }}</ref>\n\n{{blockquote|As for the shape of the world of the [[Third Age]], I am afraid that was devised 'dramatically' rather than [[Geology|geologically]], or [[Paleontology|paleontologically]].<ref name=\"Letter 169\" group=T/>}}\n\n{{blockquote|I am historically minded. Middle-earth is not an imaginary world. ... The theatre of my tale is this earth, the one in which we now live, but the historical period is imaginary. The essentials of that abiding place are all there (at any rate for inhabitants of N.W. Europe), so naturally it feels familiar, even if a little glorified by enchantment of distance in time.<ref group=T>{{harvnb|Carpenter|2023|loc=#183 notes on W. H. Auden's review of ''The Return of the King'', 1956 }}</ref>}}\n\n{{blockquote|...if it were 'history', it would be difficult to fit the lands and events (or 'cultures') into such evidence as we possess, archaeological or geological, concerning the nearer or remoter part of what is now called Europe; though [[Shire (Middle-earth)|the Shire]], for instance, is expressly stated to have been in this region...I hope the, evidently long but undefined gap in time between the Fall of [[Barad-dûr]] and our Days is sufficient for 'literary credibility', even for readers acquainted with what is known as 'pre-history'. I have, I suppose, constructed an imaginary time, but kept my feet on my own mother-earth for place. I prefer that to the contemporary mode of seeking remote globes in 'space'.<ref name=\"Tolkien\" group=T/>}}\n\nIn another letter, Tolkien made correspondences in [[latitude]] between Europe and Middle-earth:\n\n{{blockquote|The action of the story takes place in the North-west of 'Middle-earth', equivalent in latitude to the coastlands of Europe and the north shores of the Mediterranean. ... If [[Hobbiton]] and [[Rivendell]] are taken (as intended) to be at about the latitude of [[Oxford]], then [[Minas Tirith]], 600 miles south, is at about the latitude of [[Florence]]. The Mouths of [[#Geography|Anduin]] and the ancient city of [[Pelargir]] are at about the latitude of ancient [[Troy]].<ref name=\"letters294\" group=T>{{harvnb|Carpenter|2023|loc=#294 to Charlotte and Denis Plimmer, 8 February 1967 }}</ref>}}\n\nIn another letter he stated:\n\n{{blockquote|...Thank you very much for your letter. ... It came while I was away, in Gondor ({{abbr|sc.|scilicet}} [[Venice]]), as a change from the North Kingdom, or I would have answered before.<ref name=\"letters168\" group=T>{{harvnb|Carpenter|2023|loc=#168 to Richard Jeffery, 7 September 1966 }}</ref>}}\n\nHe did confirm, however, that [[Shire (Middle-earth)|the Shire]], the land of his [[Hobbit]] heroes, was based on [[England]], in particular the West Midlands of his childhood.<ref name=\"Letter 190\" group=T>{{harvnb|Carpenter|2023|loc=#190 to [[Rayner Unwin]], 3 July 1956 }}</ref> In the Prologue to ''The Lord of the Rings'', Tolkien writes: \"Those days, the Third Age of Middle-earth, are now long past, and the shape of all lands has been changed...\"<ref group=T>{{harvnb|Tolkien|1954a}}, \"Prologue\"</ref> The Appendices make several references in both history and etymology of topics \"now\" (in modern English languages) and \"then\" (ancient languages);\n\n{{blockquote|The year no doubt was of the same length,¹ [''the footnote here reads'': 365 days, 5 hours, 48 minutes, 46 seconds.] for long ago as those times are now reckoned in years and lives of men, they were not very remote according to the memory of the Earth.<ref group=T>{{harvnb|Tolkien|1955}}, Appendix D, \"Calendars\"</ref>}}\n\nBoth the Appendices and ''The Silmarillion'' mention constellations, stars and planets that correspond to those seen in the northern hemisphere of Earth, including the Sun, the Moon, [[Orion (constellation)|Orion]] (and his belt),<ref group=T>{{harvnb|Tolkien|1977}}, p. 44 \"Menelmacar with his shining belt\"</ref> [[Ursa Major]]<ref group=T>{{harvnb|Tolkien|1977}}, p. 45 \"And high in the north as a challenge to [[Melkor]] she set the crown of seven mighty stars to swing, [[Valacirca]], the Sickle of the Valar...\"</ref><ref group=T>{{harvnb|Tolkien|1954a}}, book 1, ch. 8 \"Strider\" \"The Sickle [The Hobbits' name for the Plough or Great Bear] was swinging bright above the shoulders of Bree-hill.\"</ref> and [[Mars]]. A map annotated by Tolkien places Hobbiton on the same latitude as [[Oxford]], and Minas Tirith at the latitude of [[Ravenna]], Italy. He used [[Belgrade]], [[Cyprus]], and [[Jerusalem]] as further reference points.<ref>{{cite news |last=Flood |first=Alison |title=Tolkien's annotated map of Middle-earth discovered inside copy of Lord of the Rings |work=[[The Guardian]] |date=23 October 2015 |url=https://www.theguardian.com/books/2015/oct/23/jrr-tolkien-middle-earth-annotated-map-blackwells-lord-of-the-rings? }}</ref>\n\n== History ==\n\n{{main|History of Arda}}\n\n[[File:Tolkien&#039;s Imagined Prehistory.svg|thumb|Tolkien imagined Arda as the [[Earth]] in the distant past.<ref name=\"Kocher 1974\"/> With the [[Decline and fall in Middle-earth|loss of all its peoples]] except Man, and the reshaping of the continents, all that is left of Middle-earth is a dim memory in [[folklore]], [[legend]], and [[Etymology|old words]].<ref name=\"Lee Solopova 2005\">{{cite book |last1=Lee |first1=Stuart D. |author1-link=Stuart D. Lee |last2=Solopova |first2=Elizabeth |author2-link=Elizabeth Solopova |title=The Keys of Middle-earth: Discovering Medieval Literature Through the Fiction of J. R. R. Tolkien |title-link=The Keys of Middle-earth |date=2005 |publisher=[[Palgrave Macmillan|Palgrave]] |isbn=978-1403946713 |pages=256–257}}</ref> The outlines of the continents (in the Third Age) are purely schematic.]]\n\nThe history of Middle-earth, as described in ''The Silmarillion'', began when the [[Ainu (Middle-earth)|Ainur]] entered Arda, following the creation events in the [[Ainulindalë]] and long ages of labour throughout [[Eä]], the [[fictional universe]].<ref name=\"Ainulindalë\" group=T>{{harvnb|Tolkien|1977}}, \"Ainulindalë\"</ref> Time from that point was measured using [[Valian Years]], though the subsequent history of Arda was divided into three time periods using different years, known as the [[#Years of the Lamps|Years of the Lamps]], the [[#Years of the Trees|Years of the Trees]] and the [[#Years_of_the_Sun|Years of the Sun]].<ref name=\"Beginning\" group=T>{{harvnb|Tolkien|1977}}, ch. 1 \"Of the Beginning of Days\"</ref> A separate, overlapping chronology divides the history into 'Ages of the Children of Ilúvatar'. The first such Age began with the Awakening of the Elves during the Years of the Trees (by which time the Ainur had already long inhabited Arda) and continued for the first six centuries of the Years of the Sun. All the subsequent Ages took place during the Years of the Sun.<ref name=\"Coming of the Elves\" group=T>{{harvnb|Tolkien|1977}}, ch. 3 \"Of the Coming of the Elves and the Captivity of Melkor\"</ref>\n\nArda is, as critics have noted, \"our own green and solid Earth at some quite remote epoch in the past.\"<ref name=\"Kocher 1974\">{{cite book |last=Kocher |first=Paul |author-link=Paul H. Kocher |title=Master of Middle-earth: The Achievement of J.R.R. Tolkien |title-link=Master of Middle-earth |date=1974 |orig-year=1972 |publisher=[[Penguin Books]] |isbn=0140038779 |pages=8–11}}</ref> As such, it has not only an immediate story but a history, and the whole thing is an \"imagined prehistory\" of the Earth as it is now.<ref name=\"Rateliff 2006\">{{cite book |last=West |first=Richard C. |author-link=Richard C. West |chapter='And All the Days of Her Life Are Forgotten': 'The Lord of the Rings' as Mythic Prehistory |title=The Lord of the Rings, 1954-2004: Scholarship in Honor of Richard E. Blackwelder |editor1=Hammond, Wayne G. |editor1-link=Wayne G. Hammond |editor2=Scull, Christina |editor2-link=Christina Scull |publisher=[[Marquette University Press]] |year=2006 |isbn=978-0-87462-018-4 |oclc=298788493 |pages=67–100}}</ref>\n\n== Peoples and their languages ==\n\n{{Main|Middle-earth peoples|Languages of Middle-earth}}\n\n=== Ainur ===\n\n{{main|Ainur in Middle-earth}}\n\nThe Ainur were angelic beings created by the one god of Eä, [[Eru Ilúvatar]]. The cosmological myth called the ''[[Ainulindalë]]'', or \"Music of the Ainur\", describes how the Ainur sang for Ilúvatar, who then created [[Eä]] to give material form to their music. Many of the Ainur entered Eä, and the greatest of these were called the [[Vala (Middle-earth)|Valar]]. [[Melkor]], the chief agent of evil in Eä, and later called ''Morgoth'', was initially one of the Valar. \nWith the Valar came lesser spirits of the Ainur, called the [[Maia (Middle-earth)|Maiar]]. Melian, the wife of the Elven King Thingol in the [[First Age]], was a Maia. There were also evil Maiar, including the [[Balrog]]s and the second Dark Lord, [[Sauron]]. Sauron devised the [[Black Speech]] (Burzum) for his slaves (such as [[Orc (Middle-earth)|Orcs]]) to speak. In the [[Third Age]], five of the Maiar were embodied and sent to Middle-earth to help the free peoples to overthrow Sauron. These are the Istari or [[Wizard (Middle-earth)|Wizards]], including [[Gandalf]], [[Saruman]], and [[Radagast (Middle-earth)|Radagast]].<ref group=T>{{harvnb|Tolkien|1980}}, p. 388</ref>\n\n=== Elves ===\n\n{{main|Elves in Middle-earth}}\n\nThe Elves are known as \"the Firstborn\" of Ilúvatar: intelligent beings created by Ilúvatar alone, [[Sundering of the Elves|with many different clans]]. Originally Elves all spoke the same [[Common Eldarin]] ancestral tongue, but over thousands of years it diverged into different languages. The two main Elven languages were [[Quenya]], spoken by the Light Elves, and [[Sindarin]], spoken by the Dark Elves.\nPhysically the Elves resemble humans; indeed, they can marry and have children with them, as shown by the few [[Half-elven]] in the legendarium.\nThe Elves are agile and quick footed, being able to walk a [[tightrope]] unaided. Their eyesight is keen. Elves are immortal, unless killed in battle. They are re-embodied in [[Valinor]] if killed.<ref name=\"Eden 2013\">{{cite encyclopedia |last=Eden |first=Bradford Lee |author-link=Bradford Lee Eden |editor-last=Drout |editor-first=Michael D. C. |editor-link=Michael D. C. Drout |title=Elves |encyclopedia=[[J.R.R. Tolkien Encyclopedia]] |year=2013 |orig-year=2007 |publisher=[[Routledge]] |isbn=978-0-415-86511-1 |pages=150–152}}</ref><ref name=\"Dickerson 2013\">{{cite encyclopedia |last=Dickerson |first=Matthew |author-link=Matthew Dickerson |editor-last=Drout |editor-first=Michael D. C. |editor-link=Michael D. C. Drout |title=Elves: Kindreds and Migrations |encyclopedia=[[J.R.R. Tolkien Encyclopedia]] |year=2013 |orig-year=2007 |publisher=[[Routledge]] |isbn=978-0-415-86511-1 |pages=152–154}}</ref>\n\n=== Men ===\n\n{{main|Men in Middle-earth}}\n\nMen were \"the Secondborn\" of the Children of Ilúvatar: they awoke in Middle-earth much later than the Elves. Men (and Hobbits) were the last humanoid race to appear in Middle-earth: Dwarves, Ents and Orcs also preceded them. The capitalized term \"Man\" (plural \"Men\") is used as a gender-neutral racial description, to distinguish humans from the other human-like races of Middle-earth. \nIn appearance they are much like Elves, but on average less beautiful. Unlike Elves, Men are mortal, ageing and dying quickly, usually living 40–80 years. However the [[Númenóreans]] could live several centuries, and their descendants the [[Dúnedain]] also tended to live longer than regular humans. This tendency was weakened both by time and by intermingling with lesser peoples.<ref name=\"Straubhaar 2013\">{{cite encyclopedia |last=Straubhaar |first=Sandra Ballif |author-link=Sandra Ballif Straubhaar |editor-last=Drout |editor-first=Michael D. C. |editor-link=Michael D. C. Drout |title=Men, Middle-earth |encyclopedia=[[J.R.R. Tolkien Encyclopedia]] |year=2013 |orig-year=2007 |publisher=[[Routledge]] |isbn=978-1-135-88034-7 |pages=414–417}}</ref>\n\n=== Dwarves ===\n\n{{main|Dwarves in Middle-earth}}\n\nThe Dwarves are a race of humanoids who are shorter than Men but larger than Hobbits. The Dwarves were created by the Vala Aulë, before the Firstborn awoke due to his impatience for the arrival of the children of Ilúvatar to teach and to cherish. When confronted and shamed for his presumption by Ilúvatar, Eru took pity on Aulë and gave his creation the gift of life but under the condition that they be taken and put to sleep in widely separated locations in Middle-earth and not to awaken until after the Firstborn were upon the Earth. They are mortal like Men, but live much longer, usually several hundred years. A peculiarity of Dwarves is that both males and females are bearded, and thus appear identical to outsiders. The language spoken by Dwarves is called [[Khuzdul]], and was kept largely as a secret language for their own use. Like Hobbits, Dwarves live exclusively in Middle-earth. They generally reside under mountains, where they are specialists in mining and metalwork.<ref name=\"Evans 2013 (Drout)\">{{cite encyclopedia |last=Evans |first=Jonathan |author-link=Jonathan Evans (scholar) |title=Dwarves |editor-last=Drout |editor-first=Michael D. C. |editor-link=Michael D. C. Drout |encyclopedia=[[J.R.R. Tolkien Encyclopedia]] |year=2013 |orig-year=2007 |publisher=[[Routledge]] |isbn=978-0-415-86511-1 |pages=134–135}}</ref>\n\n=== Hobbits ===\n\n{{main|Hobbit}}\n\nTolkien identified Hobbits as an offshoot of the race of Men. Another name for Hobbit is 'Halfling', as they were generally only half the size of Men. In their lifestyle and habits they closely resemble Men, and in particular Englishmen, except for their preference for living in holes underground. By the time of ''The Hobbit'', most of them lived in [[the Shire]], a region of the north-west of Middle-earth, having migrated there from further east.<ref name=\"Stanton 2013\">{{cite encyclopedia |last=Stanton |first=Michael N. |title=Hobbits |editor-last=Drout |editor-first=Michael D. C. |editor-link=Michael D. C. Drout |encyclopedia=[[J.R.R. Tolkien Encyclopedia]] |year=2013 |orig-year=2007 |publisher=[[Routledge]] |isbn=978-0-415-86511-1 |pages=280–282}}</ref>\n\n=== Other humanoid peoples ===\n\n{{further|Tolkien's moral dilemma}}\n\nThe [[Ent]]s were treelike shepherds of trees, their name coming from an Old English word for giant.{{sfn|Shippey|2005|p=149}} [[Orc]]s and [[Troll (Middle-earth)|Trolls]] (made of stone) were evil creatures bred by [[Morgoth]]. They were not original creations but rather \"mockeries\" of the Children of Ilúvatar (Elves) and Ents, respectively, since only Ilúvatar has the ability to give conscious life to things. The precise origins of Orcs and Trolls are unclear, as Tolkien considered various possibilities and sometimes changed his mind, leaving several inconsistent accounts.{{sfn|Shippey|2005|p=159}} Late in the Third Age, the Uruks or [[Uruk-hai]] appeared: a race of Orcs of great size and strength that tolerate sunlight better than ordinary Orcs.<ref name=\"The Uruk-Hai\" group=T>{{harvnb|Tolkien|1954|loc=Book 3, ch. 3 \"The Uruk-Hai\"}}</ref> Tolkien also mentions \"Men-orcs\" and \"Orc-men\"; or \"half-orcs\" or \"goblin-men\". They share some characteristics with Orcs (like \"slanty eyes\") but look more like men.<ref group=T>{{harvnb|Tolkien|1955|loc=book 6 ch. 8 \"[[The Scouring of the Shire]]\"}}</ref> Tolkien, a [[Catholic Church|Catholic]], realised he had created [[Tolkien's sentience dilemma|a dilemma for himself]], as, if these beings were sentient and had a sense of right and wrong, then they must have souls and could not have been created wholly evil.<ref name=\"Tally 2010\">{{cite journal |last=Tally | first=Robert T. Jr. |author-link=Robert Tally |title=Let Us Now Praise Famous Orcs: Simple Humanity in Tolkien's Inhuman Creatures |journal=[[Mythlore]] |date=2010 |volume=29 |issue=1 |at=article 3 |url=https://dc.swosu.edu/mythlore/vol29/iss1/3 }}</ref>{{sfn|Shippey|2005|pp=362, 438 (chapter 5, note 14)}}\n\n=== Dragons ===\n\n{{Main|Dragons in Middle-earth}}\n\nDragons (or \"worms\") appear in several varieties, distinguished by whether they have wings and whether they breathe fire (cold-drakes versus fire-drakes). The first of the fire-drakes (''Urulóki'' in Quenya)<ref group=T>{{harvnb|Tolkien|1977}}, index entry ''Urulóki''</ref> was Glaurung the Golden, bred by [[Morgoth]] in [[Angband (Middle-earth)|Angband]], and called \"The Great Worm\", \"The Worm of Morgoth\", and \"The Father of Dragons\".<ref group=T>{{harvnb|Tolkien|1977}}, ch. 24 \"Of the Voyage of Eärendil\"</ref>\n\n=== Sapient animals ===\n\nMiddle-earth contains [[sapience|sapient]] animals including the [[Eagle (Middle-earth)|Eagles]],<ref group=T>{{harvnb|Tolkien|1954a}}, \"[[The Council of Elrond]]\"</ref> [[Huan (Middle-earth)|Huan]] the Great Hound from [[Valinor]] and the wolf-like [[Warg (Middle-earth)|Wargs]].<ref>{{cite encyclopedia |last=Evans |first=Jonathan |editor-last=Drout |editor-first=Michael D. C. |editor-link=Michael D. C. Drout |title=Monsters |encyclopedia=[[J.R.R. Tolkien Encyclopedia|J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment]] |page=433}}</ref> In general the origins and nature of these animals are unclear. Giant spiders such as [[Shelob]] descended from [[Ungoliant]], of unknown origin.<ref name=\"Shelob's Lair\" group=T>{{harvnb|Tolkien|1954}}, book 4, chapter 9: \"Shelob's Lair.\"</ref> Other sapient species include the Crebain, evil crows who become spies for [[Saruman]], and the Ravens of [[Erebor]], who brought news to the Dwarves. The horse-line of the Mearas of Rohan, especially Gandalf's mount, Shadowfax, also appear to be intelligent and understand human speech. The bear-man [[Beorn]] had a number of animal friends about his house.<ref name=\"Burns 2013\">{{cite encyclopedia |last=Burns |first=Marjorie |author-link=Marjorie Burns |editor-last=Drout |editor-first=Michael D. C. |editor-link=Michael D. C. Drout |title=Old Norse Literature |encyclopedia=[[J.R.R. Tolkien Encyclopedia]] |year=2013 |orig-year=2007 |publisher=[[Routledge]] |isbn=978-0-415-86511-1 |pages=473–474 |quote=Echoes of these Norse battle animals appear throughout Tolkien's literature; in one way or another, all are associated with Gandalf or his cause. ... raven ... Eagles ... wolves ... horses ... Saruman is the one most closely associated with Odin's ravaging wolves and carrion birds}}</ref>\n\n== Adaptations ==\n{{See also|Adaptations of The Lord of the Rings |Works inspired by J. R. R. Tolkien}}\n\n=== Motion pictures ===\n{{main|Middle-earth in motion pictures}}\n\n''The Hobbit'' and ''The Lord of the Rings'', both set in Middle-earth, have been the subject of a variety of film adaptations. There were many early failed attempts to bring the fictional universe to life on screen, some even rejected by the author himself, who was skeptical of the prospects of an adaptation. While animated and [[Sagan om ringen (1971 film)|live-action shorts]] were made of Tolkien's books in 1967 and 1971, the first commercial depiction of ''The Hobbit'' onscreen was the [[Rankin/Bass]] [[The Hobbit (1977 film)|animated TV special in 1977]].<ref>{{cite news | first=John J. | last=O'Connor | url=https://www.nytimes.com/1977/11/25/books/tolkien-hobbittv.html | title=TV Weekend: \"The Hobbit\" | newspaper=[[The New York Times]] | date=25 November 1977}}</ref> In 1978 the first big screen adaptation of the fictional setting was introduced in [[Ralph Bakshi]]'s animated ''[[The Lord of the Rings (1978 film)|The Lord of the Rings]]''.<ref>{{cite news |last=Gaslin |first=Glenn |date=21 November 2001 |title=Ralph Bakshi's unfairly maligned Lord of the Rings |work=[[Slate (magazine)|Slate]] |url=http://www.slate.com/articles/arts/culturebox/2001/11/hobbits_on_film.html |access-date=28 December 2020}}</ref><!-- The rights to adapt Tolkien's works passed through the hands of several studios.{{cn}}-->\n\n[[New Line Cinema]] released the first part of director [[Peter Jackson]]'s [[The Lord of the Rings (film series)|''The Lord of the Rings'' film series]] in 2001 as part of a trilogy; it was followed by a prequel trilogy in [[The Hobbit (film series)|''The Hobbit'' film series]] with several of the same actors playing their old roles.<ref name=\"Timmons 2013\">{{cite encyclopedia |last=Timmons |first=Daniel |title=Jackson, Peter |editor-last=Drout |editor-first=Michael D. C. |editor-link=Michael D. C. Drout |encyclopedia=[[J.R.R. Tolkien Encyclopedia]] |year=2013 |orig-year=2007 |publisher=[[Routledge]] |isbn=978-0-415-86511-1 |pages=303–310}}</ref> In 2003, ''[[The Lord of the Rings: The Return of the King]]'' received 11 [[Academy Award]] nominations and won all of them, matching the totals awarded to ''[[Ben-Hur (1959 film)|Ben-Hur]]'' and ''[[Titanic (1997 film)|Titanic]]''.<ref>{{cite web |title=Here Are The Biggest Academy Award Milestones In Oscars History |url=https://www.hollywood.com/movies/academy-award-milestones-60533072/#/ms-22651/1 |website=Hollywood.Com |date=3 February 2016 |access-date=3 March 2021}}</ref>\n\nTwo [[fan film]]s set in Middle-earth, ''[[The Hunt for Gollum]]'' and ''[[Born of Hope]]'', were uploaded to YouTube on 8 May 2009 and 11 December 2009 respectively.<ref name=\"npr\">{{Cite news|first=Laura |last=Sydell |author-link=Laura Sydell |title=High-Def 'Hunt For Gollum' New Lord of the Fanvids |url=https://www.npr.org/templates/story/story.php?storyId=103673352 |work=[[All Things Considered]] |publisher=[[National Public Radio]] |date=30 April 2009 |access-date=1 May 2009}}</ref><ref>{{cite news |first=Nicole |last=Martin |date=27 October 2008 |title=Orcs are back in Lord of the Rings-inspired Born of Hope |newspaper=[[The Daily Telegraph]] |url=https://www.telegraph.co.uk/news/newstopics/celebritynews/3268653/Orcs-are-back-in-Lord-of-the-Rings-inspired-Born-of-Hope.html |archive-url=https://web.archive.org/web/20081029071445/http://www.telegraph.co.uk/news/newstopics/celebritynews/3268653/Orcs-are-back-in-Lord-of-the-Rings-inspired-Born-of-Hope.html |url-status=dead |archive-date=29 October 2008 |access-date=31 January 2010}}</ref>\n\n=== Games ===\n{{main|Middle-earth in video games}}\n{{See also |List of Middle-earth role-playing games}}\n\nNumerous computer and video games have been inspired by [[J. R. R. Tolkien]]'s works set in Middle-earth. Titles have been produced by studios such as [[Electronic Arts]], [[Vivendi Games]], [[Krome Studios Melbourne|Melbourne House]], and [[Warner Bros. Interactive Entertainment]].<ref>{{Cite web |last=Takahashi |first=Dean |date=June 15, 2017 |title=Warner Bros. games are coming out of the shadow of its movies |website=GamesBeat |url=https://venturebeat.com/2017/06/15/warner-bros-games-are-coming-out-of-the-shadow-of-its-movies/ |access-date=3 July 2017 |archive-url=https://web.archive.org/web/20170704220825/https://venturebeat.com/2017/06/15/warner-bros-games-are-coming-out-of-the-shadow-of-its-movies/ |archive-date=4 July 2017 |url-status=live }}</ref><ref>{{Cite web |last=Gardner |first=Eriq |date=3 July 2017 |title=Warner Bros., Tolkien Estate Settle $80 Million 'Hobbit' Lawsuit |work=Hollywood Reporter |url=http://www.hollywoodreporter.com/thr-esq/warner-bros-tolkien-estate-settle-80-million-hobbit-lawsuit-1018478 |access-date=3 July 2017 |archive-url=https://web.archive.org/web/20170703154839/http://www.hollywoodreporter.com/thr-esq/warner-bros-tolkien-estate-settle-80-million-hobbit-lawsuit-1018478 |archive-date=3 July 2017 |url-status=live }}</ref> Aside from officially licensed games, many Tolkien-inspired [[Mod (computer gaming)|mods]], custom maps and total conversions have been made for many games, such as ''[[Warcraft III]]'', ''[[Minecraft]]'',<ref>{{cite web |last1=Bauer |first1=Manuel |title=Minecraft: Spieler haben das komplette Auenland nachgebaut |date=10 September 2015 |url=http://www.computerbild.de/artikel/cbs-News-PC-Minecraft-Spieler-Auenland-nachgebaut-13195125.html |publisher=Computer Bild |access-date=9 February 2016}}</ref> ''[[Rome: Total War]]'', ''[[Medieval II: Total War]]'', ''[[The Elder Scrolls IV: Oblivion]]'' and ''[[The Elder Scrolls V: Skyrim]]''.\nIn addition, there are many text-based [[MMORPG]]s (known as [[MU*]]s) based on Middle-earth. The oldest of these dates back to 1991, and was known as Middle-earth [[Multi-user dungeon|MUD]], run by using [[LPMUD]].<ref>[http://groups.google.com/group/rec.games.mud.lp/browse_thread/thread/c4ecbb9be83f903d/2a9be0ea86e4c932?lnk=gst&q=Middle-earth#2a9be0ea86e4c932 Groups.google.com], rec.games.mud.lp Newsgroup, 1 June 1994</ref> After the Middle-earth MUD ended in 1992, it was followed by [[Elendor]]<ref>{{cite magazine |url=https://www.wired.com/wired/archive/9.10/lotr_pr.html |title=The Fellowship of the Ring |first=Erik |last=Davis |magazine=[[Wired (magazine)|Wired]] |date=1 October 2001}}</ref> and [[MUME]].<ref>For a (rather long) list of all the Tolkien inspired MU*s go to [http://www.mudconnector.com The Mud Connector] {{Webarchive|url=https://web.archive.org/web/20051226173240/http://www.mudconnector.com/ |date=26 December 2005 }} and run a search for 'tolkien'.</ref>\n\n== See also ==\n\n* [[J.R.R. Tolkien bibliography]]\n* [[Middle-earth canon]]\n* [[Outline of Middle-earth]]\n\n== References ==\n\n=== Primary ===\n\n{{reflist|group=T|28em}}\n\n=== Secondary ===\n{{reflist|28em}}\n\n=== Sources ===\n\n* {{cite book |last=Carpenter |first=Humphrey |author-link=Humphrey Carpenter |title=[[J. R. R. Tolkien: A Biography]] |publisher=G. Allen & Unwin |year=1977 |isbn=978-0-04-928037-3 |oclc=3046822}}\n* {{ME-ref|Letters}} <!--Carpenter 1981-->\n* {{cite book |last=Shippey |first=Tom |author-link=Tom Shippey |title=The Road to Middle-earth |orig-year=1982 |edition=3nd |year=2005 |publisher=HarperCollins |isbn=978-0261102750 |title-link=The Road to Middle-earth}}\n* {{ME-ref|Silm}}\n* {{ME-ref|FOTR}}\n* {{ME-ref|TT}}\n* {{ME-ref|ROTK}}\n* {{ME-ref|UT}}\n\n==Further reading==\n\n* {{cite book |last=Fonstad |first=Karen Wynn |author-link=Karen Wynn Fonstad |title=The Atlas of Middle-earth |edition=1st |year=1981 |publisher=[[Houghton Mifflin Harcourt|Houghton Mifflin]] |isbn=0-395-28665-4 |title-link=The Atlas of Middle-earth |ref=none}}\n* {{Cite book |last=Garth |first=John |title=[[The Worlds of J. R. R. Tolkien|The Worlds of J. R. R. Tolkien: The Places that Inspired Middle-earth]] |publisher=[[Frances Lincoln Publishers]] |location=London |year=2020 |isbn=978-0-71124-127-5 |author-link=John Garth (author) |ref=none}}\n* {{cite book |last=Foster |first=Robert |author-link=Robert Foster (author) |title=[[The Complete Guide to Middle-earth]] |year=2001 |orig-year=1978 |publisher=[[Ballantine Books]] |isbn=0-345-44976-2 |ref=none}}\n* {{cite book |last1=Hammond |first1=Wayne G. |author1-link=Wayne G. Hammond |last2=Scull |first2=Christina |author-link2=Christina Scull |title=J. R. R. Tolkien: Artist and Illustrator |orig-year=1995 |year=2004 |publisher=[[HarperCollins]] |isbn=0-261-10322-9 |title-link=J. R. R. Tolkien: Artist and Illustrator |ref=none}}\n* {{cite book |last1=Hammond |first1=Wayne G. |author1-link=Wayne G. Hammond |last2=Scull |first2=Christina |author2-link=Christina Scull |title=The Lord of the Rings: A Reader's Companion |edition=1st |year=2005 |publisher=[[HarperCollins]] |isbn=0-00-720907-X |title-link=The Lord of the Rings: A Reader's Companion |ref=none}}\n\n{{Middle-earth}}\n{{Hobbit}}\n{{lotr}}\n\n{{Authority control}}\n\n{{DEFAULTSORT:Middle-earth}}\n[[Category:Middle-earth| ]]\n[[Category:Fictional story elements introduced in 1937]]\n[[Category:Middle-earth locations|*Middle-earth]]\n[[Category:Fictional continents]]\n[[Category:Fictional universes]]\n[[Category:Fantasy worlds]]",
+  "redirect_chain": [
+    {
+      "source_title": "Avathar",
+      "target_title": "Middle-earth"
+    }
+  ],
+  "revision_id": 1361377780,
+  "revision_timestamp": "2026-06-27T15:48:14Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Context: Tolkien's legendarium"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Context: Tolkien's legendarium"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Context: Tolkien's legendarium"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Etymology"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Etymology",
+        "Use by Tolkien"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: block quotation",
+      "structure_type": "block quotation"
+    },
+    {
+      "heading_path": [
+        "Etymology",
+        "Use by Tolkien"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Etymology",
+        "Extended usage"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Etymology",
+        "In other works"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Maps"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Maps"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Cosmology"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Cosmology"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Cosmology"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Correspondence with the geography of Earth"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Correspondence with the geography of Earth"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Correspondence with the geography of Earth"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Correspondence with the geography of Earth"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Correspondence with the geography of Earth"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Correspondence with the geography of Earth"
+      ],
+      "paragraph_ordinal": 8,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Correspondence with the geography of Earth"
+      ],
+      "paragraph_ordinal": 9,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Correspondence with the geography of Earth"
+      ],
+      "paragraph_ordinal": 10,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Correspondence with the geography of Earth"
+      ],
+      "paragraph_ordinal": 11,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "History"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "History"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "History"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "History"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Peoples and their languages"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Peoples and their languages",
+        "Ainur"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Peoples and their languages",
+        "Ainur"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Peoples and their languages",
+        "Elves"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Peoples and their languages",
+        "Elves"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Peoples and their languages",
+        "Men"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Peoples and their languages",
+        "Men"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Peoples and their languages",
+        "Dwarves"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Peoples and their languages",
+        "Dwarves"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Peoples and their languages",
+        "Hobbits"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Peoples and their languages",
+        "Hobbits"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Peoples and their languages",
+        "Other humanoid peoples"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Peoples and their languages",
+        "Other humanoid peoples"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Peoples and their languages",
+        "Dragons"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Peoples and their languages",
+        "Dragons"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Peoples and their languages",
+        "Sapient animals"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Motion pictures"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Motion pictures"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Motion pictures"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Motion pictures"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Games"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Games"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "See also"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: list",
+      "structure_type": "list"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Further reading"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Further reading"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Further reading"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Further reading"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

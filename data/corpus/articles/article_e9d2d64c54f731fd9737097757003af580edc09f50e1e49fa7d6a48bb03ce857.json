@@ -1,0 +1,288 @@
+{
+  "article_artifact_id": "article_e9d2d64c54f731fd9737097757003af580edc09f50e1e49fa7d6a48bb03ce857",
+  "canonical_title": "Shelob",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_e9d2d64c54f731fd9737097757003af580edc09f50e1e49fa7d6a48bb03ce857",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Some scholars have stated that Shelob is in the literary tradition of female monsters. Others have interpreted her as symbolising a sexual threat, with multiple sexual allusions. Scholars have noted her opposition to the Elves, and in particular her adversary, Galadriel, whose light helps the hobbits to defeat her darkness.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_3739f46a06f15eac2b52e46aa4f4950e9ba032bed7bbc6001d6a74fc0168151f",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_e9d2d64c54f731fd9737097757003af580edc09f50e1e49fa7d6a48bb03ce857",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Shelob's physical appearance in Peter Jackson's film trilogy was based on the New Zealand tunnel-web spider.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_00645dd9b6ac3bab5043e5c6a4d20e007b326a3bc32a745de8a7fa9a71fdb34c",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_e9d2d64c54f731fd9737097757003af580edc09f50e1e49fa7d6a48bb03ce857",
+      "heading_path": [
+        "Fictional history"
+      ],
+      "normalized_text": "She is introduced as both evil and ancient: \"But still she was there, who was there before Sauron, and before the first stone of Barad-dûr; and she served none but herself, drinking the blood of Elves and Men, bloated and grown fat with endless brooding on her feasts, weaving webs of shadow; for all living things were her food, and her vomit darkness\". Her descendants include the Giant Spiders of Mirkwood defeated by Bilbo Baggins in The Hobbit.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_311f523906e7eab4831009c614262c347db9f4b7e274dbb94e9737128bed276a",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_e9d2d64c54f731fd9737097757003af580edc09f50e1e49fa7d6a48bb03ce857",
+      "heading_path": [
+        "Fictional history"
+      ],
+      "normalized_text": "Shelob's lair was Torech Ungol, below Cirith Ungol (\"Pass of the Spider\"), along the path that the Hobbits Frodo Baggins and Sam Gamgee took into Mordor, where Shelob had encountered Gollum during his previous trip to Mordor, and he apparently worshipped her. The Orcs of the Tower of Cirith Ungol called her \"Shelob the Great\" and \"Her Ladyship\", and referred to Gollum as \"Her Sneak\". Sauron was aware of her existence, but left her alone as a useful guard on the pass, and occasionally fed prisoners to her. In the story, Gollum deliberately led Frodo and Sam into her lair, planning to recover the One Ring once she had consumed the hobbits. She cornered them; but Frodo used the Phial of Galadriel's light to drive her off, and used Sting to cut the webs blocking the tunnel. Gollum waylaid the pair and tried to strangle Sam, while Shelob paralysed Frodo; but Sam fought off Gollum and then wielded Sting against Shelob. Seeking to crush Sam, she instead impaled herself upon Sting; and, being evil, was nearly blinded by the Phial of Galadriel, containing pure light from the Silmarils; whereupon she fled. Her eventual fate, Tolkien mentions in passing, \"this tale does not tell.\" Thinking Frodo dead, Sam took the Ring from his friend and left his body behind in a bid to finish the quest himself, but discovered by listening to a pair of Orcs that Frodo was alive but senseless, under a minor influence of venom.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_61b36ab0308d24de5ddbf55d86e2c9404372f0a4324c830a7431ad1ece67c28b",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_e9d2d64c54f731fd9737097757003af580edc09f50e1e49fa7d6a48bb03ce857",
+      "heading_path": [
+        "Analysis",
+        "Insatiable evil"
+      ],
+      "normalized_text": "Chance stresses Shelob's \"gluttony\", one of the traditional seven deadly sins, consisting of an \"insatiable appetite\"; her laziness, since the Orcs bring her food; and her \"lechery\" with many bastard offspring. Chance compares Shelob with the guardian of the gateway to Hell, noting that in John Milton's Paradise Lost, Satan mated with his daughter, Sin, their offspring being Death, constantly lustful for his mother: but Tolkien in one place describes Shelob as Sauron's cat rather than his daughter. The scholar of literature George H. Thomson similarly compares Shelob to Milton's Sin and Death, noting that they \"serve neither God nor Satan but look solely to their own interests\", as Shelob does; she is \"the Death and Chaos that would overcome all\".",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_5fb665d3e95505e4f856a6da9383657aed2a61a3911694dccf66902b488f05ab",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_e9d2d64c54f731fd9737097757003af580edc09f50e1e49fa7d6a48bb03ce857",
+      "heading_path": [
+        "Adaptations"
+      ],
+      "normalized_text": "thumb|The portrayal of Shelob in Peter Jackson's film of The Return of the King is based on the New Zealand tunnel-web spider, a species that Jackson personally dislikes.",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_17a7d3b2816fd6a3c34fde72c2ce04e027a85800a15cb22b7d3794029bcf4175",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Shelob&action=history",
+  "namespace": 0,
+  "page_id": 62634,
+  "parent_revision_id": 1328035305,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1329325969",
+  "raw_wikitext": "{{short description|Fictional giant spider from ''The Lord of the Rings''}}\n{{For|the song Shelob's Lair|Music of The Lord of the Rings film series}}\n{{good article}}\n{{Use British English|date=March 2021}}\n{{Infobox character\n| name    = Shelob\n| series  = [[J. R. R. Tolkien|Tolkien]]\n| race    = Spider\n| lbl24   = Book(s)\n| data24  = ''[[The Two Towers]]'' (1954)\n| lbl25   = Film(s)\n| data25  = ''[[The Lord of the Rings: The Return of the King|The Return of the King]]'' (2003)\n}}\n'''Shelob''' is a [[fictional monster]] in the form of a giant [[spider]] from [[J. R. R. Tolkien]]'s ''[[The Lord of the Rings]]''. Her lair lies in [[Cirith Ungol]] (\"the pass of the spider\") leading into [[Mordor]]. The creature [[Gollum]] deliberately leads the [[Hobbit]] protagonist [[Frodo Baggins|Frodo]] there in hopes of recovering the [[One Ring]] by letting Shelob attack Frodo.  The plan is foiled when [[Samwise Gamgee]] temporarily blinds Shelob with the [[Phial of Galadriel]], and then severely wounds her with Frodo's Elvish sword, [[Sting (Middle-earth)|Sting]].\n\nSome scholars have stated that Shelob is in the literary tradition of female monsters. Others have interpreted her as symbolising a sexual threat, with multiple sexual allusions. Scholars have noted her opposition to the Elves, and in particular her adversary, [[Galadriel]], whose light helps the hobbits to defeat her darkness.\n\nShelob's physical appearance in [[Peter Jackson]]'s [[The Lord of the Rings film series|film trilogy]] was based on the [[Porrhothele antipodiana|New Zealand tunnel-web spider]].\n\n==Fictional history==\nShelob is described in ''[[The Two Towers]]'' as an \"evil thing in spider-form...[the] last child of [[Ungoliant]] to trouble the unhappy world\",<ref name=\"Shelob's Lair\" group=T>{{harvnb|Tolkien|1954}}, book 4, chapter 9: \"Shelob's Lair.\"</ref> living high in the [[Ephel Dúath]] mountains on the borders of [[Mordor]]. Although she resided in Mordor and was unrepentantly evil, she was independent of [[Sauron]] and his influence. Her exact size is not stated, but she is significantly larger than her descendants, the Great Spiders of [[Mirkwood]], and her hobbit opponents. She has a powerful bite to inject her venom and paralyse or kill her victims. Her hide is tough enough to resist sword-strokes, and the strings of her webs are likewise resilient to ordinary blades, though the magical [[Sting (sword)|Sting]] manages to cut them. Her main weak point is her eyes, which can be easily harmed or blinded.<ref name=\"Thomson 1967\">{{cite journal |last=Thomson |first=George H. |title=\"The Lord of the Rings\": The Novel as Traditional Romance |journal=Wisconsin Studies in Contemporary Literature |pages=43–59 |volume=8 |issue=1 |year=1967 |doi=10.2307/1207129 |jstor=1207129}}</ref><ref name=\"Shelob's Lair\" group=T/><ref name=\"Stairs of Cirith Ungol\" group=T>{{harvnb|Tolkien|1954}}, book 4, chapter 8: \"The Stairs of Cirith Ungol\"</ref>\n\nShe is introduced as both evil and ancient: \"But still she was there, who was there before Sauron, and before the first stone of [[Barad-dûr]]; and she served none but herself, drinking the blood of [[Elf (Middle-earth)|Elves]] and [[Man (Middle-earth)|Men]], bloated and grown fat with endless brooding on her feasts, weaving webs of shadow; for all living things were her food, and her vomit darkness\". Her descendants include the Giant Spiders of [[Mirkwood]] defeated by [[Bilbo Baggins]] in ''[[The Hobbit]]''.<ref name=\"Shelob's Lair\" group=T/>\n\nShelob's lair was [[Torech Ungol]], below Cirith Ungol (\"Pass of the Spider\"), along the path that the [[Hobbit]]s [[Frodo Baggins]] and [[Sam Gamgee]] took into Mordor, where Shelob had encountered Gollum during his previous trip to Mordor, and he apparently worshipped her. The [[Orc (Middle-earth)|Orcs]] of the Tower of Cirith Ungol called her \"Shelob the Great\" and \"Her Ladyship\", and referred to Gollum as \"Her Sneak\". [[Sauron]] was aware of her existence, but left her alone as a useful guard on the pass, and occasionally fed prisoners to her. In the story, Gollum deliberately led Frodo and Sam into her lair, planning to recover the [[One Ring]] once she had consumed the hobbits. She cornered them; but Frodo used the Phial of [[Galadriel]]'s light to drive her off, and used Sting to cut the webs blocking the tunnel. Gollum waylaid the pair and tried to strangle Sam, while Shelob paralysed Frodo; but Sam fought off Gollum and then wielded Sting against Shelob. Seeking to crush Sam, she instead impaled herself upon Sting; and, being evil, was nearly blinded by the Phial of Galadriel, containing pure light from the [[Silmaril]]s; whereupon she fled. Her eventual fate, Tolkien mentions in passing, \"this tale does not tell.\"  Thinking Frodo dead, Sam took the Ring from his friend and left his body behind in a bid to finish the quest himself, but discovered by listening to a pair of Orcs that Frodo was alive but senseless, under a minor influence of [[venom]].<ref name=\"Shelob's Lair\" group=T/>\n\n== Name ==\n\nAs Tolkien admitted in a letter to his son, Shelob \"is of course only 'she + lob{{'\"}}, ''lob'' being an archaic English word for spider, influenced by [[Old English]] ''loppe'' or \"spider\". The word is not related to \"cob\" nor \"cobweb\".<ref group=T>{{harvnb|Carpenter|2023|loc=#70 to [[Christopher Tolkien]], May 1944 }}</ref> [[Old English]] ''attercoppe'' (meaning \"spider\") is derived from ''atter'' meaning \"poison\" and ''coppe'' meaning \"head\".<ref>{{cite web |title=ettercep |url=https://www.merriam-webster.com/dictionary/ettercap |publisher=[[Merriam-Webster]] |access-date=16 July 2021}}</ref> Tolkien used \"attercop\" as well as \"cob\" and \"lob\" in ''The Hobbit'', where Bilbo Baggins sings songs taunting the giant spiders in Mirkwood: \"Attercop, Attercop, Old Tomnoddy\" and \"Lazy Lob and Crazy Cob\".<ref group=T>{{harvnb|Tolkien|1937}}, chapter 8, \"Flies and Spiders\".</ref>\n\n==Analysis==\n{{anchor|Phial of Galadriel}}\n\n=== Darkness opposed to the light ===\n{{further|Christian light in Tolkien's legendarium|Character pairing in The Lord of the Rings}}\n[[File:Patrick Grant's Jungian View of LOTR.svg|thumb|upright=1.5|Patrick Grant's [[Jungian]] view of Shelob (darkness) as the counterpart of [[Galadriel]] (light), fitting into a pattern of opposed [[Jungian archetypes|archetypes]]<ref name=\"Grant 1973\"/>]]\n\nThe critic Joyce Tally Lionarons writes that Tolkien constructs the [[Elves (Middle-Earth)|Elves]] and the spiders such as Shelob as polar opposites, the Elves good and bright, the spiders evil and dark.<ref name=\"Lionarons 2013\">{{cite journal |last=Lionarons |first=Joyce Tally |title=Of Spiders and Elves |journal=[[Mythlore]] |date=2013 |volume=31 |issue=3 |pages=5–13 |url=https://dc.swosu.edu/mythlore/vol31/iss3/2}}</ref> Milbank writes more specifically that the ancient Shelob's adversary is another ancient female character, the elf-queen [[Galadriel]]. Galadriel both chooses not to be \"[[She: A History of Adventure|She-who-must-be-obeyed]]\" by rejecting Frodo's offer of the [[One Ring]], and gives Frodo [[Decline and fall in Middle-earth#Splintered light|her light]] (the [[Phial of Galadriel]]) which enables the hobbits to defeat Shelob.<ref name=\"Bassham Bronson 2013\"/>\n\nPatrick Grant, a scholar of [[Renaissance]] literature, saw Shelob and Galadriel's [[Character pairing in The Lord of the Rings|character pairing]], one of several such relationships between characters in the novel, as fitting the opposition of [[Jungian archetypes]]. Frodo's [[Anima and animus|anima]] is the Elf-queen Galadriel, who is opposed by the evil giant female spider Shelob. Frodo's [[Shadow (psychology)|Shadow]] is the male Hobbit [[Gollum]]. All of these, along with oppositions between other characters in the story, create an image of the self.<ref name=\"Grant 1973\">{{cite journal |last=Grant |first=Patrick |title=Tolkien: Archetype and Word |journal=Cross Currents |date=1973 |issue=Winter 1973 |pages=365–380 |url=https://crosscurrents.org/tolkien.htm#_ednref9 |archive-date=2002-01-03 |access-date=2021-03-14 |archive-url=https://web.archive.org/web/20020103172131/https://crosscurrents.org/tolkien.htm#_ednref9 |url-status=dead }}</ref>\n\n=== Insatiable evil ===\n\n[[File:Hylestad I, right - Fafnir and Sigurd.jpg|thumb|upright|The Hobbits' fight with Shelob derives from multiple myths. Panel in [[Hylestad Stave Church]] showing [[Sigurd]]'s sword penetrating [[Fafnir]].<ref>{{cite book |last=Nordanskog |first=Gunnar |title=Föreställd hedendom: tidigmedeltida skandinaviska kyrkportar i forskning och historia |trans-title=Imagined Heathendom: Medieval Scandinavian Church Doors in Research and History |publisher=Nordic Academic Press |place=Lund |year=2006 |page=241 |language=Swedish |isbn=978-91-89116-85-6}}</ref>]]\n\n[[Jane Chance]] compares Shelob with the wizard [[Saruman]], stating that both are \"monsters\" that live in \"towers\"; they have similarly structured books in ''Lord of the Rings'', one ending in a military attack on Saruman's tower, [[Orthanc]]; the other, in the hobbits' venturing into Shelob's lair in Cirith Ungol. On the other hand, she writes, while Saruman's evil is in his mind, Shelob's is in her body.<ref name=\"Chance 1980\">{{cite book |last=Chance |first=Jane |author-link=Jane Chance |title=[[Tolkien's Art: 'A Mythology for England']] |date=1980 |orig-year=1979 |publisher=[[Papermac]] |isbn=978-0-333-29034-7 |pages=111–113}}</ref>\n\nChance stresses Shelob's \"[[gluttony]]\",  one of the traditional [[seven deadly sins]], consisting of an \"insatiable appetite\"; her laziness, since the Orcs bring her food; and her \"lechery\" with many bastard offspring. Chance compares Shelob with the guardian of the gateway to [[Hell]], noting that in [[John Milton]]'s ''[[Paradise Lost]]'', [[Satan]] mated with his daughter, [[Sin]], their offspring being Death, constantly lustful for his mother:<ref name=\"Chance 1980\"/><ref name=\"Partridge 2008\"/> but Tolkien in one place describes Shelob as Sauron's cat rather than his daughter.<ref name=\"Chance 1980\"/> The scholar of literature George H. Thomson similarly compares Shelob to Milton's Sin and Death, noting that they \"serve neither God nor Satan but look solely to their own interests\", as Shelob does; she is \"the Death and Chaos that would overcome all\".<ref name=\"Thomson 1967\"/>\n\n=== Sexual monster ===\n\n{{further|Sexuality in The Lord of the Rings}}\n\nThe Tolkien scholar Carol Leibiger writes that Shelob is presented as a disgusting female monster in the story.<ref name=\"Leibiger 2013\">{{cite encyclopedia |last=Leibiger |first=Carol A. |editor-last=Drout |editor-first=Michael D. C. |editor-link=Michael D. C. Drout |title=Women in Tolkien's Works |encyclopedia=[[J.R.R. Tolkien Encyclopedia]] |year=2013 |orig-year=2007 |publisher=[[Routledge]] |isbn=978-0-415-86511-1 |pages=710–712}}</ref> The Anglican priest and scholar of religion [[Alison Milbank]] adds that Shelob is undeniably sexual: \"Tolkien offers a most convincing [[Freudian]] ''[[vagina dentata]]'' (toothed vagina) in the ancient and disgustingly gustatory spider Shelob.\"<ref name=\"Bassham Bronson 2013\">{{cite book |last=Milbank |first=Alison |author-link=Alison Milbank |chapter='My Precious': Tolkien's Fetishized Ring\n|editor1=Gregory Bassham |editor2=Eric Bronson |title=The Lord of the Rings and Philosophy: One Book to Rule Them All |chapter-url=https://books.google.com/books?id=Dw-NAgAAQBAJ&pg=PA35 |year=2013 |publisher=Open Court |isbn=978-0-8126-9806-0 |page=35}}</ref> Milbank states that Shelob symbolises \"an ancient maternal power that swallows up masculine identity and autonomy\", threatening a \"castrating hold [which] is precisely what the sexual fetishist fears, and seeks to control\".<ref name=\"Bassham Bronson 2013\"/> The Tolkien scholar [[Jane Chance]] mentions \"Sam's [[Sexual penetration|penetration]] of her belly with his sword\", noting that this may be an appropriate and symbolic way of ending her production of \"[[Legitimacy (family law)|bastards]]\".<ref name=\"Chance 1980\"/>\n\nThe scholar of children's literature Zoë Jaques writes that Shelob is the \"embodiment of monstrous maternity\"; Sam's battle with Shelob could be interpreted as a \"masculine rite of passage\" where a smaller, weaker male penetrates and escapes the vast female body and her malicious intent.<ref name=\"Hunt 2013\">{{cite book |last=Jaques |first=Zoë |chapter=There and Back Again: The Gendered Journey of Tolkien's Hobbits |editor-last=Hunt |editor-first=Peter |title=J. R. R. Tolkien |publisher=Macmillan |year=2013 |isbn=978-1137264015 |pages=88–105}}</ref> The Tolkien scholar Brenda Partridge described the hobbits' protracted struggle with Shelob as rife with sexual symbolism.<ref name=\"Partridge 2008\"/> She writes that Tolkien derived Shelob from multiple myths: [[Sigurd]] killing [[Fafnir]] the dragon; [[Theseus]] killing the [[Minotaur]]; [[Arachne]] and the spider; and Milton's Sin in ''[[Paradise Lost]]''.<ref name=\"Partridge 2008\"/> The result is to depict the woman as a threat, with implicit overtones of sexuality.<ref name=\"Partridge 2008\">{{cite book |last=Partridge |first=Brenda |chapter=No Sex Please—We're Hobbits: The Construction of Female Sexuality in 'The Lord of the Rings' |editor-last=Giddings |editor-first=Robert |title=J. R. R. Tolkien, this Far Land |publisher=Vision |year=2008 |orig-year=1984 |isbn=978-0389203742 |pages=179–197}}</ref>\n\n{| class=\"wikitable\" style=\"margin:1em auto;\"\n|+  Brenda Partridge's analysis of Shelob's sexual imagery<ref name=\"Partridge 2008\"/>\n|-\n! Tolkien's image !! Implications\n|-\n| Sauron's cat || woman as \"graceful, sensual, and aloof\"\n|-\n| Spawning broods of monsters || sexual overtones: [[fertility]]\n|-\n| Underground lair || [[womb]]\n|-\n| Tunnels to lair || \"[[Vagina|female sexual orifice]]\"\n|-\n| Cobwebs at entrance brushing against Frodo, Sam || [[pubic hair]]\n|-\n| Frodo cuts cobwebs ... \"a great rent was made ... swayed like a loose veil\" || tearing of the [[hymen]]\n|-\n| \"Soft squelching body\" || sexually aroused [[Vulva|female genitals]]  \n|-\n| Folds of skin || [[labia]]  \n|-\n| Swords || [[phallus]]es  \n|- \n| Sam \"held the elven blade point upwards, fending off that ghastly roof;<br/>and so Shelob ... thrust herself upon a bitter spike. Deep, deep it pricked\" || [[erection]], [[Sexual penetration|penetration]] \n|- [[Phial of Galadriel|Phial]]: \"As if his indomitable spirit had set its potency in motion, the glass blazed suddenly like a white torch in his hand. It flamed like a star\" || potent phallus \n|}\n\nNot all commentators have agreed with the sexual associations detected by scholars such as Partridge. The Tolkien scholar Daniel Timmons wrote in ''[[Mythlore]]'' in 2001: \"The obsession of reading the Shelob episode as a sexually violent encounter, rather than as an archetypal struggle between human and monster, likely reveals more about the decadent social attitudes of the critics, rather than those of Tolkien\".<ref name=\"Timmons 2001\">{{cite journal |last1=Timmons |first1=Daniel |title=Hobbit Sex and Sensuality in The Lord of the Rings |journal=[[Mythlore]] |date=2001 |volume=23 |issue=3 (Summer 2001) |pages=70–79 |jstor=26814240 }}</ref> Timmons accepted the possibility of a \"subtext of the fear of female sexual appeal\", and agreed that the text might \"function in the literary tradition of clashes between man and female monsters, with the attendant sexual innuendos\", but called it \"disingenuous or perverse\" to assert that this was the \"main or dominant impression\".<ref name=\"Timmons 2001\"/>\n\n== Adaptations ==\n\n[[File:Shelobpj.jpg|thumb|The portrayal of Shelob in [[Peter Jackson]]'s film of ''[[The Return of the King]]'' is based on the [[Porrhothele antipodiana|New Zealand tunnel-web spider]], a species that Jackson personally dislikes.<ref name=\"Bonin 2003\"/>]]\n\nIn the 1981 BBC Radio adaption of ''The Lord of the Rings'', Shelob is portrayed by [[BBC Radiophonic Workshop]] member Jenny Lee.<ref>{{cite web |last=Pearse |first=Edward |title=The Lord of the Rings, Episode 2 |url=https://radioriel.org/content/daily-programme/riel-radio-theatre-the-lord-of-the-rings-episode-2/ |publisher=Radio Riel |date=15 January 2009 |archive-url=https://web.archive.org/web/20200115144511/https://www.radioriel.org/content/daily-programme/riel-radio-theatre-the-lord-of-the-rings-episode-2/|archive-date=15 January 2020 |url-status=dead}}</ref>\n\nIn [[Peter Jackson]]'s [[The Lord of the Rings (film series)|film trilogy]], Shelob's appearance is delayed until the third movie, ''[[The Lord of the Rings: The Return of the King]]''. Her design is based on the [[Porrhothele antipodiana|New Zealand tunnel-web spider]], which Jackson hates.<ref name=\"Bonin 2003\">{{cite web |last=Bonin |first=Liane |title=The secrets of LOTR's eight-legged villain |url=https://ew.com/article/2003/12/19/secrets-lotrs-eight-legged-villain/ |publisher=EW.com |date=19 December 2003 |access-date=15 January 2020 |archive-date=15 January 2020 |archive-url=https://web.archive.org/web/20200115144053/https://ew.com/article/2003/12/19/secrets-lotrs-eight-legged-villain/ |url-status=dead }}</ref>\n\nShelob is a major character in the video game ''[[Middle-earth: Shadow of War]]'', where she serves as both the narrator and an ally to [[player character]] Talion. In the game, Shelob shape-shifts to assume the form of an attractive woman. Following criticism of this decision, the creative director Michael de Plater explained that Gollum and Shelob were \"the unsung heroes of ''The Lord of the Rings''\": Shelob senses Frodo's weakness and makes  a pact with Gollum to hasten him to Mount Doom and destroy the ring. De Plater envisioned Shelob as a dark counterpart to [[Galadriel]], noting how both manipulate lesser beings, but that Shelob is more honest.<ref>{{cite web  |last=Chiodini |first=Johnny |title=Why Shelob is a woman in Shadow of War |website=[[Eurogamer]] |url=http://www.eurogamer.net/articles/2017-08-15-why-shelob-is-a-woman-in-shadow-of-war |date=15 August 2017 |access-date=15 August 2017}}</ref>\n<!--\n    Please do not add details of things named after Shelob here, we have a separate list for that purpose.\n-->\n\n==References==\n\n===Primary===\n\n{{reflist|30em|group=T}}\n\n=== Secondary ===\n{{reflist}}\n\n=== Sources ===\n* {{Me-ref|Letters}}\n* {{Me-ref|TH}}\n* {{Me-ref|TT}}\n\n{{Lotr}}\n\n[[Category:Female characters in film]]\n[[Category:Female literary villains]]\n[[Category:Fictional spiders]]\n[[Category:Literary characters introduced in 1954]]\n[[Category:Middle-earth animals]]\n[[Category:Middle-earth deities and spirits]]\n[[Category:The Lord of the Rings characters]]\n[[Category:Middle-earth monsters]]",
+  "redirect_chain": [],
+  "revision_id": 1329325969,
+  "revision_timestamp": "2025-12-25T09:40:56Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Name"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Darkness opposed to the light"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Darkness opposed to the light"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Darkness opposed to the light"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Insatiable evil"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Insatiable evil"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Sexual monster"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Sexual monster"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Sexual monster"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Sexual monster"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: table",
+      "structure_type": "table"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Sexual monster"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

@@ -1,0 +1,291 @@
+{
+  "failures": [],
+  "scan_passes": 2,
+  "schema_version": 1,
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "successes": [
+    {
+      "article_artifact_id": "article_a62ed76add6134820e29f3809cc39f3728a6e81a71c4810d666048b5b66cef08",
+      "candidate_title": "Avathar"
+    },
+    {
+      "article_artifact_id": "article_253fd344fd05aeba1d5e179986eeac93371a5aeb284a43f77cc3f8e1bc5dcf3b",
+      "candidate_title": "Húrin"
+    },
+    {
+      "article_artifact_id": "article_cb6866213908b656a742679da535d67a62432d90bfa16ad2db124cb97d6ef09e",
+      "candidate_title": "Melian (Middle-earth)"
+    },
+    {
+      "article_artifact_id": "article_8a79b6a8e8475877ec3f89b974b798ea354abc5fcba9c0fcd54a31956d4c6766",
+      "candidate_title": "Morgoth"
+    },
+    {
+      "article_artifact_id": "article_929ca69e72f6bb16f6b55d36a668a896819e4713f0ab93688d7919e3006e4df8",
+      "candidate_title": "Thingol"
+    },
+    {
+      "article_artifact_id": "article_0ebf5d2e9cc03aa09419372c6172b7cb6f10990af3ba321aca81a7deae29e942",
+      "candidate_title": "Túrin Turambar"
+    },
+    {
+      "article_artifact_id": "article_eafb9483bccdc0d8cd9a1e023d9a9004f2ff3ca587d290274c008e25867fb8f5",
+      "candidate_title": "Radagast"
+    },
+    {
+      "article_artifact_id": "article_f53794007130fdf887c95d5c177747c5f497be0f725aea511dd008ddbf94c34c",
+      "candidate_title": "Bilbo Baggins"
+    },
+    {
+      "article_artifact_id": "article_cad265a909d9580649329267c25cd279518a88cddedda40bfad8fa40de29138a",
+      "candidate_title": "Balin (Middle-earth)"
+    },
+    {
+      "article_artifact_id": "article_69857afd74eca65b65a4fc492c5daa241d25ddcafab5b1658e589e86571012c6",
+      "candidate_title": "Bard the Bowman"
+    },
+    {
+      "article_artifact_id": "article_22b83953edf338ca87211ae59463a952361021ed52ec2e41bef58444e5b64022",
+      "candidate_title": "Beorn"
+    },
+    {
+      "article_artifact_id": "article_0b2ad81288babde258e064242571ef82350bffd5e33d1fca37afaac1ecf86741",
+      "candidate_title": "Elrond"
+    },
+    {
+      "article_artifact_id": "article_bb9397290f2b89f4dabf7c8107f6e3c8ee2d953a5e3bf869f2241f208b35405a",
+      "candidate_title": "Gandalf"
+    },
+    {
+      "article_artifact_id": "article_d85eb0311318dc58825f3de10e460bc2762303fe527a42412ccd172e9fcbe27f",
+      "candidate_title": "Déagol"
+    },
+    {
+      "article_artifact_id": "article_08ca9386f57a0eb9600c6c1e459a762bb6e08b7ae93011e23ad54ef223f14208",
+      "candidate_title": "Saruman"
+    },
+    {
+      "article_artifact_id": "article_1d61f8c2dfc7d1a2feb7f5cbf08bc9e836af996262639a3e6090c4d2238abb6e",
+      "candidate_title": "Lord of the Eagles"
+    },
+    {
+      "article_artifact_id": "article_4224fc6b9e4e2963665c8c43f27ee05cc5cd935b970ecba9dd82b044b874f65d",
+      "candidate_title": "Sauron"
+    },
+    {
+      "article_artifact_id": "article_ee1b38edbbc45391a53eb4397e62d572c03d49b8ded244b60faeec8be46f0e34",
+      "candidate_title": "Smaug"
+    },
+    {
+      "article_artifact_id": "article_e9d2d64c54f731fd9737097757003af580edc09f50e1e49fa7d6a48bb03ce857",
+      "candidate_title": "Shelob"
+    },
+    {
+      "article_artifact_id": "article_c58463d9d2f3bf8f7cf535fcd444931a3129e8c4c5662f79618600c19228d060",
+      "candidate_title": "Thorin Oakenshield"
+    },
+    {
+      "article_artifact_id": "article_6b053abd57b94979e31f2f4dce5b4c15b7a86e77dd368fe92b18cc79623d5862",
+      "candidate_title": "Thranduil"
+    },
+    {
+      "article_artifact_id": "article_83e7d5a7851a4a1209d7375d5709ad6d6733abbc2cbf20b21f67e55dc0b85d50",
+      "candidate_title": "Witch-king of Angmar"
+    },
+    {
+      "article_artifact_id": "article_04bca56fb73e830f1908e048ad6671216e2af97892b5d91480dca8ee46842352",
+      "candidate_title": "Aragorn"
+    },
+    {
+      "article_artifact_id": "article_09fbe31cc1da4059ac96a29f55a6b74fd1299706052dfdc35d2c58ce55b16c9b",
+      "candidate_title": "Arwen"
+    },
+    {
+      "article_artifact_id": "article_aeb4e655ca41e804ce6b6ed486e6207af6c202f490f8df317dd553b2bf9e0b72",
+      "candidate_title": "Frodo Baggins"
+    },
+    {
+      "article_artifact_id": "article_bcc463933eeb9601fe085cdc07b42678573f22933e4ebde61d5f9d2c51a1280f",
+      "candidate_title": "Bregalad"
+    },
+    {
+      "article_artifact_id": "article_420f63a142abb384016e3426b1f05fdd5cdf076c3f126f0fd205d335c89c67bc",
+      "candidate_title": "Tom Bombadil"
+    },
+    {
+      "article_artifact_id": "article_012cdf52afa640e9c6b34d03562341d7dd8ccf94cdd269fcd77a8bb67183197a",
+      "candidate_title": "Boromir"
+    },
+    {
+      "article_artifact_id": "article_5f8964df88a9421fde5303c229a0b85822ac001a2be874169a886541e5c0e714",
+      "candidate_title": "Merry Brandybuck"
+    },
+    {
+      "article_artifact_id": "article_85a418125432303c34dd874f82115294edd03dae1a7ea9492172430b04a720ad",
+      "candidate_title": "Galadriel"
+    },
+    {
+      "article_artifact_id": "article_6b9405ebaeb795c20aedb0b1ce9041bbe360510997d22b2a9bb88e6aa679b2eb",
+      "candidate_title": "Company of the Ring"
+    },
+    {
+      "article_artifact_id": "article_0293027aa33d62a9a3371134802625722baeb3c950f0c1fbf53991855875d4d7",
+      "candidate_title": "Denethor"
+    },
+    {
+      "article_artifact_id": "article_4304f9be5d316eaaf553759e9a99ca3ed99bcccfcc98b441ca1c02014aaf58b0",
+      "candidate_title": "Elendil"
+    },
+    {
+      "article_artifact_id": "article_6b2f1a4ca3218b1a5b0974355f527171c9cb9812a2a8a5b6bd98c3f6dadf1fad",
+      "candidate_title": "Éomund"
+    },
+    {
+      "article_artifact_id": "article_49dae9fe15d7fd35606c777e5fcf849e5ab466662f0048091c067362c7b346b6",
+      "candidate_title": "Éothain"
+    },
+    {
+      "article_artifact_id": "article_825c00be281004a3d07799a7c856dc06a37fe665d2c608345f9106cf82420a2e",
+      "candidate_title": "Éowyn"
+    },
+    {
+      "article_artifact_id": "article_bcd026b0b9c3daa0cae4c8a16ca614acf2c1ee6b4f08b43439deb97886aeca13",
+      "candidate_title": "Faramir"
+    },
+    {
+      "article_artifact_id": "article_ad89124b7b630560330e3b6da3063476821a778ed43b513f18cfefdbf57dc2db",
+      "candidate_title": "Samwise Gamgee"
+    },
+    {
+      "article_artifact_id": "article_f1fd1576b0ffbec956267d7672703dd0072a8e45c35368469119c1a72f11990d",
+      "candidate_title": "Gimli (Middle-earth)"
+    },
+    {
+      "article_artifact_id": "article_3c60963ca86aed72921c8a1512c405a616ce126e4374746dc4c91ac7bfd61eee",
+      "candidate_title": "Glorfindel"
+    },
+    {
+      "article_artifact_id": "article_948a36e23e13d03c8e1c474e5aa13fec7218fb3505c2279bbf03b78bc577b284",
+      "candidate_title": "Goldberry"
+    },
+    {
+      "article_artifact_id": "article_d0f45335b4aebe3b09035c45b054a7c3e9c6b9f7686abf7e5eecfa87b2b56c25",
+      "candidate_title": "Gríma Wormtongue"
+    },
+    {
+      "article_artifact_id": "article_4e0e518e5f94d56950a48cd263b1d8a6a74d52fa8cb8657918303014da395b3d",
+      "candidate_title": "Isildur"
+    },
+    {
+      "article_artifact_id": "article_7f120525bdd9fac66ff97984ddfbc8ffbe975295ceb4495a5b295792be4e13d4",
+      "candidate_title": "Minas Morgul"
+    },
+    {
+      "article_artifact_id": "article_5fc4341f1945cb1b6a5478e0fa1153b443e16964d5b6ced5f6c30bdeb3f72b76",
+      "candidate_title": "Legolas"
+    },
+    {
+      "article_artifact_id": "article_07fcfc6ba904346775aefcd6de6e7c88d834755f94e7a0af7d834980ddc78534",
+      "candidate_title": "Attack on Amon Hen"
+    },
+    {
+      "article_artifact_id": "article_84af469d83ad008ea560e957ba3394bd91fddf09a479aeffd8588c82dd5a51f9",
+      "candidate_title": "Helm's Deep"
+    },
+    {
+      "article_artifact_id": "article_3ffbf4c126088107e1b84d72eea47bf86111aabfc981f36f02657af307a819c4",
+      "candidate_title": "Taur-e-Ndaedelos"
+    },
+    {
+      "article_artifact_id": "article_04848f9e5cee1de4ed2178a7c331651663ddbd202c11af79d05d018d4adef5cd",
+      "candidate_title": "Battle of Five Armies"
+    },
+    {
+      "article_artifact_id": "article_ec39be3c90baad658d38e764ef48bc24322d4fdeece78f5a4800889157b296a2",
+      "candidate_title": "Battle of the Pelennor Fields"
+    },
+    {
+      "article_artifact_id": "article_dccc324d71ed3416548bb2705aaebc3368321662f36e1e05ae7f94abbba53a20",
+      "candidate_title": "Battle of the Morannon"
+    },
+    {
+      "article_artifact_id": "article_98d34dbc159f1f3c602e1f6b48c7da1ef1316fa20757a5ff98bb351f62f847f9",
+      "candidate_title": "Khand (Middle-earth)"
+    },
+    {
+      "article_artifact_id": "article_f8560cac478f1ed8c7daaaf929981d8edc8f30d4a3e44176ef6a8f94244f749c",
+      "candidate_title": "Edoras"
+    },
+    {
+      "article_artifact_id": "article_09eb0763336ec388c3bf410f25f65b3fdfcece450be9e40c1cfc22ee3e54f4b6",
+      "candidate_title": "Falas"
+    },
+    {
+      "article_artifact_id": "article_f12df31a00f3219ad491b4ac18ad8fca2a1666428c4c334b14a20f69b909b7d6",
+      "candidate_title": "Treegarth"
+    },
+    {
+      "article_artifact_id": "article_d2a8ea4552b0a7b313ef4a1aa02d8cc6fdc16e43ff63e026a21790954b158335",
+      "candidate_title": "Minas Tirith"
+    },
+    {
+      "article_artifact_id": "article_0141556bc156931ea2b4d975980b3a00013fbd3bd979cbaebdcc08f63fe6f7f7",
+      "candidate_title": "Utumno"
+    },
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "candidate_title": "Dimholt"
+    },
+    {
+      "article_artifact_id": "article_95c35c113188301ebc45b546e29910022281acf437e3682f57d1f111d9acb113",
+      "candidate_title": "Drúwaith Iaur"
+    },
+    {
+      "article_artifact_id": "article_33853557b2b7a2c51bf19ea051e950e6d71c8aec5c4cae950e8cbd5cc4c2cc3c",
+      "candidate_title": "Fangorn Forest"
+    },
+    {
+      "article_artifact_id": "article_e9393aaa5201a97325da65cc3a1e46a812fc36a02ac715db5d493153af1a5ce2",
+      "candidate_title": "Forests in Middle-earth"
+    },
+    {
+      "article_artifact_id": "article_1facac05614f6c4a02bc7599979608013f8b855d810a5c83fc3bdefcf94ed59f",
+      "candidate_title": "Gondor"
+    },
+    {
+      "article_artifact_id": "article_ecb132266bc9f5caae9057dfb173fa2a840e720809585bd4c5aca0f8282ce846",
+      "candidate_title": "Lothlórien"
+    },
+    {
+      "article_artifact_id": "article_dd2387c06618371c53bd4fabbff50cf928d2c97156ab4010410dcbd06b552171",
+      "candidate_title": "Old Forest"
+    },
+    {
+      "article_artifact_id": "article_f3bdd73cce5d8530436ee23c79de93ac9eb6e66e3550139fe39ed9a8668ebfe4",
+      "candidate_title": "Trollshaws"
+    },
+    {
+      "article_artifact_id": "article_0a02fddd39683d94fa45031d0ff90f6c7c8f7950d6675eba9b1bc1c0d43aa854",
+      "candidate_title": "Eldamar"
+    },
+    {
+      "article_artifact_id": "article_98eaaac6ad8b92723607015ee752e4e2747d2d6c01f8f03327343b415042088e",
+      "candidate_title": "Númenor"
+    },
+    {
+      "article_artifact_id": "article_751a612076021ab3f284dd15f872323cd40ed2cd19564a9bd26527b51b9602bb",
+      "candidate_title": "Arnor (Middle-earth)"
+    },
+    {
+      "article_artifact_id": "article_dac75c7f55142e6cebbe5a1ca08c32cf6a93ce4de491f770df8d9727a3afe658",
+      "candidate_title": "Gondolin"
+    }
+  ]
+}

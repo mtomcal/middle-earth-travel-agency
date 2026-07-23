@@ -1,0 +1,269 @@
+{
+  "article_artifact_id": "article_95c35c113188301ebc45b546e29910022281acf437e3682f57d1f111d9acb113",
+  "canonical_title": "Drúedain",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_95c35c113188301ebc45b546e29910022281acf437e3682f57d1f111d9acb113",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "The Drúedain are based on the mythological woodwoses, the wild men of the woods of Britain and Europe; the Riders of Rohan indeed call them woses.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_b0c567c1dfcda578b239f9aa2ebb750027cf5f478d9f6394b375c88946f1b531",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_95c35c113188301ebc45b546e29910022281acf437e3682f57d1f111d9acb113",
+      "heading_path": [
+        "Names and etymology"
+      ],
+      "normalized_text": "thumb|A fight with a woodwose:The Fight in the Forestby Hans Burgkmair, c. 1500",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_9031e8cbdbd65b600fc2f1ea639fbf426e5a8070235722c49a9c83a749cc0be1",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_95c35c113188301ebc45b546e29910022281acf437e3682f57d1f111d9acb113",
+      "heading_path": [
+        "Description"
+      ],
+      "normalized_text": "The Drúedain somewhat resemble Dwarves in stature and endurance; they are stumpy, clumsy-limbed with short, thick legs, and fat, \"gnarled\" arms, broad chests, fat bellies, and heavy buttocks. According to the Elves and other Men, they had \"unlovely faces\": wide, flat, and expressionless with deep-set black eyes that glowed red when angered. They had \"horny\" brows, flat noses, wide mouths, and sparse, lank hair. They had no hair lower than the eyebrows, except for a few men who had a tail of black hair on the chin. They were short-lived and had a deep hatred of Orcs. They had certain magical powers and sat still in meditation for long periods.",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_1638ad72ea02e66707e8e89bee447c1a64c0c09f44aefb4792c1669d3ff04342",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_95c35c113188301ebc45b546e29910022281acf437e3682f57d1f111d9acb113",
+      "heading_path": [
+        "History"
+      ],
+      "normalized_text": "Some of the Drúedain continued north-west, settling in Beleriand. A band of them lived there in the First Age, in the forest of Brethil among the Second House of Men, the Haladin, whence the Elves came to know and love them. Aghan the Drûg is a protagonist in \"The Faithful Stone\", a short story set in Beleriand in the First Age.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_b35db3e13f302f6b643988abf4b7dbc9a6342c34b8535a210376c13ac7dd8565",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_95c35c113188301ebc45b546e29910022281acf437e3682f57d1f111d9acb113",
+      "heading_path": [
+        "History"
+      ],
+      "normalized_text": "thumb|upright=1.25|The Drúedain enabled the Rohirrim to reach the Battle of the Pelennor Fields (blue arrow 3) by way of their forest (off map), avoiding the Orcs blocking the road (red arrow 1b).",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_4ee7b793cdc280c050f82e989b6e3bd6ff5f17edc0ec9833700ad5cfcf72872a",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_95c35c113188301ebc45b546e29910022281acf437e3682f57d1f111d9acb113",
+      "heading_path": [
+        "History"
+      ],
+      "normalized_text": "Although a number of the Drúedain came with the Edain to Númenor, they had left or died out before the Akallabêth, as had the Púkel-men of Dunharrow. At the end of the Third Age the Drûgs still lived in the Drúadan Forest of the White Mountains, and on the long cape of Andrast west of Gondor. The region north of Andrast was still known as Drúwaith Iaur, or \"Old Drûg land\".",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_a8ce7924c29d1324c3e89091e5bda036b1bc48d483e31a8f10a719707fb58e4b",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_95c35c113188301ebc45b546e29910022281acf437e3682f57d1f111d9acb113",
+      "heading_path": [
+        "History"
+      ],
+      "normalized_text": "Nevertheless, the Drúedain of Ghân-buri-Ghân's clan came to the aid of the Rohirrim during the War of the Ring. A large company of Orcs had been sent to the Drúadan Forest to waylay the host of Rohan as it made its way to the aid of Gondor. It was the \"woodcrafty beyond compare\" Drúedain who held off the Orcs with poisoned arrows whilst they guided the Rohirrim through the forest by secret paths. Without their help the Rohirrim would not have arrived at the Battle of the Pelennor Fields, and Sauron would likely have triumphed. This action earned the Drúedain the respect of other Men, and King Elessar granted them the Drúadan Forest \"forever\" in thanks.",
+      "paragraph_ordinal": 6,
+      "passage_id": "passage_77bad8c8dea4e84ac63d8611052da25084454b022efe233ca09c7b2c79d87769",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Dr%C3%BAedain&action=history",
+  "namespace": 0,
+  "page_id": 421278,
+  "parent_revision_id": 1338847977,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1358629339",
+  "raw_wikitext": "{{Short description|Fictional race created by Tolkien}}\n{{Use British English|date=May 2022}}\n{{Infobox fictional race\n| name               = Drúedain\n| other_names        = Woses, Drughu, Oghor-hai, Púkel-men, Wild men\n| iu_created_date    = [[First Age]]\n| leader             = Ghân-buri-Ghân\n| home_world         = [[Middle-earth]]\n| base_of_operations = Drúadan Forest\n| language           = Drûg\n}}\nThe '''Drúedain''' are a fictional race of [[Man (Middle-earth)|Men]], living in the '''Drúadan Forest''', in the  [[Middle-earth]] [[legendarium]] created by [[J. R. R. Tolkien]]. They were counted among the [[Edain]] who made their way into [[Beleriand]] in the [[First Age]], and were friendly to the [[Elf (Middle-earth)|Elves]]. In ''The Lord of the Rings'', they assist the [[Riders of Rohan]] to avoid ambush on the way to the [[Battle of the Pelennor Fields]].\n\nThe Drúedain are based on the mythological [[woodwose]]s, the wild men of the woods of Britain and Europe; the Riders of Rohan indeed call them woses.<ref name=\"Shippey 2005\"/><ref name=\"The Ride of the Rohirrim\" group=T/>\n\n== Names and etymology ==\n\n{{further|Woodwose}}\n\n[[File:The Fight in the Forest (Hans Burgkmair d. Ä.).jpg|thumb|A fight with a [[woodwose]]:<br/>''The Fight in the Forest''<br/>by [[Hans Burgkmair]], c.&nbsp;1500]]\n\nWithin Tolkien's fiction, the Drúedain call themselves ''Drughu''. When the Drúedain settled in  [[Beleriand]], the [[Sindar]]in Elves adapted this to ''Drû'' (plurals ''Drúin'', ''Drúath'') and later added the suffix ''-adan'' \"man\", resulting in the usual [[Sindarin]] form ''Drúadan'' (plural ''Drúedain'').<ref name=\"UT Druedain\" group=T>{{harvnb|Tolkien|1980}}, \"The Drúedain\"</ref>  Tolkien also used the form ''Drûg'', with a regular English plural ''Drûgs''.<ref name=\"UT Druedain\" group=T/> ''Drughu'' became ''Rú'' in [[Quenya]], with the later suffixed form ''Rúatan'' (plural ''Rúatani'').<ref name=\"UT Druedain\" group=T/> The [[Orc (Middle-earth)|Orcs]] called the Drúedain ''Oghor-hai''.<ref name=\"UT Druedain\" group=T/> John S. Ryan, writing in ''[[Mallorn]]'', notes that Tolkien also uses the forms \"Drúadan Forest\" (the home of the Woses) and \"Drúwaith-laur\" (the Dru-folk's ancient wilderness).<ref name=\"Ryan 1983\">{{cite journal |last1=Ryan |first1=John S. |title=The Pukel-men before Dunharrow |journal=Mallorn |date=September 1983 |url=https://journals.tolkiensociety.org/mallorn/issue/download/48/49}}</ref>\n\nThe word used for the Drúedain by the [[Rohirrim]] during the [[Third Age]] is represented by Tolkien as ''Púkel-men''.<ref name=\"The Muster of Rohan\" group=T>{{harvnb|Tolkien|1955}}, Book 5, ch. 3, \"The Muster of Rohan\".</ref><ref name=\"UT Druedain\" group=T/> This includes the [[Old English]] word ''[[wikt:pucel|pūcel]]'' \"goblin, troll\", which survives in [[William Shakespeare|Shakespeare]]'s [[Puck (A Midsummer Night's Dream)|Puck]] in ''[[A Midsummer Night's Dream]]'', and in two forms in [[Rudyard Kipling|Kipling]]'s ''[[Puck of Pook's Hill]]''.<ref name=\"Clark Hall Puck\">{{cite book |last=Hall |first=J. R. Clark |author-link=John Richard Clark Hall |title=A Concise Anglo-Saxon Dictionary |date=2002 |publisher=University of Toronto Press |isbn=978-0802065483 |page=[https://archive.org/details/conciseanglosaxo00hall/page/275 275] |edition=4th |url=https://archive.org/details/conciseanglosaxo00hall/page/275}}</ref> Ryan adds that the word survives in English placenames such as Puckshot in Surrey, Pock Field in Cumberland, [[Puxton]], [[Puckeridge]], [[Pokesdown]], Pockford, Pucknall, and perhaps [[Pucklechurch]]. Ryan suggests that the Púkel-men may derive from a combination of \"Proto-Celts, [[Druid]]-figures, or ... roadside fertility deities\". Ryan notes [[Christopher Tolkien]]'s statement that the name Púkel-men is \"also used as a general equivalent to Drúedain\".<ref name=\"Ryan 1983\"/>\n\nIn [[Westron]], the Common Tongue of western Middle-earth, the Drúedain were called the ''Wild Men'', or the ''[Wood-][[Wose]]s'':<ref name=\"The Ride of the Rohirrim\" group=T>{{harvnb|Tolkien|1955}}, Book 5, ch. 5, \"The Ride of the Rohirrim\"</ref> \n\n{{quote|You hear the Woses, the Wild Men of the Woods: thus they talk together from afar. They still haunt Druadan Forest, it is said. Remnants of an older time they be, living few and secretly, wild and wary as the beasts.<ref name=\"The Ride of the Rohirrim\" group=T/>}}\n\nThe Tolkien scholar [[Tom Shippey]], a [[philologist]] like Tolkien, notes that the office at [[Leeds University]] which both men used (at different times), is near [[Woodhouse Moor]], which, as \"would not have escaped Tolkien\", is a modern misspelling of Wood-Wose, Old English ''wudu-wāsa''. [[John Richard Clark Hall|Clark Hall]] renders this word as \"[[faun]], [[satyr]]\".<ref name=\"Shippey 2005\">{{cite book |last=Shippey |first=Tom |author-link=Tom Shippey |title=[[The Road to Middle-Earth]] |date=2005 |edition=Third |orig-year=1982 |publisher=[[HarperCollins]] |isbn=978-0-2611-0275-0 |pages=74, 149}}</ref><ref name=\"Clark Hall Wood-Wose\">{{cite book |last1=Hall |first1=J. R. Clark |author-link=John Richard Clark Hall |title=A Concise Anglo-Saxon Dictionary |date=2002 |publisher=[[University of Toronto Press]] |isbn=978-0802065483 |page=[https://archive.org/details/conciseanglosaxo00hall/page/424 424] |edition=4th |url=https://archive.org/details/conciseanglosaxo00hall/page/424 }}</ref>\n\n== Description==\n\nThe Drúedain somewhat resemble [[Dwarf (Middle-earth)|Dwarves]] in stature and endurance; they are stumpy, clumsy-limbed with short, thick legs, and fat, \"gnarled\" arms, broad chests, fat bellies, and heavy buttocks.  According to the [[Elf (Middle-earth)|Elves]] and other Men, they had \"unlovely faces\": wide, flat, and expressionless with deep-set black eyes that glowed red when angered. They had \"horny\" brows, flat noses, wide mouths, and sparse, lank hair. They had no hair lower than the eyebrows, except for a few men who had a tail of black hair on the chin. They were short-lived and had a deep hatred of [[Orc (Middle-earth)|Orcs]].<ref name=\"The Ride of the Rohirrim\" group=T/> They had certain magical powers and sat still in meditation for long periods.\n\n== History ==\n\nThe Drûgs were the first to migrate from Hildórien, the land where the race of Men awoke in [[Rhûn|the east]] of Middle-earth. Initially they headed south, into [[Harad]], but then they turned north-west, becoming the first Men to cross the great river [[Geography of Middle-earth#Rhovanion|Anduin]].<ref group=T>{{harvnb|Tolkien|1980}}, part 4 ch. 1</ref> Many of them settled in the [[White Mountains (Middle-earth)|White Mountains]], where they were the [[Indigenous peoples|first people]]. \n\nSome of the Drúedain continued north-west, settling in [[Beleriand]]. A band of them lived there in the [[First Age]], in the forest of [[Brethil]] among the Second House of Men, the Haladin, whence the Elves came to know and love them. Aghan the Drûg is a protagonist in \"The Faithful Stone\", a short story set in [[Beleriand]] in the [[First Age]].\n\n[[File:Battle of the Pelennor Fields.svg|thumb|upright=1.25|The Drúedain enabled the [[Rohan, Middle-earth|Rohirrim]] to reach the [[Battle of the Pelennor Fields]] (blue arrow 3) by way of their forest (off map), avoiding the Orcs blocking the road (red arrow 1b).<ref name=\"The Ride of the Rohirrim\" group=T/> ]]\n\nAlthough a number of the Drúedain came with the Edain to [[Númenor]], they had left or died out before the [[Akallabêth]], as had the Púkel-men of [[Dunharrow]]. At the end of the [[Third Age]] the Drûgs still lived in the Drúadan Forest of the White Mountains, and on the long cape of [[Andrast]] west of [[Gondor]]. The region north of [[Andrast]] was still known as [[Drúwaith Iaur]], or \"Old Drûg land\".\n\nThe term ''Púkel-men'' used by the [[Rohirrim]] was also applied to the statues constructed by the Drúedain to guard important places and homes;<ref name=\"The Muster of Rohan\" group=T/> some evidently had the power to come to life.<ref name=\"Faithful Stone\" group=T>{{harvnb|Tolkien|1980}}, \"The Drúedain: The Faithful Stone\"</ref> Because of their ugly appearance and frightening statues the Drúedain were feared and loathed by other Men of the region; they were considered little better than [[Orc (Middle-earth)|Orcs]], and there was much enmity between those peoples.<!--where's this from? Tolkien or not?-->\n\nNevertheless, the Drúedain of Ghân-buri-Ghân's clan came to the aid of the Rohirrim during the [[War of the Ring]]. A large company of Orcs had been sent to the Drúadan Forest to waylay the host of Rohan as it made its way to the aid of [[Gondor]]. It was the \"woodcrafty beyond compare\"<ref name=\"The Ride of the Rohirrim\" group=T/> Drúedain who held off the Orcs with poisoned arrows whilst they guided the Rohirrim through the forest by secret paths.<ref name=\"The Ride of the Rohirrim\" group=T/> Without their help the Rohirrim would not have arrived at the [[Battle of the Pelennor Fields]], and [[Sauron]] would likely have triumphed. This action earned the Drúedain the respect of other Men, and King [[Aragorn|Elessar]] granted them the Drúadan Forest \"forever\" in thanks.\n\n== Analysis ==\n\n{{further|Noble savage|Green Man}}\n\nGhân-buri-Ghân is perceived as a \"leftover,\" a prehistoric type of human surviving in the modern world. Like the rest of his people, Ghân has a flat face, dark eyes, and wears only a grass skirt.<ref name=\"The Ride of the Rohirrim\" group=T/><ref name=\"Flieger 2003\"/><ref name=\"Smith 2002\">{{cite book |last=Smith |first=Mark Eddy |title=Tolkien's Ordinary Virtues |url=https://archive.org/details/tolkiensordinary00smit |url-access=registration |quote=Ghan-Buri-Ghan |year=2002 |publisher=Intervarsity Press |isbn=0-8308-2312-3 |page=[https://archive.org/details/tolkiensordinary00smit/page/108 108]}}</ref>  He is seen as a good man with a kind of primitive nobility, a classic example of the [[noble savage]].<ref name=\"Rutledge 2004\">{{cite book |last=Rutledge |first=Fleming |author-link=Fleming Rutledge |title=The Battle for Middle-earth: Tolkien's Divine Design in The Lord of the Rings|url=https://books.google.com/books?id=FRiViwMylSUC&pg=PA286 |year=2004 |publisher=[[William B. Eerdmans Publishing]] |isbn=978-0-8028-2497-4 |page=286}}</ref> He is by no means stupid, and he \"refuses to be patronized.\"<ref name=\"Stanton 2002\">{{cite book |last=Stanton |first=Michael N. |title=Hobbits, Elves, and Wizards: Exploring the Wonders and Worlds of J.R.R. Tolkien's \"The Lord of the Rings\" |url=https://books.google.com/books?id=Wo9asc1i09YC&pg=PA79 |year=2002 |publisher=[[Palgrave Macmillan]] |isbn=978-1-4039-6025-2 |page=79}}</ref>\n\nThe [[medievalist]] and Tolkien scholar [[Verlyn Flieger]] comments that the Wild Man \"is infantile\". Ghân-Buri-Ghân talks \"like a [[Cinema of the United States|Hollywood]] [[Tarzan]]\" using short broken phrases like \"Wild Men live here before Stone-houses\" and \"kill orc-folk\".<ref name=\"Flieger 2003\">{{cite book |last=Flieger |first=Verlyn |author-link=Verlyn Flieger |chapter=Tolkien's Wild Men: from medieval to modern |editor-last=Chance |editor-first=Jane |editor-link=Jane Chance |title=Tolkien the Medievalist |chapter-url=https://books.google.com/books?id=6TX3hJckf3YC&pg=PA102 |year=2003 |publisher=Routledge |isbn=978-1-134-43971-3 |pages=96-105<!--print; add c. 23 to get the e-book part numbers-->}}</ref> She compares him with the \"Wild [[Hobbit]]\"<ref name=\"Flieger 2003\"/> [[Gollum]], who is [[psychotic]], haunted by voices, and who uses \"baby-talk\", like \"cruel little hobbitses\": in her view, the Wild Man is \"evolutionarily regressive\", whereas Gollum is \"[[Psychological regression|psychologically regressive]]\".<ref name=\"Flieger 2003\"/>\n\n== Adaptations ==\n\nGhân-buri-Ghân is featured in the promotional expansion card set of ''[[The Lord of the Rings Trading Card Game]]''<ref>{{cite web |url=http://www.tradecardsonline.com/im/selectCard/series_id/88/goal/ |title=List of the 139 cards in the expansion Promotional Cards |work=Trade Cards Online |access-date=18 September 2012}}</ref> and in the [[Lord of the Rings (board game)|''Lord of the Rings'']] board game. The image for the latter was designed by the [[Tolkien illustrator]] and concept designer [[John Howe (illustrator)|John Howe]].<ref>{{cite web|url=http://www.john-howe.com/portfolio/gallery/details.php?image_id=133 |title=Ghan-Buri-Ghan |work=Illustrator John Howe |date=9 September 2011 |access-date=18 September 2012}}</ref>\n\n==References==\n\n===Primary===\n\n{{reflist|group=T|28em}}\n\n===Secondary===\n{{reflist|28em}}\n\n=== Sources ===\n\n* {{ME-ref|RotK}}\n* {{ME-ref|UT|Part Four, I}}\n\n\n{{The Lord of the Rings}}\n{{Middle-earth}}\n\n{{DEFAULTSORT:Druedain}}\n[[Category:Middle-earth Edain]]\n[[Category:Wild men]]\n\n[[pl:Atani (Śródziemie)#Wosowie]]",
+  "redirect_chain": [
+    {
+      "source_title": "Drúwaith Iaur",
+      "target_title": "Drúedain"
+    }
+  ],
+  "revision_id": 1358629339,
+  "revision_timestamp": "2026-06-09T23:06:57Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Names and etymology"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Names and etymology"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Names and etymology"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Names and etymology"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Names and etymology"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Names and etymology"
+      ],
+      "paragraph_ordinal": 7,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "History"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "History"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

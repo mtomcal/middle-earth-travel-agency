@@ -1,0 +1,359 @@
+{
+  "article_artifact_id": "article_6b053abd57b94979e31f2f4dce5b4c15b7a86e77dd368fe92b18cc79623d5862",
+  "canonical_title": "Thranduil",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_6b053abd57b94979e31f2f4dce5b4c15b7a86e77dd368fe92b18cc79623d5862",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Thranduil is a fictional character in J. R. R. Tolkien's Middle-earth legendarium. He first appears as a supporting character in The Hobbit, where he is simply known as the Elvenking, the ruler of the Elves who lived in the woodland realm of Mirkwood. The character is properly named in Tolkien's The Lord of the Rings, and appears briefly in The Silmarillion and Unfinished Tales.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_2fb957997ec8a6c2ad9963fe9a2e397c6be6cdf43015f7b203b369c5ba919ce1",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_6b053abd57b94979e31f2f4dce5b4c15b7a86e77dd368fe92b18cc79623d5862",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "The character has appeared in adaptations of The Hobbit in other media. The 2010s film adaptations of The Hobbit expands the character's role within the narrative, using information from Tolkien's later works about the character and original material by the filmmakers. Thranduil is portrayed by the American actor Lee Pace; he has been well received by fans and critics.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_7b9e33347a6df01b8df0817b86bd3957631deba198b47de9cd733fd67cc859c4",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_6b053abd57b94979e31f2f4dce5b4c15b7a86e77dd368fe92b18cc79623d5862",
+      "heading_path": [
+        "Development"
+      ],
+      "normalized_text": "thumb|upright=1.5|Sketch map of Northeast Mirkwood in the Third Age, showing the Elvenking's Halls, the Lonely Mountain of Erebor, and Esgaroth upon the Long Lake",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_0796d9fe5c286413bc5df29024112d0237e2b53476256d8ac9d9eac4e1eab849",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_6b053abd57b94979e31f2f4dce5b4c15b7a86e77dd368fe92b18cc79623d5862",
+      "heading_path": [
+        "Development"
+      ],
+      "normalized_text": "Tolkien described Thranduil in The Hobbit as having \"golden hair\" with a crown made of red leaves and berries in the autumn, and wearing a similar crown of flowers in the spring.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_0d82be199f7a0a8b91af20c8b69a6472b17dc31dbb35e184051e65c67a43f0c2",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_6b053abd57b94979e31f2f4dce5b4c15b7a86e77dd368fe92b18cc79623d5862",
+      "heading_path": [
+        "Adaptations",
+        "The Hobbit film series"
+      ],
+      "normalized_text": "thumb|upright|left|Lee Pace gave a critically acclaimed performance as Thranduil in The Hobbit film trilogy.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_739f0960d3f775f58f96f88d82ddb154145dc7932771ebfe7a49176d3bb47118",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_6b053abd57b94979e31f2f4dce5b4c15b7a86e77dd368fe92b18cc79623d5862",
+      "heading_path": [
+        "Adaptations",
+        "The Hobbit film series"
+      ],
+      "normalized_text": "The New Zealand screenwriter and film producer Philippa Boyens, a co-writer of the screenplay for The Hobbit, noted that Tolkien only revealed further detailed information about the character, including his name and backstory, in the book's sequel. Boyens suggested that there was \"a lot more story\" behind Thranduil, and that he was an interesting character in terms of what they had to make up or expand as part of the films' storytelling as there is not a lot of information present in the original source material.",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_0e29784d5ee3c51429a0e2f5eaf26d10f89c262617c6aa3318fc20f284e47de6",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_6b053abd57b94979e31f2f4dce5b4c15b7a86e77dd368fe92b18cc79623d5862",
+      "heading_path": [
+        "Reception and analysis"
+      ],
+      "normalized_text": "thumb|upright=1.2|Battle Under the Trees: Tom Loback's depiction of Dol Guldur's attack on Thranduil's wood-elves in Mirkwood",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_4d63e692c65304e76bc6d9865edba08ba8e4a8110b51e2134e4c65e1df811278",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_6b053abd57b94979e31f2f4dce5b4c15b7a86e77dd368fe92b18cc79623d5862",
+      "heading_path": [
+        "Reception and analysis",
+        "The Hobbit film trilogy"
+      ],
+      "normalized_text": "thumb|upright=0.6|left|Fan art of Thranduil, the Elvenking",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_f729afb010e770553ada268d0c283b6872e74be7a47802bae7e6ecac52291e3f",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Thranduil&action=history",
+  "namespace": 0,
+  "page_id": 94249,
+  "parent_revision_id": 1361188962,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1362034187",
+  "raw_wikitext": "{{Short description|Fictional elf in Tolkien's Middle-Earth}}\n{{good article}}\n{{Use British English|date=January 2021}}\n{{Use dmy dates|date=December 2021}}\n{{Infobox character\n| name        = Thranduil\n| series      = [[J. R. R. Tolkien|Tolkien]] \n| title       = Elvenking of Mirkwood\n| race        = [[Elf (Middle-earth)|Elf]] ([[Sindar]])\n| lbl24       = Book(s)\n| data24      = ''[[The Hobbit]]'' (1937) <br/>''[[The Lord of the Rings]]'' (1954–1955) <br/>''[[The Silmarillion]]'' (1977)<br/> ''[[Unfinished Tales]]'' (1980)\n}}\n\n'''Thranduil''' is a fictional character in [[J. R. R. Tolkien]]'s [[Middle-earth]] [[legendarium]]. He first appears as a supporting character in ''[[The Hobbit]]'', where he is simply known as the '''Elvenking''', the ruler of the [[Elf (Middle-earth)|Elves]] who lived in the woodland realm of [[Mirkwood]]. The character is properly named in Tolkien's ''[[The Lord of the Rings]]'', and appears briefly in ''[[The Silmarillion]]'' and ''[[Unfinished Tales]]''.\n\nThe character has appeared in adaptations of ''The Hobbit'' in other media. [[The Hobbit (film series)|The 2010s film adaptations of ''The Hobbit'']] expands the character's role within the narrative, using information from Tolkien's later works about the character and original material by the [[filmmaker]]s. Thranduil is portrayed by the American actor [[Lee Pace]]; he has been well received by fans and critics.\n\n==Development==\n\n[[File:Elvenking, Erebor, Esgaroth.svg|thumb|upright=1.5|Sketch map of Northeast [[Mirkwood]] in the Third Age, showing the Elvenking's Halls, the [[Lonely Mountain]] of Erebor, and [[Esgaroth]] upon the Long Lake]]\n\nThranduil is one of the [[Sindar]] or Grey Elves who speak [[Sindarin]] as opposed to [[Quenya]], the language spoken by [[Noldor]]in Elves like [[Galadriel]].<ref name=\"AV\">{{cite web |last=Perkins |first=Dennis |title=Even elf king Lee Pace can't stump Tolkien expert Stephen Colbert |url=https://www.avclub.com/even-elf-king-lee-pace-cant-stump-tolkien-expert-stephe-1837297150 |website=AV Club |date=16 August 2019 |access-date=19 January 2021 |archive-date=29 January 2021 |archive-url=https://web.archive.org/web/20210129120842/https://news.avclub.com/even-elf-king-lee-pace-cant-stump-tolkien-expert-stephe-1837297150 |url-status=live }}</ref> The name \"Thranduil\" means \"vigorous spring\" in [[Sindarin]].<ref group=T>{{harvnb|Tolkien|1996}}, II\": \"The Appendix on Languages\", Languages at the end of the Third Age</ref> Following the end of the First Age and the destruction of much of Beleriand during the [[War of Wrath]], many Sindar migrate into the east of Middle-earth. Crossing the [[Misty Mountains]], they found populations of [[Silvan Elves]] living in the woodlands that bordered the River [[Geography of Middle-earth#Rhovanion|Anduin]]. The Sindar were welcomed by these people, and some were made leaders and rulers over them. In Appendix B of ''[[The Lord of the Rings]]'' Tolkien states that Thranduil was one of the Sindar who migrated eastward early in the Second Age and established kingdoms among the Silvan Elves.<ref group=T name=\"ROTK App B\">{{harvnb|Tolkien|1955}}, Appendix B</ref> Later writings in ''[[Unfinished Tales]]'' make Thranduil's father Oropher the founder of the realm, which originally included the southern portions of the forest of Greenwood the Great, later known as [[Mirkwood]].<ref group=T name=\"UT App B Sindarin Princes\"/>\n\nTolkien described Thranduil in ''[[The Hobbit]]'' as having \"golden hair\" with a crown made of red leaves and berries in the autumn, and wearing a similar crown of flowers in the spring.<ref group=T name=\"Flies and Spiders\"/>\n\n==Biography==\n\nThranduil marched with his father and a large army of their people to join the Last Alliance of Elves and Men in their war against [[Sauron]] at the end of the [[Second Age]]. The Elves suffered serious losses, including Oropher, who was killed in the Battle of [[Dagorlad]] before the Black Gate of [[Mordor]].<ref group=T name=\"UT App B Sindarin Princes\"/> Following the war, Thranduil, now king of his people, led the remnants of his army, only a third of what had set out, back to their woodland home in [[Mirkwood]].<ref group=T>{{harvnb|Tolkien|1980}}, p. 335.</ref> Hearing word of the Disaster of the Gladden Fields shortly after their return, Thranduil set out to aid the [[Dúnedain]]; he arrived too late to save them, but was able to finish the destruction of the Orc horde and prevent the mutilation of the dead.<ref group=T>{{harvnb|Tolkien|1980}}, p. 276.</ref>\n\nDuring the [[Third Age]], Thranduil led his people to the north-east corner of the forest and there created an underground fortress and series of great halls. He was inspired in this enterprise by [[Thingol]]'s halls of [[Menegroth]] in [[Doriath (Middle-earth)|Doriath]] during the [[First Age]],<ref group=T name=\"UT App B Sindarin Princes\">{{harvnb|Tolkien|1980}}, \"The History of Galadriel and Celeborn\", \"Appendix B: The Sindarin Princes of the Silvan Elves\"</ref> and like Thingol, he used the skill of the [[Dwarf (Middle-earth)|Dwarves]] to aid in making his stronghold.<ref group=T>{{harvnb|Tolkien|1954}} Book 1, ch. 8 \"The Road to Isengard\"</ref>\n\nBeing far in the north, and on the eastern edge of an increasingly perilous Mirkwood, Thranduil's realm was somewhat isolated, but he traded with the [[Dwarves (Middle-earth)|Dwarves]] and [[Man (Middle-earth)|Men]] who lived nearby in [[Erebor]], [[Dale (Middle-earth)|Dale]], and [[Esgaroth|Esgaroth (Laketown)]].<ref name=\"Tally 2013\">{{cite journal |last=Tally |first=Robert J. Jr. |title=Review: The International Relations of Middle-earth: Learning from THE LORD OF THE Rings. Abigail E. Ruane and Patrick James. Ann Arbor: University of Michigan Press, 2012 |journal=[[Mythlore]] |date=2013 |volume=32 |issue=1 |pages=147–153 |url=https://dc.swosu.edu/mythlore/vol32/iss1/10}}</ref><!-- page ref from book itself would be useful --> An attack by the dragon [[Smaug]] destroyed Erebor and Dale, and reduced Esgaroth to a shell of its former self,<ref group=T name=\"An Unexpected Party\">{{harvnb|Tolkien|1937}}, ch. 1 \"An Unexpected Party\"</ref> though there remained a healthy wine trade between the lake and the wood.<ref group=T name=\"Barrels out of Bond\">{{harvnb|Tolkien|1937}}, ch. 9 \"Barrels out of Bond\"</ref>\nThis situation changed with the arrival of [[Bilbo Baggins]] and a company of [[List of The Hobbit characters#Thorin's company|Dwarves]], on their quest to reclaim Erebor.<ref group=T name=\"Flies and Spiders\">{{harvnb|Tolkien|1937}}, ch. 8 \"Flies and Spiders\"</ref>  \nThe Dwarves were captured by Thranduil's guards and, suspicious of their intentions, he had them locked in his dungeons from which they later escaped inside barrels.<ref group=T name=\"Barrels out of Bond\"/>\n\n{{Quote box\n |width = 27em\n |align = right\n |quote = In a great hall with pillars hewn out of the living stone sat the Elvenking on a chair of carven wood. On his head was a crown of berries and red leaves, for the autumn was come again. In the spring he wore a crown of woodland flowers. In his hand he held a carven staff of oak. – ''[[The Hobbit]]'': \"Barrels out of Bond\"<ref group=T name=\"Barrels out of Bond\"/>\n}}\n\nAfter the death of Smaug, Thranduil along with the people of Esgaroth demanded a share of the treasure of Erebor, beginning a confrontation with [[Thorin Oakenshield|Thorin]]'s company, who were reinforced by an army from the [[Iron Hills]], that nearly led to war. War with the Dwarves was averted by the intervention of the [[Wizard (Middle-earth)|wizard]] [[Gandalf]] upon the arrival of the allied forces of [[Orc (Middle-earth)|Orcs]] and [[Warg (Middle-earth)|wargs]]. The combined army of Elves, Dwarves, and Men was victorious in the ensuing Battle of the Five Armies, but at great cost of life.<ref group=T>{{harvnb|Tolkien|1937}}, ch. 17 \"The Clouds Burst\"</ref>\n\nDuring the events of the [[War of the Ring]] as depicted in the ''Lord of the Rings'', Thranduil does what he can to aid his allies, including holding the creature [[Gollum]] in his dungeons for interrogation by Gandalf on the history of the [[One Ring]]. Gollum later escapes with the aid of Orcs who attack Thranduil's realm, and his son [[Legolas]] is sent to [[Rivendell]] to seek the counsel of [[Elrond]] and Gandalf.<ref group=T name=\"Council\">{{harvnb|Tolkien|1954a}}, book 2, ch. 2 \"[[The Council of Elrond]]\"</ref> Thranduil and his people withstood attacks by Sauron's forces during northern battles of the war. Having routed their foes in the north, Thranduil's forces moved south, and joined with the armies of [[Lothlorien|Lorien]] under [[Galadriel|Celeborn and Galadriel]] in destroying Dol Guldur, cleansing Mirkwood of Sauron's taint of evil. In the aftermath, Thranduil, along with Celeborn, renamed Mirkwood ''Eryn Lasgalen'', The Wood of Greenleaves. Thranduil's realm expands after the wars, and he and his people enjoyed peace.<ref group=T name=\"ROTK App B\"/>\n\n==Adaptations==\n\n===''The Hobbit'' film series===\n{{further|The Hobbit (film series)}}\n\n[[File:Lee_Pace_as_Thranduil.jpg|thumb|upright|left|[[Lee Pace]] gave a critically acclaimed performance as Thranduil in [[The Hobbit (film series)|''The Hobbit'' film trilogy]].<ref name=\"AV\"/>]]\n\n[[Peter Jackson]] cast [[Lee Pace]] for his 2012–2014 film trilogy [[The Hobbit (film series)|''The Hobbit'']], stating that Pace had been the filmmakers' favourite for the part after his performance in the 2006 film ''[[The Fall (2006 film)|The Fall]]''.<ref>{{cite web |last=Chitwood |first=Adam |url=https://collider.com/lee-pace-dean-ogorman-the-hobbit/ |title=Lee Pace and Dean O'Gorman Join Peter Jackson's THE HOBBIT |work=collider.com  |date=30 April 2011 |access-date=3 April 2013}}</ref>\n\nThe New Zealand screenwriter and film producer [[Philippa Boyens]], a co-writer of the screenplay for ''The Hobbit'', noted that Tolkien only revealed further detailed information about the character, including his name and backstory, in the book's sequel.<ref name=\"Straight\"/> Boyens suggested that there was \"a lot more story\" behind Thranduil, and that he was an interesting character in terms of what they had to make up or expand as part of the films' storytelling as there is not a lot of information present in the original source material.<ref name=\"Straight\"/><ref name=\"NT 2014\"/>\n\nThe Elves of Mirkwood are a minor element in the novel, and Thranduil in particular has no quarrel with Thorin or his company of Dwarves, who are only imprisoned because they are trespassing on the Elvenking's territory and refuse to tell him why.<ref name=Ars>{{Cite web|url=https://arstechnica.com/gaming/2013/12/on-the-hobbit-the-desolation-of-smaug-and-weaknesses-in-the-source-material/ |title=On The Hobbit: The Desolation of Smaug and weaknesses in the source material |first=Andrew |last=Cunningham|date=18 December 2013 |website=Ars Technica}}</ref> The existing story narrative of Thranduil as an isolationist leader was identified by the writers, who worked with Pace to develop the character's backstory.<ref name=\"NT 2014\">{{cite news |last=Wilner |first=Norman |title=Q&A: Peter Jackson, Philippa Boyens & Lee Pace |url=https://nowtoronto.com/peter-jackson-philippa-boyens-lee-pace |access-date=18 January 2021 |work=Now Toronto |date=10 December 2014 |archive-date=8 May 2021 |archive-url=https://web.archive.org/web/20210508163812/https://nowtoronto.com/peter-jackson-philippa-boyens-lee-pace |url-status=dead }}</ref> In the film series, Thranduil rides a giant [[elk]] resembling a ''[[Megaloceros]]'';<ref name=\"Barnett 2019\">{{cite book |last=Barnett |first=Ross |title=The Missing Lynx: The Past and Future of Britain's Lost Mammals |url=https://books.google.com/books?id=1W6MDwAAQBAJ&pg=PT56 |year=2019 |publisher=[[Bloomsbury Publishing]] |isbn=978-1-4729-5733-7 |page=56}}</ref> the \"elk\" was a horse named Moose, made up to look like a [[deer]].<ref>{{cite web |url=https://www.cnnindonesia.com/hiburan/20141217145018-220-18787/5-fakta-lucu-the-hobbit-the-battle-of-the-five-armies|title=5 Fakta Lucu The Hobbit: The Battle of the Five Armies |first=Rizky Sekar |last=Afrisia |website=[[CNN]] Indonesia |language=Indonesian}}</ref> This version of the character is depicted as somewhat unhinged.<ref name=Ars/>\n\n{{Quote box\n |width = 27em\n |align = right\n |quote = With those little clues, we kind of fleshed out the character, and I'm really excited with what we've come up with. He's complicated. Tolkien’s elves are such fascinating creatures; I've always thought they were less like humans than they are forces of nature, like a blizzard or a dangerous big cat in the jungle. — Lee Pace<ref name=\"Straight\"/>\n}}\n\nPace called Thranduil the \"Elvenking\" instead of his actual name during interviews, following Tolkien's usage in ''The Hobbit'', which Pace read as a high school student.<ref name=\"Straight\">{{cite news |last=Caddell |first=Nathan |title=The Hobbit's Lee Pace relishes playing Elvenking |url=https://www.straight.com/movies/790136/hobbits-lee-pace-relishes-playing-elvenking |access-date=18 January 2021 |work=[[The Georgia Straight]] |date=17 December 2014}}</ref> In an interview with ''[[The Georgia Straight]]'', Pace explained that Thranduil, unlike other villainous characters he had played like [[Ronan the Accuser#Film|Ronan the Accuser]], is morally ambiguous, as he is only at odds with the Dwarves. Pace felt that it was important for him to find enjoyment in playing characters who are larger-than-life, and that it was on him to try to figure out who his character was with what little that he knew.<ref name=Straight/> Pace praised the rest of the cast and crew members of ''The Hobbit'' film project as inspirational, noting that they were collectively telling a big story which was intended to be fully fleshed out on the green screen and which they had no idea how it would ultimately turn out.<ref name=\"NT 2014\"/>\n\n===In other media===\n\nIn the [[The Hobbit (1977 film)|1977 animated version of ''The Hobbit'']], Thranduil is voiced by [[Otto Preminger]].<ref>{{cite web |title=Elvenking |url=https://www.behindthevoiceactors.com/movies/The-Hobbit/Elvenking/ |website=Behind the Voice Actors |access-date=19 January 2021}}</ref>\n\nThranduil is one of the playable heroes in ''[[The Lord of the Rings: The Battle for Middle-earth II]]'' (2006) [[real-time strategy game]], joining [[Elrond]], [[Arwen]], [[Glorfindel]], and the Dwarves in destroying [[Dol Guldur]] in the final battle of the good storyline, and falling to the Goblins mustered by the [[Mouth of Sauron]] in the alternate evil storyline.<ref>{{cite web |last=Rorie |first=Matthew |title=The Lord of the Rings, The Battle for Middle-earth II Walkthrough |url=https://www.gamespot.com/articles/the-lord-of-the-rings-the-battle-for-middle-earth-ii-walkthrough/1100-6146219/ |website=Gamespot |access-date=19 January 2021 |date=17 July 2006}}</ref>\n\nIn 2020, Weta Workshop released a limited edition of a statue featuring ''The Hobbit'' film series iteration of Thranduil, depicted seated on his throne with a guard standing in attention before him. The statue recreates Pace's likeness for the character and is designed at 1:6 scale, measuring 41.33 inches in width and 39.37 inches in height.<ref>{{Cite web |url=https://sea.ign.com/preview/163908/the-hobbit-this-king-thranduil-statue-is-fit-for-a-woodland-king |title=The Hobbit: This King Thranduil Statue Is Fit for a Woodland King |date=18 September 2020 |website=IGN Southeast Asia |access-date=18 January 2021}}</ref>\n\n==Reception and analysis==\n\n[[File:Battle Under the Trees.jpg|thumb|upright=1.2|''Battle Under the Trees'': [[Tom Loback]]'s depiction of [[Dol Guldur]]'s attack on Thranduil's wood-elves in [[Mirkwood]]]]\n\n===Tolkien===\n\nIn an article published by ''[[Tor.com]]'' as part of a bi-weekly series titled \"Exploring the People of Middle-earth\", Megan N. Fontenot found it surprising that in ''[[The Fellowship of the Ring]]'', none of the attendees at the [[Council of Elrond]] pays much attention to Legolas' status as Thranduil's heir. Fontenot found the lore behind Thranduil to be underdeveloped, as his name appeared more often in the Appendices than in the main narrative.<ref>{{cite web |last=Fontenot |first=Megan N. |url=https://www.tor.com/2019/06/27/exploring-the-people-of-middle-earth-legolas-a-radical-warrior/|title=Exploring the People of Middle-earth: Legolas, a Radical Warrior |date=27 June 2019 |website=[[Tor.com]] |access-date=20 January 2020}}</ref>\n\n[[Tom Loback]], writing in ''[[Mythlore]]'', attempts to evaluate the strength of the [[orc]] forces that attacked Thranduil in the battle under Mirkwood's dark trees (Dagor Dauroth). He estimated, on the basis of the standard words that Tolkien uses for military forces, and the need for the forces to be superior to Thranduil's, that the Witch-king used a \"legion\" of around 10,000 orcs for the initial reconnaissance<!-- in June 3018-->, and an \"army\" of 2 or 3 legions of orcs, for the main attack.<ref name=\"Loback 1990\">{{cite journal |last=Loback |first=Tom |author-link=Tom Loback |title=Orc Hosts, Armies and Legions: A Demographic Study |journal=Mythlore |date=1990 |volume=16 |issue=4 |pages=10–16 |url=https://dc.swosu.edu/mythlore/vol16/iss4/2/}}</ref>\n\n===''The Hobbit'' film trilogy===\n[[File:Elvenking by Nolwyn.jpg|thumb|upright=0.6|left|Fan art of Thranduil, the Elvenking]]\n\nLee Pace's portrayal of the Elvenking in Jackson's film trilogy was received warmly. Dennis Perkins from ''The A.V. Club'' found that Pace's \"eerie intensity\" made him a \"fine elf king\".<ref name=\"AV\"/> Alisha Coelho from ''[[India Times]]'' described Pace's Thranduil as \"a cold, calculative and condescending king\" who is prettier than [[Galadriel]] but has less heart than [[Elrond]].<ref>{{Cite web |title=5 Reasons To Watch The New Hobbit Film |date=16 December 2013 |access-date=19 January 2021 |website=[[India Times]] |url=https://www.indiatimes.com/entertainment/hollywood/5-new-characters-to-watch-the-hobbit-the-desolation-of-smaug-for-117432.html }}</ref> ''[[Business Review]]'' praised Pace's \"aggressive\" Thranduil as one of the better performances of ''The Battle of the Five Armies'', and said that the movie gives audiences a better insight into the Elvenking's motivations as well as the reasons behind his isolationist outlook.<ref name=\"BR 2014\">{{cite news |last=Anon |title=Movie review – The Hobbit: The Battle of the Five Armies |url=https://business-review.eu/featured/movie-review-the-hobbit-the-battle-of-the-five-armies-74398 |access-date=18 January 2021 |work=Business Review |date=17 December 2014}}</ref>\n\nNathan Caddell from ''[[The Georgia Straight]]'' observed that Pace \"tried to stay as loyal as he could to the source material that he loved, using any small crumbs to try to gain more information about his role\", and noted that while it is debatable as to whether Thranduil is an evil character, the \"vindictive elf\" is a departure from Pace's previous roles, which reflected his warm personality.<ref name=Straight/> In a review of the 4K Ultra HD Blu-Ray edition of ''The Desolation Of Smaug'', M. Enois Duarte from ''High-Def Digest'' wrote that the confrontation between Thorin and Thranduil was one of the more interesting aspects of the expanded material introduced by Jackson's vision of Tolkien's original narrative for ''The Hobbit''.<ref name=\"Duarte 2020\">{{cite web |last=Duarte |first=M. Enois |title=The Hobbit: The Desolation Of Smaug- 4K Ultra HD Blu-ray |url=https://ultrahd.highdefdigest.com/90910/thehobbitthedesolationofsmaug4kultrahdbluray.html|publisher=High-Def Digest |access-date=19 January 2021 |date=14 December 2020}}</ref>\n\nConversely, Kirsten Acuna from ''[[Business Insider]]'' found the depiction of Thranduil's motivations in the film series contradictory; she observed that he repeatedly stresses the prioritization of his people's lives to justify his unwillingness to help other communities in ''The Desolation of Smaug'', and yet in the sequel is willing to risk the same over a war for the White Gems. Nevertheless, she found Thranduil to be much more likeable by the end of ''The Battle of the Five Armies''.<ref name=\"BI 2014\">{{cite news |title=The New 'Hobbit' Movie Is Basically A Toned-Down Version Of The Final 'Lord Of The Rings' |url=https://www.businessinsider.com/hobbit-battle-of-the-five-armies-review-2014-12 |access-date=18 January 2021 |work=[[Business Insider]] |date=16 December 2014}}</ref>\n\nTanja Välisalo, in an empirical study of the audience reception of ''The Hobbit'' films, found that Thranduil was mentioned by just under 5% of respondents, placing him 7th in the list of people's favourites among the films' cast of characters.<ref name=\"Välisalo 2017\">{{cite journal |last=Välisalo |first=Tanja Välialo |title=Engaging with film characters: Empirical study on the reception of characters in The Hobbit films |journal=Fafnir: Nordic Journal of Science Fiction and Fantasy Research |date=2017 |volume=4 |issue=3–4 |pages=12–30 |url=https://jyx.jyu.fi/handle/123456789/57621}}</ref> They found the character sexually attractive, along with Thorin (played by the \"handsome\" [[Richard Armitage (actor)|Richard Armitage]]).<ref name=\"Välisalo 2017\"/> In addition, the audience had an \"allegiance\" to the character; Välisalo cites as illustration comments like \"Thranduil truly captured me\"<ref name=\"Välisalo 2017\"/> and \"this character's make-up and character design ... were a perfect success.\"<ref name=\"Välisalo 2017\"/>{{-}}\n\n==References==\n\n===Primary===\n\n{{reflist|group=T|24em}}\n\n===Secondary===\n{{reflist|28em}}\n\n==Sources==\n\n* {{ME-ref|Hobbit}}\n* {{ME-ref|FotR|Book 2, ch. 2 \"The Council of Elrond\"}}\n* {{ME-ref|TT|Book 1, ch. 8 \"The Road to Isengard\"}}\n* {{ME-ref|RotK|Appendix B, \"The Tale of the Years\"}}\n* {{ME-ref|Unfinished Tales|\"The History of Galadriel and Celeborn,\" Appendix B: \"The Sindarian Princes of the Silvan Elves\"}}\n* {{ME-ref|PoME|\"The Appendix on Languages\", Languages at the end of the Third Age}}\n\n==External links==\n\n{{Hobbit}}\n{{The Lord of the Rings}}\n{{Elves}}\n\n[[Category:The Hobbit characters]]\n[[Category:Literary characters introduced in 1937]]\n[[Category:Fictional kings]]\n[[Category:Grey Elves]]\n[[Category:Middle-earth rulers]]\n[[Category:Fictional characters with post-traumatic stress disorder]]\n[[Category:Television characters introduced in 1977]]\n\n[[de:Figuren in Tolkiens Welt#Thranduil]]",
+  "redirect_chain": [],
+  "revision_id": 1362034187,
+  "revision_timestamp": "2026-07-01T15:24:49Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Development"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Biography"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Biography"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Biography"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Biography"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Biography"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Biography"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "The Hobbit film series"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "The Hobbit film series"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "The Hobbit film series"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "The Hobbit film series"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "The Hobbit film series"
+      ],
+      "paragraph_ordinal": 7,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "In other media"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "In other media"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "In other media"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Reception and analysis",
+        "Tolkien"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Reception and analysis",
+        "Tolkien"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Reception and analysis",
+        "The Hobbit film trilogy"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Reception and analysis",
+        "The Hobbit film trilogy"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Reception and analysis",
+        "The Hobbit film trilogy"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Reception and analysis",
+        "The Hobbit film trilogy"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "External links"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "External links"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "External links"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

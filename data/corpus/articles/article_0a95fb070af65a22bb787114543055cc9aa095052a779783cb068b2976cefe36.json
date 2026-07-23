@@ -1,0 +1,938 @@
+{
+  "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+  "canonical_title": "The Lord of the Rings: The Return of the King",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Like the previous films in the trilogy, The Return of the King is widely recognised as one of the greatest and most influential films ever made. The film received numerous accolades; at the 76th Academy Awards, it won all 11 awards for which it was nominated, including Best Picture, the first fantasy film to do so and tying with 1959's Ben-Hur and 1997's Titanic as the movie with the most Academy Award wins. It also became the second film series whose entries have all won Best Visual Effects, after the original Star Wars trilogy.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_bf1144b1bd590543c010a506d0ab14ba6d479ec6384ced5164625914879dadfd",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "heading_path": [
+        "Plot"
+      ],
+      "normalized_text": "The hobbit Déagol discovers the One Ring in a river while fishing with his cousin Sméagol. The Ring immediately ensnares Sméagol's mind, and he kills his cousin for it. Corrupted physically and mentally, he retreats into caves below the Misty Mountains and becomes known as Gollum.",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_ae8f4563930fcf06dced048ea2f64c5fa39364c4709e96ea3731a11a6cdb17bb",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "heading_path": [
+        "Plot"
+      ],
+      "normalized_text": "Frodo, who carries the Ring, and Sam continue their journey towards Mordor, unaware that Gollum, now their guide, plans to betray them and take the Ring for himself. The trio witness the Witch-king of Angmar, lord of the nine Nazgûl, setting off towards Gondor with his army of Orcs. Gollum frames Sam for eating food supplies and desiring the Ring; Frodo is deceived and orders Sam to go home.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_e6be913482533fe425948233d4c1cfae33511078bc6397021f66a642c4eac16f",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "heading_path": [
+        "Plot"
+      ],
+      "normalized_text": "As Théoden gathers his army, Elrond tells Aragorn that Arwen is dying, having refused to leave Middle-earth. Elrond gives Aragorn Andúril, reforged from the shards of King Elendil's sword Narsil, and urges him to claim Gondor's throne, to which he is heir. Aragorn travels the Paths of the Dead with Legolas and Gimli and pledges to release the ghosts there from their curse should they come to Gondor's aid.",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_910f3602c64024b357d76bdcb9ab2411945b7cdb31b5681e6dc86532f41660b1",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "heading_path": [
+        "Plot"
+      ],
+      "normalized_text": "Gollum tricks Frodo into the giant spider Shelob's lair alone. Frodo narrowly escapes and confronts Gollum, who falls down a chasm after a scuffle. Shelob discovers, paralyses, and binds Frodo but is wounded and driven away by a returning Sam. Sam mourns Frodo's apparent death and takes the Ring to finish the quest himself, but then realises his mistake when Orcs take Frodo captive. He rescues Frodo within Mordor, and the two continue towards Mount Doom.",
+      "paragraph_ordinal": 5,
+      "passage_id": "passage_375b7300d5194eacc6e8f319893f40bf1305eed6551f9e8806c38111e6ee41f1",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "heading_path": [
+        "Plot"
+      ],
+      "normalized_text": "Denethor sends his younger son, Faramir, on a suicide charge. Faramir returns gravely wounded; believing him dead, Denethor falls into madness. Gandalf marshals the defenders, but the enormous Orc army breaks into the city. Denethor attempts to burn himself and Faramir on a pyre, but Pippin alerts Gandalf, and they rescue Faramir; Denethor, set ablaze, jumps to his death.",
+      "paragraph_ordinal": 6,
+      "passage_id": "passage_b65dbca97ade2c0dcfcff9e3af6dbda8ea4cf4625d0361c522045add05617b08",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "heading_path": [
+        "Plot"
+      ],
+      "normalized_text": "Théoden arrives and leads his army against the Orcs. Despite initial success in the ensuing battle, they are repulsed by the Oliphaunt-riding Haradrim, and the Witch-king of Angmar mortally wounds Théoden; his niece Éowyn, disguised in male clothing, slays the Witch-king with Merry's help, before Théoden dies in her arms. Aragorn arrives with his Army of the Dead, who overcome Sauron's forces. Their oath fulfilled, the Dead are released from their curse.",
+      "paragraph_ordinal": 7,
+      "passage_id": "passage_c20bbbc4344eb24b1ab3d3ae0ad314f328a74a1f75faee2588d9ad81f284592f",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "heading_path": [
+        "Plot"
+      ],
+      "normalized_text": "Aragorn marches on Mordor to distract Sauron from Frodo and Sam's journey to Mount Doom, drawing all remaining forces to confront him. Gollum, having survived his fall, pursues Frodo and Sam, but Sam holds him back as Frodo enters the mountain. Frodo succumbs to the Ring's power and puts it on, but Gollum bites off his finger and reclaims the Ring, leading to a struggle before they tumble off the ledge. Sam saves Frodo while Gollum falls into the lava with the Ring, destroying it and Sauron forever. The lands of Mordor collapse, annihilating the Orc army. Frodo and Sam narrowly escape the erupting Mount Doom, before Gandalf and the eagles rescue them.",
+      "paragraph_ordinal": 8,
+      "passage_id": "passage_7a66dd611cb8ec928b9d4c9e17240ec6068a7ce262f5d86428babff5d56a0909",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "heading_path": [
+        "Cast"
+      ],
+      "normalized_text": "The Extended Edition has in addition:",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_7abe4261d6aa7bbceac5d84a332a0a776ba98a5d76f9fde4e7165db41b97dadf",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "heading_path": [
+        "Comparison to the source material"
+      ],
+      "normalized_text": "The basis of Elrond and Arwen's subplot arguing about Arwen's fate is derived from the Appendices, but it is largely extended in the film, as is Arwen and Elrond's relevance to the story.",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_85ebd94a5246018cbfb485b335af29fe430e078225716f1398569ae64ade2396",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "heading_path": [
+        "Comparison to the source material"
+      ],
+      "normalized_text": "The film alters the circumstances of Théoden's death; his death speech, in which he names Éomer the new king in the book, is trimmed and delivered to Éowyn instead of Merry, with an earlier scene in the Extended Edition implying that Éomer is next in line for the throne. Théoden's rallying speech (\"To death!\") before the initial charge in the film is spoken by Éomer in the book when he believes that both Théoden and Éowyn have been killed in combat with the Witch King.",
+      "paragraph_ordinal": 7,
+      "passage_id": "passage_e10d37ec10fa32420b00b81272a241473555618cc1316d4105bbfc5d0f1ddff3",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "heading_path": [
+        "Comparison to the source material"
+      ],
+      "normalized_text": "The Extended Edition presents shortened scenes from the book's chapters in the Houses of Healing: The Warden, the talk of Athelas, the comical conversation with the herb-master, the woman Ioreth and her saying about a King's healing hands and the subsequent realising of Aragorn's true identity are left out altogether. The romance that develops between Éowyn and Faramir during their recoveries in the Houses of Healing is largely cut, presumably to keep the focus on Aragorn and Arwen; the subplot is briefly referenced in the Extended Edition, with a scene where the two hold hands.",
+      "paragraph_ordinal": 8,
+      "passage_id": "passage_691bd968ccfae76c69927dc18b09d753a609069f78be81210f23db3be52a33c1",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "heading_path": [
+        "Comparison to the source material"
+      ],
+      "normalized_text": "Gollum's fall into the lava of Mount Doom was rewritten for the film, as the writers felt that simply having Gollum slip and fall was anticlimactic. Originally, an even greater deviation was planned: Frodo would heroically push Gollum over the ledge to destroy him and the Ring, but the production team realised that that would make it look as if Frodo was murdering Gollum. Instead, they had Frodo and Gollum struggle for possession of the Ring.",
+      "paragraph_ordinal": 9,
+      "passage_id": "passage_1f84f88d96eba1ee222dc58cf85f1fea61b49160c835bb5c24e4ab5985d154bd",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "heading_path": [
+        "Comparison to the source material"
+      ],
+      "normalized_text": "thumb|upright=0.81|Statue of Sauron from The Lord of the Rings movies",
+      "paragraph_ordinal": 10,
+      "passage_id": "passage_679ee11157c1b00245e10291675d85a12e995a5b4e711051eeecd6cb65b9209a",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "heading_path": [
+        "Comparison to the source material"
+      ],
+      "normalized_text": "In addition to the absent footage from the film are the other major attacks by Sauron on various regions of Middle-earth, referenced only briefly in the main text of The Return of the King, and expanded upon in the Appendices; the invasion of Rohan by the Orcs of Moria, the attacks on Lothlórien and the Woodland Realm of Thranduil by the forces of Dol Guldur, and the attack on Dale and the Lonely Mountain by a force of Easterlings, events hinted at in a comment by Legolas in the book.",
+      "paragraph_ordinal": 11,
+      "passage_id": "passage_b05bbae44759bbe7cb40c3d66f1edf2871b6d148fb153ec4188da426f6574796",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "heading_path": [
+        "Comparison to the source material"
+      ],
+      "normalized_text": "There are several changes in the Battle of the Black Gate: Merry is not present there in the book, Pippin does not kill a troll as he does in the novel (instead, Aragorn fights one), the eagles fight and defeat some of the mounted Nazgûl, and Aragorn kills the Mouth of Sauron in the extended edition of the film but not in the book.",
+      "paragraph_ordinal": 12,
+      "passage_id": "passage_1086aff6ffd39f12bc0b3d747dc38d2bbdcd09e98ed38a4db80a637e46b6b3b0",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "heading_path": [
+        "Comparison to the source material"
+      ],
+      "normalized_text": "Although the film runs for another approximately 20 minutes after the climactic downfall of Barad-dûr, many subsequent events from the book are omitted or altered in the film. Aragorn's coronation takes place in form of a great ceremony in the Citadel of Minas Tirith, opposed to the book, where Aragorn is crowned in his tent on the Pelennor Fields before entering the city. Omitted entirely are the camp at the Field of Cormallen; Aragorn's business in Minas Tirith; Aragorn and Arwen's wedding; Galadriel and Celeborn being present at the ceremonies and their subsequent travelling along with the company; Théoden's funeral at Edoras; the complete journey back to the Shire, with stops at Rivendell and Bree; Gandalf's mention of Tom Bombadil; and the Scouring of the Shire, which was seen by the screenwriters as anticlimactic.",
+      "paragraph_ordinal": 13,
+      "passage_id": "passage_a440bb587b8d21a441fdb0759e1a4374b749aa0be70e5d2083e4200d82e78813",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "heading_path": [
+        "Comparison to the source material"
+      ],
+      "normalized_text": "The film also leaves out character epilogues described by Tolkien in The Return of the King's Appendix A:",
+      "paragraph_ordinal": 14,
+      "passage_id": "passage_a4c8841c4f5dd5dacaffc5e6952912bcf911110bf68e220d0b2de65de580e801",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "heading_path": [
+        "Comparison to the source material"
+      ],
+      "normalized_text": "Samwise Gamgee stays in the Shire when Gandalf and Frodo go to Valinor. During this time, he makes changes and additions to the Red Book of Westmarch. One of these additions, titled \"Herb Lore of The Shire\", is a section on Pipeweed, the plant Hobbits and other inhabitants of Middle Earth smoke through pipes. Sam also adds various poems to the Red Book. Shortly after this, he serves seven consecutive seven-year terms as mayor of the Shire, during which he has children with Rosie Cotton. These children take the last name \"Gardner,\" after their father's planting of the Mallorn Tree which replaced the Party Tree, destroyed during the Scouring. Sam, as a brief Ringbearer, goes to Valinor after Rosie dies. Before he departs, he gives the Red Book to Elanor, one of his daughters.",
+      "paragraph_ordinal": 15,
+      "passage_id": "passage_9681f2e6ac036dd41fd7dab1d41a3950b66946e0cf57fe41de3778f13d4634c8",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "heading_path": [
+        "Comparison to the source material"
+      ],
+      "normalized_text": "The book also expands on Aragorn's time as king of Gondor and Arnor post-reuniting, and reveals that Arwen accepts a mortal life, and dies shortly after Aragorn.",
+      "paragraph_ordinal": 16,
+      "passage_id": "passage_448901b45860182c39d9c399060fb28fe51fa350142d73ae3b60c11a399a5fd6",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "heading_path": [
+        "Comparison to the source material"
+      ],
+      "normalized_text": "Merry and Pippin also return to the Shire but, unlike Sam and Frodo, do not eventually journey to Valinor. Merry inherits his father's title, \"Master of Buckland,\" and, despite the perils he and Pippin endured, still retains his adventurous spirit. He also reviews many gifts from Éomer and Éowyn, and helps the hobbits learn more about lands beyond the Shire through scholarly articles. He returns to Rivendell multiple times. He and Pippin later spend time in Rohan together, before returning to Minas Tirith in their final days. They are buried beside Aragorn in the White City.",
+      "paragraph_ordinal": 17,
+      "passage_id": "passage_e65516e15c55b9ab8f2cbe1652726c44238355d78a3ffdf8932e3b416bf55de4",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "heading_path": [
+        "Comparison to the source material"
+      ],
+      "normalized_text": "Legolas and Gimli make and keep promises in the books to show the other important places to them after the War of the Ring: first, Gimli shows Legolas the caverns of Aglarond, which Legolas is stunned by, then they walk in Fangorn Forest. They then journey to Isengard where they bid farewell to the Fellowship before returning to their own lands. Gimli founds a Dwarven colony in the Glittering Caves; Legolas brings Silvan Elves south and dwells with them in Ithilien, which prospers. They reunite to help with the rebuilding and improving of Minas Tirith. After Aragorn's death, Legolas builds a ship and sails for Valinor, bringing Gimli with him.",
+      "paragraph_ordinal": 18,
+      "passage_id": "passage_ce3d7213709e906097927ed2c41819edb29a316127ad4860966403ca512440a9",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "heading_path": [
+        "Comparison to the source material"
+      ],
+      "normalized_text": "Lastly, following the War of the Ring and Scouring of the Shire (but prior to his leaving for Valinor), Frodo serves as Deputy Mayor of the Shire. The wound from the Witch-king's attack on Weathertop flares up annually on the anniversary of said stabbing, forcing him to resign.",
+      "paragraph_ordinal": 19,
+      "passage_id": "passage_cb4a47dcb010c197950a1f806cde608a500ca154cd37b52835eb10d122872629",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "heading_path": [
+        "Production",
+        "Design"
+      ],
+      "normalized_text": "thumb|upright=1.13|left|The Minas Tirith set was built from parts of the set of Helm's Deep, while the wide shots were of miniatures.|alt=A wide view of Minas Tirith.",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_4386c957bfa1ce26ffc4a44dbb48117b5a4b2c370089ebe11fb2179aa22ff10f",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "heading_path": [
+        "Production",
+        "Design"
+      ],
+      "normalized_text": "Jackson's Middle-earth was primarily designed by Alan Lee and John Howe, who had earlier illustrated editions of Tolkien's books. It was created by Weta Workshop, who handled all the trilogy's weapons, armour, miniatures, prosthetics, and creatures; the Art Department built the sets. Richard Taylor headed Weta, while Grant Major and Dan Hennah organised the planning and building.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_a443f336a6c33d84044f77d6e3d553c9a7fb40263d5b7ed57b29879f9c0892a4",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "heading_path": [
+        "Production",
+        "Design"
+      ],
+      "normalized_text": "The third film introduces the enormous spider Shelob. Shelob was designed in 1999, with the body based on a tunnelweb spider and the head with numerous growths selected by Peter Jackson's children from one of many sculpts. Jackson himself took great joy in planning the sequence, being an arachnophobe himself. Shelob's Lair was inspired by sandstone and sculpted from the existing Caverns of Isengard set.",
+      "paragraph_ordinal": 6,
+      "passage_id": "passage_95aeb207783e8433ba980e2f4a757a57ca67969c9b5cd71c978fc6000c6890a9",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "heading_path": [
+        "Production",
+        "Design"
+      ],
+      "normalized_text": "The Return of the King also brings into focus the Dead Men of Dunharrow and the evil Haradrim from the south of Middle-earth, men who ride the mûmakil. The Dead Men have a Celtic influence, as well as lines and symmetry to reflect their morbid state, while their underground city is influenced by Petra. The Haradrim were highly influenced by African culture, until Philippa Boyens expressed concern over the possibility of offensiveness, so the finished characters instead bear influence from Kiribati, in terms of weaving armour from bamboo, and the Aztecs, in use of jewellery. Also built was a single dead mûmak. Other minor cultures include the Corsairs, with an exotic, swarthy look, and the Grey Havens, Elven structures adapted to stone, with influence from J. M. W. Turner paintings.",
+      "paragraph_ordinal": 7,
+      "passage_id": "passage_6ed9866efe8a54dc524455b7e81c7e231f0a5ea5da648d0e19449c4a23ee5876",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "heading_path": [
+        "Production",
+        "Principal photography"
+      ],
+      "normalized_text": "Scenes shot in June were the Paths of the Dead across various locations, including Pūtangirua Pinnacles. In July the crew shot some Shelob scenes, and in August and September time was spent on the scenes in Isengard. Monaghan and Boyd tried numerous takes of their entrance, stressing the word \"weed\" as they smoked pipe-weed. Christopher Lee spent his part of his scene mostly alone, though McKellen and Hill arrived on the first day for a few lines to help.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_aa4dbc10e2929139b944f48af0edff12dfa9fae0e3ca4c21d5ad9c7b3c03515b",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "heading_path": [
+        "Production",
+        "Pick-ups"
+      ],
+      "normalized_text": "The 2003 pick-ups were filmed in the Wellington studio car park, with many parts of sets and blue-screens used to finish off scenes, which the design team had to work 24 hours to get the right sets ready for a particular day. The shoot continued for two months, and became an emotional time of farewells for the cast and crew. The film has the most extensive list of re-shoots given for the trilogy. Jackson took his time to re-shoot Aragorn's coronation, rushed into a single day under the supervision of second unit director Geoff Murphy on 21 December 2000. Jackson also re-shot scenes in and around Mount Doom, and Théoden's death, right after Bernard Hill was meant to wrap.",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_5dad3b4fcc0f041352082d8eab049f07a89462d45ddf6dc58c8beec8551505c4",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "heading_path": [
+        "Production",
+        "Pick-ups"
+      ],
+      "normalized_text": "There was also the new character of Gothmog. This was a major new design addition for the film, as Jackson felt the Mordor Orcs were \"pathetic\" compared to the Uruk-hai of the second film after watching assembly cuts, and thus Weta Workshop created grotesque new \"über Orcs\" as antagonists for the audience to focus on. Rivers redesigned the Witch-king; all his scenes were re-shot, because of confusion from non-readers over whether or not Sauron was on the battlefield.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_4f5b5457f9e13f802fea9bf91f847f1c9476869e9e5cca8f0439018b341873ba",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "heading_path": [
+        "Production",
+        "Visual effects"
+      ],
+      "normalized_text": "For the battle, they recorded 450 motions for the MASSIVE digital horses (though deaths were animated), and also had to deal with late additions in the film, such as Trolls bursting through Minas Tirith's gates as well as the creatures that pull Grond to the gate, and redoing a shot of two mûmakil Éomer takes down that had originally taken six months in two days. On a similar note of digital creatures, Shelob's head sculpture was scanned by a Canadian company for 10 times more detail than Weta had previously been able to capture.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_9629be0975284d1643736c67ed44c0f0af53d7a94d034cb7fd7e1d1b66158b26",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "heading_path": [
+        "Production",
+        "Visual effects"
+      ],
+      "normalized_text": "Like the previous films, there are also extensive morphs between digital doubles for the actors. This time, there was Sam falling off Shelob, where the morph takes place as Astin hits the ground. Legolas attacking a mûmak required numerous transitions to and fro, and Gollum's shots of him having recovered the One Ring and falling into the Crack of Doom were fully animated. For the latter scene, as well as the scene in which Mount Doom erupts and Frodo and Sam escape from the volcano, the help of the company Next Limit Technologies and their software RealFlow was required to simulate the lava. The King of the Dead is played by an actor in prosthetics, and his head occasionally morphs to a more skull-like digital version, depending on the character's mood. The Mouth of Sauron also had his mouth enlarged 200% for unsettling effect.",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_07f5b61005c1af3c8e4620ce0e04b46faff08f53ce8e8242a417a4a89fce976d",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "heading_path": [
+        "Production",
+        "Visual effects"
+      ],
+      "normalized_text": "The Return of the King also has practical effects. In the Pyre of Denethor sequence, as the Steward of Gondor throws Pippin out of the Tomb, John Noble threw a size double named Fon onto a prostrate Billy Boyd, who immediately pushed his head into camera to complete the illusion. A few burning torches were also reflected off a plate of glass and into the camera for when Gandalf's horse Shadowfax kicks Denethor onto the pyre. Because of Jackson's requirement for complete representation of his fantasy world, numerous miniatures were built, such as 1:72 scale miniature of Minas Tirith, which rises 7m high and is 6.5m in diameter. 1:14 scale sections of the city were also required, and the Extended Edition scene of the collapsing City of the Dead has 80,000 small skulls, amounting in total to a single cubic meter. The miniatures team concluded in November with the Black Gate, after 1000 days of shooting, and the final digital effects shot done was the Ring's destruction, on 25 November.",
+      "paragraph_ordinal": 5,
+      "passage_id": "passage_39e25101dac1c2ec0907848e150f372d7709edca93c12742d7b825e6ddfc1b43",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "heading_path": [
+        "Production",
+        "Score"
+      ],
+      "normalized_text": "Actors Billy Boyd, Viggo Mortensen and Liv Tyler also contributed to the film's music. Boyd sings on screen as Faramir charges towards Osgiliath, Mortensen sings on screen as he is crowned King, and in the Extended Edition Tyler sings as Aragorn heals Éowyn. Renée Fleming, Ben Del Maestro, Sissel Kyrkjebø and James Galway contribute to the soundtrack as featured soloists. Fleming sings as Arwen has a vision of her son, and when Gollum recovers the One Ring. Del Maestro sings when Gandalf lights his staff to save fleeing Gondorian soldiers from Osgiliath as the Nazgûl attack and as the eagles arrive at the Black Gates. Galway plays the flute and whistle as Frodo and Sam climb Mount Doom and as they return to the shire. Sissel sings \"Asea Aranion\", which was originally meant to score the Houses of Healing scene. The end title song, \"Into the West\", was composed by Shore with lyrics by Fran Walsh. Annie Lennox (formerly of Eurythmics) performed it and also received songwriting credit. The song was partially inspired by the premature death from cancer of a young New Zealand filmmaker named Cameron Duncan who had befriended Peter Jackson.",
+      "paragraph_ordinal": 5,
+      "passage_id": "passage_55bb2f77f6ba3492f0e6eb7e2191e75150198ff7794275ca80515645e0b0d11e",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "heading_path": [
+        "Release",
+        "Home media"
+      ],
+      "normalized_text": "A collectors' box set was also released, which included the Extended Set plus a sculpture of Minas Tirith and a bonus 50-minute music documentary DVD, Howard Shore: Creating The Lord of the Rings Symphony: A Composer's Journey Through Middle-earth. The DVD has a DTS-ES soundtrack. The DVD also features two humorous Easter Eggs, one where Dominic Monaghan plays a German interviewer with Elijah Wood via satellite and another where Vince Vaughn and Ben Stiller attempt to convince Jackson to make a sequel, originally shown at the 2004 MTV Movie Awards. Both can be accessed via a Ring icon on the last page of both Disc 1 and 2's scene indexes. In August 2006, a Limited Edition of The Return of the King was released. This Limited Edition contains two discs; the first is a two-sided DVD containing both the Theatrical and Extended editions of the film. The second disc is a bonus disc that contains a new behind-the-scenes documentary.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_20ba04bddd7ae59160fbadb6390d1c956d9649c6191bc853ef128b659de76155",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "heading_path": [
+        "Reception",
+        "Box office"
+      ],
+      "normalized_text": "Following subsequent reissues, the film has grossed $387 million in the United States and Canada and $761 million in the rest of the world for a worldwide total of $1.148 billion.",
+      "paragraph_ordinal": 5,
+      "passage_id": "passage_ebacc5d95e71c3a0f134f1d00340a8f499e7980375793148acb08f6f48e79881",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=The_Lord_of_the_Rings%3A_The_Return_of_the_King&action=history",
+  "namespace": 0,
+  "page_id": 174251,
+  "parent_revision_id": 1360460303,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1361415609",
+  "raw_wikitext": "{{Short description|2003 film by Peter Jackson}}\n{{About|the 2003 film|the book by Tolkien|The Return of the King{{!}}''The Return of the King''|other uses|The Return of the King (disambiguation)}}\n{{Use British English|date=August 2025}}\n{{Use dmy dates|date=August 2024}}\n{{Infobox film\n| name = The Lord of the Rings:<br />The Return of the King\n| image = Lord Rings Return King.jpg\n| caption = Theatrical release poster\n| director = [[Peter Jackson]]\n| screenplay = {{Plain list|\n* [[Fran Walsh]]\n* [[Philippa Boyens]]\n* Peter Jackson\n}}\n| based_on = {{Based on|''[[The Return of the King]]''|[[J. R. R. Tolkien]]}}\n| producer = {{Plain list|\n* [[Barrie M. Osborne]]\n* Fran Walsh\n* Peter Jackson\n}}\n| starring = {{Plain list|\n* [[Elijah Wood]]\n* [[Ian McKellen]]\n* [[Liv Tyler]]\n* [[Viggo Mortensen]]\n* [[Sean Astin]]\n* [[Cate Blanchett]]\n* [[John Rhys-Davies]]\n* [[Bernard Hill]]\n* [[Billy Boyd]]\n* [[Dominic Monaghan]]\n* [[Orlando Bloom]]\n* [[Hugo Weaving]]\n* [[Miranda Otto]]\n* [[David Wenham]]\n* [[Karl Urban]]\n* [[John Noble]]\n* [[Andy Serkis]]\n* [[Ian Holm]]\n}}\n| cinematography = [[Andrew Lesnie]]\n| editing = [[Jamie Selkirk]]\n| music = [[Howard Shore]]\n| production_companies = {{Plainlist|\n* [[WingNut Films]]<ref name=\"AFI\" />\n* [[New Line Cinema]]<ref name=\"AFI\">{{cite web |title=The Lord of the Rings: The Return of the King |url=https://catalog.afi.com/Catalog/moviedetails/54279 |website=[[AFI Catalog of Feature Films]] |access-date=28 December 2018 |archive-url=https://web.archive.org/web/20190512154705/https://catalog.afi.com/Catalog/moviedetails/54279 |archive-date=12 May 2019 |url-status=live}}</ref>\n}}\n| distributor = New Line Cinema<ref name=\"AFI\" />\n| released = {{Film date|df=yes|2003|12|1|[[Embassy Theatre, Wellington|Embassy Theatre]]|2003|12|17|United States|2003|12|18|New Zealand}}\n| runtime = 200 minutes<ref name=\"AFI\">{{cite web |title=The Lord of the Rings: The Return of the King |url=https://catalog.afi.com/Catalog/moviedetails/54279 |website=[[AFI Catalog of Feature Films]] |access-date=28 December 2018 |archive-url=https://web.archive.org/web/20190512154705/https://catalog.afi.com/Catalog/moviedetails/54279 |archive-date=12 May 2019 |url-status=live}}</ref><ref>{{cite web |url=https://www.bbfc.co.uk/releases/lord-rings-return-king-film |title=THE LORD OF THE RINGS – THE RETURN OF THE KING |work=[[British Board of Film Classification]] |access-date=2 May 2019|archive-url=https://web.archive.org/web/20180322120813/http://www.bbfc.co.uk/releases/lord-rings-return-king-film|archive-date=22 March 2018|url-status=dead}}</ref><!-- please don't put extended versions or other releases here; the infobox is only for the initial theatrical release -->\n| country = {{Plain list|\n* New Zealand<ref name=\"AFI\" />\n* Germany<ref>{{cite web|url=https://www2.bfi.org.uk/films-tv-people/4ce2b875284b6 |archive-url=https://web.archive.org/web/20160219074413/http://www.bfi.org.uk/films-tv-people/4ce2b875284b6 |url-status=dead |archive-date=19 February 2016 |title=The Lord of the Rings The Return of the King (2003) |publisher=BFI |date= |accessdate=1 August 2022}}</ref>\n* United States<ref name=\"AFI\" />\n}}\n| language = English\n| budget = $94 million<ref name=\"BOM\">{{cite web |url=https://www.boxofficemojo.com/title/tt0167260/ |archive-url=https://web.archive.org/web/20200517125524/https://www.boxofficemojo.com/title/tt0167260/ |title=The Lord of the Rings: The Return of the King (2003) |website=[[Box Office Mojo]] |publisher=[[IMDb]] |archive-date=17 May 2020 |access-date=26 January 2026 |url-status=live}}</ref><ref name=\"NUM\">{{cite web |url=https://www.the-numbers.com/movie/Lord-of-the-Rings-The-Return-of-the-King-The#tab=summary |title=The Lord of the Rings: The Return of the King (2003) |website=[[The Numbers (website)|The Numbers]] |publisher=Nash Information Services, LLC |access-date=20 January 2026}}</ref>\n| gross = $1.148 billion<ref name=\"BOM\" />\n}}\n'''''The Lord of the Rings: The Return of the King''''' is a 2003 [[Epic film|epic]] [[fantasy film]] directed by [[Peter Jackson]] from a screenplay he wrote with [[Fran Walsh]] and [[Philippa Boyens]]. It is based on 1955's ''[[The Return of the King]]'', the third volume of the novel ''[[The Lord of the Rings]]'' by [[J. R. R. Tolkien]]. The sequel to 2002's '' [[The Lord of the Rings: The Two Towers]]'', the film is the final <!--\"instalment\" is not a spelling error in British English-->instal<!--BE!-->ment in [[The Lord of the Rings (film series)|''The Lord of the Rings'' trilogy]]. It has an [[ensemble cast]] including [[Elijah Wood]], [[Ian McKellen]], [[Liv Tyler]], [[Viggo Mortensen]], [[Sean Astin]], [[Cate Blanchett]], [[John Rhys-Davies]], [[Bernard Hill]], [[Billy Boyd]], [[Dominic Monaghan]], [[Orlando Bloom]], [[Hugo Weaving]], [[Miranda Otto]], [[David Wenham]], [[Karl Urban]], [[John Noble]], [[Andy Serkis]], [[Ian Holm]], and [[Sean Bean]]. Continuing the plot of the previous film, [[Frodo Baggins|Frodo]] and [[Samwise Gamgee|Sam]] follow [[Gollum]] towards Mount Doom to destroy the [[One Ring]], unaware of Gollum's intentions to betray the duo to take the Ring for himself, while [[Merry Brandybuck|Merry]], [[Pippin Took|Pippin]], [[Gandalf]], [[Aragorn]], [[Legolas]], [[Gimli (Middle-earth)|Gimli]] and their allies join forces against [[Sauron]] and his legions from [[Mordor]].\n\n''The Return of the King'' was financed and distributed by American studio [[New Line Cinema]], but [[Production of The Lord of the Rings film series|filmed and edited]] entirely in Jackson's native New Zealand, [[Back-to-back film production|concurrently]] with the other two parts of the trilogy. It premiered on 1 December 2003 at the [[Embassy Theatre, Wellington|Embassy Theatre]] in [[Wellington]] and was then released on 17 December 2003 in the United States and 18 December 2003 in New Zealand. The film was acclaimed by critics and audiences, who considered it a landmark in filmmaking and the fantasy film genre, and a satisfying conclusion to the trilogy, with praise for the visual effects, performances, action sequences, direction, screenplay, musical score, costume design, emotional depth, scope, and story. It grossed $1.1 billion worldwide, becoming the [[2003 in film#Highest-grossing films|highest-grossing film of 2003]], the [[List of highest-grossing films#Highest-grossing films|second-highest-grossing film of all time]] during its run<!--This is the peak position the film attained, not the current, do NOT adjust!-->, Jackson's highest-grossing film, and the highest-grossing film ever released by New Line Cinema.<ref>{{cite web |title=All Time Worldwide Box Office |website=[[Box Office Mojo]] |url=https://www.boxofficemojo.com/alltime/world/ |archive-url=https://web.archive.org/web/20040605104640/http://www.boxofficemojo.com/alltime/world/ |archive-date=5 June 2004}}</ref>\n\nLike the previous films in the trilogy, ''The Return of the King'' is widely recognised as one of the [[List of films voted the best|greatest and most influential films ever made]]. The film [[List of accolades received by The Lord of the Rings film series#The Return of the King|received numerous accolades]]; at the [[76th Academy Awards]], it won all 11 awards for which it was nominated, including [[Academy Award for Best Picture|Best Picture]], the first fantasy film to do so and tying with 1959's ''[[Ben-Hur (1959 film)|Ben-Hur]]'' and 1997's ''[[Titanic (1997 film)|Titanic]]'' as the [[List of Academy Award records|movie with the most Academy Award wins]]. It also became the second film series whose entries have all won [[Academy Award for Best Visual Effects|Best Visual Effects]], after the [[Star Wars original trilogy|original ''Star Wars'' trilogy]].\n\n== Plot ==\n\n<!-- Per WP:FILMPLOT, plot summaries for feature films should be between 400 and 700 words. Please check the word count before making any additions. -->\nThe [[hobbit]] [[Déagol]] discovers the [[One Ring]] in a river while fishing with his cousin [[Gollum|Sméagol]]. The Ring immediately ensnares Sméagol's mind, and he kills his cousin for it. Corrupted physically and mentally, he retreats into caves below the [[Misty Mountains]] and becomes known as Gollum.\n\nCenturies later, during the [[War of the Ring]], [[Gandalf]] leads [[Aragorn]], [[Legolas]], [[Gimli (Middle-earth)|Gimli]], and King [[Théoden]] of [[Rohan (Middle-earth)|Rohan]] to [[Isengard]], where they reunite with [[Meriadoc Brandybuck|Merry]] and [[Peregrin Took|Pippin]]. Gandalf retrieves [[Saruman]]'s ''[[palantír]]'', and the group returns to [[Edoras]] to celebrate [[Battle of Helm's Deep|their victory at Helm's Deep]].{{efn|As depicted in ''[[The Lord of the Rings: The Two Towers|The Two Towers]]'' (2002)}} Pippin looks into the palantír, seeing [[Sauron]] and [[White Tree|a burning tree]]. Gandalf deduces that the enemy plans to attack [[Gondor]]'s capital [[Minas Tirith]]; he rides there with Pippin to warn Gondor's corrupt steward, [[Denethor]]. On Gandalf's instruction, Pippin triggers the lighting of [[Warning beacons of Gondor|the beacons]] to call for help from Rohan.\n\n[[Frodo Baggins|Frodo]], who carries the Ring, and [[Samwise Gamgee|Sam]] continue their journey towards [[Mordor]], unaware that Gollum, now their guide, plans to betray them and take the Ring for himself. The trio witness the [[Witch-king of Angmar]], lord of the nine [[Nazgûl]], setting off towards [[Gondor]] with his army of [[Orc (Middle-earth)|Orcs]]. Gollum frames Sam for eating food supplies and desiring the Ring; Frodo is deceived and orders Sam to go home.\n<!-- Per WP:FILMPLOT, plot summaries for feature films should be between 400 and 700 words. Please check the word count before making any additions. -->\n\nAs Théoden gathers his army, [[Elrond]] tells Aragorn that [[Arwen]] is<!--PLEASE LEAVE THIS ALONE: DESCRIPTION MUST BE SHORT, NEUTRAL, AND NOT IN-UNIVERSE--> dying, having refused to leave [[Middle-earth]]. Elrond gives Aragorn [[Andúril]], reforged from the shards of King [[Elendil]]'s sword [[Narsil]], and urges him to claim Gondor's throne, to which he is heir. Aragorn travels the [[Paths of the Dead]] with Legolas and Gimli and pledges to release the ghosts there from their curse should they come to Gondor's aid.\n\nGollum tricks Frodo into the giant spider [[Shelob]]'s lair alone. Frodo narrowly escapes and confronts Gollum, who falls down a chasm after a scuffle. Shelob discovers, paralyses, and binds Frodo but is wounded and driven away by a returning Sam. Sam mourns Frodo's apparent death and takes the Ring to finish the quest himself, but then realises his mistake when Orcs take Frodo captive. He rescues Frodo within Mordor, and the two continue towards [[Mount Doom]].\n\n[[Denethor]] sends his younger son, [[Faramir]], on a [[suicide charge]]. Faramir returns gravely wounded; believing him dead, Denethor falls into madness. Gandalf marshals the defenders, but the enormous [[Orc]] army breaks into the city. Denethor attempts to [[Burning alive|burn himself]] and Faramir on a [[pyre]], but Pippin alerts Gandalf, and they rescue Faramir; Denethor, set ablaze, jumps to his death.\n\nThéoden arrives and leads his army against the Orcs. Despite initial success in the [[Battle of the Pelennor Fields|ensuing battle]], they are repulsed by the [[Oliphaunt]]-riding [[Haradrim]], and the [[Witch-king of Angmar]] mortally wounds Théoden; his niece [[Éowyn]], disguised in male clothing, slays the Witch-king with Merry's help, before Théoden dies in her arms. Aragorn arrives with his Army of the Dead, who overcome Sauron's forces. Their oath fulfilled, the Dead are released from their curse.\n\nAragorn marches on Mordor to distract Sauron from Frodo and Sam's journey to [[Mount Doom]], drawing all remaining forces to [[Battle of the Morannon|confront him]]. Gollum, having survived his fall, pursues Frodo and Sam, but Sam holds him back as Frodo enters the mountain. Frodo succumbs to the Ring's power and puts it on, but Gollum bites off his finger and reclaims the Ring, leading to a struggle before they tumble off the ledge. Sam saves Frodo while Gollum falls into the lava with the Ring, destroying it and Sauron forever. The lands of Mordor collapse, annihilating the Orc army. Frodo and Sam narrowly escape the erupting Mount Doom, before Gandalf and the [[Eagles (Middle-earth)|eagles]] rescue them.\n\nThe surviving Fellowship members reunite in [[Minas Tirith]]. Aragorn is crowned King of Gondor and marries Arwen; everyone bows to the hobbits. The hobbits return to the Shire, where Sam marries [[Rosie Cotton]]. Four years later, Frodo, still suffering from trauma and a wound inflicted by the Witch-king,{{efn|As depicted in ''[[The Lord of the Rings: The Fellowship of the Ring|The Fellowship of the Ring]]'' (2001)}} leaves Middle-earth for the [[Undying Lands]] with [[Bilbo Baggins|Bilbo]], Gandalf, and the remaining Elves. He gives Sam the ''[[Red Book of Westmarch]]'', detailing their adventures, bids farewell to Sam, Merry, and Pippin, and departs. A saddened Sam then returns home where he is comforted by his wife and two children.\n\n== Cast ==\n\n{{Further-text|[[Cast of The Lord of the Rings film trilogy|Cast of ''The Lord of the Rings'' film series]]}}\n\nLike the preceding films in the trilogy, ''The Return of the King'' has an [[ensemble cast]],<ref>{{cite news |agency=Associated Press |title=With Tolkien's Help, a Holiday Record for Films |url=https://www.nytimes.com/2003/12/29/movies/29BOFF.html?ex=1220932800&en=93d0c927a497bfec&ei=5070 |archive-url=https://web.archive.org/web/20130615050856/http://www.nytimes.com/2003/12/29/movies/29BOFF.html?ex=1220932800&en=93d0c927a497bfec&ei=5070 |url-status=dead |archive-date=15 June 2013 |work=The New York Times |date=29 December 2003 |access-date=7 September 2008}}</ref> and some of the cast and their respective characters include:\n\n* [[Elijah Wood]] as [[Frodo Baggins]]: A young [[hobbit]] who continues his quest to destroy the Ring, which continues to weaken and tempt him.\n* [[Viggo Mortensen]] as [[Aragorn]]: A [[Dúnedain]] ranger who must finally face his destiny as King of Gondor.\n* [[Sean Astin]] as [[Samwise Gamgee]]: Better known as Sam, Frodo's loyal hobbit gardener and companion.\n* [[Andy Serkis]] as [[Gollum|Sméagol / Gollum]]: A wretched and treacherous creature who was once one of the river-folk (an extinct race of hobbits) and now guides Frodo and Sam into Mordor while seeking the Ring. The first scenes in the film portray him in his former life as Sméagol as well as his deterioration into Gollum.\n* [[Ian McKellen]] as [[Gandalf|Gandalf the White]]: An [[Wizard (Middle-earth)|Istari wizard]] who travels to aid the Men of [[Gondor]], acting as a general at the Siege of Gondor.\n* [[John Rhys-Davies]] as [[Gimli (Middle-earth)|Gimli]]: A [[Dwarf (Middle-earth)|dwarf]] warrior and companion to Aragorn along with Legolas.\n** Rhys-Davies also voices [[Treebeard]]: the [[ent]] leader.\n* [[Orlando Bloom]] as [[Legolas]]: An elven prince of Mirkwood and skilled archer who aids Aragorn in his quest to reclaim the throne.\n* [[Billy Boyd]] as [[Pippin Took|Peregrin Took]]: Better known as Pippin, a hobbit who looks into the ''[[palantír]]'' and later becomes an esquire of Gondor.\n* [[Dominic Monaghan]] as [[Meriadoc Brandybuck]]: Better known as Merry, a cousin of Frodo's who becomes an esquire of Rohan.\n* [[Bernard Hill]] as [[Théoden]]: The King of [[Rohan (Middle-earth)|Rohan]] who, after triumphing at [[Battle of the Hornburg|Helm's Deep]], is preparing his troops for the [[Battle of the Pelennor Fields]].\n* [[Miranda Otto]] as [[Éowyn]]: Théoden's niece, who wishes to prove herself in battle and has fallen in love with Aragorn, who does not return her love. In the extended cut of the film, she finds love with Faramir when they are both residing in the Houses of Healing.\n* [[David Wenham]] as [[Faramir]]: A son of the [[Stewards of Gondor]] and head of the Gondorian Rangers defending [[Minor places in Middle-earth#O|Osgiliath]], who seeks his father's love in vain.\n* [[Karl Urban]] as [[Éomer]]: Éowyn's brother, who serves as Chief Marshal of the Riders of Rohan and heir to his uncle's throne.\n* [[Hugo Weaving]] as [[Elrond]]: The Lord of [[Rivendell]] who must convince Aragorn to take up the throne.\n* [[Liv Tyler]] as [[Arwen]]: Elrond's daughter and Aragorn's true love, who gives up her immortal life to be with Aragorn.\n* [[Cate Blanchett]] as [[Galadriel]]: The Elven-Queen of [[Lothlórien]] who is aware the time of the [[Elf (Middle-earth)|elves]] is at an end.\n* [[John Noble]] as [[Denethor]]: The corrupt Steward of Gondor and father of Boromir and Faramir, whose grief over Boromir's death and despair over Mordor's superior numbers drive him into madness during the Siege of Gondor.\n* [[Ian Holm]] as [[Bilbo Baggins]]: Frodo's elderly uncle, who has rapidly aged after giving away the Ring.\n* [[Sean Bean]] as [[Boromir]]: Faramir's older brother and a fallen companion of Aragorn, who appears in a flashback of his death at the end of ''[[The Lord of the Rings: The Fellowship of the Ring]]'' and in the extended cut when his father has a hallucination.\n* [[Marton Csokas]] as [[Celeborn|Celeborn the Wise]]: The Elven-King of [[Lothlórien]].\n* [[Lawrence Makoare]] as the [[Witch-king of Angmar]]: The lord of the [[Nazgûl]], who leads [[Mordor]]'s assault on [[Minas Tirith]].\n** Makoare also plays Gothmog: An Orc commander, who is voiced by [[Craig Parker]].<ref>{{cite web |title=Craig Parker interview by SF-Radio |publisher=Craig Parker.net |url=http://www.craig-parker.net/articles/sfradio.php |access-date=6 November 2006| archive-url=https://web.archive.org/web/20060814132240/http://craig-parker.net/articles/sfradio.php| archive-date=14 August 2006| url-status=live}}</ref>\n* [[Thomas Robins (actor)|Thomas Robins]] as [[Déagol]]: Sméagol's cousin, who is killed by Sméagol, when the former finds the One Ring in the river they are fishing in.\n\nThe Extended Edition has in addition:\n\n* [[Christopher Lee]] as [[Saruman|Saruman the White]]: An Istari wizard, formerly the head of the Istari Order and its [[White Council]], who is now trapped by Treebeard until he is killed by his own servant, [[Gríma Wormtongue|Gríma]].<ref name=\"McCarrick 2021\">{{cite web |last1=McCarrick |first1=Michael |title=Lord of the Rings: Why Saruman Doesn't Appear in Return of the King's Theatrical Cut |url=https://www.cbr.com/lord-of-the-rings-return-of-the-king-saruman-fate-explained/ |publisher=CBR |access-date=27 July 2021 |date=25 February 2021 |archive-date=27 July 2021 |archive-url=https://web.archive.org/web/20210727093939/https://www.cbr.com/lord-of-the-rings-return-of-the-king-saruman-fate-explained/ |url-status=live }}</ref>\n* [[Brad Dourif]] as [[Gríma Wormtongue]]: Saruman's [[sycophant]]ic, treacherous servant, who is shot by Legolas after stabbing his own master.<ref name=\"McCarrick 2021\"/>\n* [[Bruce Spence]] as the [[Mouth of Sauron]]: Sauron's ambassador at the [[Mordor|Black Gate]].\n\nThere are [[Cameo appearance|cameos]] from [[Peter Jackson]], [[Richard Taylor (filmmaker)|Richard Taylor]], Gino Acevedo, [[Rick Porras]] and [[Andrew Lesnie]] on the Corsair ship, although all of them but Jackson appear only in the Extended Edition. Jackson also has another unofficial cameo, as Sam's hand stepping into view when he confronts Shelob.<ref name=\"Cameras in Middle-earth\">{{cite video |title=Cameras in Middle-earth: Filming the Return of the King |medium=DVD |publisher=New Line Cinema |year=2004}}</ref> [[Sean Astin]]'s daughter played Sam and Rosie's older daughter Elanor in the last scene of the film; in the same scene, [[Sarah McLeod]]'s daughter plays their younger son. Jackson's children also cameo as Gondorian extras, while [[Christian Rivers]] played a Gondorian soldier guarding the Beacon Pippin lights, and is later seen wounded. [[Royd Tolkien]] cameos as a Ranger in [[Minor places in Middle-earth#O|Osgiliath]],<ref>{{cite news |last=Dowling |first=Stephen |title=Tolkien relative's kingly role |publisher=BBC News online |date=17 December 2003 |url=http://news.bbc.co.uk/1/hi/entertainment/film/3324387.stm |access-date=20 October 2006| archive-url=https://web.archive.org/web/20070510095228/http://news.bbc.co.uk/1/hi/entertainment/film/3324387.stm| archive-date=10 May 2007| url-status=live}}</ref> while in the Extended Edition [[Howard Shore]] appears as a celebrating soldier at Edoras. Additionally, four of the designers of [[The Lord of the Rings Strategy Battle Game]] are featured as Rohirrim at the Pelennor.<ref>{{cite web|title=Perry Miniatures|url=http://www.perry-miniatures.com/index2.html|url-status=dead|archive-url=https://web.archive.org/web/20071214191723/http://www.perry-miniatures.com/index2.html|archive-date=14 December 2007|access-date=18 June 2007}}</ref> At the end of the film, during the closing credits, each cast member gets a sketched portrait morphed with the real photograph beside their name, which were sketched by [[Alan Lee (illustrator)|Alan Lee]], an idea suggested by [[Ian McKellen]].<ref>{{cite video |people=Ian McKellen |title=Cast Commentary |medium=DVD |publisher=New Line Cinema |year=2004}}</ref>\n\n== Comparison to the source material ==\n{{further|Peter Jackson's interpretation of The Lord of the Rings|l1=Peter Jackson's interpretation of ''The Lord of the Rings''}}\n\nAs with all of Peter Jackson's film adaptions of ''The Lord of the Rings'', many events, timelines, and geographic distances are compressed or simplified. Most major events from the books are included, though some are significantly altered. Some events and details seen in the film are not found in the books.<ref name=\"Timmons 2013\">{{cite encyclopedia |last=Timmons |first=Daniel |title=Jackson, Peter |editor-last=Drout |editor-first=Michael D. C. |editor-link=Michael D. C. Drout |encyclopedia=[[The J. R. R. Tolkien Encyclopedia]] |year=2013 |orig-year=2007 |publisher=[[Routledge]] |isbn=978-0-415-86511-1 |pages=303–310}}</ref>\n\nThe film version of ''The Return of the King'' contains major scenes from the middle of Tolkien's ''The Two Towers'', such as the attack by Shelob and the ''palantír'' subplot, as Jackson realigned events of the film to fit the timeline from the book's Appendices, rather than the [[Interlacing in The Lord of the Rings|interlaced order of the main narrative]].<ref name=\"Story\">{{cite video |title=Finding the Story: Forging the Final Chapter (Special Extended Edition documentary) |medium=DVD |publisher=New Line Cinema |year=2004}}</ref> However, the plot of the second half of [[The Treason of Isengard (1954 book)|Book III]] is either completely omitted (chapter \"The Road to Isengard\") or only shown in one scene (chapter \"The Voice of Saruman\"). [[Saruman]]'s murder by [[Gríma Wormtongue|Gríma]] (seen only in the Extended Edition) is moved into the Isengard visit because of the cutting of the [[The Scouring of the Shire|Scouring of the Shire]].<ref>{{cite journal |last=Birns |first=Nicholas |author-link=Nicholas Birns |title='You Have Grown Very Much': The Scouring of the Shire and the Novelistic Aspects of The Lord of the Rings |journal=Journal of the Fantastic in the Arts |year=2012 |volume=23 |issue=1 |pages=82–101 |url=https://www.thefreelibrary.com/%22You+have+grown+very+much%22%3A+The+Scouring+of+the+Shire+and+the...-a0298173246 |jstor=24353144 |access-date=10 April 2021 |archive-date=10 April 2021 |archive-url=https://web.archive.org/web/20210410090534/https://www.thefreelibrary.com/%22You+have+grown+very+much%22:+The+Scouring+of+the+Shire+and+the...-a0298173246 |url-status=live }}</ref><ref name=\"Story\"/>\n\nThe basis of Elrond and Arwen's subplot arguing about Arwen's fate is derived from the Appendices, but it is largely extended in the film, as is Arwen and Elrond's relevance to the story.<ref name=\"Timmons 2013\"/>\n\nIn the film, overwhelming grief over Boromir's death has driven Denethor to despair, and he has given up any hope of defeating Sauron before Gandalf arrives in Minas Tirith. Thus, the muster of Gondor is absent from the film. In the book, he has already ordered the lighting of the beacons before Gandalf's arrival, while he refuses to light them in the film, and the sequence where Pippin secretly lights them was invented for the movie. The film only hints at Denethor's use of the ''palantír'' which drives him mad, whereas the book makes this explicit. The film's version of the pyre scene includes Shadowfax and is more violent than the book. Aware of the long distance between Rath Dínen and the front of the out-thrust battlement, Jackson has Denethor jump off the Citadel in addition to burning himself on the pyre, one of the earliest changes.<ref>{{cite book |last=Sibley |first=Brian |author-link=Brian Sibley |title=Peter Jackson: A Film-maker's Journey |publisher=[[HarperCollins]] |year=2006 |location=London |page=345 |isbn=0-00-717558-2}}</ref>\n\nThe muster of Rohan, and the subplot in which the Rohirrim are aided by the primitive [[Drúedain]] during their journey to the besieged Gondor are excised from the film. The [[Red Arrow (Middle-earth)|Red Arrow]] brought by a messenger from Gondor to ask for Rohan's aid is absent. Éowyn's presence on the battlefield is unknown to the reader until she takes off her helmet, but in the film the audience is aware, as it would have been difficult to disguise [[Miranda Otto]] during extended battle sequences.<ref name=\"Director's commentary\">{{cite video |people=Peter Jackson, Fran Walsh and Philippa Boyens |title=Director/Writers' Special Extended Edition commentary |medium=DVD |publisher=New Line Cinema |year=2004}}</ref> When hope seems lost, Gandalf comforts Pippin by telling him of the Undying Lands, based on a descriptive passage in the book's final chapter.<ref name=\"Story\"/>\n\nThe film alters the circumstances of Théoden's death; his death speech, in which he names Éomer the new king in the book, is trimmed and delivered to Éowyn instead of Merry, with an earlier scene in the Extended Edition implying that Éomer is next in line for the throne. Théoden's rallying speech (\"To death!\") before the initial charge in the film is spoken by Éomer in the book when he believes that both Théoden and Éowyn have been killed in combat with the Witch King.<ref name=\"Story\"/>\n\nThe Extended Edition presents shortened scenes from the book's chapters in the [[Minas Tirith#Houses of Healing|Houses of Healing]]: The Warden, the talk of [[Athelas]], the comical conversation with the herb-master, the woman [[Women in The Lord of the Rings#Other female characters|Ioreth]] and her saying about a King's healing hands and the subsequent realising of Aragorn's true identity are left out altogether. The romance that develops between Éowyn and Faramir during their recoveries in the Houses of Healing is largely cut, presumably to keep the focus on Aragorn and Arwen; the subplot is briefly referenced in the Extended Edition, with a scene where the two hold hands.<ref name=\"Story\"/>\n\nGollum's fall into the lava of Mount Doom was rewritten for the film, as the writers felt that simply having Gollum slip and fall was anticlimactic. Originally, an even greater deviation was planned: Frodo would heroically push Gollum over the ledge to destroy him and the Ring, but the production team realised that that would make it look as if Frodo was murdering Gollum. Instead, they had Frodo and Gollum struggle for possession of the Ring.<ref name=\"Story\"/>\n\n[[File:Dark Lord Sauron.jpg|thumb|upright=0.81|Statue of Sauron from ''The Lord of the Rings'' movies]]\n\nIn addition to the absent footage from the film are the other major attacks by Sauron on various regions of Middle-earth, referenced only briefly in the main text of ''The Return of the King'',<ref name=\"Story\"/> and expanded upon in the Appendices; the invasion of Rohan by the Orcs of [[Moria (Middle-earth)|Moria]], the attacks on Lothlórien and the [[Mirkwood|Woodland Realm]] of [[Thranduil]] by the forces of [[Dol Guldur]], and the attack on Dale and the [[Lonely Mountain]] by a force of [[Easterling (Middle-earth)|Easterlings]], events hinted at in a comment by Legolas in the book.<ref name=\"Story\"/>\n\nThere are several changes in the Battle of the Black Gate: Merry is not present there in the book, Pippin does not kill a troll as he does in the novel (instead, Aragorn fights one), the eagles fight and defeat some of the mounted Nazgûl, and Aragorn kills the [[Mouth of Sauron]] in the extended edition of the film but not in the book.<ref name=\"Story\"/>\n\nAlthough the film runs for another approximately 20 minutes after the climactic downfall of Barad-dûr, many subsequent events from the book are omitted or altered in the film. Aragorn's coronation takes place in form of a great ceremony in the Citadel of Minas Tirith, opposed to the book, where Aragorn is crowned in his tent on the Pelennor Fields before entering the city. Omitted entirely are the camp at the [[Field of Cormallen]]; Aragorn's business in Minas Tirith; Aragorn and Arwen's wedding; [[Galadriel]] and [[Celeborn]] being present at the ceremonies and their subsequent travelling along with the company; Théoden's funeral at Edoras; the complete journey back to the [[Shire (Middle-earth)|Shire]], with stops at Rivendell and Bree; Gandalf's mention of [[Tom Bombadil]]; and the [[Scouring of the Shire]], which was seen by the screenwriters as anticlimactic.<ref name=\"Story\"/>\n\nThe film also leaves out character epilogues described by Tolkien in ''The Return of the King'''s Appendix A:\n\nSamwise Gamgee stays in the Shire when Gandalf and Frodo go to Valinor. During this time, he makes changes and additions to the ''Red Book of Westmarch''. One of these additions, titled \"Herb Lore of The Shire\", is a section on Pipeweed, the plant Hobbits and other inhabitants of Middle Earth smoke through pipes. Sam also adds various poems to the Red Book. Shortly after this, he serves seven consecutive seven-year terms as mayor of the Shire, during which he has children with Rosie Cotton. These children take the last name \"Gardner,\" after their father's planting of the Mallorn Tree which replaced the Party Tree,  destroyed during the Scouring. Sam, as a brief Ringbearer, goes to Valinor after Rosie dies. Before he departs, he gives the Red Book to Elanor, one of his daughters.\n\nThe book also expands on Aragorn's time as king of Gondor and [[Arnor (Middle-earth)|Arnor]] post-reuniting, and reveals that Arwen accepts a mortal life, and dies shortly after Aragorn.\n\nMerry and Pippin also return to the Shire but, unlike Sam and Frodo, do not eventually journey to Valinor. Merry inherits his father's title, \"Master of Buckland,\" and, despite the perils he and Pippin endured, still retains his adventurous spirit. He also reviews many gifts from Éomer and Éowyn, and helps the hobbits learn more about lands beyond the Shire through scholarly articles. He returns to Rivendell multiple times. He and Pippin later spend time in Rohan together, before returning to Minas Tirith in their final days. They are buried beside Aragorn in the White City.\n\nLegolas and Gimli make and keep promises in the books to show the other important places to them after the War of the Ring: first, Gimli shows Legolas the caverns of Aglarond, which Legolas is stunned by, then they walk in Fangorn Forest. They then journey to Isengard where they bid farewell to the Fellowship before returning to their own lands. Gimli founds a Dwarven colony in the Glittering Caves; Legolas brings Silvan Elves south and dwells with them in [[Ithilien]], which prospers. They reunite to help with the rebuilding and improving of Minas Tirith. After Aragorn's death, Legolas builds a ship and sails for Valinor, bringing Gimli with him.\n\nLastly, following the War of the Ring and Scouring of the Shire (but prior to his leaving for Valinor), Frodo serves as Deputy Mayor of the Shire. The wound from the Witch-king's attack on Weathertop flares up annually on the anniversary of said stabbing, forcing him to resign.\n\n== Production ==\n{{Main|Production of The Lord of the Rings film series|l1=Production of ''The Lord of the Rings'' film series}}\n\nThe production of ''The Lord of the Rings'' series was the first where three separate entries were written and shot simultaneously (excluding [[Pick-up (filmmaking)|pick up shoots]]). Peter Jackson found ''The Return of the King'' the easiest of the films to make, because it contained the climax of the story.<ref>{{cite web |last=Lee |first=Alana |title=Peter Jackson on The Return of the King |publisher=BBC Films |url=https://www.bbc.co.uk/films/2003/12/09/peter_jackson_return_of_the_king_interview.shtml |access-date=20 October 2006 |url-status=live |archive-url=https://web.archive.org/web/20070304111536/http://www.bbc.co.uk/films/2003/12/09/peter_jackson_return_of_the_king_interview.shtml |archive-date=4 March 2007}}</ref> ''The Return of the King'' was originally the second of two planned films under [[Miramax|Miramax Films]] from January 1997 to August 1998,<ref>{{cite news |last=Watkin |first=Tim |title=The 'Rings' movies, a potted history |newspaper=New Zealand Herald |url=http://www.nzherald.co.nz/movies/news/article.cfm?c_id=200&objectid=232465 |date=12 August 2001 |access-date=20 October 2006| archive-url = https://web.archive.org/web/20121110153500/http://www.nzherald.co.nz/movies/news/article.cfm?c_id=200&objectid=232465| archive-date = 10 November 2012| url-status = live}}</ref> and more or less in its finished structure as the first film was to end with the Battle of Helm's Deep in ''The Two Towers''.<ref>{{cite web |title=20 Questions with Peter Jackson |publisher=Peter Jackson online transcript from Ain't It Cool News |url=http://members.tripod.com/peter_jackson_online/lotr/articles/20_questions2.htm |access-date=24 October 2006 |archive-date=5 February 2008 |archive-url=https://web.archive.org/web/20080205212145/http://members.tripod.com/peter_jackson_online/lotr/articles/20_questions2.htm |url-status=live }}</ref> Filming took place under multiple units across New Zealand, between 11 October 1999 and 22 December 2000, with pick up shoots for six weeks in 2003 before the film's release.\n\n=== Design ===\n\n[[File:ROTK-Minas-Tirith.jpg|thumb|upright=1.13|left|The Minas Tirith set was built from parts of the set of Helm's Deep, while the wide shots were of miniatures.|alt=A wide view of Minas Tirith.]]\n\nJackson's [[Middle-earth]] was primarily designed by Alan Lee and [[John Howe (illustrator)|John Howe]], who had earlier illustrated editions of Tolkien's books. It was created by [[Weta Workshop]], who handled all the trilogy's weapons, armour, miniatures, prosthetics, and creatures; the Art Department built the sets. Richard Taylor headed Weta, while [[Grant Major]] and [[Dan Hennah]] organised the planning and building.\n\nThe city of Minas Tirith, glimpsed briefly in both the previous two films, is seen fully in this film, and with it the Gondorian civilisation. The enormous soundstage was built at Dry Creek Quarry, outside [[Wellington]], from the [[Helm's Deep]] set. That set's gate became Minas Tirith's second, while the Hornburg exterior became that of the Extended Edition's scene where Gandalf confronts the Witch-king. New structures included the 8m tall Gate, with broken and unbroken versions, with a working opening and closing mechanism, with its engravings inspired by the [[Florence Baptistery#Baptistery doors|Baptistry of San Giovanni]]. There were also four levels of streets with heraldic motifs for every house, as inspired by [[Siena]].<ref name=\"Design\">{{cite video |title=Designing and Building Middle-earth (Special Extended Edition documentary) |medium=DVD |publisher=New Line Cinema |year=2004}}</ref>\n\nThe Citadel's exterior was in the Stone Street Studios backlot, using [[forced perspective]]. It contained the withered [[White Tree of Gondor|White Tree]], built from polystyrene by Brian Massey and the Greens Department with real branches, influenced by ancient and gnarled Lebanese [[olive]] trees. The interior was within a three-storey former factory in Wellington, its colours influenced by [[Palatine Chapel, Aachen|Charlemagne's Chapel]], with a throne for Denethor carved from stone, and polystyrene statues of past kings. The Gondorian armour is designed to represent an evolution from the [[Númenor|Númenóreans]] of the first film's prologue, with a simplified sea bird motif. 16th-century Italian and German armour served as inspiration,<ref name=\"Weta Workshop\">{{cite video |title=Weta Workshop (Special Extended Edition documentary) |medium=DVD |publisher=New Line Cinema |year=2004}}</ref> while civilians wear silver and blacks as designed by Ngila Dickson, continuing an ancient/medieval [[Mediterranean Basin]] look.<ref>{{cite video |people=Ngila Dickson |title=Costume Design (Special Extended Edition documentary) |medium=DVD |publisher=New Line Cinema |year=2004}}</ref>\n\nMinas Morgul, the Staircase and Tower of Cirith Ungol as well as Shelob's Lair were designed by Howe, with the Morgul road using forced perspective into a bluescreened miniature. Howe's design of Minas Morgul was inspired from the experience of having a [[wisdom tooth]] pulled out: in the same way, the Orcs have put their twisted designs on to a former Gondorian city.<ref name=\"Big-atures\">{{cite video |title=Big-atures (Special Extended Edition documentary) |medium=DVD |publisher=New Line Cinema |year=2004}}</ref> Cirith Ungol was based on Tolkien's design, but when Richard Taylor felt it as \"boring\", it was redesigned with more tipping angles.<ref name=\"Art book\">{{cite book |last=Russell |first=Gary |author-link=Gary Russell |title=The Lord of the Rings: The Art of the Return of the King |publisher=Harpercollins |year=2004 |isbn=0-00-713565-3}}</ref> The interior set, like Minas Tirith, was built as a few multiple levels that numerous camera takes would suggest a larger structure.<ref name=\"Design\"/>\n\nThe third film introduces the enormous spider Shelob. Shelob was designed in 1999,<ref name=\"Art book\"/> with the body based on a [[Porrhothele antipodiana|tunnelweb spider]] and the head with numerous growths selected by Peter Jackson's children from one of many sculpts. Jackson himself took great joy in planning the sequence, being an [[Arachnophobia|arachnophobe]] himself.<ref name=\"Weta Workshop\"/> Shelob's Lair was inspired by sandstone and sculpted from the existing Caverns of Isengard set.<ref name=\"Design\"/>\n\n''The Return of the King'' also brings into focus the Dead Men of Dunharrow and the evil Haradrim from the south of Middle-earth, men who ride the ''mûmakil''. The Dead Men have a Celtic influence, as well as lines and symmetry to reflect their morbid state,<ref name=\"Design\"/> while their underground city is influenced by [[Petra]].<ref name=\"Big-atures\"/> The Haradrim were highly influenced by African culture, until Philippa Boyens expressed concern over the possibility of offensiveness, so the finished characters instead bear influence from [[Kiribati]], in terms of weaving armour from bamboo, and the Aztecs, in use of jewellery. Also built was a single dead ''mûmak''.<ref name=\"Weta Workshop\"/> Other minor cultures include the Corsairs, with an exotic, swarthy look, and the Grey Havens, Elven structures adapted to stone, with influence from [[J. M. W. Turner]] paintings.<ref name=\"Art book\"/>\n\n=== Principal photography ===\n''The Return of the King'' was shot during 2000, though Astin's coverage from Gollum's attempt to separate Frodo and Sam was filmed on 24 November 1999, when floods in [[Queenstown, New Zealand|Queenstown]] interrupted the focus on ''The Fellowship of the Ring''.<ref name=\"Cameras in Middle-earth\"/> Some of the earliest scenes shot for the film were in fact shot last. [[Shire (Middle-earth)#Westfarthing|Hobbiton]], home of the Hobbits, was shot in January 2000 with early scenes from ''The Fellowship of the Ring'', with the exterior shot at a [[Matamata]] farm, while interior scenes were shot at Stone Street Studios in Wellington,<ref>{{cite video |title=Cameras in Middle-earth: Filming the Fellowship of the Ring |medium=DVD |publisher=New Line Cinema |year=2002}}</ref> shared with the Grey Havens sequence. Due to the high emotions of filming the scene, the cast were in despair when they were required to shoot it three times, due to a continuity flaw in Astin's costume, and then negatives producing out-of-focus reels.<ref name=\"Cameras in Middle-earth\"/> Also shared with the previous films was the Rivendell interior in May.\n\nThe Battle of the Black Gate was filmed in April<ref name=\"Year of Filming\">{{cite web |last=Tehanu |title=One Year of Principal Photography |publisher=The One Ring.net |date=11 October 2000 |url=http://www.theonering.net/features/exclusives/oneyear_page03.html |access-date=22 October 2006 |url-status=live |archive-url=https://web.archive.org/web/20060912120101/http://www.theonering.net/features/exclusives/oneyear_page03.html |archive-date=12 September 2006}}</ref> at the [[Rangipo Desert]], a former minefield.<ref>{{cite web |author=Samantha Sofka |url=https://archive.nerdist.com/peter-jackson-filmed-part-of-return-of-the-king-on-a-mine-field/ |title=Peter Jackson Filmed Part of RETURN OF THE KING on a Mine Field |website=nerdist.com |date=15 March 2015 |access-date=23 March 2016 |url-status=live |archive-url=https://web.archive.org/web/20151022144559/http://nerdist.com/peter-jackson-filmed-part-of-return-of-the-king-on-a-mine-field/ |archive-date=22 October 2015}}</ref><ref>{{cite web |url=https://www.imdb.com/title/tt0167260/locations |title=The Lord of the Rings: The Return of the King (2003) Filming Locations |website=imdb.com |access-date=23 March 2016 |url-status=live |archive-url=https://web.archive.org/web/20160115175233/http://www.imdb.com/title/tt0167260/locations |archive-date=15 January 2016}}</ref> New Zealand soldiers were hired as extras while guides were on the lookout for unexploded mines. Also a cause for concern were Monaghan and Boyd's scale doubles during a charge sequence. In the meantime, Wood, Astin and Serkis filmed at [[Mount Ruapehu]] for the Mount Doom exteriors. In particular, they spent two hours shooting Sam lifting Frodo on to his back with cross-[[camera coverage]].<ref name=\"Cameras in Middle-earth\"/>\n\nScenes shot in June were the Paths of the Dead across various locations, including [[Pūtangirua Pinnacles]].<ref name=\"Year of Filming\"/> In July the crew shot some Shelob scenes, and in August and September time was spent on the scenes in Isengard. Monaghan and Boyd tried numerous takes of their entrance, stressing the word \"weed\" as they smoked [[List of Middle-earth plants#Pipe-weed|pipe-weed]]. Christopher Lee spent his part of his scene mostly alone, though McKellen and Hill arrived on the first day for a few lines to help.<ref name=\"Cameras in Middle-earth\"/>\n\nEdoras exteriors were shot in October. The Ride of the Rohirrim, where Théoden leads the charge into the Orc army, was filmed in [[Twizel]] with 150 extras on horseback. The Battle of the Pelennor Fields has more extensive use of [[computer-generated imagery]], in contrast to the more extensive use of live action in the [[Battle of the Hornburg|Battle of Helm's Deep]] in the second film. Also filmed were the attempts by Faramir to recapture [[Osgiliath]],<ref>{{cite video |title=Home of the Horse Lords |medium=DVD |publisher=New Line Cinema |year=2004}}</ref> as were scenes in the city itself.<ref>{{cite web |last=Davidson |first=Paul |title=A Slew of The Lord of the Rings news |website=IGN |date=14 November 2000 |url=http://uk.movies.ign.com/articles/034/034276p1.html |access-date=24 October 2006 |url-status=dead |archive-url=https://web.archive.org/web/20110831202506/http://uk.movies.ign.com/articles/034/034276p1.html |archive-date=31 August 2011}}</ref> At this point production was very hectic, with Jackson moving around ten units per day, and production finally wrapped on the Minas Tirith sets, as well as second units shooting parts of the siege. Just as the Hobbit actors' first scene was hiding from a Ringwraith under a tree, their last scene was the [[Chroma key|bluescreened]] reaction shot of the inhabitants of Minas Tirith bowing to them.<ref name=\"Cameras in Middle-earth\"/>\n\n=== Pick-ups ===\nThe 2003 pick-ups were filmed in the Wellington studio car park, with many parts of sets and blue-screens used to finish off scenes, which the design team had to work 24 hours to get the right sets ready for a particular day.<ref name=\"Design\"/> The shoot continued for two months, and became an emotional time of farewells for the cast and crew. The film has the most extensive list of re-shoots given for the trilogy. Jackson took his time to re-shoot Aragorn's coronation, rushed into a single day under the supervision of second unit director [[Geoff Murphy]] on 21 December 2000. Jackson also re-shot scenes in and around Mount Doom,<ref name=\"Cameras in Middle-earth\"/> and Théoden's death, right after Bernard Hill was meant to wrap.<ref name=\"Director's commentary\"/>\n\nThere was also the new character of Gothmog. This was a major new design addition for the film, as Jackson felt the Mordor Orcs were \"pathetic\" compared to the [[Uruk-hai]] of the second film after watching assembly cuts, and thus Weta Workshop created grotesque new \"über Orcs\" as antagonists for the audience to focus on. Rivers redesigned the Witch-king; all his scenes were re-shot, because of confusion from non-readers over whether or not Sauron was on the battlefield.<ref name=\"Weta Workshop\"/>\n\nWith the positive response to Bloom, Legolas was given a fight with a ''mûmak'',<ref name=\"Pick-up end\">{{cite web |last=Davidson |first=Paul |title=A new ''Return of the King'' poster |website=IGN |date=27 June 2003 |url=http://uk.movies.ign.com/articles/426/426327p1.html |access-date=21 October 2006 |url-status=dead |archive-url=https://web.archive.org/web/20120118234017/http://uk.movies.ign.com/articles/426/426327p1.html |archive-date=18 January 2012}}</ref> and Shore appeared in a cameo during Legolas and Gimli's drinking game at Edoras.<ref name=\"Music\">{{cite video |title=Music for Middle-earth |medium=DVD |publisher=New Line Cinema |year=2004}}</ref> The final scenes shot were Aragorn escaping the Skull avalanche, and Frodo finishing his book. The cast also received various props associated with their characters, although [[John Rhys-Davies]] burned his final Gimli prosthetic. [[Viggo Mortensen]] [[headbutt]]ed the stunt team goodbye.<ref name=\"Cameras in Middle-earth\"/> Pick-ups ended on 27 June 2003.<ref name=\"Pick-up end\"/>\n\nScenes shot afterwards included various live-action shots of Riders for the Battle of the Pelennor Fields and a reaction shot of Serkis as Gollum finally realises Frodo intends to destroy the Ring, shot in Jackson's house.<ref name=\"Edit\">{{cite video |title=Editorial: Completing the Trilogy (Special Extended Edition documentary) |medium=DVD |publisher=New Line Cinema |year=2004}}</ref> For the Extended DVD, in March 2004 Jackson created a few shots of skulls rolling over for the avalanche scene; this was the final piece of footage ever shot for the trilogy, and Jackson noted that it must be the first time a director had shot scenes for a film after it had already won the Oscar.<ref name=\"Passing of an Age\">{{cite video |title=The Passing of an Age (Special Extended Edition documentary) |medium=DVD |publisher=New Line Cinema |year=2004}}</ref>\n\n=== Editing ===\n[[Post-production]] began in November 2002, with the completion of the 4½ hour assembly cut of the film that [[Annie Collins]] had been completing over 2001 and 2002, from 4-hour dailies. For example, Théoden leading the charge went from 150 minutes of takes to a finished 90 seconds.<ref>{{cite book |last=Sibley |first=Brian |author-link=Brian Sibley |title=The Lord of the Rings: The Making of the Movie Trilogy |publisher=Harpercollins |year=2002 |isbn=0-00-713567-X |page=158 |no-pp=true}}</ref> Jackson reunited with longtime collaborator [[Jamie Selkirk]] to edit the final film. Like ''The Two Towers'', they would have to deal with multiple storylines, and Jackson paid attention to each storyline at a time before deciding where to intercut. Most importantly they spent three weeks working on the last 45 minutes of the film,<ref name=\"Edit\"/> for appropriate intercutting and leaving out scenes such as the Mouth of Sauron, and the fates of characters like Legolas, Gimli, Éowyn and Faramir.<ref name=\"Story\"/> The film inherited scenes originally planned to go into the second film, including the reforging of [[List of Middle-earth weapons and armour#Narsil|Narsil]], Gollum's backstory, and Saruman's exit. But the Saruman scene posed a structural problem: killing off the second film's villain when the plot has Sauron as the main villain.<ref name=\"Edit\"/> Despite pick-ups and dubs, the scene was cut, causing controversy with fans and Saruman actor Christopher Lee, as well as a petition to restore the scene.<ref>{{cite news |title=Rings director cuts wizard scenes |publisher=BBC News online |date=12 November 2003 |url=http://news.bbc.co.uk/1/hi/entertainment/film/3265475.stm |access-date=17 October 2006 |url-status=live |archive-url=https://web.archive.org/web/20060317114116/http://news.bbc.co.uk/1/hi/entertainment/film/3265475.stm |archive-date=17 March 2006}}</ref> Lee nonetheless contributed to the DVDs and was at the [[Copenhagen]] premiere, although he said he would never understand the reason for the cut and his relationship with Jackson was chilly.<ref>{{cite news|last=Wootton|first=Dan|date=30 April 2006|title=I will never forgive Jackson, says LOTR actor|newspaper=New Zealand Herald|url=http://www.nzherald.co.nz/feature/story.cfm?c_id=594&ObjectID=10379594|url-status=dead|access-date=17 October 2006|archive-url=https://web.archive.org/web/20070930012208/http://www.nzherald.co.nz/feature/story.cfm?c_id=594&ObjectID=10379594|archive-date=30 September 2007}}</ref> They would, however, later reconcile upon Lee's casting in Jackson's ''Hobbit'' films. Jackson only had a lock on 5 out of 10 reels, and had to churn out 3 reels in 3 weeks to help finish the film. It was finally completed on 12 November 2003.<ref name=\"End of all Things\">{{cite video |title=The End of All Things (Special Extended Edition documentary) |medium=DVD |publisher=New Line Cinema |year=2004}}</ref> Jackson never had a chance to view the film in full due to the hectic schedule, and only saw the film from beginning to end on 1 December at the Wellington premiere; according to [[Elijah Wood]], his response was \"yup, it's good, pretty good\".<ref name=\"Passing of an Age\"/>\n\n=== Visual effects ===\n{{Main|Special effects of The Lord of the Rings film series|l1=Special effects of ''The Lord of the Rings'' film series}}\n\n''The Return of the King'' contains 1,489 visual effect shots, nearly three times the number from the first film and almost twice that of the second. As with the two previous films, [[Jim Rygiel]] served as the visual effects supervisor. Visual effects work began with [[Alan Lee (illustrator)|Alan Lee]] and Mark Lewis compositing various photographs of New Zealand landscape to create the digital arena of the [[Minas Tirith#Pelennor Fields|Pelennor Fields]] in November 2002. Jackson and Rivers used computers to plan the enormous battle up until February 2003, when the shots were shown to Weta Digital. To their astonishment, 60 planned shots had gone up to 250, and 50,000 characters were now 200,000.<ref name=\"Weta Digital\">{{cite video |title=Weta Digital (Special Extended Edition documentary) |medium=DVD |publisher=New Line Cinema |year=2004}}</ref> Nevertheless, they pressed on, soon delivering 100 shots a week, 20 a day, and as the deadline neared within the last two months, often working until 2&nbsp;am.<ref name=\"End of all Things\"/>\n\nFor the battle, they recorded 450 motions for the [[MASSIVE (software)|MASSIVE]] digital horses (though deaths were animated), and also had to deal with late additions in the film, such as Trolls bursting through Minas Tirith's gates as well as the creatures that pull Grond to the gate,<ref name=\"Weta Workshop\"/> and redoing a shot of two ''mûmakil'' Éomer takes down that had originally taken six months in two days. On a similar note of digital creatures, Shelob's head sculpture was scanned by a Canadian company for 10 times more detail than Weta had previously been able to capture.<ref name=\"Weta Digital\"/>\n\nLike the previous films, there are also extensive morphs between digital doubles for the actors. This time, there was Sam falling off Shelob, where the morph takes place as Astin hits the ground. Legolas attacking a ''mûmak'' required numerous transitions to and fro, and Gollum's shots of him having recovered the One Ring and falling into the Crack of Doom were fully animated.<ref name=\"Weta Digital\"/> For the latter scene, as well as the scene in which Mount Doom erupts and Frodo and Sam escape from the volcano, the help of the company [[Next Limit Technologies]] and their software [[RealFlow]] was required to simulate the [[lava]]. The King of the Dead is played by an actor in prosthetics, and his head occasionally morphs to a more skull-like digital version, depending on the character's mood. The Mouth of Sauron also had his mouth enlarged 200% for unsettling effect.<ref name=\"Design\"/>\n\n''The Return of the King'' also has practical effects. In the Pyre of Denethor sequence, as the Steward of Gondor throws Pippin out of the Tomb, [[John Noble]] threw a [[Special effects of The Lord of the Rings film series#Size Doubles|size double]] named Fon onto a prostrate [[Billy Boyd]], who immediately pushed his head into camera to complete the illusion. A few burning torches were also reflected off a plate of glass and into the camera for when Gandalf's horse Shadowfax kicks Denethor onto the pyre. Because of Jackson's requirement for complete representation of his fantasy world, numerous miniatures were built, such as 1:72 scale miniature of Minas Tirith, which rises 7m high and is 6.5m in [[diameter]]. 1:14 scale sections of the city were also required, and the Extended Edition scene of the collapsing City of the Dead has 80,000 small skulls, amounting in total to a single cubic meter.<ref name=\"Big-atures\"/> The miniatures team concluded in November with the Black Gate, after 1000 days of shooting, and the final digital effects shot done was the Ring's destruction, on 25 November.<ref name=\"End of all Things\"/>\n\n=== Sound effects ===\nThe Sound department spent the early part of the year searching for the right sounds. A [[Tasmanian devil]] was used to create Shelob's shriek, which in turn gave inspiration for Weta's animators, while the ''mûmakil'' sound is the beginning and end of a lion roar. Human screams and a donkey screech were mixed into Sauron's fall and broken glass was used for the collapsing sounds. For missile trading during Minas Tirith's siege, construction workers dropped actual 2 ton stone blocks previously lifted by a construction crane. Mixing began at a new studio on 15 August, although unfinished building work caused some annoyances.<ref>{{cite video |title=The Soundscapes of Middle-earth |medium=DVD |publisher=New Line Cinema |year=2004}}</ref> The mixers finished on 15 November, after three months of non-stop work.<ref name=\"End of all Things\"/>\n\n=== Score ===\n{{further|The Lord of the Rings: The Return of the King (soundtrack)|l1=''The Lord of the Rings: The Return of the King'' (soundtrack)}}\n{{main|Music of The Lord of the Rings film series{{!}}Music of ''The Lord of the Rings'' film series}}\n\n{{listen\n| filename = IntoTheWestROTK.ogg\n| title = \"Into the West\" (performed by Annie Lennox)\n| description = Written by Fran Walsh, Howard Shore, and Annie Lennox, this selected song won the [[Academy Awards|Oscar]] for [[Academy Award for Best Original Song|Best Original Song]] at the [[76th Academy Awards]]. It also won a [[47th Grammy Awards|Grammy]] for [[Grammy Award for Best Song Written for Visual Media|Best Film Song]].\n}}\n\nThe music, as for the rest of the trilogy, was composed by Shore. He watched the assembly cut of the film,<ref name=\"Music\"/> and had to write seven minutes of music per day to keep up with the schedule.<ref name=\"End of all Things\"/> The score sees the full introduction of the Gondor theme, originally heard during Boromir's speeches at the [[The Fellowship of the Ring#Book II: The Ring Goes South|Council of Elrond]] in ''The Fellowship of the Ring'' and at Osgiliath in ''The Two Towers''{{'}} Extended Edition. Shore also used the Gondor theme with the new ascending coda (which is unique to this film) in his score for the trailer of the film.\n\nThe score features the [[London Philharmonic Orchestra]], [[London Voices]], the [[London Oratory School Schola]] and featured vocal soloists. The score is the most expansive of the three: scoring effectively the entire movie length, not including additional music written for the trailer and various alternate versions released to the public. It also uses the biggest forces in the series: sections of the score call for two sets of timpani, eight trumpets<ref>The \"fondest recollections\" of the principal fiddler, [http://www.gardinerhoulgate.co.uk/lord-of-the-strings/ Dermot Crehan] {{Webarchive|url=https://web.archive.org/web/20170426062555/http://www.gardinerhoulgate.co.uk/lord-of-the-strings/ |date=26 April 2017 }}, were from \"an eight strong trumpet session\".</ref> (and possibly a similar increase in the size of the horn, trombone and tuba section, as well), 85 singers in the mixed choir<ref>{{cite web|title=Source Songs, Poems and Text|url=http://www.amagpiesnest.com/source_songs/index_source_songs.htm#choirs|url-status=dead|archive-url=https://web.archive.org/web/20171002195136/http://www.amagpiesnest.com/source_songs/index_source_songs.htm#choirs|archive-date=2 October 2017|access-date=17 October 2017|website=www.amagpiesnest.com}}</ref> with additional players for all-male and all-female sections, over fifty in the boy choir and many instrumentalist \"bands\" playing Celtic and eastern instruments such as tin whistle or pan flute, on stage or off of it.<ref>{{cite web |url=http://www.filmmusicsociety.org/news_events/features/2014/121714.html |title=FMS FEATURE [ Howard Shore's Farewell to Middle-earth – by Jon Burlingame] |website=www.filmmusicsociety.org|access-date=17 October 2017|archive-url=https://web.archive.org/web/20160313145656/http://filmmusicsociety.org/news_events/features/2014/121714.html|archive-date=13 March 2016|url-status=live}}</ref> One piece of music required an instrument invented and crafted especially for the film: a fiddle with four pairs of strings instead of single strings.<ref>Doug Adams, [http://www.tolkiendil.com/_media/divertissements/adaptations/films/sda_3_livret_de_presentation_de_la_bo_en_anglais_.pdf The Annotated Score Part III: The Return of the King] {{Webarchive|url=https://web.archive.org/web/20170407054056/http://www.tolkiendil.com/_media/divertissements/adaptations/films/sda_3_livret_de_presentation_de_la_bo_en_anglais_.pdf |date=7 April 2017 }}, pp. 15, 50.</ref>\n\nActors Billy Boyd, Viggo Mortensen and Liv Tyler also contributed to the film's music. Boyd sings on screen as Faramir charges towards Osgiliath, Mortensen sings on screen as he is crowned King, and in the Extended Edition Tyler sings as Aragorn heals Éowyn. [[Renée Fleming]], Ben Del Maestro, [[Sissel Kyrkjebø]] and [[James Galway]] contribute to the soundtrack as featured soloists. Fleming sings as Arwen has a vision of her son, and when Gollum recovers the One Ring. Del Maestro sings when Gandalf lights his staff to save fleeing Gondorian soldiers from Osgiliath as the Nazgûl attack and as the eagles arrive at the Black Gates. Galway plays the flute and whistle as Frodo and Sam climb Mount Doom and as they return to the shire. Sissel sings \"Asea Aranion\", which was originally meant to score the Houses of Healing scene. The end title song, \"[[Into the West (song)|Into the West]]\", was composed by Shore with lyrics by Fran Walsh. [[Annie Lennox]] (formerly of [[Eurythmics]]) performed it and also received songwriting credit. The song was partially inspired by the premature death from cancer of a young New Zealand filmmaker named [[Cameron Duncan]] who had befriended Peter Jackson.<ref name=\"Music\"/>\n\n== Release ==\n=== Theatrical ===\nAfter two years of attention and acclaim since the release of ''[[The Lord of the Rings: The Fellowship of the Ring|The Fellowship of the Ring]]'', audience and critical anticipation for the final entry was extremely high. The world premiere was held in Wellington's [[Embassy Theatre, Wellington|Embassy Theatre]], on 1 December 2003, and was attended by the director and many of the stars. It was estimated that over 100,000 people lined the streets, more than a quarter of the city's population.<ref>{{cite news |last=Mercer |first=Phil |url=http://news.bbc.co.uk/1/hi/entertainment/film/3253708.stm |title=How hobbits took over NZ's capital |work=BBC News |date=1 December 2003 |access-date=24 March 2010 |url-status=live |archive-url=https://web.archive.org/web/20090115065013/http://news.bbc.co.uk/1/hi/entertainment/film/3253708.stm |archive-date=15 January 2009}}</ref>\n\n=== Home media ===\nThe theatrical edition of the film was released on [[VHS]] and [[DVD]] on 25 May 2004 by [[New Line Home Entertainment]].<ref>{{Cite web|url=https://www.today.com/popculture/return-king-out-dvd-may-25-wbna4472691|title='Return of the King' out on DVD on May 25|website=Today.com|date=7 March 2004|access-date=31 March 2023|archive-date=31 March 2023|archive-url=https://web.archive.org/web/20230331232930/https://www.today.com/popculture/return-king-out-dvd-may-25-wbna4472691|url-status=live}}</ref> The DVD was a 2-disc set with extras on the second disc. The theatrical DVD sets for the two previous films were released eight months after the films were released, but ''Return of the King''{{'}}s set was completed in five because it did not have to market a sequel (the previous films had to wait for footage of their sequels to become available for a ten-minute preview). However, it contained a seven-minute trailer of the entire trilogy.\n\n''The Return of the King'' followed the precedent set by its predecessors by releasing an Extended Edition (252 minutes) on 14 December 2004 in the UK and US, and Blu-Ray in releasing in Extended Edition (264 minutes) and with new editing and added special effects and music, along with four commentaries and six hours of supplementary material.<ref>{{cite magazine |last=Susman |first=Gary |date=9 June 2004 |title=Hobbits for the Holidays |magazine=Entertainment Weekly |url=https://ew.com/article/2004/06/09/king-extended-dvd-will-arrive-december/ |url-status=live |access-date=17 February 2007 |archive-url=https://web.archive.org/web/20070616014640/http://www.ew.com/ew/article/0%2C%2C649118%2C00.html |archive-date=16 June 2007}}</ref> The final 11 minutes comprises a listing of the charter members of the official fan club who had paid for three-year charter membership.<ref>{{Cite web |last=Patrizio |first=Andy |date=8 December 2004 |title=The Lord of the Rings: The Return of the King (Special Extended Edition) |url=https://www.ign.com/articles/2004/12/08/the-lord-of-the-rings-the-return-of-the-king-special-extended-edition |access-date=9 October 2023 |website=IGN |archive-date=13 July 2011 |archive-url=https://web.archive.org/web/20110713005407/http://uk.dvd.ign.com/articles/571/571469p1.html |url-status=live }}</ref><ref>{{Cite web |date=18 October 2001 |title=Peter Jackson Honors Fans with Their Names in Credits Of Film's DVDs – The Lord of the Rings Fan Club Launches Today |website=The One Ring |url=https://www.theonering.com/peter-jackson-honors-fans-with-their-names-in-credits-of-films-dvds-the-lord-of-the-rings-fan-club-launches-today/ |access-date=9 October 2023 |language=en-US |archive-date=23 October 2023 |archive-url=https://web.archive.org/web/20231023111650/https://www.theonering.com/peter-jackson-honors-fans-with-their-names-in-credits-of-films-dvds-the-lord-of-the-rings-fan-club-launches-today/ |url-status=live }}</ref> As with ''The Fellowship of the Ring'', and ''The Two Towers'', the Extended Edition was made available on both DVD and VHS.\n\nA collectors' box set was also released, which included the Extended Set plus a sculpture of Minas Tirith and a bonus 50-minute music documentary DVD, ''Howard Shore: Creating The Lord of the Rings Symphony: A Composer's Journey Through Middle-earth''. The DVD has a [[DTS (sound system)|DTS-ES]] soundtrack. The DVD also features two humorous [[Easter egg (media)|Easter Eggs]], one where Dominic Monaghan plays a German interviewer with Elijah Wood via satellite and another where [[Vince Vaughn]] and [[Ben Stiller]] attempt to convince Jackson to make a sequel, originally shown at the 2004 MTV Movie Awards. Both can be accessed via a Ring icon on the last page of both Disc 1 and 2's scene indexes. In August 2006, a Limited Edition of ''The Return of the King'' was released. This Limited Edition contains two discs; the first is a [[DVD9|two-sided DVD]] containing both the Theatrical and Extended editions of the film. The second disc is a bonus disc that contains a new behind-the-scenes documentary.\n\nThe theatrical [[Blu-ray]] release was released in the United States on the sixth of April 2010, though only as part of the complete trilogy release disc.<ref>{{cite web |url=http://www.blu-ray.com/movies/The-Lord-of-the-Rings-The-Motion-Picture-Trilogy-Blu-ray/5174/ |title=The Lord of the Rings: The Motion Picture Trilogy Blu-ray: Theatrical Editions |publisher=Blu-ray.com |access-date=18 February 2010 |url-status=live |archive-url=https://web.archive.org/web/20100225150750/http://www.blu-ray.com/movies/The-Lord-of-the-Rings-The-Motion-Picture-Trilogy-Blu-ray/5174/ |archive-date=25 February 2010}}</ref> The individual Blu-ray disc of ''The Return of the King'' was released on the fourteenth of September 2010 with the same special features as the complete trilogy release, except there was no digital copy.<ref>{{cite web |first=Juan |last=Calogne |url=http://www.blu-ray.com/news/?id=4787 |title=Lord of the Rings Movies Get Separate Blu-ray editions |publisher=Blu-ray.com |date=23 June 2010 |access-date=28 November 2010 |url-status=live |archive-url=https://web.archive.org/web/20100626104403/http://www.blu-ray.com/news/?id=4787 |archive-date=26 June 2010}}</ref> The Extended Edition was released in the United States in June 2011.<ref>{{cite web |url=https://www.amazon.com/Lord-Rings-Picture-Trilogy-Extended/dp/B0026L7H20 |title=Lord of the Rings Pre-order Now Available |website=Amazon |date=31 May 2011 |access-date=31 May 2011 |url-status=live |archive-url=https://web.archive.org/web/20110530090916/http://www.amazon.com/Lord-Rings-Picture-Trilogy-Extended/dp/B0026L7H20 |archive-date=30 May 2011}}</ref> It has a runtime of 263 minutes.<ref>{{cite web |url=https://www.imdb.com/title/tt0167260/ |title=The Lord of the Rings: The Return of the King |publisher=IMDb.com |access-date=26 November 2012 |url-status=live |archive-url=https://web.archive.org/web/20121124120253/http://www.imdb.com/title/tt0167260/ |archive-date=24 November 2012}}</ref>\n\n''The Return of the King'' was released in [[Ultra HD Blu-ray]] on 30 November 2020 in the United Kingdom and on 1 December 2020 in the United States, along with the other films of the trilogy, including both the theatrical and the extended editions of the films.<ref>{{cite web |last=Brew |first=Simon |url=https://www.filmstories.co.uk/news/lord-of-the-rings-and-the-hobbit-set-for-4k-release-in-december/ |title=Lord Of The Rings and The Hobbit set for 4K release in November |website=filmstories.co.uk |date=9 October 2020 |access-date=30 November 2020 |url-status=live |archive-url=https://web.archive.org/web/20201021183914/https://www.filmstories.co.uk/news/lord-of-the-rings-and-the-hobbit-set-for-4k-release-in-december/ |archive-date=21 October 2020}}</ref>\n\n== Reception ==\n=== Box office ===\n''The Return of the King'' earned $377 million in the United States and Canada and $741.9 million in other countries for a worldwide total of $1.118 billion in its initial release.<ref>{{cite web|url=https://www.boxofficemojo.com/year/world/2003/|title=2003 Worldwide Box Office|website=Box Office Mojo|access-date=14 March 2024}}</ref> In the weekend of 20–22 February 2004, the film crossed the $1 billion mark,<ref>{{cite web|last=Kay |first=Jeremy|title=The Return Of The King passes $1bn at the box office|url=https://www.screendaily.com/the-return-of-the-king-passes-1bn-at-the-box-office/4017470.article|access-date=19 February 2022|website=Screen|language=en|archive-date=19 January 2022|archive-url=https://web.archive.org/web/20220119005017/https://www.screendaily.com/the-return-of-the-king-passes-1bn-at-the-box-office/4017470.article|url-status=live}}</ref> making it the second film in history to do so, after ''[[Titanic (1997 film)|Titanic]]'' in 1998. Worldwide, it is the [[List of highest-grossing films|27th highest-grossing film of all time]] when not adjusted for inflation,<ref>{{cite web |url=https://www.boxofficemojo.com/chart/top_lifetime_gross/?area=XWW |title=All Time Top Lifetime Grosses Worldwide |work=boxofficemojo.com |access-date=8 March 2023 |archive-date=12 April 2021 |archive-url=https://web.archive.org/web/20210412074056/https://www.boxofficemojo.com/chart/top_lifetime_gross/?area=XWW |url-status=live }}</ref> the [[2003 in film|highest-grossing film of 2003]],<ref>{{cite web |url=https://boxofficemojo.com/yearly/chart/?view2=worldwide&yr=2003&p=.htm |title=2003 Yearly Box Office Results – Box Office Mojo |work=boxofficemojo.com |url-status=live |archive-url=https://web.archive.org/web/20090824224736/http://www.boxofficemojo.com/yearly/chart/?view2=worldwide&yr=2003&p=.htm |archive-date=24 August 2009 }}</ref> the [[2000s in film|second highest-grossing film of the 2000s]], the highest-grossing entry in [[The Lord of the Rings (film series)|''The Lord of the Rings'' trilogy]], and the highest-grossing film ever to be released by [[New Line Cinema]].<ref name=\"trilogy\">{{cite web |url=https://boxofficemojo.com/franchises/chart/?id=lordoftherings.htm |title=The Lord of the Rings |work=boxofficemojo.com |url-status=live |archive-url=https://web.archive.org/web/20140720052657/http://boxofficemojo.com/franchises/chart/?id=lordoftherings.htm |archive-date=20 July 2014}}</ref> It held the record as [[Time Warner]]{{'}}s highest-grossing film worldwide for eight years until it was surpassed by ''[[Harry Potter and the Deathly Hallows – Part 2]]'' in 2011.<ref name=\"TimeWarner\">{{cite web |url=https://www.hollywoodreporter.com/news/harry-potter-deathly-hallows-part-220419 |first=Pamela |last=McClintock |title='Harry Potter and the Deathly Hallows Part 2' Becomes No. 3 Film of All Time at Box Office |work=[[The Hollywood Reporter]] |date=8 August 2011 |access-date=23 December 2020 |archive-date=28 January 2021 |archive-url=https://web.archive.org/web/20210128142109/https://www.hollywoodreporter.com/news/harry-potter-deathly-hallows-part-220419 |url-status=live }}</ref> [[Box Office Mojo]] estimates that the film had sold over 61 million tickets in the US in its initial theatrical run.<ref>{{cite web |access-date=31 May 2016 |url=https://www.boxofficemojo.com/movies/?id=returnoftheking.htm&adjust_yr=1&p=.htm |title=The Lord of the Rings: The Return of the King (2003) |website=Box Office Mojo |url-status=live |archive-url=https://web.archive.org/web/20160304030615/http://www.boxofficemojo.com/movies/?id=returnoftheking.htm&adjust_yr=1&p=.htm |archive-date=4 March 2016}}</ref>\n\nIn the US and Canada, it is the 27th highest-grossing film,<ref>{{cite web |url=https://boxofficemojo.com/alltime/domestic.htm |title=All Time Domestic Box Office Results |work=boxofficemojo.com |url-status=live |archive-url=https://web.archive.org/web/20121101065311/http://www.boxofficemojo.com/alltime/domestic.htm |archive-date=1 November 2012}}</ref> the highest-grossing 2003 film,<ref>{{cite web |url=https://boxofficemojo.com/yearly/chart/?yr=2003&p=.htm |title=2003 Yearly Box Office Results – Box Office Mojo |work=boxofficemojo.com |url-status=live |archive-url=https://web.archive.org/web/20071001050235/http://www.boxofficemojo.com/yearly/chart/?yr=2003&p=.htm |archive-date=1 October 2007}}</ref> and the highest-grossing entry in ''The Lord of the Rings'' trilogy.<ref name=\"trilogy\"/> The film set an opening Wednesday record with $34 million.<ref name=\"opening\">{{cite web |url=https://boxofficemojo.com/news/?id=1284&p=.htm |title='Return of the King' Rakes in $57.6M Worldwide on Opening Day |date=18 December 2003 |first=Brandon |last=Gray |website=[[Box Office Mojo]] |access-date=20 June 2012 |url-status=live |archive-url=https://web.archive.org/web/20120215035403/http://www.boxofficemojo.com/news/?id=1284&p=.htm |archive-date=15 February 2012}}</ref> This record was first surpassed by ''[[Spider-Man 2]]'' in 2004 and ranks as the seventh largest Wednesday opening.<ref>{{cite web|url=https://www.boxofficemojo.com/article/ed2322924548/|title='Spider-Man 2' Amazes on Opening Day|date=1 July 2004|first=Brandon|last=Gray|publisher=[[Box Office Mojo]]|archive-url=https://web.archive.org/web/20201230012107/https://www.boxofficemojo.com/article/ed2322924548/|archive-date=30 December 2020|url-status=live|access-date=30 December 2020}}</ref><ref>{{cite web |url=https://boxofficemojo.com/alltime/days/?page=wed&p=.htm |title=Opening Wednesday Records at the Box Office |website=[[Box Office Mojo]] |access-date=15 June 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110623165925/http://www.boxofficemojo.com/alltime/days/?page=wed&p=.htm |archive-date=23 June 2011}}</ref> Additionally, it was ranked as the highest December opening day, holding that record for less than a decade before getting dethroned by ''[[The Hobbit: An Unexpected Journey]]'' in 2012.<ref>{{cite web|url=https://boxofficemojo.com/news/?id=3586&p=.htm|title=Friday Report: 'The Hobbit' Steals $37.5 Million|publisher=Box Office Mojo|first=Ray|last=Subers|access-date=24 December 2012|date=14 December 2012|archive-date=18 December 2012|archive-url=https://web.archive.org/web/20121218071603/http://www.boxofficemojo.com/news/?id=3586&p=.htm|url-status=live}}</ref> The film opened a day earlier for a midnight showing and accounted for about $8&nbsp;million. This was nearly twice the first-day total of ''The Fellowship of the Ring'' — which earned $18.2&nbsp;million on its opening day in 2001 — as well as a significant increase over ''[[The Lord of the Rings: The Two Towers|The Two Towers]]'' — which earned $26.1&nbsp;million on its debut in 2002. Part of the grosses came from the Trilogy Tuesday event, in which the Extended Editions of the two previous films were played on 16 December before the first midnight screening. For two years, ''The Return of the King'' would hold the record for having the highest midnight screenings gross until 2005 when it was given to ''[[Star Wars: Episode III – Revenge of the Sith]]''.<ref>{{cite web|url=https://www.boxofficemojo.com/news/?id=1824&p=.htm|title='Sith' Destroys Single Day Record|first=Brandon|last=Gray|publisher=[[Box Office Mojo]]|access-date=5 October 2014|archive-date=6 October 2014|archive-url=https://web.archive.org/web/20141006073452/http://www.boxofficemojo.com/news/?id=1824&p=.htm|url-status=live}}</ref> The film went on to make an opening weekend of $72.6 million making it the second-highest opening weekend for a New Line Cinema film, behind ''[[Austin Powers in Goldmember]]''.<ref name=\"autogenerated1\">{{cite web |url=https://www.boxofficemojo.com/movies/?id=returnoftheking.htm |title=The Lord of the Rings: The Return of the King |website=[[Box Office Mojo]] |access-date=15 June 2011 |url-status=live |archive-url=https://web.archive.org/web/20110621192103/http://boxofficemojo.com/movies/?id=returnoftheking.htm |archive-date=21 June 2011}}</ref> In addition, it had the third largest opening weekend of that year, after ''[[The Matrix Reloaded]]'' and ''[[X2 (film)|X2]]''.<ref name=\"weekend\">{{cite web |url=https://boxofficemojo.com/news/?id=1286&p=.htm |title='King' of the World: $250M in 5 Days |date=22 December 2003 |first=Brandon |last=Gray |website=[[Box Office Mojo]] |access-date=20 June 2012 |url-status=live |archive-url=https://web.archive.org/web/20120619042637/http://boxofficemojo.com/news/?id=1286&p=.htm |archive-date=19 June 2012}}</ref> With a total gross of $125.1 million, the film had the biggest five-day Wednesday opening of all time, surpassing the previous record held by ''[[Star Wars: Episode I – The Phantom Menace]]''.<ref>{{cite news |title='Return of the King' tops box office |url=https://www.upi.com/Archives/2003/12/22/Return-of-the-King-tops-box-office/4371072069200/ |access-date=6 March 2022 |work=[[United Press International]] |date=22 December 2003 |archive-date=27 February 2022 |archive-url=https://web.archive.org/web/20220227212707/https://www.upi.com/Archives/2003/12/22/Return-of-the-King-tops-box-office/4371072069200/ |url-status=live }}</ref> The next year, this record would be beaten by ''[[Shrek 2]]''.<ref>{{cite web|url=https://www.today.com/popculture/shrek-2-success-spawn-more-sequels-wbna5054265|title='Shrek 2' success to spawn more sequels|website=Today.com|date=25 May 2004|access-date=13 March 2022|archive-date=13 March 2022|archive-url=https://web.archive.org/web/20220313161521/https://www.today.com/popculture/shrek-2-success-spawn-more-sequels-wbna5054265|url-status=live}}</ref> Its Friday-Sunday opening weekend was a record-high for December (first surpassed by ''[[I Am Legend (film)|I Am Legend]]'').<ref>{{cite web |url=https://boxofficemojo.com/alltime/weekends/month/?mo=12&p=.htm |title=Top December Opening Weekends at the Box Office |work=boxofficemojo.com |url-status=live |archive-url=https://web.archive.org/web/20110302100817/http://boxofficemojo.com/alltime/weekends/month/?mo=12&p=.htm |archive-date=2 March 2011}}</ref> The film also set single-day records for Christmas Day and New Year's Day (both first surpassed by ''[[Meet the Fockers]]'').<ref>{{cite web|title=Single Day Records: High Grossing Movies on Christmas Day|url=https://boxofficemojo.com/alltime/days/holidays.htm?page=xmas&p=.htm|url-status=dead|archive-url=https://web.archive.org/web/20120701224319/http://www.boxofficemojo.com/alltime/days/holidays.htm?page=xmas&p=.htm|archive-date=1 July 2012|work=boxofficemojo.com}}</ref><ref>{{cite web |url=https://boxofficemojo.com/alltime/days/holidays.htm?page=newyrs&p=.htm |title=Single Day Records: High Grossing Movies on New Year's Day |work=boxofficemojo.com |url-status=live |archive-url=https://web.archive.org/web/20100205134131/http://boxofficemojo.com/alltime/days/holidays.htm?page=newyrs&p=.htm |archive-date=5 February 2010}}</ref>\n\nOutside the US and Canada, it is the 17th highest-grossing film,<ref>{{cite web |url=https://boxofficemojo.com/alltime/world/?pagenum=1&sort=osgross&order=DESC&p=.htm |title=All Time Worldwide Box Office Grosses |work=boxofficemojo.com |url-status=live |archive-url=https://web.archive.org/web/20121030220609/http://www.boxofficemojo.com/alltime/world/?pagenum=1&sort=osgross&order=DESC&p=.htm |archive-date=30 October 2012}}</ref> the highest-grossing 2003 film<ref>{{cite web |url=https://boxofficemojo.com/intl/weekend/yearly/?yr=2003&p=.htm |title=2003 Overseas Total Yearly Box Office Results |work=boxofficemojo.com |url-status=live |archive-url=https://web.archive.org/web/20121029123034/http://www.boxofficemojo.com/intl/weekend/yearly/?yr=2003&p=.htm |archive-date=29 October 2012}}</ref> and the highest-grossing film of the series.<ref name=\"trilogy\"/> On its first day (Wednesday, 17 December 2003), the film earned $23.5&nbsp;million from 19 countries<ref name=\"opening\"/> and it set an opening-weekend record outside the US and Canada with $125.9&nbsp;million during the five-day weekend as a whole. The combined total gross increased to $250.1 million, making it the highest worldwide opening weekend at the time, knocking out ''[[The Matrix Revolutions]]''.<ref name=\"weekend\"/> It set opening-day records in thirteen of them, including the United Kingdom, Germany, Austria, Belgium, the Netherlands, Spain, Greece, Switzerland, Scandinavia (as well as separately in Sweden, Finland, Norway and Denmark), Mexico, Chile and Puerto Rico.<ref name=\"opening\"/><ref name=\"weekend\"/> It set opening-weekend records in the United Kingdom ($26.5&nbsp;million in five days), Germany, Spain, Sweden, Denmark and Switzerland. In Singapore, it surpassed ''[[Finding Nemo]]'' to become the country's top-grossing film.<ref>{{cite web|url=https://www.screendaily.com/rings-reigns-as-top-singapore-film-of-2003/4016681.article|title=Rings reigns as top Singapore film of 2003|access-date=23 March 2022|archive-date=22 March 2022|archive-url=https://web.archive.org/web/20220322173225/https://www.screendaily.com/rings-reigns-as-top-singapore-film-of-2003/4016681.article|url-status=live}}</ref> In New Zealand, where filming took place, the film set opening day, opening weekend, single-day, Friday gross, Saturday gross and Sunday gross records with $1.7&nbsp;million in four days.<ref name=\"weekend\"/>\n\nThe substantial increase in initial box office totals caused optimistic studio executives to forecast that ''The Return of the King'' would surpass ''The Two Towers'' in total earnings. If this proved to be true, then this would be the first blockbuster trilogy for each successive film to earn more at the box office than its predecessor, when all three films were blockbuster successes. ''The Return of the King'' has helped ''The Lord of the Rings'' franchise to become the highest-grossing motion picture trilogy worldwide of all time with over $2.9 billion, beating other notable series such as the original ''[[Star Wars original trilogy|Star Wars Trilogy]]'', and became New Line's highest grossing release.<ref>{{cite web |url=https://screenrant.com/lord-rings-movies-records-box-office-awards/ |title=Every Record Lord Of The Rings Broke (& Which Ones The Movies Still Hold) |publisher=Screen Rant |date=6 March 2020 |access-date=31 May 2021 |archive-date=11 January 2023 |archive-url=https://web.archive.org/web/20230111153334/https://screenrant.com/lord-rings-movies-records-box-office-awards/ |url-status=live }}</ref>\n\nFollowing subsequent reissues, the film has grossed $387 million in the United States and Canada and $761 million in the rest of the world for a worldwide total of $1.148 billion.<ref name=\"BOM\" />\n\nThese figures do not include income from DVD sales, TV rights, etc. It has been estimated<ref>{{cite web |url=http://www.timewarner.com/corp/businesses/detail/new_line_cinema/index.html |archive-url=https://web.archive.org/web/20070126130514/http://www.timewarner.com/corp/businesses/detail/new_line_cinema/index.html |title=Time Warner: New Line Cinema |date=2 August 2006 |archive-date=26 January 2007 |work=Time Warner}}</ref> that the gross income from non-box office sales and merchandise has been at least equal to the box office for all three films. If this is so, the total gross income for the trilogy would be in the region of $6&nbsp;billion following an investment of $300&nbsp;million ($426&nbsp;million including marketing costs).\n\n=== Critical response ===\nOn the [[review aggregator]] website [[Rotten Tomatoes]], ''The Return of the King'' holds an approval rating of 94% based on 304 reviews. The website's critics consensus reads, \"Visually breathtaking and emotionally powerful, ''The Lord of the Rings – The Return of the King'' is a moving and satisfying conclusion to a great trilogy.\"<ref>{{cite web |url=https://www.rottentomatoes.com/m/the_lord_of_the_rings_the_return_of_the_king |archive-url=https://web.archive.org/web/20200517125821/https://www.rottentomatoes.com/m/the_lord_of_the_rings_the_return_of_the_king |title=The Lord of the Rings: The Return of the King (2003) |website=[[Rotten Tomatoes]] |publisher=[[Fandango Media|Fandango]] |archive-date=17 May 2020 |access-date=14 January 2026 |url-status=live}}</ref> [[Metacritic]], which uses a [[weighted average]], gives the film a score of 94 out of 100 based on 41 reviews, indicating \"universal acclaim\".<ref>{{cite web |url=https://www.metacritic.com/movie/the-lord-of-the-rings-the-return-of-the-king |title=The Lord of the Rings: Return of the King |website=[[Metacritic]] |access-date=28 April 2020 |archive-date=11 November 2020 |archive-url=https://web.archive.org/web/20201111202334/https://www.metacritic.com/movie/the-lord-of-the-rings-the-return-of-the-king |url-status=live }}</ref> Audiences polled by [[CinemaScore]] gave the film a rare average grade of \"A+\" on an A+ to F scale,<ref>{{cite web |url=https://www.cinemascore.com/publicsearch/index/title/ |title=Cinemascore |website=[[CinemaScore]] |archive-url=https://web.archive.org/web/20181220122629/https://www.cinemascore.com/publicsearch/index/title/ |archive-date=20 December 2018 |access-date=22 March 2020 |url-status=dead}}</ref> the highest grade in the trilogy.\n\nAlan Morrison of ''[[Empire (magazine)|Empire]]'' gave the film a perfect score of five stars. In his review, he called the film \"the resounding climax to a landmark in cinema history\" and praised how Peter Jackson had \"kept the momentum of the series rolling on and on through the traditionally 'difficult' middle part and 'weak' finale, delivering a climax to the story that's neater and more affecting than what Tolkien managed on the printed page.\" Morrison also mentioned how fans of the films \"who have walked beside these heroes every step of the way on such a long journey deserve the emotional pay-off as well as the action peaks, and they will be genuinely touched as the final credits roll.\"<ref>{{cite web |url=https://www.empireonline.com/movies/reviews/lord-rings-return-king-review/ |title=The Lord of the Rings: The Return of the King Review |date=January 2001 |publisher=www.empireonline.com |access-date=1 August 2021 |archive-date=17 November 2021 |archive-url=https://web.archive.org/web/20211117201544/https://www.empireonline.com/movies/reviews/lord-rings-return-king-review/ |url-status=live }}</ref> [[Elvis Mitchell]] for ''[[The New York Times]]'' lauded the acting, the craft of the technical crew, and Jackson's direction, describing ''The Return of the King'' as \"a meticulous and prodigious vision made by a director who was not hamstrung by heavy use of computer special-effects imagery.\"<ref>{{Cite news|last=Mitchell|first=Elvis|date=16 December 2003|title=FILM REVIEW; Triumph Tinged With Regret in Middle Earth|language=en-US|work=The New York Times|url=https://www.nytimes.com/2003/12/16/movies/film-review-triumph-tinged-with-regret-in-middle-earth.html|access-date=13 February 2022|issn=0362-4331|archive-date=1 December 2009|archive-url=https://web.archive.org/web/20091201041724/https://www.nytimes.com/2003/12/16/movies/film-review-triumph-tinged-with-regret-in-middle-earth.html|url-status=live}}</ref> [[Roger Ebert]] of the ''[[Chicago Sun-Times]]'' gave the film three and a half stars out of four, saying that it is \"such a crowning achievement, such a visionary use of all the tools of special effects, such a pure spectacle, that it can be enjoyed even by those who have not seen the first two films.\" Talking about the whole trilogy, Ebert said that he admired it \"more as a whole than in its parts\", and that ''The Return of the King'' certified ''The Lord of the Rings'' as \"a work of bold ambition in a time of cinematic timidity\".<ref>{{cite web|last=Ebert|first=Roger|date=17 December 2003|title=The Lord of the Rings: The Return of the King – Roger Ebert's review|url=https://www.rogerebert.com/reviews/lord-of-the-rings-the-return-of-the-king-2003|url-status=live|archive-url=https://web.archive.org/web/20130603053641/http://www.rogerebert.com/reviews/lord-of-the-rings-the-return-of-the-king-2003|archive-date=3 June 2013|access-date=13 February 2022|website=[[RogerEbert.com]]}}</ref> In his review for ''[[The Times]]'', James Christopher praised ''The Return of the King'' as \"everything a Ring fan could possibly wish for, and much more\", and described ''The Lord of the Rings'' as \"the greatest film trilogy ever mounted, with some of the most amazing action sequences committed to celluloid\".<ref>{{Cite news|last=Christopher|first=James|date=11 December 2003|title=The Return of the King Review|language=en|work=The Times|url=https://www.thetimes.com/travel/destinations/uk-travel/england/london-travel/the-return-of-the-king-review-qg3nhdfkz9z|access-date=13 February 2022|issn=0140-0460|archive-date=12 February 2022|archive-url=https://web.archive.org/web/20220212122547/https://www.thetimes.co.uk/article/the-return-of-the-king-review-qg3nhdfkz9z|url-status=live}}</ref> Nev Pierce for the [[BBC]] gave the film five stars out of five, judging it to be the best chapter of the trilogy, since it combined \"the 'ooh' factor of ''Fellowship'' with the zippy action of ''Towers''\". Pierce described ''The Return of the King'' as \"Majestic, moving, and immense\", and \"an astonishing piece of storytelling\".<ref>{{cite web|last=Pierce|first=Nev|date=18 December 2003|title=BBC – Stoke and Staffordshire Films – The Lord of the Rings: Return of the King Review|url=https://www.bbc.co.uk/stoke/films/reviews/g_m/lotr_return_of_the_king.shtml|access-date=13 February 2022|website=BBC|archive-date=11 February 2022|archive-url=https://web.archive.org/web/20220211234410/https://www.bbc.co.uk/stoke/films/reviews/g_m/lotr_return_of_the_king.shtml|url-status=live}}</ref> [[Philip French]], reviewing it for ''[[The Observer]]'', lauded the narrative force, the battle scenes, the language, and the visual style of the film, which he related to \"the swirling battle paintings of [[Albrecht Altdorfer]]\" and \"[[Claude Lorrain]]'s elegiac paintings of maritime departures inspired by classical poets.\" French wrote about the whole trilogy \"Jackson's ''Lord of the Rings'' is indeed a very fine achievement, moving, involving and, to many people, even inspiring. It redeems the debased cinematic notion of the epic.\"<ref>{{cite web|last=French|first=Philip|date=14 December 2003|title=Film of the week 2: It's that Gondor moment...|url=http://www.theguardian.com/theobserver/2003/dec/14/features.review17|access-date=13 February 2022|website=The Guardian|language=en|archive-date=13 February 2022|archive-url=https://web.archive.org/web/20220213114205/https://www.theguardian.com/theobserver/2003/dec/14/features.review17|url-status=live}}</ref>\n\nIn her review for ''[[Entertainment Weekly]]'', [[Lisa Schwarzbaum]] gave the film an A grade, and wrote \"The conclusion of Peter Jackson's masterwork is passionate and literate, detailed and expansive, and it's conceived with a risk-taking flair for old-fashioned movie magic at its most precious ... as he has done throughout, the director paces scenes of action, intimacy, and even panoramic, geographical grandeur ... with the control of a superb choreographer.\" Schwarzbaum also said of the whole series \"I can't think of another film trilogy that ends in such glory, or another monumental work of sustained storytelling that surges ahead with so much inventiveness and ardor.\"<ref>url=https://ew.com/article/2003/12/19/lord-rings-return-king-3/ {{Webarchive|url=https://web.archive.org/web/20220213163419/https://ew.com/article/2003/12/19/lord-rings-return-king-3/ |date=13 February 2022 }}</ref> [[Richard Corliss]] of ''[[Time (magazine)|Time]]'' named ''The Return of the King'' the best film of the year<ref>{{cite magazine |author=[[Richard Corliss]] |title=The Best Movies |magazine=Time |url=http://www.time.com/time/bestandworst/2003/story.html |access-date=9 November 2007 |date=18 December 2003 |url-status=dead |archive-url=https://web.archive.org/web/20071111183357/http://www.time.com/time/bestandworst/2003/story.html |archive-date=11 November 2007}}</ref> and described the whole trilogy as \"The film event of the millennium\".<ref>{{Cite magazine|last=Corliss|first=Richard|date=8 December 2003|title=Seven Holiday Treats|url=http://www.time.com/time/magazine/article/0,9171,1101031215-557084,00.html|url-status=dead|archive-url=https://web.archive.org/web/20071114002753/http://www.time.com/time/magazine/article/0,9171,1101031215-557084,00.html|archive-date=14 November 2007|access-date=13 February 2022|magazine=Time}}</ref> [[Joe Morgenstern]], for ''[[The Wall Street Journal]]'', wrote \"Never has a filmmaker aimed higher, or achieved more. The third and last instalment of the screen epic based on J.R.R. Tolkien's literary classic redefines – steeply upward – the very notion of a major motion picture.\"<ref>{{Cite news|last=Morgenstern|first=Joe|date=19 December 2003|title=Now That's an Epic: Jackson Conjures Magical Ending To 'Lord of the Rings' Trilogy|language=en-US|work=The Wall Street Journal|url=https://www.wsj.com/articles/SB107179510887385500|access-date=13 February 2022|issn=0099-9660|archive-date=12 February 2022|archive-url=https://web.archive.org/web/20220212123125/https://www.wsj.com/articles/SB107179510887385500|url-status=live}}</ref> [[Peter Bradshaw]], who had been less enthusiastic about the first two chapters of the trilogy,<ref>{{cite web|last=Bradshaw|first=Peter|date=14 December 2001|title=The Lord of the Rings: the Fellowship of the Ring|url=http://www.theguardian.com/film/2001/dec/14/lordoftherings1|access-date=13 February 2022|website=The Guardian|language=en|archive-date=20 January 2022|archive-url=https://web.archive.org/web/20220120064030/https://www.theguardian.com/film/2001/dec/14/lordoftherings1|url-status=live}}</ref><ref>{{cite web|last=Bradshaw|first=Peter|date=13 December 2002|title=The Lord of the Rings: The Two Towers|url=http://www.theguardian.com/culture/2002/dec/13/artsfeatures.lordoftherings|access-date=13 February 2022|website=The Guardian|language=en|archive-date=12 February 2022|archive-url=https://web.archive.org/web/20220212171253/https://www.theguardian.com/culture/2002/dec/13/artsfeatures.lordoftherings|url-status=live}}</ref> gave ''The Return of the King'' four stars out of five in his review for ''[[The Guardian]]'', commenting \"I started the series an atheist and finished an agnostic\". Bradshaw wrote of the film \"Technically it really is superb\", and commented \"Hours after watching the film, I can close my eyes and see those incredible battle scenes pulsing and throbbing in my skull ... Maybe [[Kurosawa]]'s battles will one day be described as proto-Jacksonian\".<ref>{{cite web|last=Bradshaw|first=Peter|date=19 December 2003|title=The Lord of the Rings: The Return of the King|url=http://www.theguardian.com/film/2003/dec/19/lordoftherings|access-date=13 February 2022|website=The Guardian|language=en|archive-date=3 February 2022|archive-url=https://web.archive.org/web/20220203182459/https://www.theguardian.com/film/2003/dec/19/lordoftherings|url-status=live}}</ref>\n\nSome critics had negative opinions of the film. Tom Charity observes in [[Time Out (magazine)|Time Out]], \"Some story strands are crudely abbreviated; others fail to develop elements that were already well-established. Given the inordinate running time, it's hard to avoid the feeling that we've already been here, done this.\"<ref>{{cite web|last=Charity|first=Tom|date=2007|title=The Lord of the Rings: The Return of the King|url= https://www.timeout.com/film/reviews/80706/the_lord_of_the_rings-the_return_of_the_king.html|access-date=3 June 2024|website=Time Out|archive-url=https://web.archive.org/web/20071104042644/https://www.timeout.com/film/reviews/80706/the_lord_of_the_rings-the_return_of_the_king.html |archive-date=4 November 2007 |language=en|url-status=live}}</ref> Jonathan Romney noted in [[The Independent]], \"[T]here's something not quite palatable about all these intrepid, largely beautiful Europeans boldly fending off the nameless, numberless hordes from the other side of the world, legions of dark-skinned sans-culottes with tribal drums. ... Aside from this, there's plenty to be offended by on an aesthetic level: the film's self-important solemnity, its hyperbolic over-insistence. ... [T]here are no empty spaces, no gaps for thought, no real stimulus to the viewer's imagination. The film has no idea when to stop, either, with its multiple codas and final dying fall into beatific cosiness.\"<ref>{{cite web|last=Romney|first=Jonathan|date=21 December 2003|title=The Lord of the Rings: The Return of the King – OK, Peter. Message received|url=https://www.independent.co.uk/arts-entertainment/films/reviews/the-lord-of-the-rings-the-return-of-the-king-83691.html|access-date=3 June 2024|website=The Independent|language=en}}</ref> And Antonia Quirke in the [[Evening Standard]] opined, \"Viggo Mortensen's Aragorn is the good king of the title, and while the actor may look fetching in a crown and cloak, he doesn't have half of the gravitas of Sean Bean's Boromir in the first film. Director Peter Jackson has been all but deified for his work on this particular ring cycle, but there is not much personality behind the camera here, merely rampant enthusiasm.\"<ref>{{cite web|last=Quirke|first=Antonia|date=5 April 2012|title=Lord of the Rings: The Return of the King|url= https://www.standard.co.uk/showbiz/celebrity-news/lord-of-the-rings-the-return-of-the-king-7380983.html|access-date=3 June 2024|website=The Standard|language=en}}</ref>\n\nThe most common criticism of ''The Lord of the Rings: The Return of the King'' was its running time, particularly the epilogue; even rave reviews for the film commented on its length. [[Joel Siegel]] of ''[[Good Morning America]]'' said in his review for the film (which he gave an 'A'): \"If it didn't take forty-five minutes to end, it'd be my best picture of the year. As it is, it's just one of the great achievements in film history.\"<ref>{{cite news |author=[[Joel Siegel]] |title=Jackson Brings Lord of the Rings to Historic Completion |publisher=ABC News |date=19 December 2003 |url=https://abcnews.go.com/Entertainment/JoelSiegel/story?id=116553&page=1 |access-date=16 February 2007 |url-status=live |archive-url=https://web.archive.org/web/20060313130326/http://abcnews.go.com/Entertainment/JoelSiegel/story?id=116553&page=1 |archive-date=13 March 2006}}</ref>\n\nIn February 2004, a few months following release, the film was voted eighth on ''[[Empire (film magazine)|Empire]]''{{'}}s ''100 Greatest Movies of All Time'', compiled from readers' top ten lists. This forced the magazine to abandon its policy of only allowing films being older than a year to be eligible.<ref>{{cite magazine |title=The 100 Greatest Movies of All Time |page=96 |magazine=[[Empire (magazine)|Empire]] |date=30 January 2004}}</ref> In 2007, ''[[Total Film]]'' named ''The Return of the King'' the third best film of the past decade (''Total Film''{{'}}s publication time), behind ''[[The Matrix]]'' and ''[[Fight Club]]''.<ref>{{cite magazine |title=Ten Greatest Films of the Past Decade |page=98 |magazine=[[Total Film]] |date=April 2007}}</ref> In July 2025, it ranked number 15 on the \"Readers' Choice\" edition of ''[[The New York Times]]''{{'}} list of \"The 100 Best Movies of the 21st Century.\"<ref>{{cite web |title=Readers Choose Their Top Movies of the 21st Century |url=https://www.nytimes.com/interactive/2025/movies/readers-movies-21st-century.html |website=The New York Times |date=2 July 2025 |access-date=2 July 2025}}</ref>\n\n=== Accolades ===\n{{main|List of accolades received by The Lord of the Rings film series|l1=List of accolades received by ''The Lord of the Rings'' film series}}\n\nThe film was nominated for eleven [[Academy Award]]s: [[Academy Award for Best Picture|Best Picture]], [[Academy Award for Best Director|Best Director]], [[Academy Award for Best Adapted Screenplay|Best Adapted Screenplay]], [[Academy Award for Best Original Score|Best Original Score]], [[Academy Award for Best Original Song|Best Original Song]], [[Academy Award for Best Visual Effects|Best Visual Effects]], [[Academy Award for Best Production Design|Best Art Direction]], [[Academy Award for Best Costume Design|Best Costume Design]], [[Academy Award for Best Makeup and Hairstyling|Best Make-up]], [[Academy Award for Best Sound|Best Sound Mixing]] and [[Academy Award for Best Film Editing|Best Film Editing]]. At the [[76th Academy Awards]] in 2004, the film won all the categories for which it was nominated and it shares the record for highest Academy Award totals along with ''Titanic'' (which also starred Bernard Hill) and ''[[Ben-Hur (1959 film)|Ben-Hur]]'', and holding the record for the highest clean sweep at the Oscars, surpassing the nine awards earned by both ''[[Gigi (1958 film)|Gigi]]'' and ''[[The Last Emperor]]''.<ref>{{cite news|title=\"Lord of the Rings\" Wins 11 Oscars |url=https://abcnews.go.com/Entertainment/Oscars2005/lord-rings-wins-11-oscars/story?id=116560 |access-date=9 July 2013 |work=[[ABC News (United States)|ABC News]] |publisher=[[The Walt Disney Company]] |date=1 March 2004 |url-status=live |archive-url=https://web.archive.org/web/20140224002917/http://abcnews.go.com/Entertainment/Oscars2005/lord-rings-wins-11-oscars/story?id=116560 |archive-date=24 February 2014 }}</ref><ref name=\"Oscars2004\">{{cite web |url=http://www.oscars.org/awards/academyawards/legacy/ceremony/76th-winners.html |title=The 76th Academy Awards (2004) Nominees and Winners |access-date=20 November 2011 |work=oscars.org |url-status=dead |archive-url=https://web.archive.org/web/20120929190645/http://www.oscars.org/awards/academyawards/legacy/ceremony/76th-winners.html |archive-date=29 September 2012}}</ref> It was the first fantasy film to win the Academy Award for Best Picture. It also was the last movie for 14 years to win the Academy Award for Best Picture without being chosen as one of the top ten films of the year by the [[National Board of Review]], until the release of ''[[The Shape of Water]]'' in 2017.\n\nThe film won four [[Golden Globe Award|Golden Globes]] (including Best Picture for Drama and Best Director),<ref>{{cite news|last=Crean|first=Ellen|date=25 January 2004|title=Golden Globe Spins For 'Rings'|publisher=CBS News|url=https://www.cbsnews.com/news/golden-globe-spins-for-rings/|url-status=live|access-date=10 March 2011|archive-url=https://web.archive.org/web/20110129233607/http://www.cbsnews.com/stories/2004/01/25/entertainment/main595626.shtml|archive-date=29 January 2011}}</ref><ref>{{cite web |url=https://www.nbcnews.com/id/wbna4057351 |title=Hail to the 'King' at Golden Globes |publisher=MSNBC |date=26 January 2004 |access-date=10 March 2011 |url-status=live |archive-url=https://web.archive.org/web/20120925064231/http://today.msnbc.msn.com/id/4057351/ns/today-entertainment/ |archive-date=25 September 2012}}</ref><ref>{{cite magazine|last=Armstrong|first=Mark|date=25 January 2004|title='Rings,' 'Translation' Rule the Globes|url=http://www.people.com/people/article/0,,627488,00.html|url-status=dead|magazine=People|archive-url=https://web.archive.org/web/20110309094432/http://www.people.com/people/article/0%2C%2C627488%2C00.html|archive-date=9 March 2011|access-date=10 March 2011}}</ref> five [[British Academy of Film and Television Arts|BAFTAs]], two [[MTV Movie Awards]], two [[Grammy Award]]s, nine [[Saturn Award]]s, the [[New York Film Critics Circle]] award for Best Picture, the [[Nebula Award for Best Script]], and the [[Hugo Award for Best Dramatic Presentation|Hugo Award for Best Dramatic Presentation, Long Form]].\n\n{| class=\"wikitable plainrowheaders sortable\"\n|-\n! scope=\"col\" | Award\n! scope=\"col\" | Category\n! scope=\"col\" | Recipient/Nominee\n! scope=\"col\" | Result\n|-\n| rowspan=\"11\" | [[76th Academy Awards|Academy Awards]]\n| [[Academy Award for Best Picture|Best Picture]]\n| [[Barrie M. Osborne]], [[Peter Jackson]] and [[Fran Walsh]]\n| {{Won}}\n|-\n| [[Academy Award for Best Director|Best Director]]\n| [[Peter Jackson]]\n| {{Won}}\n|-\n| [[Academy Award for Best Adapted Screenplay|Best Adapted Screenplay]]\n| [[Fran Walsh]], [[Philippa Boyens]] and [[Peter Jackson]]\n| {{Won}}\n|-\n| [[Academy Award for Best Production Design|Best Art Direction]]\n| [[Grant Major]], [[Dan Hennah]] and [[Alan Lee (illustrator)|Alan Lee]]\n| {{Won}}\n|-\n| [[Academy Award for Best Costume Design|Best Costume Design]]\n| [[Ngila Dickson]] and [[Richard Taylor (filmmaker)|Richard Taylor]]\n| {{Won}}\n|-\n| [[Academy Award for Best Film Editing|Best Film Editing]]\n| [[Jamie Selkirk]]\n| {{Won}}\n|-\n| [[Academy Award for Best Makeup and Hairstyling|Best Makeup]]\n| [[Richard Taylor (filmmaker)|Richard Taylor]] and [[Peter King (make-up artist)|Peter King]]\n| {{Won}}\n|-\n| [[Academy Award for Best Original Score|Best Original Score]]\n| [[Howard Shore]]\n| {{Won}}\n|-\n| [[Academy Award for Best Original Song|Best Original Song]]\n| [[Fran Walsh]], [[Howard Shore]] and [[Annie Lennox]]\n| {{Won}}\n|-\n| [[Academy Award for Best Sound|Best Sound Mixing]]\n| [[Christopher Boyes]], [[Michael Semanick]], [[Michael Hedges (sound engineer)|Michael Hedges]] and [[Hammond Peek]]\n| {{Won}}\n|-\n| [[Academy Award for Best Visual Effects|Best Visual Effects]]\n| [[Jim Rygiel]], [[Joe Letteri]], [[Randall William Cook]] and [[Alex Funke]]\n| {{Won}}\n|-\n| rowspan=\"12\" | [[57th British Academy Film Awards|British Academy Film Awards]]\n| [[BAFTA Award for Best Film|Best Film]]\n| [[Barrie M. Osborne]], [[Fran Walsh]] and [[Peter Jackson]]\n| {{Won}}\n|-\n| [[BAFTA Award for Best Direction|Best Direction]]\n| [[Peter Jackson]]\n| {{Nominated}}\n|-\n| [[BAFTA Award for Best Actor in a Supporting Role|Best Actor in a Supporting Role]]\n| [[Ian McKellen]]\n| {{Nominated}}\n|-\n| [[BAFTA Award for Best Adapted Screenplay|Best Adapted Screenplay]]\n| [[Fran Walsh]], [[Philippa Boyens]] and [[Peter Jackson]]\n| {{Won}}\n|-\n| [[BAFTA Award for Best Cinematography|Best Cinematography]]\n| [[Andrew Lesnie]]\n| {{Won}}\n|-\n| [[BAFTA Award for Best Costume Design|Best Costume Design]]\n| [[Ngila Dickson]] and [[Richard Taylor (filmmaker)|Richard Taylor]]\n| {{Nominated}}\n|-\n| [[BAFTA Award for Best Editing|Best Editing]]\n| [[Jamie Selkirk]]\n| {{Nominated}}\n|-\n| [[BAFTA Award for Best Makeup and Hair|Best Makeup and Hair]]\n| [[Richard Taylor (filmmaker)|Richard Taylor]], [[Peter King (make-up artist)|Peter King]] and [[Peter Owen (make-up artist)|Peter Owen]]\n| {{Nominated}}\n|-\n| [[BAFTA Award for Best Original Music|Best Original Music]]\n| [[Howard Shore]]\n| {{Nominated}}\n|-\n| [[BAFTA Award for Best Production Design|Best Production Design]]\n| [[Grant Major]]\n| {{Nominated}}\n|-\n| [[BAFTA Award for Best Sound|Best Sound]]\n| [[Ethan Van der Ryn]], [[Mike Hopkins (sound editor)|Mike Hopkins]], David Farmer, [[Christopher Boyes]], [[Michael Hedges (sound engineer)|Michael Hedges]], [[Michael Semanick]] and [[Hammond Peek]]\n| {{Nominated}}\n|-\n| [[BAFTA Award for Best Special Visual Effects|Best Special Visual Effects]]\n| [[Joe Letteri]], [[Jim Rygiel]], [[Randall William Cook]] and [[Alex Funke]]\n| {{Won}}\n|-\n| rowspan=\"4\" | [[61st Golden Globe Awards|Golden Globe Awards]]\n| [[Golden Globe Award for Best Motion Picture – Drama|Best Motion Picture – Drama]]\n| ''The Lord of the Rings: The Return of the King''\n| {{Won}}\n|-\n| [[Golden Globe Award for Best Director|Best Director]]\n| [[Peter Jackson]]\n| {{Won}}\n|-\n| [[Golden Globe Award for Best Original Score|Best Original Score]]\n| [[Howard Shore]]\n| {{Won}}\n|-\n| [[Golden Globe Award for Best Original Song|Best Original Song]]\n| [[Annie Lennox]], [[Fran Walsh]] and [[Howard Shore]]\n| {{Won}}\n|-\n| rowspan=\"13\" | [[30th Saturn Awards|Saturn Awards]]\n| [[Saturn Award for Best Fantasy Film|Best Fantasy Film]]\n| ''The Lord of the Rings: The Return of the King''\n| {{Won}}\n|-\n| [[Saturn Award for Best Director|Best Director]]\n| [[Peter Jackson]]\n| {{Won}}\n|-\n| [[Saturn Award for Best Actor|Best Actor]]\n| [[Elijah Wood]]\n| {{Won}}\n|-\n| [[Saturn Award for Best Actor|Best Actor]]\n| [[Viggo Mortensen]]\n| {{Nominated}}\n|-\n| [[Saturn Award for Best Supporting Actor|Best Supporting Actor]]\n| [[Andy Serkis]]\n| {{Nominated}}\n|-\n| [[Saturn Award for Best Supporting Actor|Best Supporting Actor]]\n| [[Ian McKellen]]\n| {{Nominated}}\n|-\n| [[Saturn Award for Best Supporting Actor|Best Supporting Actor]]\n| [[Sean Astin]]\n| {{Won}}\n|-\n| [[Saturn Award for Best Supporting Actress|Best Supporting Actress]]\n| [[Miranda Otto]]\n| {{Nominated}}\n|-\n| [[Saturn Award for Best Writing|Best Writing]]\n| [[Fran Walsh]], [[Philippa Boyens]] and [[Peter Jackson]]\n| {{Won}}\n|-\n| [[Saturn Award for Best Costume Design|Best Costume Design]]\n| [[Ngila Dickson]] and [[Richard Taylor (filmmaker)|Richard Taylor]]\n| {{Nominated}}\n|-\n| [[Saturn Award for Best Make-up|Best Make-up]]\n| [[Richard Taylor (filmmaker)|Richard Taylor]] and [[Peter King (make-up artist)|Peter King]]\n| {{Won}}\n|-\n| [[Saturn Award for Best Music|Best Music]]\n| [[Howard Shore]]\n| {{Won}}\n|-\n| [[Saturn Award for Best Special Effects|Best Special Effects]]\n| [[Jim Rygiel]], [[Joe Letteri]], [[Randall William Cook]] and [[Alex Funke]]\n| {{Won}}\n|}\n\n== See also ==\n{{Portal|Speculative fiction}}\n\n* [[The Hobbit (film series)|''The Hobbit'' (film series)]]\n* [[The Hobbit (1977 film)|''The Hobbit'' (1977 film)]]\n* [[The Lord of the Rings (1978 film)|''The Lord of the Rings'' (1978 film)]]\n* [[The Return of the King (1980 film)|''The Return of the King'' (1980 film)]]\n* [[List of films considered the best#Fantasy|List of films considered the best]]\n* [[List of Academy Award records]]\n\n{{clear}}\n\n== Notes ==\n{{Notelist}}\n\n== References ==\n{{Reflist}}\n\n== External links ==\n{{Wikiquote}}\n* {{Official website}}\n* {{IMDb title}}\n* [https://web.archive.org/web/20110915003146/http://www.tcm.com/tcmdb/title/415204/The-Lord-of-the-Rings-The-Return-of-the-King/ ''The Lord of the Rings: The Return of the King''] at the [[Turner Classic Movies|TCM Movie Database]]\n* {{mojo title}}\n* {{metacritic film}}\n* {{rotten-tomatoes}}\n\n{{The Lord of the Rings}}\n{{The Lord of the Rings & The Hobbit film series}}\n{{Middle-earth films}}\n{{Peter Jackson}}\n{{Yearly highest-grossing US films}}\n{{Navboxes\n|title = [[List of accolades received by The Lord of the Rings film series|Awards for ''The Lord of the Rings: The Return of the King'']]\n|list =\n{{Academy Award Best Picture}}\n{{Academy Award Best Visual Effects}}\n{{ScreenActorsGuildAward CastMotionPicture}}\n{{BAFTA Award for Best Film}}\n{{BAFTA Award for Best Special Visual Effects}}\n{{Chicago Film Critics Association Award for Best Film}}\n{{Broadcast Film Critics Association Award for Best Film}}\n{{Broadcast Film Critics Association Award for Best Cast}}\n{{Dallas–Fort Worth Film Critics Association Award for Best Film}}\n{{Empire Award for Best Film}}\n{{Florida Film Critics Circle Award for Best Film}}\n{{Golden Globe Award Best Motion Picture Drama}}\n{{Hugo Award for Best Dramatic Presentation, Long Form}}\n{{IFTA Award for Best International Film}}\n{{MTV Movie Award for Best Movie}}\n{{National Board of Review Award for Best Cast}}\n{{Nebula Award for Best Script/Bradbury Award}}\n{{New York Film Critics Circle Award for Best Film}}\n{{Online Film Critics Society Award for Best Picture}}\n{{Producers Guild of America Award for Best Theatrical Motion Picture}}\n{{Saturn Award for Best Fantasy Film}}\n{{Washington D.C. Area Film Critics Association Award for Best Film}}\n}}\n<!--Split film/book article intentional - Please do not remove this comment-->\n\n<!--Split film/book article intentional - Please do not remove this comment-->\n<!-- Listed under \"L\" since the full title is NOT \"The Return of the King\" -->\n{{Authority control}}\n\n{{DEFAULTSORT:Lord of the Rings: The Return of the King}}\n[[Category:2003 films]]\n[[Category:2003 fantasy films]]\n[[Category:2003 American films]]\n[[Category:2000s children's fantasy films]]\n[[Category:2003 English-language films]]\n[[Category:American epic fantasy films]]\n[[Category:American fantasy adventure films]]\n[[Category:American sequel films]]\n[[Category:BAFTA winners (films)]]\n[[Category:Best Drama Picture Golden Globe winners]]\n[[Category:Best Film BAFTA Award winners]]\n[[Category:Best Picture Academy Award winners]]\n[[Category:Cross-dressing in American films]]\n[[Category:Cross-dressing in German films]]\n[[Category:English-language fantasy films]]\n[[Category:Films about dwarfs]]\n[[Category:Films about friendship]]\n[[Category:Films about legendary creatures]]\n[[Category:Films about talking trees]]\n[[Category:Films based on children's books]]\n[[Category:Films based on fantasy novels]]\n[[Category:Films directed by Peter Jackson]]\n[[Category:Films produced by Barrie M. Osborne]]\n[[Category:Films produced by Fran Walsh]]\n[[Category:Films produced by Peter Jackson]]\n[[Category:Films scored by Howard Shore]]\n[[Category:Films shot at Stone Street Studios]]\n[[Category:Films shot in England]]\n[[Category:Films that won the Academy Award for Best Makeup]]\n[[Category:Films that won the Best Costume Design Academy Award]]\n[[Category:Films that won the Best Original Score Academy Award]]\n[[Category:Films that won the Best Original Song Academy Award]]\n[[Category:Films that won the Best Sound Mixing Academy Award]]\n[[Category:Films that won the Best Visual Effects Academy Award]]\n[[Category:Films using motion capture]]\n[[Category:Films whose production designer won the Best Production Design Academy Award]]\n[[Category:Films whose director won the Best Directing Academy Award]]\n[[Category:Films whose director won the Best Director Golden Globe]]\n[[Category:Films whose editor won the Best Film Editing Academy Award]]\n[[Category:Films whose writer won the Best Adapted Screenplay Academy Award]]\n[[Category:Films whose writer won the Best Adapted Screenplay BAFTA Award]]\n[[Category:Films with screenplays by Fran Walsh]]\n[[Category:Films with screenplays by Peter Jackson]]\n[[Category:Films with screenplays by Philippa Boyens]]\n[[Category:German drama films]]\n[[Category:German epic films]]\n[[Category:German fantasy adventure films]]\n[[Category:German sequel films]]\n[[Category:High fantasy films]]\n[[Category:Hugo Award for Best Dramatic Presentation, Long Form–winning works]]\n[[Category:The Lord of the Rings (film series)|*3]]\n[[Category:Middle-earth (film franchise) films]]\n[[Category:Nebula Award for Best Script–winning works]]\n[[Category:New Line Cinema films]]\n[[Category:New Zealand drama films]]\n[[Category:New Zealand epic films]]\n[[Category:New Zealand fantasy adventure films]]\n[[Category:New Zealand sequel films]]\n[[Category:Satellite Award–winning films]]\n[[Category:Saturn Award–winning films]]\n[[Category:Siege films]]\n[[Category:Supernatural war films]]\n[[Category:WingNut Films films]]\n[[Category:English-language drama films]]",
+  "redirect_chain": [
+    {
+      "source_title": "Dimholt",
+      "target_title": "The Lord of the Rings: The Return of the King"
+    }
+  ],
+  "revision_id": 1361415609,
+  "revision_timestamp": "2026-06-27T20:21:02Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: list",
+      "structure_type": "list"
+    },
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Plot"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Plot"
+      ],
+      "paragraph_ordinal": 9,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Cast"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Cast"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Cast"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: list",
+      "structure_type": "list"
+    },
+    {
+      "heading_path": [
+        "Cast"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: list",
+      "structure_type": "list"
+    },
+    {
+      "heading_path": [
+        "Cast"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Comparison to the source material"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Comparison to the source material"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Comparison to the source material"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Comparison to the source material"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Comparison to the source material"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Production"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Production"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Production",
+        "Design"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Production",
+        "Design"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Production",
+        "Design"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Production",
+        "Principal photography"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Production",
+        "Principal photography"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Production",
+        "Principal photography"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Production",
+        "Pick-ups"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Production",
+        "Pick-ups"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Production",
+        "Editing"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Production",
+        "Visual effects"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Production",
+        "Visual effects"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Production",
+        "Sound effects"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Production",
+        "Score"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Production",
+        "Score"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Production",
+        "Score"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Production",
+        "Score"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Release",
+        "Theatrical"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Release",
+        "Home media"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Release",
+        "Home media"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Release",
+        "Home media"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Release",
+        "Home media"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Reception",
+        "Box office"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Reception",
+        "Box office"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Reception",
+        "Box office"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Reception",
+        "Box office"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Reception",
+        "Box office"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Reception",
+        "Critical response"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Reception",
+        "Critical response"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Reception",
+        "Critical response"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Reception",
+        "Critical response"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Reception",
+        "Critical response"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Reception",
+        "Critical response"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Reception",
+        "Accolades"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Reception",
+        "Accolades"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Reception",
+        "Accolades"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Reception",
+        "Accolades"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: table",
+      "structure_type": "table"
+    },
+    {
+      "heading_path": [
+        "See also"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "See also"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: list",
+      "structure_type": "list"
+    },
+    {
+      "heading_path": [
+        "See also"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Notes"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "External links"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "External links"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "External links"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "External links"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

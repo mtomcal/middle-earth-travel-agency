@@ -1,0 +1,511 @@
+{
+  "article_artifact_id": "article_aeb4e655ca41e804ce6b6ed486e6207af6c202f490f8df317dd553b2bf9e0b72",
+  "canonical_title": "Frodo Baggins",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_aeb4e655ca41e804ce6b6ed486e6207af6c202f490f8df317dd553b2bf9e0b72",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Frodo is repeatedly wounded during the quest and becomes increasingly burdened by the Ring as it nears Mordor. He changes, too, growing in understanding and compassion. On his return to the Shire, he is unable to settle back into ordinary life; two years after the Ring's destruction, he is allowed to take ship to the earthly paradise of Valinor.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_c78e3c3787f981be8dc87fa7a1f540d746402b6254446fff09f6647f9606d494",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_aeb4e655ca41e804ce6b6ed486e6207af6c202f490f8df317dd553b2bf9e0b72",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Frodo's name comes from the Old English name Fróda, meaning \"wise by experience\". Commentators have written that he combines courage, selflessness, and fidelity and that as a good character, he seems unexciting but grows through his quest, an unheroic person who reaches heroic stature.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_7c3bb6296a6940d81a33276e3134fc26732d3fa84092b42683df31cdcd7e8dc2",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_aeb4e655ca41e804ce6b6ed486e6207af6c202f490f8df317dd553b2bf9e0b72",
+      "heading_path": [
+        "Internal history"
+      ],
+      "normalized_text": "thumb|upright=2.25|Sketch map of the Shire. Frodo lived at Bag End, in Hobbiton, near the centre of the map.",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_6ccc70d3db2b7a0d99f079ee9b3427a0ad2745876cac1c3c2a5f8a6619d62ce5",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_aeb4e655ca41e804ce6b6ed486e6207af6c202f490f8df317dd553b2bf9e0b72",
+      "heading_path": [
+        "Analysis",
+        "Allegiances and betrayals"
+      ],
+      "normalized_text": "rect 100 25 250 150 Gollum rect 600 150 800 250 Samwise Gamgee",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_8268d1f2605a5c26c0b9349ea8eff97f8a6f047c0a0f173e2cfc88d3448813c8",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_aeb4e655ca41e804ce6b6ed486e6207af6c202f490f8df317dd553b2bf9e0b72",
+      "heading_path": [
+        "Analysis",
+        "Allegiances and betrayals"
+      ],
+      "normalized_text": "rect 10 10 805 446 :commons:Allegiances and Betrayals of Frodo and Faramir.svg }}",
+      "paragraph_ordinal": 5,
+      "passage_id": "passage_86ed9d8d435e446c78f749e5ea54cbf3973bc55992e9b58735d5ce6be72e2837",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_aeb4e655ca41e804ce6b6ed486e6207af6c202f490f8df317dd553b2bf9e0b72",
+      "heading_path": [
+        "Adaptations"
+      ],
+      "normalized_text": "thumb|left|Frodo in Ralph Bakshi's 1978 animated version",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_bcf80b582babf1a59d276fa68f760e4ec1a8421de57ff719e20f1f3d02fc3f25",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_aeb4e655ca41e804ce6b6ed486e6207af6c202f490f8df317dd553b2bf9e0b72",
+      "heading_path": [
+        "Adaptations"
+      ],
+      "normalized_text": "thumb|upright|Elijah Wood as Frodo in Peter Jackson's film trilogy",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_19cd4d06252c7791a62481a575444c00a2068b4e429f40ab4f2551f670785596",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Frodo_Baggins&action=history",
+  "namespace": 0,
+  "page_id": 23140032,
+  "parent_revision_id": 1361166595,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1361189291",
+  "raw_wikitext": "{{Short description|Fictional hobbit protagonist in J. R. R. Tolkien's The Lord of the Rings}}\n{{redirect|Frodo}}\n{{good article}}\n{{Use dmy dates|date=June 2017}}\n{{Infobox character\n| name        = Frodo Baggins\n| image       =\n| caption     = [[Elijah Woods]] as Frodo Baggins\n| first       = ''[[The Fellowship of the Ring]]'' (1954)\n| last        = ''[[Bilbo's Last Song]]'' (1974)\n| alias       = Mr. Underhill\n| race        = [[Hobbit]]\n| gender      = Male\n| affiliation = [[Company of the Ring]]\n| family      = [[Bilbo Baggins]] <!-- (cousin) --- Yes this is correct, please leave it alone: although Frodo referred to Bilbo as his \"uncle\", they were in fact first and second cousins, once removed either way (his paternal great-great-uncle's son's son and his maternal great-aunt's son; see the Baggins family tree (below) for how this was so. -->\n| home        = [[The Shire]] \n}}\n<!--\n       NO FAN ART HERE, THANKS\n-->\n'''Frodo Baggins''' is a fictional character in [[J. R. R. Tolkien]]'s writings and one of the protagonists<!-- in LOTR he's DEFINITELY not the only one (see [[Heroism in The Lord of the Rings]] for some others), but everyone wants to call him a protagonist, see the history--> in ''[[The Lord of the Rings]]''. Frodo is a [[hobbit]] of [[Shire (Middle-earth)|the Shire]] who inherits the [[One Ring]] from his cousin<!--\"uncle\" is just a friendly name, they are actually both first and second cousins--> [[Bilbo Baggins]], described familiarly as \"uncle\", and undertakes [[Quests in Middle-earth|the quest]] to destroy it in the fires of [[Mount Doom]] in [[Mordor]]. He is mentioned in Tolkien's posthumously published works, ''[[The Silmarillion]]'' and ''[[Unfinished Tales]]''.\n\nFrodo is repeatedly wounded during the quest and becomes increasingly burdened by the Ring as it nears Mordor. He changes, too, growing in understanding and compassion. On his return to the Shire, he is unable to settle back into ordinary life; two years after the Ring's destruction, he is allowed to take ship to the [[earthly paradise]] of [[Valinor]].\n\nFrodo's name comes from the [[Old English]] name ''[[Froda|Fróda]]'', meaning \"wise by experience\". Commentators have written that he combines courage, selflessness, and fidelity and that as a good<ref name=\"Stanton 223\"/> character, he seems unexciting but grows through his quest, an [[Heroism in The Lord of the Rings|unheroic person who reaches heroic stature]].\n\n==Internal history==\n\n[[File:Sketch Map of The Shire.svg|thumb|upright=2.25|Sketch map of [[the Shire]]. Frodo lived at [[Bag End]], in Hobbiton, near the centre of the map.]]\n\n===Background===\n\nFrodo is introduced in ''[[The Lord of the Rings]]'' as [[Bilbo Baggins]]' cousin<!--no, not nephew, see the family tree below!-->{{efn|Although Frodo referred to Bilbo as his \"uncle\", they were in fact first ''and'' second cousins, once removed either way (his paternal great-great-uncle's son's son and his maternal great-aunt's son).}} and adoptive heir.<ref name=\"Party\" group=T/> Frodo's parents, Drogo Baggins and Primula Brandybuck, had been killed in a boating accident when Frodo was 12; Frodo spends the next nine years living with his maternal family, the Brandybucks, in Brandy Hall. At age 21, he is adopted by Bilbo, who brings him to live at [[Bag End]] in [[the Shire]]. He and Bilbo share the same birthday, the 22nd of September. Bilbo introduces Frodo to the [[Elvish languages (Middle-earth)|Elvish languages]], and they often go on long walks together.<ref name=\"Party\" group=T>{{harvnb|Tolkien|1954a}} book 1, ch. 1, \"A Long-Expected Party\"</ref> Due partly to their age difference, they refer to each other as \"uncle\" and \"nephew.\"<ref>{{Cite journal |last=Honegger |first=Thomas |date=2020-04-20 |title='Uncle me no uncle!'   Or Why Bilbo Is and Isn't Frodo's Uncle. |url=https://scholar.valpo.edu/journaloftolkienresearch/vol9/iss1/4 |journal=Journal of Tolkien Research |volume=9 |issue=1 |issn=2471-934X}}</ref>\n\n===''The Fellowship of the Ring''===\n\nFrodo comes of age as Bilbo leaves the Shire. Frodo inherits Bag End and [[One Ring|Bilbo's ring]]. [[Gandalf]], uncertain about the origin of the ring, warns Frodo to avoid using it and to keep it secret.<ref name=\"Party\" group=T/> Frodo keeps it hidden for the next 17 years, and it gives him the same longevity and youthful appearance it had given Bilbo. Gandalf [[The Shadow of the Past|returns to tell him]] that it is the One Ring of the Dark Lord [[Sauron]], who is seeking to recover and use it to conquer [[Middle-earth]].<ref group=T>{{harvnb|Tolkien|1954a}} book 1, ch. 2, \"[[The Shadow of the Past]]\"</ref>\n\nRealising that he is a danger to the Shire as long as he remains there, Frodo decides to take the Ring to [[Rivendell]], home of [[Elrond]], a mighty [[Elf (Middle-earth)|Elf]]-lord. He leaves with three companions: his gardener [[Samwise Gamgee|Sam Gamgee]] and his cousins [[Meriadoc Brandybuck|Merry Brandybuck]]  and [[Peregrin Took|Pippin Took]]. They are just in time, for Sauron's most powerful servants, the Nine [[Nazgûl]], have entered the Shire as Black Riders, looking for the Ring. They follow Frodo's trail, nearly intercepting him.<ref group=T>{{harvnb|Tolkien|1954a}} book 1, ch. 3, \"Three is Company\"</ref><ref group=T>{{harvnb|Tolkien|1954a}} book 1, ch. 4, \"A Short Cut to Mushrooms\"</ref><ref group=T>{{harvnb|Tolkien|1954a}} book 1, ch. 5, \"A Conspiracy Unmasked\"</ref>\n\nThe hobbits escape into the [[Old Forest]]. They are waylaid by the magic of [[Old Man Willow]], but rescued by [[Tom Bombadil]],<ref group=T>{{harvnb|Tolkien|1954a}} book 1, ch. 6, \"The Old Forest\"</ref> who gives them shelter and guidance.<ref group=T>{{harvnb|Tolkien|1954a}} book 1, ch. 7, \"In the House of Tom Bombadil\"</ref> They are caught in fog on the Barrow Downs by a [[barrow-wight]] and put under a spell. Frodo breaks free, attacks the barrow-wight, and summons Bombadil, who again rescues the hobbits and sets them on their way.<ref group=T>{{harvnb|Tolkien|1954a}} book 1, ch. 8, \"Fog on the Barrow-Downs\"</ref>\n\nAt the ''[[Prancing Pony]]'' inn, Frodo receives a delayed letter from Gandalf and meets a man calling himself Strider, a [[Ranger of the North|Ranger]]; his real name is [[Aragorn]]. The One Ring slips onto Frodo's finger in the inn's common room, turning him invisible. This attracts the Nazgûl, who ransack the hobbits' empty rooms in the night.<ref group=T>{{harvnb|Tolkien|1954a}} book 1, ch. 9, \"At the Sign of the Prancing Pony\"</ref> Strider leads the group through the marshes.<ref group=T>{{harvnb|Tolkien|1954a}} book 1, ch. 10, \"Strider\"</ref>\n\nWhile encamped on [[Weathertop]], they are attacked by five Nazgûl. The leader, the [[Witch-king of Angmar]], stabs Frodo with a Morgul blade, the wound threatening to turn him into a wraith under the Nazgûl's control.<ref group=T>{{harvnb|Tolkien|1954a}} book 1, ch. 11, \"A Knife in the Dark\"</ref> Reaching Rivendell,<ref group=T>{{harvnb|Tolkien|1954a}} book 1, ch. 12, \"Flight to the Ford\"</ref> he is healed by [[Elrond]].<ref group=T>{{harvnb|Tolkien|1954a}} book 2, ch. 1, \"Many Meetings\"</ref>\n\nThe [[Council of Elrond]] resolves to destroy the Ring by casting it into [[Mount Doom]] in [[Mordor]], Sauron's realm. Frodo, realizing that he is destined for this task, steps forward to be the [[Ring-bearer]]. A [[Fellowship of the Ring (characters)|Fellowship of nine companions]] is formed to assist him: the hobbits, Gandalf, Aragorn, the [[dwarf (Middle-earth)|dwarf]] [[Gimli (Middle-earth)|Gimli]], the [[Elf (Middle-earth)|elf]] [[Legolas]], and [[Boromir]], a man of [[Gondor]]. Bilbo, living in Rivendell, gives Frodo his sword [[Sting (Middle-earth)|Sting]] and a coat of Dwarf mail made of ''[[mithril]]''.<ref name=\"The Council of Elrond\" group=T>{{harvnb|Tolkien|1954a}}, book 2, ch. 2, \"[[The Council of Elrond]]\"</ref> The company, unable to cross the [[Misty Mountains]] by a [[Mountain pass|pass]], enters the [[Moria (Middle-earth)|mines of Moria]].<ref group=T>{{harvnb|Tolkien|1954a}} book 2, ch. 3, \"The Ring Goes South\"</ref> Frodo is stabbed by an [[Orc (Middle-earth)|Orc]] with a spear, but his ''mithril'' mail-shirt saves his life.<ref group=T>{{harvnb|Tolkien|1954a}} book 2, ch. 4, \"A Journey in the Dark\"</ref> Gandalf is killed battling a [[Balrog]].<ref group=T>{{harvnb|Tolkien|1954a}} book 2, ch. 5, \"The Bridge of Khazad-Dum\"</ref> Aragorn leads them out to [[Lothlórien]].<ref group=T>{{harvnb|Tolkien|1954a}} book 2, ch. 6, \"Lothlórien\"</ref> There [[Galadriel]] gives Frodo an Elven cloak and [[Phial of Galadriel|a phial]], which [[Christianity in Middle-earth#Light|carries the Light]] of [[Eärendil]] to aid him on his quest.<ref group=T>{{harvnb|Tolkien|1954a}} book 2, ch. 8, \"Farewell to Lórien\"</ref>\n\nThe Fellowship travels by boat down the [[Anduin River]] and reaches the lawn of [[Parth Galen]], just above the impassable falls of [[Rauros]].<ref group=T>{{harvnb|Tolkien|1954a}} book 2, ch. 9, \"The Great River\"</ref> There, Boromir, succumbing to [[Addiction to power in The Lord of the Rings|the lure of the Ring]], tries to take it by force. Frodo escapes by putting it on. This breaks the Fellowship; the company is scattered by invading Orcs. Frodo chooses to continue the quest alone, but Sam follows him.<ref group=T>{{harvnb|Tolkien|1954a}} book 2, ch. 10, \"The Breaking of the Fellowship\"</ref>\n\n===''The Two Towers''===\n\nFrodo and Sam make their way through the wilds, followed by the monster [[Gollum]], who has been tracking them, seeking to reclaim the Ring, which he had lost to Bilbo (as portrayed in ''[[The Hobbit (novel)|The Hobbit]]''). Gollum attacks the hobbits, but Frodo subdues him with Sting. He takes pity on Gollum and spares his life, making him promise to guide them through the [[Dead Marshes|dead marshes]] to the [[Black Gate (Middle-earth)|Black Gate]].<ref group=T>{{harvnb|Tolkien|1954}} book 4, ch. 1, \"The Taming of Sméagol\"</ref><ref group=T>{{harvnb|Tolkien|1954}} book 4, ch. 2, \"The Passage of the Marshes\"</ref> They find the gate impassable; Gollum tells them of \"another way\" into Mordor,<ref group=T>{{harvnb|Tolkien|1954}} book 4, ch. 3, \"The Black Gate is Closed\"</ref> and Frodo, over Sam's objections, lets him lead them south into [[Ithilien]].<ref group=T>{{harvnb|Tolkien|1954}} book 4, ch. 4, \"Of Herbs and Stewed Rabbit\"</ref> There they meet [[Faramir]], younger brother of Boromir, who takes them to [[Henneth Annûn|a hidden cave]].<ref group=T>{{harvnb|Tolkien|1954}} book 4, ch. 5, \"The Window on the West\"</ref> Frodo allows Gollum to be captured by Faramir, saving Gollum's life but leaving him feeling betrayed. Faramir provisions the hobbits and sends them on their way, warning Frodo to beware of Gollum's treachery.<ref group=T>{{harvnb|Tolkien|1954}} book 4, ch. 6, \"The Forbidden Pool\"</ref><ref group=T>{{harvnb|Tolkien|1954}} book 4, ch. 7, \"Journey to the Cross-Roads\"</ref>\n\nThey pass [[Minas Morgul]], where the pull of the Ring becomes overwhelming, and climb the [[Cirith Ungol|Endless Stair]] to cross into Mordor.<ref group=T>{{harvnb|Tolkien|1954}} book 4, ch. 8, \"The Stairs of Cirith Ungol\"</ref> At the top they enter a tunnel, not knowing it is the home of the giant spider [[Shelob]]. Gollum hopes to deliver the hobbits to her and retake the Ring after she had killed them. Shelob stings Frodo, rendering him unconscious, but Sam drives her off with Sting and the Phial of Galadriel.<ref group=T>{{harvnb|Tolkien|1954}} book 4, ch. 9, \"Shelob's Lair\"</ref> Believing that Frodo is dead, Sam takes the Ring and continues the quest. Soon, however, he overhears Orcs taking Frodo for questioning, saying that he is still alive.<ref group=T>{{harvnb|Tolkien|1954}} book 4, ch. 10, \"The Choices of Master Samwise\"</ref>\n\n===''The Return of the King''===\n\nSam rescues Frodo and returns the Ring.<ref group=T>{{harvnb|Tolkien|1955}} book 6, ch. 1, \"The Tower of Cirith Ungol\"</ref> Dressed in scavenged Orc-armour, they set off, trailed by Gollum.<ref group=T>{{harvnb|Tolkien|1955}} book 6, ch. 2, \"The Land of Shadow\"</ref> At Mount Doom, Frodo enters the chasm where Sauron had forged the Ring. Here Frodo loses the will to destroy the Ring, and puts it on, claiming it for himself. Gollum attacks the invisible Frodo, biting off his finger and reclaiming the Ring. As he dances in elation, Gollum falls with the Ring into the fiery Cracks of Doom. The Ring is destroyed, and with it Sauron's power. Frodo and Sam are rescued by [[Eagle (Middle-earth)|Great Eagles]] as Mount Doom erupts, destroying Mordor.<ref group=T>{{harvnb|Tolkien|1955}} book 6, ch. 3, \"Mount Doom\"</ref>\n\nAfter Aragorn's coronation, the four hobbits return home.<ref group=T>{{harvnb|Tolkien|1955}} book 6, ch. 7, \"Homeward Bound\"</ref> They find that the fallen wizard [[Saruman]] and his agents have taken over the Shire and started to industrialize it. Frodo and his companions lead a rebellion and defeat the intruders. Even after Saruman attempts to stab Frodo, Frodo lets him go, only for Saruman to be killed by his henchman [[Gríma Wormtongue]].<ref group=T>{{harvnb|Tolkien|1955}}, book 6, ch. 8, \"[[The Scouring of the Shire]]\"</ref> The hobbits [[The Scouring of the Shire|restore the Shire]] to its prior state of peace and goodwill. While successful in his quest, Frodo never recovers from the physical and emotional wounds he suffered on the quest. After two years, Frodo and Bilbo as Ring-bearers are granted passage to [[Valinor]].<ref group=T>{{harvnb|Tolkien|1955}} book 6, ch. 9, \"The Grey Havens\"</ref>\n\n===Other works===\n\n\"[[The Sea-Bell]]\" was published in Tolkien's 1962 collection of verse ''[[The Adventures of Tom Bombadil]]'' with the sub-title ''Frodos Dreme<!--sic-->''. Tolkien suggests that this enigmatic [[narrative poem]] represents the despairing dreams that visited Frodo in the Shire in the years following the destruction of the Ring. It relates the unnamed speaker's journey to a mysterious land across the sea, where he tries but fails to make contact with the people who dwell there. He descends into despair and near-madness, eventually returning to his own country, to find himself utterly alienated from those he once knew.<ref name=\"Flieger 2001\">{{cite book |last=Flieger |first=Verlyn |author-link=Verlyn Flieger |title=A Question of Time: J.R.R. Tolkien's Road to Faërie |url=https://books.google.com/books?id=I33v5ny3NX0C&pg=PA209 |year=2001 |publisher=Kent State University Press |isbn=978-0-87338-699-9 |page=208}}</ref>\n\n\"Frodo the halfling\" is mentioned briefly at the end of ''[[The Silmarillion]]'', as \"alone with his servant he passed through peril and darkness\" and \"cast the Great Ring of Power\" into the fire.<ref group=T>{{harvnb|Tolkien|1977}}, \"Of the Rings of Power and the Third Age\"</ref>\n\nIn the poem ''[[Bilbo's Last Song]]'', Frodo is at the [[Grey Havens]] at the farthest west of Middle-earth, about to leave the mortal world on an elven-ship to Valinor.<ref>{{cite book |last1=Hammond |first1=Wayne G. |author1-link=Wayne G. Hammond |last2=Scull |first2=Christina |author2-link=Christina Scull |title=The Lord of the Rings: A Reader's Companion |title-link=The Lord of the Rings: A Reader's Companion |publisher=[[HarperCollins]] | location=New York City |year=2017 |edition=Second |volume=2 |page=158}}</ref>\n\n\"The Hunt for the Ring\" in ''[[Unfinished Tales]]'' describes how the Black Riders travelled to [[Isengard]] and the Shire in search of the One Ring, purportedly \"according to the account that Gandalf gave to Frodo\".{{efn|In the fiction, the account survives as Frodo wrote it in the ''[[Red Book of Westmarch]]''.}} It is one of several mentions of Frodo in the book.<ref group=T>{{harvnb|Tolkien|1980}}, part 3, ch. 4 \"The Hunt for the Ring\"</ref>\n\n===Family tree===\n{{further|Tolkien's Middle-earth family trees|Ancestry as guide to character in Tolkien's legendarium}}\n\nThe Tolkien scholar [[Jason Fisher]] notes that Tolkien stated that hobbits were extremely \"clannish\" and had strong \"predilections for [[genealogy]]\".<ref name=\"Fisher 2007\">{{cite book |last=Fisher |first=Jason |author-link=Jason Fisher |editor-last=Drout |editor-first=Michael D. C. |editor-link=Michael D. C. Drout |title=[[J.R.R. Tolkien Encyclopedia]] |chapter=Family Trees |chapter-url=https://books.google.com/books?id=B0loOBA3ejIC&pg=PA188 |year=2007 |publisher=[[Taylor & Francis]] |isbn=978-0-415-96942-0 |pages=188–189}}</ref> Accordingly, Tolkien's decision to include Frodo's family tree in ''Lord of the Rings'' gives the book, in Fisher's view, a strongly \"hobbitish perspective\".<ref name=\"Fisher 2007\"/> The tree also, he notes, serves to show Frodo's and Bilbo's [[Ancestry as guide to character in Tolkien's legendarium|connections and familial characteristics]].<ref name=\"Fisher 2007\"/> Frodo's family tree is as follows:<ref name=\"Baggins family tree\" group=T/>\n\n{{Baggins family tree}}\n\n==Concept and creation==\n\nFrodo did not appear until the third draft of ''A Long-Expected Party'' (the first chapter of ''The Lord of the Rings''), when he was named Bingo, son of Bilbo Baggins and [[Primula Brandybuck]].<ref group=T>{{harvnb|Tolkien|1988}}, pp. 28–29.</ref> In the fourth draft, he was renamed Bingo Bolger-Baggins, son of Rollo Bolger and Primula Brandybuck.<ref group=T>{{harvnb|Tolkien|1988}}, pp. 36–37.</ref> Tolkien did not change the name to Frodo until the third phase of writing, when much of the narrative, as far as the hobbits' arrival in Rivendell, had already taken shape.<ref group=T>{{harvnb|Tolkien|1988}}, p. 309.</ref> Prior to this, the name \"Frodo\" had been used for the character who eventually became Pippin Took.<ref group=T>{{harvnb|Tolkien|1988}}, p. 267.</ref> In drafts of the final chapters, published as ''[[Sauron Defeated]]'', Gandalf names Frodo ''Bronwe athan Harthad'' (\"Endurance Beyond Hope\"), after the destruction of the Ring. Tolkien states that Frodo's name in [[Westron]] was ''Maura Labingi''.<ref group=T>{{harvnb|Tolkien|1996}}, \"The Appendix on Languages\"</ref>\n\n== Analysis ==\n\n=== Name and origins ===\n\nFrodo is the only prominent hobbit whose name is not explained in Tolkien's Appendices to ''The Lord of the Rings''. In a letter Tolkien states that it is the [[Old English]] name ''[[Froda|Fróda]]'', connected to ''[[Germanic name#Frod|fród]]'', \"wise by experience\".<ref group=T>{{harvnb|Carpenter|2023|loc=''Letters'' #168 to Richard Jeffrey, 7 September 1955 }}</ref> The Tolkien scholar [[Tom Shippey]] suggests that the choice of name is significant: not, in Tolkien's phrase, one of the many \"names that had no meaning at all in [the hobbits'] daily language\". Instead, he notes, the [[Old Norse]] name ''[[Fróði]]'' is mentioned in ''[[Beowulf]]'' as the minor character ''Fróda''. ''Fróði'' was, he writes, said by [[Saxo Grammaticus]] and [[Snorri Sturluson]] to be a peaceful ruler at the time of Christ, his time being named the ''Fróða-frið'', the peace of ''Fróði''. This was created by his magic mill, worked by two female giants, that could churn out peace and gold. He makes the giants work all day long at this task, until they rebel and grind out an army instead, which kills him and takes over, making the giants grind salt until the sea is full of it. The name ''Fróði'' is forgotten. Clearly, Shippey observes, evil is impossible to cure; and Frodo too is a \"peacemaker, indeed in the end<!--direct quotation, do not add commas!--> a [[pacifist]]\". And, he writes, as Frodo gains experience through the quest, he also gains wisdom, matching the meaning of his name.<ref name=\"Shippey 2005\">{{cite book |last=Shippey |first=Tom |author-link=Tom Shippey |title=[[The Road to Middle-Earth]] |year=2005 |edition=Third |orig-year=1982 |publisher=[[HarperCollins]] |location=London |isbn=978-0261102750 |pages=231–237}}</ref> The name 'Frodo Baggins' is ostensibly a translation from the [[Westron]] name \"Maura Labingi\"; Tolkien stated that ''maur-'' was hobbitish for \"wise\", equivalent to Germanic ''fród-''.<ref group=T>{{harvnb|Tolkien|1996|at=The Appendix on Languages}}</ref>\n\n=== Character ===\n\nMichael Stanton, writing in the ''[[J.R.R. Tolkien Encyclopedia]]'', describes Frodo's character as combining \"courage, selflessness, and fidelity\",<ref name=\"Stanton 223\">{{cite encyclopedia |last=Stanton |first=Michael N. |editor-last=Drout |editor-first=Michael D. C. |editor-link=Michael D. C. Drout |title=Frodo |encyclopedia=[[J.R.R. Tolkien Encyclopedia]] |year=2013 |orig-year=2007 |publisher=[[Routledge]] |isbn=978-0-415-86511-1 |pages=223–225}}</ref> attributes that make Frodo ideal as a Ring-bearer. He lacks Sam's simple sturdiness, Merry and Pippin's clowning, and the [[psychopathology]] of Gollum, writes Stanton, bearing out the saying that good is less exciting than evil; but Frodo grows through his quest, becoming \"ennobled\" by it, to the extent that returning to the Shire feels in Frodo's words \"like falling asleep again\".<ref name=\"Stanton 223\"/>\n\n=== Christ figure ===\n\n{{further|Christianity in Middle-earth}}\n\nTolkien was a devout Catholic, and wrote in his [[Letters of J. R. R. Tolkien|private letters]] that his Middle-earth stories were [[Christianity|Christian]].<ref group=T>{{harvnb|Carpenter|2023|loc=''Letters'' #213 to Deborah Webster, 25 October 1958 }}</ref> Scholars including [[Peter Kreeft]],<ref name=\"Kreeft 2005\">{{cite web |url=http://www.ignatiusinsight.com/features2005/pkreeft_christlotr_nov05.asp |title=The Presence of Christ in The Lord of the Rings |first=Peter J. |last=Kreeft |author-link=Peter Kreeft |work=Ignatius Insight |date=November 2005 |access-date=2 August 2020 |archive-date=24 November 2005 |archive-url=https://web.archive.org/web/20051124173906/http://www.ignatiusinsight.com/features2005/pkreeft_christlotr_nov05.asp |url-status=dead }}</ref> Paul E. Kerry,<ref>{{cite book |chapter=Introduction: Christian References |chapter-url=https://books.google.com/books?id=32FODDQdKLIC&pg=PA33 |title=The Ring and the Cross: Christianity and the Lord of the Rings |editor-first=Paul E. |editor-last=Kerry |first=Paul E. |last=Kerry |pages=32–34 |publisher=[[Fairleigh Dickinson University Press]] |year=2010 |isbn=978-1-61147-065-9}}</ref> and [[Joseph Pearce]]<ref name=\"Pearce 2007\">{{cite encyclopedia |last=Pearce |first=Joseph |author-link=Joseph Pearce |editor-last=Drout |editor-first=Michael D. C. |editor-link=Michael D. C. Drout |title=Christ |encyclopedia=[[J.R.R. Tolkien Encyclopedia|J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment]] |year=2013 |orig-year=2007 |publisher=[[Routledge]] |isbn=978-0-415-86511-1 |pages=97–98}}</ref> state that there is no one complete, concrete, visible [[Christ]] figure in ''The Lord of the Rings'', but Frodo serves as the [[priest]]ly aspect of Christ, alongside Gandalf as [[prophet]] and Aragorn as King, together making up the [[threefold office]] of the [[Messiah]].<ref>{{cite web |last=Schultz |first=Forrest W. |title=Christian Typologies in The Lord of the Rings |url=https://chalcedon.edu/magazine/christian-typologies-in-the-lord-of-the-rings |publisher=Chalcedon |access-date=26 March 2020 |date=1 December 2002}}</ref><ref name=\"Ryken 2017\">{{cite book |last=Ryken |first=Philip |title=The Messiah Comes to Middle-Earth: Images of Christ's Threefold Office in 'The Lord of the Rings' |publisher=IVP Academic, an imprint of [[InterVarsity Press]] |year=2017 |isbn=978-0-8308-5372-4 |oclc=1000050834 |at=chapter 2 \"Frodo, Sam, and the Priesthood of All Believers\"}}</ref>\n\n=== Tragic hero ===\n\n{{further|Heroism in The Lord of the Rings}}\n\nThe Tolkien scholar [[Jane Chance]] quotes [[Randel Helms]]'s view that in both ''The Hobbit'' and ''Lord of the Rings'', \"a most unheroic hobbit [Bilbo, Frodo] achieves heroic stature\" in [[Quests in Middle-earth|a quest romance]].<ref>{{cite book |last=Helms |first=Randel |author-link=Randel Helms |title=Tolkien's World |year=1974 |publisher=[[Houghton Mifflin]] |page=21}}</ref> Chance writes that Frodo grows from seeing the threat as external, such as from the Black Riders, to internal, whether within the Fellowship, as shown by Boromir's attempt on the Ring, or within himself, as he struggles against the controlling power of the Ring.<ref>{{cite book |last=Nitzsche |first=Jane Chance |author-link=Jane Chance |title=[[Tolkien's Art: 'A Mythology for England']] |year=1980 |orig-year=1979 |publisher=[[Papermac]] |isbn=0-333-29034-8 |pages=97–99}}</ref> Tolkien scholar Thomas P. Hillman writes that, while Frodo's compassion for Gollum helps defend him against the Ring's temptation, no mortal (including Frodo) could have resisted its power indefinitely.<ref>{{Cite journal |last=Pukkila |first=Marilyn |date=2024-04-16 |title=Pity, Power, and Tolkien's Ring: To Rule the Fate of Many (2023) by Thomas P. Hillman |url=https://scholar.valpo.edu/journaloftolkienresearch/vol18/iss2/5 |journal=Journal of Tolkien Research |volume=18 |issue=2 |issn=2471-934X}}</ref>\n\n[[Verlyn Flieger]], a scholar of literature and of Tolkien's works, summarizes Frodo's role in ''Lord of the Rings'': \"The greatest hero of all, Frodo Baggins, is also the most tragic. He comes to the end of his story bereft of the Ring, denied in his home Shire the recognition he deserves, and unable to continue his life as it was before his terrible adventure.\"<ref>{{cite book |last=Flieger |first=Verlyn |author-link=Verlyn Flieger |chapter=An Unfinished Symphony |editor=Harold Bloom |title=J. R. R. Tolkien |series=Bloom's Modern Critical Views |publisher=Bloom's Literary Criticism, an imprint of [[Infobase Publishing]] |year=2008 |isbn=978-1-60413-146-8 |pages=121–127 |url=https://www.mobt3ath.com/uplode/book/book-60076.pdf}}</ref>\n\n=== Psychology ===\n\n{{further|Mental illness in Middle-earth}}\n\nBoth medical and Tolkien scholars have suggested that Frodo, returning \"irreparably wounded\" from his quest, may suffer from [[post-traumatic stress disorder]].<ref>{{cite journal |last=Milos |first=Karyn |date=1998 |title=Too Deeply Hurt: Understanding Frodo's Decision to Depart |jstor=45320550 |journal=[[Mallorn (journal)|Mallorn]] |issue=36 |pages=17–23}}</ref><ref>{{cite journal |last=Leonard |first=Bruce |date=20 October 2023 |title=The Posttraumatic Stress Disorder of Frodo Baggins |url=https://dc.swosu.edu/mythlore/vol42/iss1/2 |journal=[[Mythlore]] |volume=42 |issue=1}}</ref> On returning to the Shire, he withdraws from society and relives traumatic experiences through vivid flashbacks. He experiences [[chronic pain]] in the shoulder wound he received on Weathertop.<ref name=\"Leonard 2023\">{{cite journal |last=Leonard |first=Bruce D. |year=2023 |title=The Posttraumatic Stress Disorder of Frodo Baggins |url=https://dc.swosu.edu/cgi/viewcontent.cgi?article=3178&context=mythlore |journal=[[Mythlore]] |volume=42 |issue=1 |at=article2}}</ref> Scholars have likened the intrusive pull of the Ring on Frodo to the effects of [[addiction]], [[Obsessive–compulsive disorder|obsessive-compulsive disorder]] or [[psychological abuse]].<ref>{{cite journal |last=Wilkerson |first=Ginna |date=15 October 2008 |title=So Far From the Shire: Psychological Distance and Isolation in The Lord of the Rings |url=https://dc.swosu.edu/mythlore/vol27/iss1/8 |journal=[[Mythlore]] |volume=27 |issue=1}}</ref><ref>{{cite journal |last=Minshew |first=Andreas |date=6 May 2025 |title=The Wheel of Fire: An Obsessive-Compulsive Reading of Frodo Baggins |url=https://scholar.valpo.edu/journaloftolkienresearch/vol21/iss1/8 |journal=[[Journal of Tolkien Research]] |volume=21 |issue=1}}</ref><ref>{{cite web |last=Arvia |first=Katie |date=11 November 2024 |title=Addiction in ''The Lord of the Rings'' and the real world: Insights for physicians |url=https://thedo.osteopathic.org/2024/11/addiction-in-the-lord-of-the-rings-and-the-real-world-insights-for-physicians/ |access-date=29 December 2025 |website=The DO}}</ref>\n\n=== Providence ===\n\n{{further|Luck and fate in Middle-earth}}\n\nThe Tolkien critic [[Paul H. Kocher]] discusses the role of [[Divine providence|providence]], in the form of the intentions of the angel-like [[Valar]] or of the creator [[Eru Ilúvatar]], in Bilbo's finding of the Ring and Frodo's bearing of it; as Gandalf says, Frodo was \"meant\" to have it, though it remains his choice to co-operate with this purpose.<ref>{{cite book |last=Kocher |first=Paul |author-link=Paul H. Kocher |title=Master of Middle-earth: The Achievement of J.R.R. Tolkien |title-link=Master of Middle-earth |year=1974 |orig-year=1972 |publisher=[[Penguin Books]] |isbn=0140038779 |page=37}}</ref>\n\n=== Allegiances and betrayals ===\n\n{{further|Feudal allegiance in The Lord of the Rings|Tolkien and the medieval}}\n\nFrodo is at the centre of a complex web of medieval [[Feudalism|feudal]]-style allegiances and betrayals, involving Sam, Gollum, and Faramir. Sam serves him faithfully, but accidentally betrays him to Faramir with the smoke from his cooking fire, and then by mentioning the Ring. Frodo offers his service to Faramir, who reciprocally grants him protection in the manner of a feudal lord to a vassal. Gollum swears to Frodo not to run off, and for a time guides him faithfully; Frodo is obliged by Faramir to lure Gollum into captivity, which Gollum sees as a betrayal. Gollum then swears to Faramir never to revisit the forbidden pool outside Faramir's secret stronghold. Frodo thus appears both as a feudal master (to Sam and Gollum) and as a feudal vassal (to Faramir).<ref name=\"Chance 1980 p118\">{{cite book |last=Chance |first=Jane |author-link=Jane Chance |title=[[Tolkien's Art: 'A Mythology for England']] |publisher=[[Macmillan Publishers|Macmillan]] |year=1980 |orig-year=1979 |isbn=978-0-333-29034-7 |page=118}}</ref><ref name=\"Donnelly 2007\">{{cite journal |last=Donnelly |first=Colleen |title=Feudal Values, Vassalage, and Fealty in ''The Lord of the Rings'' |journal=[[Mythlore]] |volume=25 |issue=3/4 |year=2007 |pages=17–27 |url=https://dc.swosu.edu/cgi/viewcontent.cgi?article=1236&context=mythlore }}</ref>\n\n{{#tag:imagemap|\nFile:Allegiances and Betrayals of Frodo and Faramir.svg{{!}}thumb{{!}}upright=2{{!}}center{{!}}Imagemap with clickable links. [[Feudal allegiance in The Lord of the Rings|Allegiances and betrayals]] around Frodo, as analysed by [[Jane Chance]]{{sfn|Chance|1980|p=118}}\n\nrect 100  25  250  150 [[Gollum]] \nrect 600 150  800  250 [[Samwise Gamgee]]\n<!--rect 300 150  450  250 [[Frodo Baggins]] ... if using this imagemap anywhere else-->\n\nrect  10  10  805  446 [[:commons:Allegiances and Betrayals of Frodo and Faramir.svg]]\n}}\n\n==Adaptations==\n\n[[File:BakshiFrodo.JPG|thumb|left|Frodo in [[Ralph Bakshi]]'s 1978 [[The Lord of the Rings (1978 film)|animated version]]]]\n\nFrodo appears in adaptations of ''The Lord of the Rings'' for radio, cinema, and stage. In [[Ralph Bakshi]]'s 1978 [[The Lord of the Rings (1978 film)|animated version]], Frodo was voiced by [[Christopher Guard]].<ref>{{cite web |title=Actor and musician Christopher Guard appoints Palamedes PR |url=https://stories.swns.com/news/actor-and-musician-christopher-guard-appoints-palamedes-pr-63333/ |publisher=SWNS |access-date=5 April 2020 |date=15 October 2014 |quote=He is perhaps best-known for voicing Frodo Baggins in the animated version of The Lord of the Rings}}</ref> In the 1980 [[Rankin/Bass]] animated version of ''[[The Return of the King (1980 film)|The Return of the King]]'', made for television, the character was voiced by [[Orson Bean]], who had previously played Bilbo in the same company's adaptation of ''[[The Hobbit (1977 film)|The Hobbit]]''.<ref>{{cite web |last1=Hoffman |first1=Jordan |title=Orson Bean, Legendary Character Actor, Killed in Accident at 91 |url=https://www.vanityfair.com/hollywood/2020/02/orson-bean-legendary-character-actor-killed-in-accident-at-91 |magazine=[[Vanity Fair (magazine)|Vanity Fair]] |access-date=5 April 2020 |date=8 February 2020}}</ref> In the \"massive\"<ref name=\"BBC Holm Obit\">{{cite news |title=Obituary: Ian Holm |url=https://www.bbc.co.uk/news/entertainment-arts-13960349 |access-date=19 June 2020 |work=[[BBC]] |date=19 June 2020 |quote=he took the part of Frodo Baggins in BBC Radio 4's massive adaptation of ''The Lord of the Rings'', which featured Holm alongside a host of other stars including Michael Hordern and Robert Stephens.}}</ref> 1981 [[BBC]] radio [[The Lord of the Rings (1981 radio series)|serial of ''The Lord of the Rings'']], Frodo is played by [[Ian Holm]], who later played Bilbo in [[Peter Jackson]]'s [[The Lord of the Rings (film series)|film adaptation]] of ''The Lord of the Rings''.<ref>{{cite web |url=http://www.tolkienlibrary.com/press/850-Lord-of-the-Rings-BBC-Dramatization.php |title=The Tolkien Library review of the Lord of the Rings Radio Adaptation |access-date=19 June 2020}}</ref> In [[Leningrad Television]]'s two-part 1991 teleplay ''[[Khraniteli]]'' (Keepers [of the Ring]), Frodo was played by Valery Dyachenko,<ref name=\"5 TV 2021\">{{cite web |last=Vasilieva |first=Anna |title=\"Хранители\" и \"Властелин Колец\": кто исполнил роли в культовых экранизациях РФ и США |trans-title=\"Keepers\" and \"The Lord of the Rings\": who played the roles in the cult film adaptations of the Russian Federation and the USA |url=https://www.5-tv.ru/news/337679/hraniteli-ivlastelin-kolec-kto-ispolnil-roli-vkultovyh-ekranizaciah-rfissa/ |publisher=5 TV |access-date=6 April 2021 |language=ru |date=31 March 2021 |archive-date=13 June 2021 |archive-url=https://web.archive.org/web/20210613085725/https://www.5-tv.ru/news/337679/hraniteli-ivlastelin-kolec-kto-ispolnil-roli-vkultovyh-ekranizaciah-rfissa/ |url-status=live }}</ref> while in the Finnish broadcaster [[Yle]]'s 1993 television [[miniseries]] ''[[Hobitit]]'', the role is played by Taneli Mäkelä.<ref name=Kajava>{{cite news |last=Kajava |first=Jukka |title=Tolkienin taruista on tehty tv-sarja: Hobitien ilme syntyi jo Ryhmäteatterin Suomenlinnan tulkinnassa |trans-title=Tolkien's tales have been turned into a TV series: The Hobbits have been brought to live in the Ryhmäteatteri theatre | work=[[Helsingin Sanomat]] |language=fi |date=29 March 1993 |url=http://www.hs.fi/paivanlehti/arkisto/?haku=Klonkku&ref=arkisto%2F&page=4}} {{Subscription required}}</ref>\n\n[[File:Elijah Wood as Frodo Baggins.png|thumb|upright|[[Elijah Wood]] as Frodo in [[Peter Jackson]]'s [[The Lord of the Rings (film series)|film trilogy]]]]\n\nIn [[Peter Jackson|Peter Jackson's]] ''[[The Lord of the Rings (film series)|The Lord of the Rings]]'' film trilogy (2001–2003), Frodo is played by the American actor [[Elijah Wood]]. Dan Timmons writes in [[Janet Brennan Croft]]'s 2004 ''[[Tolkien on Film]]'' that the themes and internal logic of the Jackson films are undermined by the portrayal of Frodo, which<!--the portrayal--> he considers a weakening of Tolkien's original.<ref name=\"timmons\">{{cite book |last=Timmons |first=Dan |chapter=Frodo on Film: Peter Jackson’s Problematic Portrayal |title=Tolkien on Film: Essays on Peter Jackson's The Lord of the Rings |title-link=Tolkien on Film |editor-last=Croft |editor-first=Janet Brennan |publisher=[[Mythopoeic Society|Mythopoeic Press]] |chapter-url=http://www.mythsoc.org/press/tolkien.on.film/ |year=2005 |location=Altadena |isbn=978-1-887726-09-2 |access-date=2009-06-23 |url-status=dead |archive-url=https://web.archive.org/web/20090923204958/http://www.mythsoc.org/press/tolkien.on.film/ |archive-date=23 September 2009 |df=dmy-all}}</ref> \nThe film critic [[Roger Ebert]] writes that he missed the depth of characterisation he felt in the book, Frodo doing little but watching other characters decide his fate \"and occasionally gazing significantly upon the Ring\".<ref name=\"Ebert 2002\">{{cite web |last1=Ebert |first1=Roger |author-link1=Roger Ebert |title=Lord of the Rings: The Two Towers |url=https://www.rogerebert.com/reviews/lord-of-the-rings-the-two-towers-2002 |newspaper=[[The Chicago Sun-Times]] |access-date=1 August 2020 |date=18 December 2002 |via=[[RogerEbert.com]]}}</ref> [[Peter Travers]] of ''[[Rolling Stone]]'', however, wrote that Wood played the role with \"soulful conviction\", and that his portrayal matured as the story progressed.<ref>{{cite magazine |last=Travers |first=Peter |authorlink=Peter Travers|title=Movie Reviews: The Lord of the Rings: The Fellowship of the Ring |magazine=[[Rolling Stone]] |url=https://www.rollingstone.com/movies/movie-reviews/the-lord-of-the-rings-the-fellowship-of-the-ring-251078/ |date=19 December 2001 |access-date=17 August 2020}}</ref> Wood reprised the role in a brief appearance in ''[[The Hobbit: An Unexpected Journey]]''.<ref>{{cite web |first=Josh|last=Grossberg|title=New Hobbit: An Unexpected Journey Pics: Elijah Wood Returns as Frodo; Martin Freeman's Bilbo Gets His Sword |date=18 October 2012 |url=http://au.eonline.com/news/355189/new-hobbit-an-unexpected-journey-pics-elijah-wood-returns-as-frodo-martin-freeman-s-bilbo-gets-his-sword |website=[[E!]] |access-date=26 November 2012}}</ref>\n\nOn stage, Frodo was portrayed by [[James Loye]] in the three-hour stage production of ''[[Lord of the Rings (musical)|The Lord of the Rings]]'', which opened in [[Toronto]] in 2006, and was brought to London in 2007.<ref name=\"NYT\">{{cite news |last=Brantley |first=Ben |authorlink=Ben Brantley|date=24 March 2006 |url=http://theater2.nytimes.com/2006/03/24/theater/reviews/24ring.html |title=Tolkien's 'Lord of the Rings,' Staged by Matthew Warchus in Toronto |work=[[The New York Times]] |access-date=18 July 2021}}</ref><ref>{{cite web |url=https://www.cbsnews.com/pictures/lotr-in-london/ |title=\"LOTR\" In London |website=www.cbsnews.com |date=19 June 2007 |access-date=2020-01-14}}</ref> Frodo was portrayed by Joe Sofranko in the [[Cincinnati]] productions of ''The Fellowship of the Ring'' (2001), ''The Two Towers'' (2002), and ''The Return of the King'' (2003) for Clear Stage Cincinnati.<ref>{{cite web |first=Chris |last=Jones |title=Lifeline wraps up Tolkien trilogy in jaunty style |url=https://www.chicagotribune.com/news/ct-xpm-2001-10-18-0110180004-story.html |newspaper=[[The Chicago Tribune]] |date=18 October 2001}}</ref><ref>{{cite web |url=http://www.clearstagecincinnati.com/rotk/index.html |title=J.R.R. Tolkien's The Return of the King |publisher=Clear Stage Cincinnati |access-date=August 24, 2006 |url-status=dead |archive-url=https://web.archive.org/web/20071009053725/http://www.clearstagecincinnati.com/rotk/index.html |archive-date=October 9, 2007 }}</ref><ref>{{cite web |last=Hetrick |first=Adam |title=Lord of the Rings Musical Will Embark On 2015 World Tour |url=http://www.playbill.com/news/article/lord-of-the-rings-musical-will-embark-on-2015-world-tour-211617 |magazine=[[Playbill (magazine)|Playbill]] |access-date=5 April 2020 |date=11 November 2013}}</ref>\n\n==See also==\n\n* {{annotated link|Rings of Power}}\n\n==Notes==\n\n{{notelist}}\n\n==References==\n\n===Primary===\n\n{{reflist|group=T|30em}}\n\n===Secondary===\n\n{{reflist|30em}}\n\n==Sources==\n\n* {{ME-ref|Letters}}\n* {{ME-ref|FOTR}}\n* {{ME-ref|TT}}\n* {{ME-ref|ROTK}}\n* {{ME-ref|Silm}}\n* {{ME-ref|UT}}\n* {{ME-ref|ROTS}}\n* {{ME-ref|POME}}\n\n{{The Lord of the Rings}}\n{{Authority control}}\n\n<!--please discuss on talk page before adding bizarre, point-of-view, or anachronistic categories, thanks-->\n<!--\n      PLEASE DO NOT ADD any \"Category:Fictional <type>\" here, it is not appropriate\n-->\n\n{{DEFAULTSORT:Baggins, Frodo}}\n[[Category:Adventure film characters]]\n[[Category:Bearers of the One Ring]]\n[[Category:Fictional Christ figures]]\n[[Category:Fictional characters with post-traumatic stress disorder]]\n[[Category:Fictional adventurers]]\n[[Category:Fictional writers]]\n[[Category:Fictional war veterans]]\n[[Category:Literary characters introduced in 1954]]\n[[Category:The Lord of the Rings characters]]\n[[Category:Male characters in literature]]\n[[Category:Male characters in film]]\n[[Category:Middle-earth Hobbits]]\n[[Category:Orphan characters in literature]]",
+  "redirect_chain": [],
+  "revision_id": 1361189291,
+  "revision_timestamp": "2026-06-26T07:16:37Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Internal history",
+        "Background"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Internal history",
+        "The Fellowship of the Ring"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Internal history",
+        "The Fellowship of the Ring"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Internal history",
+        "The Fellowship of the Ring"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Internal history",
+        "The Fellowship of the Ring"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Internal history",
+        "The Fellowship of the Ring"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Internal history",
+        "The Fellowship of the Ring"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Internal history",
+        "The Fellowship of the Ring"
+      ],
+      "paragraph_ordinal": 7,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Internal history",
+        "The Two Towers"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Internal history",
+        "The Two Towers"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Internal history",
+        "The Return of the King"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Internal history",
+        "The Return of the King"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Internal history",
+        "Other works"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Internal history",
+        "Other works"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Internal history",
+        "Other works"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Internal history",
+        "Other works"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Internal history",
+        "Family tree"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Internal history",
+        "Family tree"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Internal history",
+        "Family tree"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Concept and creation"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Name and origins"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Character"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Christ figure"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Christ figure"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Tragic hero"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Tragic hero"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Tragic hero"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Psychology"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Psychology"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Providence"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Providence"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Allegiances and betrayals"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Allegiances and betrayals"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Allegiances and betrayals"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "See also"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: list",
+      "structure_type": "list"
+    },
+    {
+      "heading_path": [
+        "Notes"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

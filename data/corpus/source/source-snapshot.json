@@ -1,0 +1,8 @@
+{
+  "dump_run": "20260701",
+  "extraction_profile": "full non-multistream article dump",
+  "filename": "enwiki-20260701-pages-articles.xml.bz2",
+  "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+  "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+  "wiki_database": "enwiki"
+}

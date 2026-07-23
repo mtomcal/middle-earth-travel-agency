@@ -1,0 +1,678 @@
+{
+  "article_artifact_id": "article_98d34dbc159f1f3c602e1f6b48c7da1ef1316fa20757a5ff98bb351f62f847f9",
+  "canonical_title": "Mordor",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_98d34dbc159f1f3c602e1f6b48c7da1ef1316fa20757a5ff98bb351f62f847f9",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Commentators have noted that Mordor was influenced by Tolkien's own experiences in the industrial Black Country of the English Midlands, and by his time fighting in the trenches of the Western Front in the First World War. Tolkien was also familiar with the account of the monster Grendel's unearthly landscapes in the Old English poem Beowulf. Others have observed that Tolkien depicts Mordor as specifically evil, and as a vision of industrial environmental degradation, contrasted with either the homey Shire or the beautiful elvish forest of Lothlórien.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_485cd8f0ae917e62598ac7848d51151416d065a599cc5184be87f004ed460b28",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_98d34dbc159f1f3c602e1f6b48c7da1ef1316fa20757a5ff98bb351f62f847f9",
+      "heading_path": [
+        "Geography",
+        "Overview"
+      ],
+      "normalized_text": "thumb|upright=1.5|Sketch map of part of Middle-earth in the Third Age, with Mordor on the right, bordered by Rohan and Gondor",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_21a16bc631674e0de65cf5a7ffff9c8442071669250a0d673107dedae7d02d18",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_98d34dbc159f1f3c602e1f6b48c7da1ef1316fa20757a5ff98bb351f62f847f9",
+      "heading_path": [
+        "Geography",
+        "Mount Doom"
+      ],
+      "normalized_text": "thumb|Tolkien identified the volcano of Stromboli off Sicily with Mount Doom.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_71c14f696fe4448ddcbd2cbf1779b94ef42a6fce291e13c3531e9d363f29d732",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_98d34dbc159f1f3c602e1f6b48c7da1ef1316fa20757a5ff98bb351f62f847f9",
+      "heading_path": [
+        "Geography",
+        "Mount Doom"
+      ],
+      "normalized_text": "thumb|Mount Ngauruhoe was Peter Jackson's inspiration for the Mount Doom in his films.",
+      "paragraph_ordinal": 5,
+      "passage_id": "passage_cb96dad1b4bc32f42388d2e7f1837eb851c4bf6d20e229901ff86f0a951ec76a",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_98d34dbc159f1f3c602e1f6b48c7da1ef1316fa20757a5ff98bb351f62f847f9",
+      "heading_path": [
+        "Geography",
+        "Mount Doom"
+      ],
+      "normalized_text": "In Peter Jackson's film adaptation of The Lord of the Rings, Mount Doom was represented by two active volcanoes in New Zealand: Mount Ngauruhoe and Mount Ruapehu, located in Tongariro National Park. In long shots, the mountain is either a large model or a CGI effect, or a combination. The production was not permitted to film the summit of Ngauruhoe because the Māori hold it to be sacred, but some scenes on the slopes of Mount Doom were filmed on the slopes of Ruapehu.",
+      "paragraph_ordinal": 6,
+      "passage_id": "passage_c01f6067a04350e5040be641368aed1a0f7c3768e9cd45e4849223ccf9dfde10",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_98d34dbc159f1f3c602e1f6b48c7da1ef1316fa20757a5ff98bb351f62f847f9",
+      "heading_path": [
+        "Geography",
+        "Barad-dûr"
+      ],
+      "normalized_text": "In The Return of the King, Sam Gamgee witnessed the destruction of Barad-dûr: \"... towers and battlements, tall as hills, founded upon a mighty mountain-throne above immeasurable pits; great courts and dungeons, eyeless prisons sheer as cliffs, and gaping gates of steel and adamant...\"",
+      "paragraph_ordinal": 5,
+      "passage_id": "passage_0bf7f25dc1869288347af9fd5418cec74e0ecdbb26826c2302aab38d394a310b",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_98d34dbc159f1f3c602e1f6b48c7da1ef1316fa20757a5ff98bb351f62f847f9",
+      "heading_path": [
+        "History",
+        "Early history"
+      ],
+      "normalized_text": "Sauron settled in Mordor in the Second Age of Middle-earth, and it remained the pivot of his evil contemplations. He built his great stronghold Barad-dûr, the Dark Tower, near the volcano Mount Doom (Orodruin), and became known as the Dark Lord of Mordor. Sauron aided the elves in the creation of the Rings of Power in Eregion in Eriador, and secretly forged the One Ring in Orodruin. He then set about conquering Middle-earth, launching an attack upon the Elves of Eregion, but was repelled by the Men of Númenor.",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_4847ec4b4a39e0b6bf53c2af85e23fe1f985166a5626b2c8beff45533b6bbb77",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_98d34dbc159f1f3c602e1f6b48c7da1ef1316fa20757a5ff98bb351f62f847f9",
+      "heading_path": [
+        "History",
+        "The Last Alliance and Third Age"
+      ],
+      "normalized_text": "The Great Plague in Gondor caused the fortifications guarding Mordor to be abandoned, and Mordor again filled with evil things. The Ringwraiths took advantage of Gondor's decline to re-enter Mordor, conquered Minas Ithil, and took over the fortresses. At the time of Bilbo Baggins's quest in The Hobbit, Sauron returned into Mordor from Dol Guldur, feigning defeat, but readying for war.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_65add9250e4f00f62ebef82a97022309aa39573e675f9c729e0804a6b7f86765",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_98d34dbc159f1f3c602e1f6b48c7da1ef1316fa20757a5ff98bb351f62f847f9",
+      "heading_path": [
+        "History",
+        "War of the Ring"
+      ],
+      "normalized_text": "thumb|upright|Frodo and Sam guided by Gollum through the Dead Marshes. Scraperboard illustration by Alexander Korotich, 1984",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_29f58db1effce0d98b0a0f7d8e9cbcb51dd2776b6938fc9c4ec3a40a7efce1a4",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_98d34dbc159f1f3c602e1f6b48c7da1ef1316fa20757a5ff98bb351f62f847f9",
+      "heading_path": [
+        "Naming"
+      ],
+      "normalized_text": "Fauskanger writes that there are however several words that sound like \"mor\" with connotations of darkness. Italian moro (cf. Latin maurus, black, and Mauri, a North African tribe) means a Moor, and the adjective means \"black\"; Tolkien said that he liked the Italian language. Greek Μαυρός (mauros) means \"dark, dim\". He notes, too, the possible connection in Tolkien's mind with Mirkwood, the dark Northern forest, from Norse myrk \"dark\", cognate with English \"murky\". He adds that words like \"Latin mors 'death' or Old English morðor 'murder'—further darkened the ring of this syllable.\" Finally, Fauskanger mentions the Arthurian names like Morgana, Morgause, and Mordred; the Mor- element here does not mean \"dark\", possibly being connected to Welsh mawr \"big\", but Tolkien could have picked up the association with Arthurian evil.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_cd58b869d4b2910fa8089cb0f31044fa7b60ffdfae1455ee763a5c102ade5b77",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_98d34dbc159f1f3c602e1f6b48c7da1ef1316fa20757a5ff98bb351f62f847f9",
+      "heading_path": [
+        "Origins",
+        "Grendel's wilderness in Beowulf"
+      ],
+      "normalized_text": "thumb|upright|Tolkien's descriptions of the Dead Marshes and the grim Morgai have been compared to the Beowulf poet's account of Grendel's dangerous moors. 1908 illustration by Joseph Ratcliffe Skelton",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_4748618bf8b8d6fc7d7bd27ead8948734cca788cfe68fa50f51ac864ce384b2b",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_98d34dbc159f1f3c602e1f6b48c7da1ef1316fa20757a5ff98bb351f62f847f9",
+      "heading_path": [
+        "Origins",
+        "'Black Country' of the West Midlands"
+      ],
+      "normalized_text": "thumb|Mines, ironworks, smoke, and spoil heaps: the Black Country, near Tolkien's childhood home, has been suggested as an influence on his vision of Mordor.",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_809766f8eb5e7f1f7c86d96712585f487cc20474d8b388fba89521c0e9b66423",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_98d34dbc159f1f3c602e1f6b48c7da1ef1316fa20757a5ff98bb351f62f847f9",
+      "heading_path": [
+        "Origins",
+        "First World War's Western Front"
+      ],
+      "normalized_text": "thumb|Tolkien stated that his trench warfare experience with his regiment, the Lancashire Fusiliers, on the Western Front influenced his account of the landscape around Mordor.",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_d7a22fba3e3eda61d286182a0e2d2bf47a15ffb90b1b4bc5a6b9d5331e4a7931",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_98d34dbc159f1f3c602e1f6b48c7da1ef1316fa20757a5ff98bb351f62f847f9",
+      "heading_path": [
+        "Legacy",
+        "In film"
+      ],
+      "normalized_text": "thumb|upright=1.5|Mordor as seen in Peter Jackson's film The Return of the King, with a shattered volcanic landscape for the plain of Gorgoroth as Frodo and Sam approach Mount Doom under its red glare and the ever-watchful Eye of Sauron from his tower of Barad-dûr, all rendered using digital technology",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_f19b29a757720d523f574764eab8e91626b2d84edbb4e56c8c039707b9b7e74f",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_98d34dbc159f1f3c602e1f6b48c7da1ef1316fa20757a5ff98bb351f62f847f9",
+      "heading_path": [
+        "Legacy",
+        "In film"
+      ],
+      "normalized_text": "In Womack's view the 2019 biopic Tolkien explicitly connects Mordor to trench warfare: \"riders become bloody knights; smoke billows and turns into the form of dark kings.\"",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_1141233561f23c543faf1cdb3612c82a8b57ec502324eb139a7f9632df40af9c",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_98d34dbc159f1f3c602e1f6b48c7da1ef1316fa20757a5ff98bb351f62f847f9",
+      "heading_path": [
+        "Legacy",
+        "In other media"
+      ],
+      "normalized_text": "The International Astronomical Union names all mountains on Saturn's moon Titan after mountains in Tolkien's work. In 2012, they named a Titanian mountain \"Doom Mons\" after Mount Doom.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_a54c9ff01051bfda44762c247d841c7599470215d4a7b92286dcfcc0bb0247c2",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_98d34dbc159f1f3c602e1f6b48c7da1ef1316fa20757a5ff98bb351f62f847f9",
+      "heading_path": [
+        "Legacy",
+        "In other media"
+      ],
+      "normalized_text": "thumb|Heavy metal bands such as Amon Amarth have chosen their names from features of Mordor.",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_5eeead62d8b014450bddf59f6caf882231dd39e7c73c80dda7f0d6adbda4f311",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Mordor&action=history",
+  "namespace": 0,
+  "page_id": 23140545,
+  "parent_revision_id": 1361884104,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1361884146",
+  "raw_wikitext": "{{short description|Evil land in J. R. R. Tolkien's Middle-earth legendarium}}\n{{About|the location in ''The Lord of the Rings''|other uses of the name|Mordor (disambiguation)}}\n{{Redirect|Mount Doom|the climbing route|Mount Doom (climb){{!}}''Mount Doom'' (climb)}}\n{{good article}}\n{{Use British English|date=May 2021}}\n{{Use dmy dates|date=October 2022}}\n{{Infobox fictional location\n| name = Mordor\n| series = [[Middle-earth]]\n| image = J.R.R._Tolkien_-_Barad-dûr.jpg\n| caption = Mount Doom (left, in the distance) and a door on the eastern side of Barad-dûr (right) as drawn by [[J. R. R. Tolkien]] in an illustration used in the 1973 J.R.R. Tolkien Calendar.\n| alt_name = the Land of Shadow, the Black Land, the Dark Land\n| blank_label = Geography\n| blank_data = East of [[Gondor]]\n| blank_label1 = Lifespan\n| blank_data1 = [[First Age]] – [[Third Age]]\n| first = ''[[The Lord of the Rings]]''\n| blank_label3 = Capital\n| blank_data3 = Barad-dûr\n}}\n\nIn [[J. R. R. Tolkien]]'s [[fictional world|fictional continent]] of [[Middle-earth]], '''Mordor''' ({{IPA|qya|ˈmɔrdɔr|lang}}; {{langnf|sjn||Black Land}}, {{langnf|qya||Land of Shadow}}) is the realm of the Dark Lord [[Sauron]]. It lay to the east of [[Gondor]] and the great river [[Geography of Middle-earth#Rhovanion|Anduin]], and to the south of [[Mirkwood]]. [[#Mount Doom|Mount Doom]], a volcano in Mordor, was the goal of the [[Fellowship of the Ring (characters)|Fellowship of the Ring]] in the quest to destroy the [[One Ring]]. Mordor was surrounded by three mountain ranges, to the north, the west, and the south. These both protected the land from invasion and kept those living in Mordor from escaping.\n\nCommentators have noted that Mordor was influenced by Tolkien's own experiences in the industrial [[Black Country]] of the [[English Midlands]], and by [[The Great War and Middle-earth|his time fighting in the trenches]] of the [[Western Front (World War I)|Western Front]] in the [[First World War]]. Tolkien was also familiar with the account of the monster [[Grendel]]'s unearthly landscapes in the [[Old English]] poem ''[[Beowulf]]''. Others have observed that Tolkien depicts Mordor as specifically [[Evil in Middle-earth|evil]], and as a vision of industrial [[environmental degradation]], contrasted with either the homey [[The Shire|Shire]] or the beautiful elvish forest of [[Lothlórien]].\n\n== Geography ==\n\n=== Overview ===\n\n[[File:Gondor sketch map.svg|thumb|upright=1.5|Sketch map of part of Middle-earth in the Third Age, with Mordor on the right, bordered by [[Rohan (Middle-earth)|Rohan]] and [[Gondor]] ]]\n\nMordor was roughly rectangular in shape, with the longer sides on the north and south. Three sides were defended by mountain ranges: the Ered Lithui (\"Ash Mountains\") on the north, and the Ephel Dúath (\"Mountains of Shadow\") on the west and south. The lengths of these ranges are estimated to be {{convert|498|,|283|and|501|mi|km|abbr=off}} respectively, which gives Mordor an area of roughly {{convert|140000|sqmi|km2|abbr=off}}.<ref name=\"Fonstad 1992\">{{cite book |last=Fonstad |first=Karen Wynn |author-link=Karen Wynn Fonstad |year=1992 |title=[[The Atlas of Middle-earth]] |publisher=HarperCollins |at=Appendix p. 191 |isbn=978-0-261-10277-4}}</ref>\n\nTo the west lay the narrow land of [[Ithilien]], a province of Gondor;<ref group=T>{{harvnb|Tolkien|1954}}, book 4, ch. 7 \"Journey to the Cross-Roads\"</ref> to the northwest, the Dead Marshes and Dagorlad, the Battle Plain; to the north, Wilderland; to the northeast and east, Rhûn; to the southeast, Khand; and to the south, [[Harad]].<ref name=\"Map\" group=T/> Not far from the Dead Marshes is another dismal swamp, the Nindalf or Wetwang, beside the [[Emyn Muil]] hills.<ref>[[Wetwang]] is a place in [[Yorkshire]]; its name means \"wet field\", which is also the meaning of Nindalf in the elvish language [[Sindarin]]. [[Wayne G. Hammond]] and [[Christina Scull]] (eds), ''[[The Lord of the Rings: A Reader's Companion]]'', p. 779</ref>\n\n===The Black Gate===\n\n{{further|Battle of the Morannon}}\n\nIn the northwest, the pass of Cirith Gorgor led into the enclosed plain of Udûn. [[Sauron]] built the Black Gate of Mordor (the Morannon) across the pass. This added to the earlier fortifications, the Towers of the Teeth – Carchost to the east, Narchost to the west, guard towers which had been built by Gondor to keep a watch on this entrance.<ref name=\"The Black Gate is Closed\" group=T/> The passage through the inner side of Udûn into the interior of Mordor was guarded by another gate, the Isenmouthe. Outside the Morannon lay the Dagorlad or Battle Plain, and the Dead Marshes.<ref name=\"Map\" group=T>{{harvnb|Tolkien|1955}}, Map of Rohan, Gondor, and Mordor</ref>\n\n{{anchor|Ephel Duath}}\n\n===The Mountains of Shadow===\n\n{{Redirect|Cirith Ungol|the American heavy metal band|Cirith Ungol (band)}}\n{{anchor|Brambles}}\n\nThe Ephel Dúath (\"Fence of Shadow\") defended Mordor on the west and south. The main pass was guarded by [[Minas Morgul]], a city built by Gondor as Minas Ithil.<ref group=T>{{harvnb|Tolkien|1954}}, book 4, ch. 8 \"The Stairs of Cirith Ungol\"</ref> The fortress Durthang lay in the northern Ephel Dúath above Udûn.<ref name=\"The Land of Shadow\" group=T/> A higher, more difficult pass, Cirith Ungol, lay just to the north of the Morgul pass. Its top was guarded by a tower, built by Gondor. The route traversed Torech Ungol, the lair of the giant spider [[Shelob]].<ref group=T>{{harvnb|Tolkien|1954}}, book 4, ch. 9 \"Shelob's Lair\"</ref><ref group=T>{{harvnb|Tolkien|1955}}, book 6, ch. 1 \"The Tower of Cirith Ungol\"</ref>\n\nInside the Ephel Dúath ran a lower parallel ridge, the Morgai, separated by a narrow valley, a \"dying land not yet dead\" with \"low scrubby trees\", \"coarse grey grass-tussocks\", \"withered mosses\", \"great writhing, tangled brambles\", and thickets of [[Briar (thicket)|briar]]s with long, stabbing thorns.<ref group=T>{{harvnb|Tolkien|1955}}, book 6, ch. 2 \"The Land of Shadow\"</ref>\n\n=== Interior ===\n\nThe interior of Mordor was composed of three large regions. The core of Sauron's realm was in the northwest: the arid plateau of Gorgoroth, with the active volcano [[#Mount Doom|Mount Doom]] located in the middle.<ref name=\"The Field of Cormallen\" group=T/> Sauron's main fortress [[#Barad-dûr|Barad-dûr]] was on the north side of Gorgoroth, at the end of a spur of the Ash Mountains. Gorgoroth was volcanic and inhospitable to life, but home to Mordor's mines, forges, and garrisons.<ref name=\"The Land of Shadow\" group=T>{{harvnb|Tolkien|1955}}, book 6, ch. 2 \"The Land of Shadow\"</ref><ref name=\"The Black Gate is Closed\" group=T>{{harvnb|Tolkien|1954}}, book 4, ch. 3 \"The Black Gate is Closed\"</ref>\nNúrn, the southern part of Mordor, was less arid and more fertile; Sauron's slaves farmed this region to support his armies,<ref name=\"The Steward and the King\" group=T/> and streams fed the salt Sea of Núrnen. To the east of Gorgoroth lay the dry plain of Lithlad.<ref name=\"The Black Gate is Closed\" group=T/>\n\n=== Mount Doom ===\n\n{{redirect|Orodruin}}\n\n[[File:DenglerSW-Stromboli-20040928-1230x800.jpg|thumb|Tolkien identified the volcano of [[Stromboli]] off Sicily with Mount Doom.<ref name=\"Niekas 19\"/>]]\n\nMount Doom (in [[Sindarin]]: Amon Amarth<ref group=T>{{harvnb|Tolkien|1977}}, Index \"Amon Amarth\"</ref>) or Orodruin (\"Mountain of Blazing Fire\"<ref group=T>{{harvnb|Tolkien|1977}}, Index \"Orodruin\"</ref>) is more than an ordinary volcano; it responds to Sauron's commands and his presence, lapsing into dormancy when he is away from Mordor, and becoming active again when he returns. It is the place where the [[One Ring]] was forged, and its magma heart is the only place where it can be destroyed.<ref name=\"Shadow of the Past\" group=T>{{harvnb|Tolkien|1954a}}, Book 1, ch. 2 \"[[The Shadow of the Past]]\"</ref> When Sauron is defeated at the end of the [[Third Age]] with the destruction of the One Ring, the volcano erupts violently.<ref name=\"The Field of Cormallen\" group=T/>\n\nTolkien stated in his \"[[Guide to the names in The Lord of the Rings|Guide to the Names in ''The Lord of the Rings'']]\", intended to assist translators, that the phrase \"Crack of Doom\" derives from [[William Shakespeare]]'s play ''[[Macbeth]]'', Act 4 scene 1. Tolkien wrote that the phrase meant \"the announcement of the Last Day\" by a crack of [[thunder]], or \"the sound of the last trump[et]\" (he cites the use of \"crack\" to mean a trumpet's sound in ''[[Sir Gawain and the Green Knight]]'' at lines 116 and 1166) at the [[Last Judgment]] as described in the [[Book of Revelation]]. He further states that \"Doom\" originally meant \"judgement\", and by its sound and its use in the word \"doomsday\" carries the \"senses of death, finality, and fate\".<ref name=\"Guide to names in LOTR\" group=T>{{cite book |last=Tolkien |first=J. R. R. |author-link=J. R. R. Tolkien |editor-last=Lobdell |editor-first=Jared |editor-link=Jared Lobdell |chapter=Guide to the Names in The Lord of the Rings, \"The Firstborn\" |title=A Tolkien Compass |date=1975 |publisher=[[Open Court Publishing Company|Open Court]] |page=162 |isbn=978-0875483030 |chapter-url=https://archive.org/details/tolkiencompass00lobd/page/162}}</ref> Another possible source of the name, mentioned by Tolkien and discussed by the Tolkien scholar [[Jared Lobdell]], is a pair of tales of [[supernatural]] events by the English novelist [[Algernon Blackwood]], \"The Willows\" and \"The Glamour of the Snow\".<ref>{{cite journal |first=Dale |last=Nelson |title=Possible Echoes of Blackwood and Dunsany in Tolkien's Fantasy |journal=[[Tolkien Studies]] |volume=1 |year=2004 |pages=177–181 |doi=10.1353/tks.2004.0013 |doi-access=free }}</ref>\nAccording to the [[fanzine]] ''[[Niekas]]'', Tolkien \"more or less found Mordor\" on a Mediterranean cruise in September 1966.<ref name=\"Niekas 19\"/> When sailing past the volcano of [[Stromboli]] at night, Tolkien said he had \"never seen anything that looked so much like [Mount Doom].\"<ref name=\"Niekas 19\">{{Cite journal |last=Plotz |first=Dick |title=Many Meetings with Tolkien: An Edited Transcript of Remarks at the December 1966 TSA Meeting |journal=[[Niekas]] |issue=19 |page=40 |year=1968 |url=https://www.fanac.org/fanzines/Niekas/Niekas19-37.html |access-date=8 September 2021 |archive-date=20 September 2021 |archive-url=https://web.archive.org/web/20210920140328/https://www.fanac.org/fanzines/Niekas/Niekas19-37.html |url-status=dead }}</ref>\n\n[[File:Mount Ngauruhoe.jpg|thumb|Mount Ngauruhoe was [[Peter Jackson]]'s inspiration for the Mount Doom in his films.]]\n\nIn [[Peter Jackson]]'s film adaptation of ''The Lord of the Rings'', Mount Doom was represented by two active volcanoes in [[New Zealand]]: [[Mount Ngauruhoe]] and [[Mount Ruapehu]], located in [[Tongariro National Park]]. In long shots, the mountain is either a large model or a [[Computer-generated imagery|CGI]] effect, or a combination. The production was not permitted to film the summit of Ngauruhoe because the [[Māori people|Māori]] hold it to be sacred, but some scenes on the slopes of Mount Doom were filmed on the slopes of Ruapehu.<ref>[[Brian Sibley|Sibley, Brian]]. ''The Making of the Movie Trilogy The Lord of the Rings'', [[Houghton Mifflin]] (2002).</ref>\n\n=== Barad-dûr ===\n\n{{further|Architecture in Middle-earth}}\n\nThe name ''Barad-dûr'' is [[Sindarin]], from ''barad'' \"tower\" and ''dûr'' \"dark\". It was called '''''Lugbúrz''''' in the [[Black Speech]] of Mordor, from ''lug'' \"tower\" and ''búrz'' \"dark\".<ref name=\"An Introduction to Elvish BS ref\">{{cite book |last=Allan |first=J. |editor-last=Allan |editor-first=J. |title=An Introduction to Elvish |date=1978 |publisher=Bran's Head Books |location=Helios |isbn=978-0-905220-10-9 |page=[https://archive.org/details/introductiontoel00alla/page/167 167] |edition=reprinted 2002 |chapter=The Black Speech |chapter-url-access=registration |chapter-url=https://archive.org/details/introductiontoel00alla/page/167 }}</ref> The Black Speech (created by [[Sauron]]) was one of the languages used in Barad-dûr. The soldiers there used a debased form of the tongue.<ref group=T>{{harvnb|Tolkien|1955}}, Appendix F</ref> In ''The Lord of the Rings'' \"Barad-dûr,\" \"Lugbúrz,\" and \"the Dark Tower\" are occasionally used as [[metonym]]s for Sauron.<ref group=T>{{harvnb|Tolkien|1955}}, Index: III \"Persons, Places, and Things\"</ref>\n\nIn the [[Second Age]], Sauron began to stir again and chose Mordor as a stronghold in which to build his fortress.<ref>{{cite book |last=Foster |first=Robert |author-link=Robert Foster (author) |title=A guide to Middle-earth |date=1978 |publisher=[[Ballantine Books]] |location=New York |isbn=978-0345275479 |page=21}}</ref> It was strengthened by the power of the One Ring, which had recently been forged; its foundations would survive as long as the Ring existed. [[Gandalf]] described the Ring as being the \"...foundation of Barad-dûr...\"<ref group=T>{{harvnb|Tolkien|1955}}, \"The Last Debate\"</ref> The Dark Tower is described as being composed of iron, being black and having battlements and gates.<ref name=\"Breaking of the Fellowship\" group=T>{{harvnb|Tolkien|1954a}}, Book 2, ch. 10 \"The Breaking of the Fellowship\"</ref> In a painting by Tolkien, however, the walls are of mainly grey stone and brick, and battlements, gates and towers are not visible.<ref name=\"Pictures by JRRT no 30\" group=T>{{harvnb|Tolkien|1979|loc=Plate 30: Orodruin and Barad-dûr}}</ref>\n\nIn ''[[The Two Towers]]'', Barad-dûr is described as \"...that vast fortress, armoury, prison, furnace of great power...\"<ref group=T>{{harvnb|Tolkien|1954}}, \"The Road to Isengard\"</ref> The same paragraph goes on to say the Dark Tower had 'immeasurable strength'. The fortress was constructed with many towers and was hidden in clouds about it: \"...rising black, blacker and darker than the vast shades amid which it stood, the cruel pinnacles and iron crown of the topmost tower of Barad-dûr.\"<ref name=\"Mount Doom\" group=T/> The structure could not be clearly seen because [[Sauron]] created shadows about himself that crept out from the tower.<ref name=\"Mount Doom\" group=T>{{harvnb|Tolkien|1955}}, \"Mount Doom\"</ref> In [[Frodo Baggins|Frodo]]'s vision on [[Amon Hen]], he perceived the immense tower as \"...wall upon wall, battlement upon battlement, black, immeasurably strong, mountain of iron, gate of steel, tower of adamant... Barad-dûr, Fortress of Sauron.\"<ref name=\"Breaking of the Fellowship\" group=T/> There was a look-out post, the \"Window of the Eye\", at the top of the tower. This window was visible from [[#Mount Doom|Mount Doom]] where Frodo and Sam had a terrible glimpse of the Eye of Sauron.<ref name=\"Mount Doom\" group=T/> Barad-dûr's west gate is described as \"huge\" and the west bridge as \"a vast bridge of iron.\"<ref name=\"Mount Doom\" group=T/>\n\nIn ''[[The Return of the King]]'', [[Samwise Gamgee|Sam Gamgee]] witnessed the destruction of Barad-dûr: \"... towers and battlements, tall as hills, founded upon a mighty mountain-throne above immeasurable pits; great courts and dungeons, eyeless prisons sheer as cliffs, and gaping gates of steel and adamant...\"<ref name=\"Mount Doom\" group=T/>\n\nBarad-dûr, along with the One Ring, Mordor, and Sauron himself, were destroyed on 25 March, a traditional [[Anglo-Saxon]] date for the [[Crucifixion of Jesus|crucifixion]]; the quest to destroy the One Ring began in [[Rivendell]] on 25 December, the date of [[Christmas]].<ref>{{harvnb|Shippey|2005|p=227}}</ref>\n\n=== First Age ===\n\nIn ''[[The Atlas of Middle-earth]]'', the cartographer [[Karen Wynn Fonstad]] assumed that the lands of Mordor, [[Khand (Middle-earth)|Khand]], and [[Rhûn]] lay where the inland [[Sea of Helcar]] had been, and that the Sea of Rhûn and Sea of Núrnen were its remnants. This was based on a [[First Age]] world-map drawn by Tolkien in the ''[[Ambarkanta]]'', where the Inland Sea of Helcar occupied a large area of Middle-earth between the [[Ered Luin]] and [[Orocarni]], its western end being close to the head of the Great Gulf (later the Mouths of Anduin).<ref>{{cite book |title=[[The Atlas of Middle-earth]] |first=Karen Wynn |last=Fonstad |author-link=Karen Wynn Fonstad |page=[https://archive.org/details/atlasofmiddleear0000fons/page/16 16] |edition=revised |year=1991 |isbn=0-395-53516-6 |publisher=[[Houghton Mifflin]] }}</ref>{{efn|The atlas was published before ''[[The Peoples of Middle-earth]]'' (1996), in which the [[Sea of Rhûn]] exists already in the First Age.<ref group=T>{{harvnb|Tolkien|1996}}, p. 373, note 13</ref>}}\n\n== History ==\n\n=== Early history ===\n\n[[Sauron]] settled in Mordor in the [[Second Age]] of [[Middle-earth]], and it remained the pivot of his evil contemplations. He built his great stronghold Barad-dûr, the Dark Tower, near the volcano Mount Doom (Orodruin), and became known as the Dark Lord of Mordor. Sauron aided the elves in the creation of the Rings of Power in [[Eregion]] in [[Eriador]], and secretly forged the [[One Ring]] in Orodruin. He then set about conquering Middle-earth, launching an attack upon the Elves of Eregion, but was repelled by the Men of [[Númenor]].<ref name=\"Of the Rings of Power\" group=T/>\n\nOver a thousand years later, the Númenóreans under [[Ar-Pharazôn]] sailed to Middle-earth to challenge Sauron's claim to be \"King of Men\". Sauron let them capture him and take him back to Númenor, where he caused [[Akallabêth|its destruction]]. He at once returned to Mordor as a spirit and resumed his rule.<ref name=\"Akallabêth\" group=T>{{harvnb|Tolkien|1977}}, [[Akallabêth]]</ref>\n\n=== The Last Alliance and Third Age ===\n\nSauron's rule was interrupted again when his efforts to overthrow the surviving Men of Númenor and the [[Elf (Middle-earth)|Elves]] failed. The army of the Last Alliance of Elves and Men advanced on Mordor; in a great battle on the Dagorlad (\"Battle Plain\"), Sauron's forces were destroyed and the Black Gate was stormed. Barad-dûr was then besieged; after seven years, Sauron broke out and was defeated on the slopes of Orodruin. Sauron fled into Rhûn, and Barad-dûr was levelled. [[Gondor]] built fortresses at the entrances to Mordor to prevent his return, maintaining the \"Watchful Peace\" for over a thousand years.<ref name=\"Of the Rings of Power\" group=T>{{harvnb|Tolkien|1977}}, \"Of the Rings of Power and the Third Age\"</ref>\n\nThe [[Great Plague (Middle-earth)|Great Plague]] in Gondor caused the fortifications guarding Mordor to be abandoned, and Mordor again filled with evil things. The [[Ringwraith]]s took advantage of Gondor's decline to re-enter Mordor, conquered [[Minas Ithil]], and took over the fortresses. At the time of [[Bilbo Baggins]]'s quest in ''[[The Hobbit]]'', Sauron returned into Mordor from [[Dol Guldur]], feigning defeat, but readying for war.<ref name=\"Of the Rings of Power\" group=T/>\n\n=== War of the Ring ===\n\n[[File:Frodo and Sam guided by Gollum through the Dead Marshes by Alexander Korotich.jpg|thumb|upright|Frodo and Sam guided by Gollum through the Dead Marshes. [[Scraperboard]] illustration by [[Alexander Korotich]], 1984]]\n\n[[The Council of Elrond]] decided to send the Ring to Mount Doom to destroy it and Sauron's power. It was carried into Mordor by two [[Hobbit]]s, [[Frodo Baggins]] and [[Sam Gamgee]];<ref name=\"Of the Rings of Power\" group=T/> they approached via the Dead Marshes, and entered by the pass of Cirith Ungol. In the [[War of the Ring]], Sauron attempted to storm [[Minas Tirith]], the capital of Gondor, but was defeated by Gondor and [[Rohan (Middle-earth)|Rohan]] in the [[Battle of the Pelennor Fields]]. The victors sent an army to the Black Gate to distract Sauron from the Ring. He responded by emptying Mordor of its armies, sending them to the Black Gate. As a result, the plain of Gorgoroth was left almost deserted and Frodo and Sam were able to travel across it to Mount Doom. During the [[Battle of the Morannon]], the One Ring was destroyed in Mount Doom, along with Sauron's power, Barad-dûr, and the morale of his armies.<ref name=\"Of the Rings of Power\" group=T/><ref name=\"The Field of Cormallen\" group=T>{{harvnb|Tolkien|1955}}, book 6, ch. 4 \"The Field of Cormallen\"</ref> This ultimate defeat of Sauron ended the Third Age. Gorgoroth became empty as its [[Orc (Middle-earth)|Orc]]s fled or were killed. The land of Núrn was given to Sauron's freed slaves.<ref name=\"The Steward and the King\" group=T>{{harvnb|Tolkien|1955}}, book 6, ch. 5 \"The Steward and the King\"</ref>{{sfn|McNelis|2006}}\n\n== Languages and peoples ==\n\nAt the time of the War of the Ring, Sauron had gathered great armies to serve him. These included [[Easterling (Middle-earth)|Easterlings]] and [[Haradrim]], who spoke a variety of tongues, and Orcs and [[Troll (Middle-earth)|Trolls]], who usually spoke a debased form of the [[Common Speech]]. Within Barad-dûr and among the captains of Mordor (the Ringwraiths and other high-ranking servants such as the [[Mouth of Sauron]]), the [[Black Speech]] was still used, the language devised by Sauron during the Dark Years of the Second Age. In addition to ordinary Orcs and Trolls, Sauron had bred a more powerful strain of Orcs, the Uruk-hai, and a strong and agile breed of Trolls, the Olog-hai, who could endure the sun. The Olog-hai knew only the Black Speech.<ref group=T>{{harvnb|Tolkien|1955}}, Appendix F, \"The Languages and Peoples of the Third Age\"</ref>\n\n== Naming ==\n\nWithin Tolkien's fiction, \"Mordor\" had two meanings: \"Black Land\" in [[Sindarin]], and \"Land of Shadow\" in [[Quenya]]. The root ''mor'' (\"dark\", \"black\") also appeared in [[Moria (Middle-earth)|Moria]], which meant \"Black Pit\", and [[Morgoth]], the first Dark Lord.<ref group=T>{{harvnb|Carpenter|2023|loc=#297 to Mr. Rang, draft, August 1967 }}</ref>\n\nPopular sources have conjectured or stated directly that \"Mordor\" came from [[Old English language|Old English]] ''morðor'', \"mortal sin\" or \"murder\".<ref name=\"Fauskanger 2013\">{{cite book |last=Fauskanger |first=Helge K. |author-link=Helge Fauskanger |editor-last=Stenström |editor-first=Anders B. |title=Arda Philology 4: Proceedings of the Fourth International Conference on J.R.R. Tolkien's Invented Languages, Omentielva Cantea, Valencia, 11-14 August 2011 |url=https://books.google.com/books?id=SAp4CgAAQBAJ&pg=PA124 |year=2013 |publisher=Arda |isbn=978-91-973500-4-4 |pages=124–126}}</ref> Against this, the philologist [[Helge Fauskanger]] notes that Tolkien had been using both the elements of the name, \"mor\" and \"dor\" (as in Gondor, Eriador) for decades before assembling them into \"Mordor\".<ref name=\"Fauskanger 2013\"/>\n\nFauskanger writes that there are however several words that sound like \"mor\" with connotations of darkness. Italian ''moro'' (cf. Latin ''maurus'', black, and ''Mauri'', a North African tribe) means a [[Moor (people)|Moor]], and the adjective means \"black\"; Tolkien said that he liked the Italian language.<ref name=\"Fauskanger 2013\"/> Greek Μαυρός (''mauros'') means \"dark, dim\".<ref name=\"Fauskanger 2013\"/> He notes, too, the possible connection in Tolkien's mind with [[Mirkwood]], the dark Northern forest, from Norse ''myrk'' \"dark\", cognate with English \"murky\".<ref name=\"Fauskanger 2013\"/> He adds that words like \"Latin ''mors'' 'death' or Old English ''morðor'' 'murder'—further darkened the ring of this syllable.\"<ref name=\"Fauskanger 2013\"/> Finally, Fauskanger mentions the [[Arthurian legend|Arthurian]] names like Morgana, Morgause, and Mordred; the Mor- element here does not mean \"dark\", possibly being connected to Welsh ''mawr'' \"big\", but Tolkien could have picked up the association with Arthurian evil.<ref name=\"Fauskanger 2013\"/>\n\n== Origins ==\n\n=== Grendel's wilderness in ''Beowulf'' ===\n\n[[File:Stories of beowulf grendel.jpg|thumb|upright|Tolkien's descriptions of the Dead Marshes and the grim Morgai have been compared to the ''[[Beowulf]]'' poet's account of [[Grendel]]'s dangerous moors.<ref name=\"Lee Solopova 2005\"/> 1908 illustration by [[Joseph Ratcliffe Skelton]]]]\n\n{{further|Beowulf and Middle-earth}}\n\nTolkien, a scholar of [[Old English]], was an expert on ''[[Beowulf]]'', calling it one of his \"most valued sources\" for Middle-earth.<ref name=Letter25 group=T>{{harvnb|Carpenter|2023|loc=#25 to the editor of ''[[The Observer]]'', signed \"Habit\", published 16 January 1938 }}</ref> The medievalists [[Stuart D. Lee]] and [[Elizabeth Solopova]] compare Tolkien's account of Mordor and the neighbouring landscapes to the monster [[Grendel]]'s wilderness in ''Beowulf''.<ref name=\"Lee Solopova 2005\">{{cite book |last1=Lee |first1=Stuart D. |author1-link=Stuart D. Lee |last2=Solopova |first2=Elizabeth |author2-link=Elizabeth Solopova |title=The Keys of Middle-earth: Discovering Medieval Literature Through the Fiction of J. R. R. Tolkien |url=https://archive.org/details/keysmiddleearthd00lees_471 |url-access=limited |date=2005 |publisher=[[Palgrave Macmillan|Palgrave]] |isbn=978-1403946713 |pages=[https://archive.org/details/keysmiddleearthd00lees_471/page/n250 238]–243}}</ref> In particular, they compare Frodo and Sam's crossing of the Dead Marshes and what [[Gollum]] called its \"tricksy lights\", with ''Beowulf''{{'s}} \"fire on the water\"; and their traversal of the parched Morgai, full of rocks and vicious thorns, with Grendel's dangerous moors.<ref name=\"Lee Solopova 2005\"/> Lee and Solopova write that the ''Beowulf'' description both emphasises the coming horror, \"play[ing] on ideas of desolation, wintry landscapes and the supernatural\",<ref name=\"Lee Solopova 2005\"/> and like Tolkien giving realistic descriptions of nature. At the same time, they write, both the ''Beowulf'' poet and Tolkien incorporate \"an element of fantasy\": Grendel's moor is both full of water and a \"craggy headland .. inhabited by supernatural evil\",<ref name=\"Lee Solopova 2005\"/> while Tolkien fills the landscapes in and around Mordor with \"similar ambiguity and sense of unease\".<ref name=\"Lee Solopova 2005\"/>\n\n{| class=\"wikitable\" style=\"margin: 1em auto;\"\n|+ Lee and Solopova's comparison of ''Beowulf'' landscapes with Mordor<ref name=\"Lee Solopova 2005\"/>\n|-\n! [[Grendel]]'s wilderness<br/>in ''[[Beowulf]]'' II.1345-1382 !! Translation !! Landscapes around Mordor\n|-\n| ... ... ... ... Hie dygel lond<br/>warigeað, wulfhleoþu, windige næssas,<br/>frecne fengelad || ... ... ... ... They a secret land<br/>watch, wolf-infested slopes / windy headlands<br/>dangerous moor-path || The Morgai: rocks, thorns,<br/>\"grassless, bare, jagged ... barren\",<br/>\"ruinous and dead\"\n|-\n|  wudu wyrtum fæst / wæter oferhelmað.<br/>þær mæg nihta gehwæm / niðwundor seon,<br/>fyr on flode. ... Nis þæt heoru stow! || Well-rooted trees / overshadow the water<br/>There one may each night / a horrible wonder see:<br/>fire on the water, ... This is not a safe place. || \"wide fens and mires...<br/>Mists curled and smoked<br/>from dark and noisome pools\".<br/>\"Candles for corpses\"<br/>(lights in the Dead Marshes)\n|}\n\n=== 'Black Country' of the West Midlands ===\n\n[[File:Griffiths&#039; Guide to the iron trade of Great Britain an elaborate review of the iron (and) coal trades for last year, addresses and names of all ironmasters, with a list of blast furnaces, iron (14761790294).jpg|thumb|Mines, ironworks, smoke, and spoil heaps: the [[Black Country]], near Tolkien's childhood home, has been suggested as an influence on his vision of Mordor.<ref name=\"Jeffries 2014\"/>]]\n\n{{Further|Environmentalism in The Lord of the Rings}}\n\nA 2014 art exhibition entitled \"The Making of Mordor\" at the [[Wolverhampton]] Art Gallery claims that the [[steelworks]] and [[blast furnace]]s of the West Midlands near Tolkien's childhood home inspired his vision of, and his name ''Mordor''. This industrialized area has long been known as \"the [[Black Country]]\".<ref name=\"Jeffries 2014\">{{cite news |url=https://www.theguardian.com/books/2014/sep/19/how-the-west-midlands-black-country-inspired-tolkien-lord-of-the-rings |first=Stuart |last=Jeffries |title=Mordor, he wrote: how the Black Country inspired Tolkien's badlands |work=[[The Guardian]] |date=19 September 2014 |access-date=19 August 2020}}</ref> Philip Womack, writing in ''[[The Independent]]'', likens Tolkien's move from rural [[Warwickshire]] to urban [[Birmingham]] as \"exile from a rural idyll to Mordor-like forges and fires\".<ref name=\"Womack Independent 2019\">{{cite news |last=Womack |first=Philip |title=Why is Tolkien's work so successful, and why did the new film leave out his Christianity? |url=https://www.independent.co.uk/arts-entertainment/films/features/j-r-r-tolkien-middle-earth-the-lord-of-the-rings-the-hobbit-nicholas-hoult-lily-collins-a8894431.html |work=[[The Independent]] |date=4 May 2019 |access-date=19 August 2020}}</ref> The critic Chris Baratta notes the contrasting environments of the well-tended leafy [[The Shire|Shire]], the home of the hobbits, and \"the [[industrial wasteland]]s of [[Isengard]] and Mordor.\"<ref name=\"Baratta 2011\">{{cite book |last=Baratta |first=Chris |title=Environmentalism in the Realm of Science Fiction and Fantasy Literature |url=https://books.google.com/books?id=ICosBwAAQBAJ&pg=PA35 |date=15 November 2011 |publisher=[[Cambridge Scholars Publishing]] |isbn=978-1-4438-3542-8 |pages=31–45}}</ref> Baratta comments that Tolkien clearly intended the reader to \"identify with some of the problems of environmental destruction, rampant industrial invasion, and the corrupting and damaging effects these have on mankind.\"<ref name=\"Baratta 2011\"/>\n\n=== First World War's Western Front ===\n\n[[File:Lancashire Fusiliers trench Beaumont Hamel 1916.jpg|thumb|Tolkien stated that his [[trench warfare]] experience with his regiment, the [[Lancashire Fusiliers]], on the [[Western Front (World War I)|Western Front]] influenced his account of the landscape around Mordor.<ref name=\"Ciabattari BBC 2014\"/>]]\n\n{{further|The Great War and Middle-earth}}\n\n''[[The New York Times]]'' related the grim land of Mordor to Tolkien's personal experience in the trenches of the Western Front in the [[First World War]].<ref>{{cite news |last=Loconte |first=Joseph |title=How J.R.R. Tolkien Found Mordor on the Western Front |url=https://www.nytimes.com/2016/07/03/opinion/sunday/how-jrr-tolkien-found-mordor-on-the-western-front.html |work=[[The New York Times]] |date=30 June 2016 |access-date=19 August 2020}}</ref> Jane Ciabattari, writing on the [[BBC]] culture website, calls the hobbits' struggle to take the ring to Mordor \"a cracked mirror reflection of the young soldiers caught in the blasted landscape and slaughter of [[trench warfare]] on the Western Front.\"<ref name=\"Ciabattari BBC 2014\">{{cite web |last1=Ciabattari |first1=Jane |title=Hobbits and hippies: Tolkien and the counterculture |url=http://www.bbc.com/culture/story/20141120-the-hobbits-and-the-hippies |publisher=[[BBC]] |date=20 November 2014 |access-date=19 August 2020}}</ref> In one of his letters in 1960, Tolkien himself wrote that \"The Dead Marshes [just north of Mordor] and the approaches to the Morannon [an entrance to Mordor] owe something to northern France after the [[Battle of the Somme]]\".<ref name=\"Ciabattari BBC 2014\"/><ref group=T>{{harvnb|Carpenter|2023|loc=#226 to Professor L. W. Forster, 31 December 1960}}</ref>\n\n=== Evil ===\n\n{{see also|Evil in Middle-earth}}\n\nThe critic Lykke Guanio-Uluru sees Mordor as specifically evil, marked by Sauron: a land that is \"dying, struggling for life, though not yet dead\",<ref name=\"Guanio-Uluru2015\"/> evil being able to disfigure life but not to destroy it completely. It is contrasted, writes Guanio-Uluru, with the beauty of [[Lothlorien]], and marked by negative adjectives like \"harsh, twisted, bitter, struggling, low, coarse, withered, tangled, stabbing, sullen, shrivelled, grating, rattling, sad\".<ref name=\"Guanio-Uluru2015\">{{cite book |last=Guanio-Uluru |first=Lykke |title=Ethics and Form in Fantasy Literature: Tolkien, Rowling and Meyer |url=https://books.google.com/books?id=oYpaCwAAQBAJ&pg=PA51 |year=2015 |publisher=[[Springer Publishing|Springer]] |isbn=978-1-137-46969-4 |pages=51–52}}</ref>\n\n=== Turkey ===\n\nIn 1976, George W. Geib suggested a parallel with the history of Christian Europe from the Crusades against Islam onwards, and specifically with late 17th century history of Eastern Europe. The siege and relief of Minas Tirith, he proposed, resembled those of [[Siege of Vienna (1683)|Vienna in 1683]], with the Turkish forces in the place of those of Mordor. The attack in both cases is from the East: over the Balkan hills or the Ephel Duath; across the plains of Hungary or Ithilien; over the river Danube or Anduin; supported by \"wild Tartar horsemen\" or \"eastern cavalry\"; the siege of the walls by \"Turkish sappers\" or Mordor's Orcs; relief by a battle further downstream, whether by [[Charles, Duke of Lorraine-Elboeuf|Charles, Duke of Lorraine]] of [[Imre Thokoly]]'s army, or by Aragorn over the Corsairs of Umbar; and the breaking of the siege by an army from the north, whether Polish forces or the Riders of Rohan.<ref>{{cite journal |last=Geib |first=George W. |title=The Horns of the North: Historical Sources of JRR Tolkien's Trilogy |year=1976 |journal=Proceedings of the Indiana Academy of the Social Sciences |pages=100–104 |url=https://digitalcommons.butler.edu/cgi/viewcontent.cgi?article=1794&context=facsch_papers}}</ref>\n\n== Legacy ==\n\n=== In film ===\n\n[[File:Mordor Barad-Dur Mount Doom.jpg|thumb|upright=1.5|Mordor as seen in [[Peter Jackson]]'s film ''[[The Lord of the Rings: The Return of the King|The Return of the King]]'', with a shattered volcanic landscape for the plain of Gorgoroth as Frodo and Sam approach [[#Mount Doom|Mount Doom]] under its red glare and the ever-watchful [[Eye of Sauron]] from his tower of [[#Barad-dûr|Barad-dûr]], all rendered using digital technology<ref name=\"Bogstad Kaveny 2011\"/>]]\n\nMordor features in all three films of [[Peter Jackson]]'s [[Lord of the Rings film trilogy|''Lord of the Rings'' trilogy]]. In the first film, [[Sean Bean]], playing [[Boromir]], the warrior from Gondor, declares to the [[Council of Elrond]] that \"one does not simply walk into Mordor\".<ref>{{cite news |last=Warner |first=Sam |title='Lord of the Rings' director reveals Sean Bean was reading iconic Mordor speech on camera |url=https://www.nme.com/news/film/lord-of-the-rings-director-peter-jackson-sean-bean-mordor-speech-2679890 |access-date=6 July 2020 |work=NME |date=1 June 2020}}</ref> In the second, [[Andy Serkis]]'s digital Gollum guides Frodo and Sam to the Black Gate.<ref>{{cite web |title=Movies The Lord of the Rings: The Two Towers |url=https://nymag.com/movies/articles/02/12/twotowers.htm |publisher=[[New York magazine]] |access-date=6 July 2020 |date=February 2012}}</ref> In the final film, Frodo and Sam struggle across the shattered volcanic plain of Gorgoroth to Mount Doom,<ref name=\"Bogstad Kaveny 2011\"/> dressed as orcs, under the red glare of the volcano and the watchful Eye of Sauron from an exaggeratedly Gothic Barad-dûr,<ref>{{cite book| title=From Hobbits to Hollywood: Essays on Peter Jackson's Lord of the Rings |editor-first=Ernest |editor-last=Mathijs |editor2-first=Murray |editor2-last=Pomerance |editor2-link=Murray Pomerance |chapter=Urban Legend: Architecture in ''The Lord of the Rings'' |first1=Steven |last1=Woodward |first2=Kostis |last2=Kourelis |page=203 |year=2006 |publisher=[[Rodopi (publisher)|Rodopi]] |isbn=978-9-04201-682-8}}</ref> while the Army of the West gathers for the final battle in front of the Black Gate and witnesses the cataclysmic destruction of everything Sauron had built when the Ring is destroyed.<ref name=\"Bogstad Kaveny 2011\">{{cite book |chapter=Tolkien's Resistance to Linearity |last=Risden |first=E. L. |editor1-last=Bogstad |editor1-first=Janice M. |editor2-last=Kaveny |editor2-first=Philip E. |title=[[Picturing Tolkien]] |chapter-url=https://books.google.com/books?id=jNjKrXRP0G8C&pg=PA71 |year=2011 |publisher=McFarland |isbn=978-0-7864-8473-7 |page=71}}</ref>\n\nFor Jackson's film trilogy, [[Richard Taylor (filmmaker)|Richard Taylor]] and his design team built an {{Convert|18|ft|m|0|abbr=on}} high miniature (\"[[Bigature|big-ature]]\") of Barad-dûr.<ref>{{cite book| last1=Mathijs| first1=Ernest| last2=Pomerance| first2=Murray| author2-link = Murray Pomerance |title=From hobbits to Hollywood: essays on Peter Jackson's Lord of the rings |date=2006 |publisher=Rodopi |location=Amsterdam |isbn=978-9042020627 |page=208 |volume=3}}</ref> Jackson's ''[[The Lord of the Rings: The Return of the King]]'' movie (2003) showed Barad-dûr as clearly visible from the Black Gate of Mordor, which is not the case in the book. Jackson portrayed Barad-dûr, like the other enemy fortresses of Isengard, Minas Morgul and the Black Gate, in \"an exaggerated Gothic fashion\" with a black metallic appearance.<ref>{{cite book| title=From Hobbits to Hollywood: Essays on Peter Jackson's Lord of the Rings |editor-first=Ernest |editor-last=Mathijs |editor2-first=Murray |editor2-last=Pomerance |chapter=Urban Legend: Architecture in ''The Lord of the Rings'' |first1=Steven |last1=Woodward |first2=Kostis |last2=Kourelis |page=203 |year=2006 |publisher=[[Rodopi (publisher)|Rodopi]] |isbn=978-9-04201-682-8}}</ref> In ''The Lord of the Rings'', the Eye was within the \"Window of the Eye\" in the topmost tower, whereas in Jackson's film trilogy the Eye appeared between two horn-like spires that curved upwards from the tower top.\n\nIn Womack's view the 2019 biopic ''[[Tolkien (film)|Tolkien]]'' explicitly connects Mordor to trench warfare: \"riders become bloody knights; smoke billows and turns into the form of dark kings.\"<ref name=\"Womack Independent 2019\"/>\n\n=== In other media ===\n\nThe third verse of [[Led Zeppelin]]'s 1969 song \"[[Ramble On]]\" by [[Jimmy Page]] features a \"bizarre\" Middle-earth including a Mordor where one can meet beautiful women: \"Twas in the darkest depths of Mordor / I met a girl so fair / But Gollum, and the evil one crept up / And slipped away with her\".<ref name=\"Meyer Yri 2020\">{{cite book |last1=Meyer |first1=Stephen C. |last2=Yri |first2=Kirsten |title=The Oxford Handbook of Music and Medievalism |url=https://books.google.com/books?id=RdbODwAAQBAJ&pg=PA732|year=2020 |publisher=Oxford University Press |isbn=978-0-19-065844-1 |page=732}}</ref><ref>{{cite web |last=Greene |first=Andy |title=Ramble On: Rockers Who Love 'The Lord of the Rings' {{!}} A look back at Middle Earth in rock & roll, from Led Zeppelin to Rush and beyond |url=https://www.rollingstone.com/music/music-news/ramble-on-rockers-who-love-the-lord-of-the-rings-100787/ |publisher=[[Rolling Stone]] |date=13 December 2012 |access-date=19 August 2020}}</ref>\n\nThe 2014 ''[[Middle-earth: Shadow of Mordor]]'' is a [[Third-person (video games)|third-person]] [[open world]] [[action-adventure game|action-adventure]] [[video game]] set in Middle-earth.<ref>{{cite web |url=https://www.theverge.com/2014/10/1/6881161/middle-earth-shadow-of-mordor-torture-terrorism |title='Shadow of Mordor' is morally repulsive and I can't stop playing it |first=Chris |last=Plante |website=[[The Verge]] |date=1 October 2014 |access-date=29 July 2015 |archive-url=https://web.archive.org/web/20150808062339/http://www.theverge.com/2014/10/1/6881161/middle-earth-shadow-of-mordor-torture-terrorism |archive-date=8 August 2015 |url-status=live}}</ref>\n\nThe [[International Astronomical Union]] names all mountains on [[Saturn]]'s moon [[Titan (moon)|Titan]] after mountains in Tolkien's work.<ref>International Astronomical Union. [http://planetarynames.wr.usgs.gov/Page/Categories \"Categories for Naming Features on Planets and Satellites\"]. ''Gazetteer of Planetary Nomenclature''. Accessed 14 Nov 2012.</ref>  In 2012, they named a Titanian mountain \"[[Doom Mons]]\" after Mount Doom.<ref>International Astronomical Union. [http://planetarynames.wr.usgs.gov/Feature/15044?__fsk=-1625367587 \"Doom Mons\"]. ''Gazetteer of Planetary Nomenclature''. Accessed 14 Nov 2012.</ref>\n<!--<ref>{{cite journal |last=Larsen |first=Kristine |title=Sauron, Mount Doom, and Elvish Moths: The Influence of Tolkien on Modern Science |journal=[[Tolkien Studies]] |volume=4 |year=2007 |pages=223–234 |doi=10.1353/tks.2007.0024 |s2cid=170563966 }}</ref>-->\n\n[[File:Amon Amarth, Berlin 11.jpg|thumb|[[Heavy metal music|Heavy metal]] bands such as [[Amon Amarth]] have chosen their names from features of Mordor.<ref name=\"Monteith 2023\"/>]]\n\nIn music, [[Heavy metal music|heavy metal]] bands including the American [[Cirith Ungol (band)#Name|Cirith Ungol]],<ref>{{cite news |last=Locey |first=Bill |title=Cirith Ungol grows fan base without really trying|newspaper=[[Ventura County Star]] |date=7 October 2016 |url=https://www.vcstar.com/story/entertainment/music/2016/10/07/cirith-ungol-grows-fan-base-without-really-trying/91573612/ |access-date=7 October 2018}}</ref> the Swedish [[melodic death metal]] band [[Amon Amarth]] (Sindarin for 'Mount Doom'), whose lyrics deal primarily with Viking culture and Norse mythology,<ref name=\"Monteith 2023\">{{cite web |last=Monteith |first=Kosa |title=Something different happens in an Amon Amarth pit |date=3 April 2023 |website=[[Beat Magazine]] |url=https://beat.com.au/something-different-happens-in-an-amon-amarth-pit/ |access-date=11 April 2023 |archive-date=10 April 2023 |archive-url=https://web.archive.org/web/20230410030245/https://beat.com.au/something-different-happens-in-an-amon-amarth-pit/ |url-status=live}}</ref> and the North American [[doom metal]] band [[Orodruin (band)|Orodruin]], are named after features of Mordor.<ref>{{cite web |title=Orodruin – Ruins of Eternity (Cruz Del Sur Music) |url=https://avenoctum.com/2019/12/02/orodruin-ruins-of-eternity-cruz-del-sur-music/ |website=Ave Noctum |access-date=16 January 2025}}</ref>\n\n=== Places ===\n\nIn the city of [[Warsaw]], [[Poland]], an area in the south-western district of [[Mokotów]], in the neighbourhoods of [[Służewiec]] and [[Ksawerów, Warsaw|Ksawerów]], is commonly known as [[Mordor, Warsaw|Mordor]]. Two small streets there are named in reference to Tolkien's works: J. R. R. Tolkiena Street, and Gandalfa Street.<ref name=streets>{{Cite web |url=https://warszawa.naszemiasto.pl/ulice-tolkiena-i-gandalfa-powstaly-w-warszawie-autor-wladcy/ar/c1-9156637 |title=Ulice Tolkiena i Gandalfa powstały w Warszawie. Autor \"Władcy pierścieni\" i bohater jego powieści zostali patronami ulic w Mordorze |author=Martyna Konieczek |date=8 January 2023 |website=warszawa.naszemiasto.pl |language=pl}}</ref>\n\n== See also ==\n\n* [[Dol Guldur]]\n* ''[[The Last Ringbearer]]''\n\n==Notes==\n\n{{notelist}}\n\n== References ==\n\n=== Primary ===\n\n{{reflist|group=T|28em}}\n\n=== Secondary ===\n{{reflist|28em}}\n\n=== Sources ===\n\n{{refbegin}}\n\n* {{ME-ref|Letters}}\n* {{cite book |chapter=Mordor |last=McNelis |first=James |pages=434 |title=[[J. R. R. Tolkien Encyclopedia]] |editor=Drout, Michael D. C. |editor-link=Michael D. C. Drout |isbn=0-415-96942-5 |publisher=[[Routledge]]|year=2006}}\n* {{ME-ref|ROAD}}\n* {{ME-ref|FOTR}}\n* {{ME-ref|TT}}\n* {{ME-ref|ROTK}}\n* {{ME-ref|Silm}}\n* {{ME-ref|POME}}\n* {{ME-ref|P}}\n\n{{refend}}\n\n{{The Lord of the Rings}}\n{{Middle-earth}}\n\n[[Category:Middle-earth realms]]\n[[Category:Fiction about volcanoes]]",
+  "redirect_chain": [
+    {
+      "source_title": "Khand (Middle-earth)",
+      "target_title": "Mordor"
+    }
+  ],
+  "revision_id": 1361884146,
+  "revision_timestamp": "2026-06-30T17:15:54Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Overview"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Overview"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "The Black Gate"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "The Black Gate"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "The Black Gate"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "The Mountains of Shadow"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "The Mountains of Shadow"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "The Mountains of Shadow"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Interior"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Mount Doom"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Mount Doom"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Mount Doom"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Barad-dûr"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Barad-dûr"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Barad-dûr"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Barad-dûr"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Barad-dûr"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "First Age"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "History",
+        "Early history"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "History",
+        "The Last Alliance and Third Age"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "History",
+        "War of the Ring"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Languages and peoples"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Naming"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Naming"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Origins",
+        "Grendel's wilderness in Beowulf"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Origins",
+        "Grendel's wilderness in Beowulf"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Origins",
+        "Grendel's wilderness in Beowulf"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: table",
+      "structure_type": "table"
+    },
+    {
+      "heading_path": [
+        "Origins",
+        "'Black Country' of the West Midlands"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Origins",
+        "'Black Country' of the West Midlands"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Origins",
+        "First World War's Western Front"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Origins",
+        "First World War's Western Front"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Origins",
+        "Evil"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Origins",
+        "Evil"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Origins",
+        "Turkey"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Legacy",
+        "In film"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Legacy",
+        "In film"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Legacy",
+        "In other media"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Legacy",
+        "In other media"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Legacy",
+        "In other media"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Legacy",
+        "Places"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "See also"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: list",
+      "structure_type": "list"
+    },
+    {
+      "heading_path": [
+        "Notes"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

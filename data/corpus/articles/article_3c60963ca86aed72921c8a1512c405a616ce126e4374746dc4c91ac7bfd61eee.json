@@ -1,0 +1,303 @@
+{
+  "article_artifact_id": "article_3c60963ca86aed72921c8a1512c405a616ce126e4374746dc4c91ac7bfd61eee",
+  "canonical_title": "Glorfindel",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_3c60963ca86aed72921c8a1512c405a616ce126e4374746dc4c91ac7bfd61eee",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "In later writings, Tolkien explored Glorfindel's backstory in various material relating to the First Age of Middle-earth. He worked out how both characters named Glorfindel could be one and the same, something not evident from the published version of The Lord of the Rings; the question has been debated by scholars. The incremental changes made to Glorfindel's character, most notably the introduction of the theme of reincarnation, as part of the ongoing development of Tolkien's legendarium have been analysed by scholars.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_bf9fc2c08535fcd4f18f2f20e37ab459847bff070ede09fc5cd23e7b19074973",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_3c60963ca86aed72921c8a1512c405a616ce126e4374746dc4c91ac7bfd61eee",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "In Peter Jackson's 2001 live-action film The Lord of the Rings: The Fellowship of the Ring, Glorfindel's role of rescuing Frodo from the pursuing Nazgûl by lending his horse is given to the elf Arwen. He has also featured in various video games.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_8f4da9b89ed553464f15b6abe155a49089504eff9270aa091aa445e5348988fb",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_3c60963ca86aed72921c8a1512c405a616ce126e4374746dc4c91ac7bfd61eee",
+      "heading_path": [
+        "Biography",
+        "The First Age"
+      ],
+      "normalized_text": "thumb|The collapse of Turgon's Tower during the Fall of Gondolin. Artwork by Tom Loback",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_f937c74b94e9548f837ddf24a77a032332f79024455cd76f484bf6ad916e8ee3",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_3c60963ca86aed72921c8a1512c405a616ce126e4374746dc4c91ac7bfd61eee",
+      "heading_path": [
+        "Biography",
+        "The First Age"
+      ],
+      "normalized_text": "According to The Silmarillion, Glorfindel was born around the time of the Years of the Trees in Valinor. He was part of the host of Turgon, but only followed Turgon because of their kinship. He took no part in the Kinslaying at Alqualondë, but followed the rest of the Noldor host in their exile. Glorfindel later appears as a noble lord, one of King Turgon's chief lieutenants who oversees his retreat during the Battle of Unnumbered Tears. After fighting in the city's defence, Glorfindel escaped together with Tuor, Idril, Eärendil and others. The survivors passed through the Encircling Mountains above Gondolin. However, they were ambushed by enemies, including a Balrog. Glorfindel fought the Balrog and succeeded in slaying the monster, but was himself mortally wounded. His body was recovered by the great eagle Thorondor and buried under a stone cairn, where afterward grew yellow flowers. The Fall of Gondolin relates that \"Glorfindel and the Balrog\" became an in-universe proverb used in Elven culture to describe great skill and courage in battle.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_bf71529b826b59c43718f7da415b1b74ba4f92bf40b4cfee3f1d065f684c665d",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_3c60963ca86aed72921c8a1512c405a616ce126e4374746dc4c91ac7bfd61eee",
+      "heading_path": [
+        "Biography",
+        "The First Age"
+      ],
+      "normalized_text": "Following his death in the First Age, Glorfindel's spirit passed to the halls of Mandos in Valinor. The Valar eventually sent him back to Middle-Earth on a similar mission to that of the Istari, who appeared several thousand years later.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_a0f170df51817138773191c7ca5d5a2ed32d6cc16b83f30007df67bfd9a92921",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_3c60963ca86aed72921c8a1512c405a616ce126e4374746dc4c91ac7bfd61eee",
+      "heading_path": [
+        "Biography",
+        "The Third Age"
+      ],
+      "normalized_text": "Gandalf described Glorfindel as \"one of the mighty of the Firstborn\" and \"an Elf-lord of a house of princes.\" When Frodo asks about the protection of Rivendell from Sauron's forces, Gandalf explains:",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_c23e4bb10cf250ef3fbed93c1e0927c6d74e9908eee7adf61af83649f843ac85",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_3c60963ca86aed72921c8a1512c405a616ce126e4374746dc4c91ac7bfd61eee",
+      "heading_path": [
+        "Biography",
+        "The Third Age"
+      ],
+      "normalized_text": "When Elrond seeks to fill the last two spots in the Fellowship to destroy the One Ring with folk of his own house, Gandalf mentioned Glorfindel. He justified the inclusion of Merry Brandybuck and Pippin Took by saying:",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_004c40e872fb857530386b98a7f3cd9637fceea6768fd2eb2a32dc3fcd00e12f",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Glorfindel&action=history",
+  "namespace": 0,
+  "page_id": 63943,
+  "parent_revision_id": 1359043895,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1359044140",
+  "raw_wikitext": "{{Short description|Fictional elf in Tolkien's Middle-Earth}}\n{{good article}}\n{{Use British English|date=May 2022}}\n{{Infobox character\n| name   = Glorfindel\n| series = [[J. R. R. Tolkien|Tolkien]]\n| alias  = Lord of the [[Heraldry of Middle-earth#Houses of Gondolin|House of the Golden Flower]] of [[Gondolin]]\n| race   = [[Elf (Middle-earth)|Elves]]\n| lbl24  = Book(s)\n| data24 = ''[[The Fellowship of the Ring]]'' (1954)<br/>''[[The Silmarillion]]'' (1977)<br/>''[[Children of Húrin]]'' (2007)<br/>''[[The Fall of Gondolin]]'' (2018)\n}}\n'''Glorfindel''' ({{IPA|sjn|ɡlɔrˈfindɛl}}) is a fictional character in [[J. R. R. Tolkien]]'s [[Middle-earth]] [[Tolkien's legendarium|legendarium]]. He is a member of the [[Noldor]], one of the three groups of [[Sundering of the Elves|High Elves]]. The character and his name, which means \"[[blond]]\" or \"golden-haired\", were among the first created for what would become part of his Middle-earth legendarium in 1916–17, beginning with the initial draft of ''[[The Fall of Gondolin]]''. His name indicates his hair as a mark of his distinction, as the Noldor were generally dark-haired. A character of the same name<!--see next paragraph for their possible unification--> appears in the first book of ''[[The Lord of the Rings]]'', ''[[The Fellowship of the Ring]]'', which takes place in Middle-earth's [[Third Age]]. Within the story, he is depicted as a powerful Elf-lord who could withstand the [[Nazgûl]], wraith-like servants of [[Sauron]], and holds his own against some of them single-handedly. Glorfindel and a version of the story of the Fall of Gondolin appear in ''[[The Silmarillion]]'',  posthumously published in 1977.\n\nIn later writings, Tolkien explored Glorfindel's backstory in various material relating to the [[First Age]] of Middle-earth. He worked out how both characters named Glorfindel could be one and the same, something not evident from the published version of ''The Lord of the Rings''; the question has been debated by scholars. The incremental changes made to Glorfindel's character, most notably the introduction of the [[Reincarnation in popular culture|theme of reincarnation]], as part of the ongoing development of [[Tolkien's legendarium]] have been analysed by scholars.\n\nIn [[Peter Jackson]]'s 2001 live-action film ''[[The Lord of the Rings: The Fellowship of the Ring]]'', Glorfindel's role of rescuing [[Frodo]] from the pursuing [[Nazgûl]] by lending his horse is given to the elf [[Arwen]]. He has also featured in various video games.\n\n==Development==\n\n===Conception and creation===\n[[File:Bar-en-Lothglor.svg|upright|thumb|Coat of arms of Bar-en-Lothglor (House of the Golden Flower), borne on the shields of armed forces led by Glorfindel.<ref name=\"lt2\" group=T/>]]\nIn ''[[The Fall of Gondolin]]'', which details the conquest of the Elven city [[Gondolin]] by the Dark Lord [[Morgoth]], Tolkien writes that Glorfindel's name \"meaneth Goldtress for his hair was golden\".<ref name=\"lt2\" group=T/> It was the first part of ''[[The Book of Lost Tales]]'' to be written, circa 1916–17, and the story was read aloud by Tolkien to the [[Exeter College, Oxford|Exeter College]] Essay Club in the spring of 1920.<ref name=\"lt2\" group=T/> ''The Fall of Gondolin'' appears in compressed form in ''The Silmarillion'', where the character is called \"yellow-haired Glorfindel\".<ref name=\"sil\" group=T>{{harvnb|Tolkien|1977|loc=}}</ref> According to Tolkien's son, [[Christopher Tolkien]],  \"this was from the beginning the meaning of his name\".<ref name=\"lt2\" group=T>{{harvnb|Tolkien|1984b|loc=III \"The Fall of Gondolin\"}}</ref> An Elf of the same name appears in ''[[The Lord of the Rings]]'', written many years after the original draft of ''The Fall of Gondolin'': in ''The Fellowship of the Ring'', he appears to assist the hobbit [[Frodo Baggins]] in his attempt to escape the servants of the Dark Lord [[Sauron]], Morgoth's successor.<ref name=\"Flight to the Ford\" group=T/>\n\nAs his ideas changed and evolved over the years, Tolkien wrote about Glorfindel's backstory at various times.<ref name=\"Evolution\"/> In the very first draft of the \"[[Council of Elrond]]\", which was to become ''The Fellowship of the Ring'', the members of the Fellowship were to be Frodo, [[Gandalf]], [[Trotter (Lord of the Rings)|Trotter]] (later Strider/[[Aragorn]]), Glorfindel, Durin son of [[Balin (Middle-earth)|Balin]] (who became [[Gimli (Middle-earth)|Gimli]] son of [[Glóin]]), [[Samwise Gamgee|Sam]], [[Meriadoc Brandybuck|Merry]] and [[Peregrin Took|Pippin]]; [[Boromir]] and [[Legolas]] did not come in until much later.<ref name=\"rots\" group=T>{{harvnb|Tolkien|1988|loc=}}</ref> Early notes for the [[Council of Elrond]] state that Glorfindel \"tells of his ancestry in Gondolin\". In the final published version of ''The Fellowship of the Ring'', Legolas is the representative of the Elven people, though the power that Tolkien attributed to Glorfindel remains as he is depicted as being strong enough to stand against the [[Nazgûl]], and so he is chosen to guide Frodo to safety from them.<ref name=\"Flight to the Ford\" group=T/>\n\nTowards the end of his life, Tolkien would devote his last writings to the issue of Glorfindel and some related topics, as detailed in ''[[The Peoples of Middle-earth]]''.<ref name=\"POME Five Wizards\" group=T>{{harvnb|Tolkien|1996|loc=ch. 13 \"Last Writings\", \"The Five Wizards\"}}</ref><ref name=\"Encyclopedia\"/> [[Christopher Tolkien]] stated that his father had not conceived the Glorfindel of ''[[The Lord of the Rings]]'' as the same person as the similarly named Elf of Gondolin, but had simply reused the name.<ref name=\"POME Glorfindel\" group=T>{{harvnb|Tolkien|1996|loc=ch. 13 \"Last Writings\", \"Glorfindel\"}}</ref> The issue lay in Tolkien's original conception of the spirits of dead Elves as being re-embodied in their old bodies after a [[Purgatory]]-like period in the Halls of Mandos in [[Valinor]], the home of Tolkien's \"gods\", the [[Vala (Middle-earth)|Valar]] and [[Maia (Middle-earth)|Maiar]], where Elves previously lived before (re)migrating to Middle-earth. After being re-embodied, previously dead Elves stay in Valinor permanently.<ref name=\"Encyclopedia\">{{cite encyclopedia |last=Anger |first=Don A. |chapter=Glorfindel |editor-last=Drout |editor-first=Michael D. C. |editor-link=Michael D.C. Drout |title=[[The J. R. R. Tolkien Encyclopedia]] |year=2013 |orig-year=2006 |publisher=[[Routledge]] |isbn=978-1-1358-8033-0 |pages=243–244}}</ref>\n\nTolkien eventually decided that each Elf's name should be unique, and therefore the two Glorfindels should be one and the same.<ref name=\"Encyclopedia\"/> In 1972, he wrote an essay in which he explains how Glorfindel returns to Middle-earth following his death in the First Age. On Glorfindel's status as a Noldor Exile, Tolkien noted that Glorfindel left Valinor reluctantly and is blameless in the Kinslaying, and since his sacrifice in defeating the Balrog was deemed to be \"of vital importance to the designs of the Valar\", he is granted an exemption to the Exiles' ban and purged of any guilt. Once restored and allowed to dwell in Valinor, his spiritual power is greatly enhanced, almost an equal of the Maiar.<ref name=\"Encyclopedia\"/> Tolkien considered having Glorfindel as a companion to Gandalf during the latter's travel to Middle-earth in the Third Age,<ref name=\"Evolution\"/> but changed his mind as breaching the divide between Valinor and the \"Circles of the World\" would make him \"of greater power and importance than seems fitting\".<ref name=\"Encyclopedia\"/> He proposed that Glorfindel is sent back to Middle-earth by the [[Vala (Middle-earth)|Valar]] during the [[Second Age]] {{circa|1600}}, when [[Barad-dûr]] was completed and [[Sauron]] forged the [[One Ring]], and while [[Númenor]] was still friendly with the Elves under Tar-Minastir.<ref name=\"Encyclopedia\"/> In one version he is sent as a predecessor to the [[Wizard (Middle-earth)|Istari]] (Wizards); in a different version, he arrived in Middle-earth together with the [[Blue Wizards]]. At one point he was even considered as a possibility for the identity of one of the Wizards, but Tolkien abandoned the idea since the Elves were not initially conceived as possibilities for the Wizards, and he had come to the conclusion that they were exclusively [[Maia (Middle-earth)|Maiar]].<ref name=\"POME Five Wizards\" group=T/>\n\n==Biography==\n\n===The First Age===\n[[File:The Fall of Turgon's Tower cropped.jpg|thumb|The collapse of Turgon's Tower during the Fall of Gondolin. Artwork by [[Tom Loback]]]]\n\nAccording to ''The Silmarillion'', Glorfindel was born around the time of the [[Years of the Trees]] in [[Valinor]]. He was part of the host of Turgon, but only followed Turgon because of their kinship. He took no part in the Kinslaying at Alqualondë, but followed the rest of the Noldor host in their exile. Glorfindel later appears as a noble lord, one of King Turgon's chief lieutenants who oversees his retreat during the [[Battle of Unnumbered Tears]].<ref name=\"sil\" group=T/> After fighting in the city's defence, Glorfindel escaped together with [[Tuor]], [[Tuor and Idril|Idril]], [[Eärendil]] and others. The survivors passed through the Encircling Mountains above [[Gondolin]]. However, they were ambushed by enemies, including a [[Balrog]]. Glorfindel fought the Balrog and succeeded in slaying the monster, but was himself mortally wounded. His body was recovered by the great eagle Thorondor and buried under a stone cairn, where afterward grew yellow flowers.<ref name=\"Encyclopedia\"/> ''The Fall of Gondolin'' relates that \"Glorfindel and the Balrog\" became an in-universe proverb used in Elven culture to describe great skill and courage in battle.<ref name=\"lt2\" group=T/>\n\nFollowing his death in the First Age, Glorfindel's spirit passed to the halls of Mandos in Valinor. The [[Vala (Middle-earth)|Valar]] eventually sent him back to [[Middle-earth|Middle-Earth]] on a similar mission to that of the [[Wizard (Middle-earth)|Istari]], who appeared several thousand years later.<ref name=\"POME Glorfindel\" group=T/>\n\n===The Third Age===\n\nIn ''The Fellowship of the Ring'', Glorfindel was sent by [[Elrond]] of [[Rivendell]] in the direction that the Nazgûl were most likely to come from, to help the hobbit [[Frodo Baggins|Frodo]] reach Rivendell. He set Frodo on his horse, Asfaloth, and has the hobbit riding ahead to the other side of the Ford of [[Bruinen]], where he defies his pursuers. During his confrontation with  Nazgûl at the Bridge of Mitheithel, Glorfindel reveals himself as a mighty Elf-lord terrible in his wrath; Frodo saw him as a shining figure.<ref name=\"Flight to the Ford\" group=T>{{harvnb|Tolkien|1954a|loc=book 1, ch. 12 \"Flight to the Ford\"}}</ref> He is nearly captured, but manages to drive the Nazgûl into the nearby river with the aid of [[Aragorn|Strider]] and Frodo's hobbit companions, where they were swept away by a wave of water resembling charging horses, an enchantment created by Elrond and [[Gandalf]]. While enjoying the hospitality of the Elves in Rivendell, Frodo was enchanted by the beauty and stature of Glorfindel and his kinfolk.<ref name=\"meetings\" group=T/> He sat in honour next to Elrond and Gandalf in the Hall of Fire in Rivendell, and was part of [[the Council of Elrond]] which deliberated on their collective response to the discovery of the One Ring.<ref name=\"meetings\" group=T/> He showed unusual wisdom by voicing caution about sending the Ring to the enigmatic [[Tom Bombadil]], and suggested that the Ring be destroyed and that the [[Three Rings]] of the Elves be sacrificed to accomplish this quest.<ref name=\"Encyclopedia\"/>\n\nGandalf described Glorfindel as \"one of the mighty of the Firstborn\" and \"an Elf-lord of a house of princes.\" When Frodo asks about the protection of Rivendell from Sauron's forces, Gandalf explains:<ref name=\"meetings\" group=T/>\n\n{{blockquote|In Rivendell there live still some of his chief foes: the Elven-wise, lords of the Eldar from beyond the furthest seas. They do not fear the Ringwraiths, for those who have dwelt in the Blessed Realm live at once in both worlds, and against both the Seen and the Unseen they have great power.<ref name=\"meetings\" group=T>{{harvnb|Tolkien|1954a|loc=book 2, ch. 1 \"Many Meetings\"}}</ref>}}\n\nWhen Elrond seeks to fill the last two spots in the Fellowship to destroy the [[One Ring]] with folk of his own house, Gandalf mentioned Glorfindel. He justified the inclusion of Merry Brandybuck and Pippin Took by saying:<ref name=\"south\" group=T/>\n\n{{blockquote|I think, Elrond, that in this matter it would be well to trust rather to their friendship than to great wisdom. Even if you chose for us an elf-lord, such as Glorfindel, he could not storm the [[Barad-dur|Dark Tower]], nor open the road to the Fire by the power that is in him.<ref name=\"south\" group=T>{{harvnb|Tolkien|1954a|loc=book 2, ch. 3 \"The Ring Goes South\"}}</ref>}}\n\nOne of the Appendices usually published with the third volume, ''[[The Return of the King]]'', relates that earlier in the [[Third Age]], Glorfindel led the Elvish forces of Rivendell, the Grey Havens, and [[Lothlórien]] against [[Angmar]] in the Battle of Fornost. There he fought alongside Eärnur, the future king of [[Gondor]], along with the remnants of Gondor's sister kingdom Arnor. When the [[Witch-king of Angmar]], Lord of the [[Nazgûl]] and chief servant of Sauron, rode out to defend his ruling seat at the captured Fornost, his presence frightened Eärnur's horse and sent the prince flying backwards, and the Witch-king mocked him. Glorfindel confronted the Witch-king, who fled into the night. Eärnur wished to pursue him, but Glorfindel bade him not to and prophesied the Witch-king would fall in the far future, but not by \"the hand of man\".<ref group=T>{{harvnb|Tolkien|1955|loc=Appendix A, I, iv \"Gondor and the heirs of Anarion\"}}</ref> Many years later, during the [[War of the Ring]], [[Éowyn]] (a woman) slays the Witch-king during the [[Battle of Pelennor Fields]], assisted by [[Meriadoc Brandybuck]] (a [[hobbit]]<ref group=T>{{harvnb|Carpenter|2023|loc=#31 to C.A. Furth of Allen & Unwin, 24 July 1938, states that Hobbits were a sub-group of Men rather than a distinct race. }}</ref>). Before Éowyn's slaying of the Witch-king, the reference to \"man\" in [[Prophecy in The Lord of the Rings|the prophecy]] had been interpreted to mean that no human at all would slay him, rather than that no male human would do so.<ref group=T>{{harvnb|Tolkien|1955|loc=book 5, ch. 6 \"The Battle of the Pelennor Fields\"}}</ref>\n\n==Analysis==\n\n{{further|Death and immortality in Middle-earth#Men and Elves}}\n\nAlexander Lewis and Elizabeth Currie wrote that Glorfindel was a \"chance reuse of no significance\", and argued that Tolkien \"tied himself, as well as readers and critics, in knots over the question of whether there were one or two characters of the name\".<ref name=\"Forsaken\">{{cite book |first=Alexander |last=Lewis |first2=Elizabeth |last2=Currie |title=The Forsaken Realm of Tolkien: Tolkien and the Medieval Tradition |year=2005 |publisher=Medea |isbn=978-0-9543-2071-3 |page=53}}</ref> Don Anger speculated that Glorfindel's unequivocal death in ''The Fall of Gondolin'' may have prevented Tolkien from making an explicit connection between this Silmarillion character and the Elf with the same name in the published version of ''The Lord of the Rings''.<ref name=\"Encyclopedia\"/> Anger took the view that Tolkien's idea of a resolved story for the character was only \"possibly realized\" with the complete publication of the 12-volume book series ''[[The History of Middle-earth]]'' by 1996. He explained that as much of the background material for Glorfindel was unpublished when ''The Silmarillion'' was posthumously released, various Tolkien compendiums were forced into speculation to sate the curiosity of readers concerning the mystery of the character's death and sudden reappearance in ''The Lord of the Rings'', citing ''[[The Complete Guide to Middle-earth|The Complete Guide to Middle-earth: from The Hobbit to The Silmarillion]]'' as an example.<ref name=\"Encyclopedia\"/>\n\nThe theme of reincarnation and the concept of Elves being divinely empowered is explored in its fullest extent within [[Tolkien's legendarium]] through the character Glorfindel. Edmund Wainwright noted that Glorfindel is the best example of a male Elf in ''The Lord of the Rings'' who embodies his people's aspect as semi-divine beings, given his immense power.<ref name=\"England\">{{cite book |first=Edmund |last=Wainwright |title=Tolkien's Mythology for England: A Middle-Earth Companion |year=2004 |publisher=Anglo-Saxon |isbn=978-1-8982-8136-8 |page=50}}</ref> [[Verlyn Flieger]] noted that the concept of Elven incarnation had been considered by the time of the publication of ''The Lord of the Rings''. She suggested that being a devout [[Catholic Church|Catholic]], Tolkien initially found the idea to be theologically problematic and biologically difficult; he eventually reached the conclusion that \"it is a biological dictum\" in his imaginary world, and its purpose \"largely literary\".<ref name=\"Question\">{{cite book |editor-first=Verlyn |editor-last=Flieger |editor-link=Verlyn Flieger |title=[[A Question of Time|A Question of Time: J.R.R. Tolkien's Road to Faërie]] |year=1997 |publisher=[[Kent State University Press]] |page=119 |isbn=978-0-8733-8699-9 }}</ref>\n\nThe Tolkien scholar [[Elizabeth Whittingham]] cited correspondence from readers, particularly Catholics like Father Murray and Peter Hastings. This raised questions that ultimately prompted changes to the mythology of Middle-earth, as acknowledged by Tolkien and his son Christopher. Whittingham noted that Tolkien sought to make his \"secondary world\" compatible with his \"primary world\", reconsidering his focus on metaphysical and philosophical explorations from the 1950s onwards. His revisions gradually moved the texts of his [[Christianity in Middle-earth|legendarium into closer alignment with Christianity]]. She observed that Glorfindel is a notable exception to Tolkien's later stance on abandoning one of his oldest concepts, reincarnation through rebirth, and that he is Tolkien's first attempt of contemplating the portrayal of a reincarnated elf.<ref name=\"Evolution\">{{cite book |first=Elizabeth |last=Whittingham |author-link=Elizabeth Whittingham |title=The Evolution of Tolkien's Mythology: A Study of the History of Middle-earth |year=2017 |publisher=[[McFarland and Company|McFarland]] |isbn=978-1-4766-1174-7 |page=153}}</ref>\n\nIn ''[[Tor.com]]''<nowiki>'</nowiki>s bi-weekly series on \"Exploring the People of Middle-earth\", Megan Fontenot described Glorfindel's role in ''The Fellowship of the Ring'' as a [[shaman]]-like figure, a [[Mediumship|medium]] who has direct access to both the spiritual (Valinor) and physical (Middle-earth) worlds, and that his purpose is to protect those who are threatened by the powers of the Shadow. She noted that his previous battle with the Balrog in the First Age essentially serves as an \"initiation\" to a shamanic trial and journey.<ref>{{cite web |last=Fontenot |first=Megan N. |url=https://www.tor.com/2019/04/18/exploring-the-people-of-middle-earth-glorfindel-resurrected-hero-and-spiritual-warrior/ |title=Exploring the People of Middle-earth: Glorfindel, Resurrected Hero and Spiritual Warrior |date=18 April 2019 |website=[[Tor.com]] |access-date=23 January 2020}}</ref>\n\n== In other media ==\n\n=== Film and stage ===\n\nIn [[Ralph Bakshi]]'s 1978 [[The Lord of the Rings (1978 film)|animated version]], his role and lines from the narrative are given to [[Legolas]]. In [[Peter Jackson]]'s 2001 live-action film ''[[The Lord of the Rings: The Fellowship of the Ring]]'', his role is given to [[Arwen]], who takes Frodo to the Ford and summons the floodwaters to disperse the Nazgûl through an incantation.<ref>{{cite book |last=Shippey |first=Tom |author-link=Tom Shippey |title=[[The Road to Middle-Earth]] |date=2005 |edition=Third |orig-year=1982 |publisher=[[HarperCollins]] |isbn=978-0261102750 |pages=413, 418–419}}</ref> \nIn the British musical stage adaptation of ''[[The Lord of the Rings (theatre)|The Lord of the Rings]]'', which ran from June 2007 to July 2008 at the [[Theatre Royal Drury Lane]] in London's West End, the character was reimagined as a dark-haired elf-woman, played by Alma Ferović.<ref>{{cite web |last=Bennett |first=Ray|title=Theater Reviews |url=https://www.hollywoodreporter.com/news/theater-reviews-158752 |website=[[The Hollywood Reporter]] |access-date=19 January 2021 |date=25 June 2007}}</ref>\nIn the 2015 film ''[[The Martian (film)|The Martian]]'', NASA Director Teddy Sanders asks to be called Glorfindel during the discussion of Project [[Elrond]], a secret meeting about plans to rescue stranded astronaut [[Mark Watney]].<ref name=\"Buzzfeed\">{{Cite web |url=https://www.buzzfeed.com/adambvary/the-martian-page-to-screen-drew-goddard |title=How \"The Martian\" Went From A Best-Selling Novel To A Blockbuster Film|date=6 October 2015 |website=[[BuzzFeed News]] |access-date=23 January 2021}}</ref> The film's writer [[Drew Goddard]] claimed that the [[easter egg (media)|reference]] was his proudest moment in the film.<ref name=\"Buzzfeed\"/>\n\n=== Games ===\n\nGlorfindel appears as a [[non-player character]] in the 2002 video game ''[[The Lord of the Rings: The Fellowship of the Ring (video game)#Plot|The Lord of the Rings: The Fellowship of the Ring]]''. He is voiced by [[Steve Staley]].\nIn the 2006 real-time strategy game, ''[[The Lord of the Rings: The Battle for Middle-earth II]]'', Glorfindel's hair is silver-blond as opposed to his trademark golden-blond colour. He is featured on the game's box art, and is one of the playable hero units of the Elvish faction who rides his steed Asfaloth.<ref>{{cite web |last=Rorie |first=Matthew |title=The Lord of the Rings, The Battle for Middle-earth II Walkthrough |url=https://www.gamespot.com/articles/the-lord-of-the-rings-the-battle-for-middle-earth-ii-walkthrough/1100-6146219/ |website=Gamespot |access-date=19 January 2021 |date=17 July 2006}}</ref>\nIn the ''[[Lord of the Rings Online]]'', Glorfindel appeared as a [[non-player character]].<ref>{{cite web |last=Cross |first=Keith |title=Characters of Middle-earth: Glorfindel |url=https://www.mmorpg.com/news/characters-of-middle-earth-glorfindel-2000062597 |website=MMORPG.com |access-date=19 January 2021 |date=15 May 2007}}</ref>\nThe [[Games Workshop]] [[Middle-earth Strategy Battle Game|tabletop strategy battle game adaptation of ''The Lord of the Rings'']] features two versions of Glorfindel: In one form, he is fully clad in armour, while the other has Glorfindel clad in robes and riding Asfaloth.<ref>{{cite web |title=Glorfindel and Erestor |url=https://www.games-workshop.com/en-FI/Glorfindel-And-Erestor-2019?_requestid=13425422 |website=Games Workshop |access-date=19 January 2021}}</ref><ref>{{cite web |title=Gildor Inglorion & Glorfindel |url=https://www.games-workshop.com/en-FI/Gildor-Inglorion-and-Glorfindel-2020 |website=Games Workshop |access-date=19 January 2021}}</ref> \n<!--Glorfindel appears in the ''[[Middle-earth Collectible Card Game]]'', and is depicted as one of the most powerful characters in the set. Glorfindel is depicted on a trading card in ''[[The Lord of the Rings Trading Card Game]]'' which is based on the Jackson film adaptations, and in two versions in the ''[[The Lord of the Rings: The Card Game|Lord of the Rings Living Card Game]]'' by Fantasy Flight Games.{{cn|date=January 2021}} unable to find RS for these-->\nA version of Glorfindel appears in the ''[[Lego The Lord of the Rings (video game)|Lego Lord of the Rings]]'' video game, where he is available as [[downloadable content]].<ref>{{cite web |last=Asif |first=Ali |title=LEGO: Lord of the Rings Characters Unlock Guide |url=https://segmentnext.com/2012/11/18/lego-lord-of-the-rings-characters-unlock-codes-guide-how-to/ |website=Segment Next |access-date=19 January 2021 |date=21 October 2020}}</ref>\n\n== References ==\n\n=== Primary ===\n\n{{reflist|group=T|28em}}\n\n=== Secondary ===\n\n{{reflist|28em}}\n\n=== Sources ===\n\n* {{ME-ref|Letters}} <!--Carpenter 1981-->\n* {{ME-ref|FOTR}}    <!--Tolkien 1954a-->\n* {{ME-ref|ROTK}}    <!--Tolkien 1955-->\n* {{ME-ref|Silm}}    <!--Tolkien 1977-->\n* {{ME-ref|BOLT2}}   <!--Tolkien 1984b-->\n* {{ME-ref|ROTS}}    <!--Tolkien 1988-->\n* {{ME-ref|POME}}    <!--Tolkien 1996-->\n\n{{Middle-earth}}\n{{Lotr}}\n{{Elves}}\n\n[[Category:The Silmarillion characters]]\n[[Category:Fictional characters who use magic]]\n[[Category:Fictional military captains]]\n[[Category:High Elves (Middle-earth)]]\n[[Category:Noldor]]\n[[Category:Fiction about reincarnation]]\n[[Category:The Lord of the Rings characters]]\n\n[[de:Figuren in Tolkiens Welt#Glorfindel]]\n[[pl:Lista Calaquendich#Glorfindel]]",
+  "redirect_chain": [],
+  "revision_id": 1359044140,
+  "revision_timestamp": "2026-06-12T18:18:56Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Development",
+        "Conception and creation"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Development",
+        "Conception and creation"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Development",
+        "Conception and creation"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Development",
+        "Conception and creation"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Biography",
+        "The Third Age"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Biography",
+        "The Third Age"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Biography",
+        "The Third Age"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Biography",
+        "The Third Age"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "In other media",
+        "Film and stage"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "In other media",
+        "Games"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

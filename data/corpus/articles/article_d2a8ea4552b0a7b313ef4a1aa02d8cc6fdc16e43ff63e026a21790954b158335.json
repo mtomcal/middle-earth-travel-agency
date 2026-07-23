@@ -1,0 +1,358 @@
+{
+  "article_artifact_id": "article_d2a8ea4552b0a7b313ef4a1aa02d8cc6fdc16e43ff63e026a21790954b158335",
+  "canonical_title": "Minas Tirith",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_d2a8ea4552b0a7b313ef4a1aa02d8cc6fdc16e43ff63e026a21790954b158335",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Scholars, following various leads in Tolkien's fantasy and letters, have attempted to identify Minas Tirith with several different historical or mythical cities, including Troy, Rome, Ravenna, and Constantinople.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_0865900255d8fda1bab8829731b4cb207dceec4c6514c65e94ca44945c68b508",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_d2a8ea4552b0a7b313ef4a1aa02d8cc6fdc16e43ff63e026a21790954b158335",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "In Peter Jackson's film adaptation of The Lord of the Rings, Minas Tirith was given something of the look of a city of the Byzantine Empire, while its seven-tiered shape was suggested by the tidal island and abbey of Mont Saint-Michel in France. Tolkien illustrators including Alan Lee, John Howe, Jef Murray, and Ted Nasmith have all produced realistic paintings of the city.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_385fefa5ae0c1bfcb308eac689f6c8ba96d1ecbab80409e12eb481c13483177c",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_d2a8ea4552b0a7b313ef4a1aa02d8cc6fdc16e43ff63e026a21790954b158335",
+      "heading_path": [
+        "Identifications with historical or mythical cities"
+      ],
+      "normalized_text": "thumb|upright|Minas Tirith's towering stone hall of Ecthelion has been compared to Ravenna's 6th century Basilica of San Vitale.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_fdef1e227008ae4716294257eade136e410554ad0c99b7129d0e23193e5bc6fc",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_d2a8ea4552b0a7b313ef4a1aa02d8cc6fdc16e43ff63e026a21790954b158335",
+      "heading_path": [
+        "Identifications with historical or mythical cities"
+      ],
+      "normalized_text": "Tolkien was influenced by many authors when constructing Middle-earth, including several classical sources. Scholars, following various leads in Tolkien's fantasy and letters, have identified Minas Tirith with several different historical or mythical cities, including Troy, Rome, Ravenna, and Constantinople.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_7904462572d9a28e6224954137110c8f929dd27a435888d999cfd8550f4a06bc",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_d2a8ea4552b0a7b313ef4a1aa02d8cc6fdc16e43ff63e026a21790954b158335",
+      "heading_path": [
+        "Identifications with historical or mythical cities",
+        "Constantinople"
+      ],
+      "normalized_text": "thumb|upright|Tolkien called Minas Tirith a \"Byzantine City\":that empire's capital was Constantinople (shown).",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_ada4464b61e0db6828593cb80fa02ca5773db8d8f37a098b51e6d2f24df8879c",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_d2a8ea4552b0a7b313ef4a1aa02d8cc6fdc16e43ff63e026a21790954b158335",
+      "heading_path": [
+        "Adaptations",
+        "Art"
+      ],
+      "normalized_text": "thumb|Ted Nasmith's painting of Gandalf riding to Minas Tirith has been described as the most fully rendered and realistic image of the city, free of the silliness of much fantasy art.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_f3cc0b9f31f0d4e48ecd9c547b79631b278fd328c5cba2e8a907fd9666476760",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Minas_Tirith&action=history",
+  "namespace": 0,
+  "page_id": 158358,
+  "parent_revision_id": 1339122846,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1358629281",
+  "raw_wikitext": "{{Short description|Fictional city in Middle-earth}}\n{{about|the capital of Gondor in the novel ''The Lord of the Rings''|the source book for the game ''Middle-earth Role Playing''|Minas Tirith (MERP){{!}}''Minas Tirith (MERP)''}}\n{{good article}}\n{{Use dmy dates|date=March 2015}}\n{{Use British English|date=March 2015}}\n{{Infobox fictional location\n| name         = ''Minas Tirith'' \n| image        = Minas Tirith - Tolkien Sketch.jpg\n| caption      = \"Stanburg (Minas Tirith)\" by [[J.R.R. Tolkien]]. An early sketch and a re-rendering of a previous attempt he made at illustrating the city.{{sfn|Hammond|Scull|1995|pages=173 (plate 168)}}\n| series       = [[J. R. R. Tolkien]]'s [[Tolkien's legendarium|legendarium]]\n| type         = Fortified [[city]]; capital of [[Gondor]]\n| blank_label  = Location\n| blank_data   = [[Gondor]]\n| blank_label1 = Lifespan\n| blank_data1  = Built {{ME-date|SA|3320}}\n| blank_label2 = Founder\n| blank_data2  = Anárion\n| ruler        = Kings and [[Stewards of Gondor]]\n| locations    = the Citadel, the Great Gate, Rath Dínen, the Tower of Ecthelion, the White Tree\n}}\n'''Minas Tirith''' is the capital of [[Gondor]] in [[J. R. R. Tolkien]]'s fantasy novel ''[[The Lord of the Rings]]''. It is a seven-walled fortress city built on the spur of a mountain, rising some 700 feet to a high terrace, housing the Citadel, at the seventh level. Atop this is the 300-foot high Tower of Ecthelion, which contains the [[throne room]].\n\nScholars, following various leads in Tolkien's fantasy and letters, have attempted to identify Minas Tirith with several different historical or mythical cities, including [[Troy]], [[Ancient Rome|Rome]], [[Ravenna]], and [[Constantinople]].\n\nIn [[Peter Jackson]]'s [[The Lord of the Rings (film series)|film adaptation of ''The Lord of the Rings'']], Minas Tirith was given something of the look of a city of the [[Byzantine Empire]], while its seven-tiered shape was suggested by the [[tidal island]] and [[abbey]] of [[Mont Saint-Michel]] in France. [[Illustrating Tolkien|Tolkien illustrators]] including [[Alan Lee (illustrator)|Alan Lee]], [[John Howe (illustrator)|John Howe]], [[Jef Murray]], and [[Ted Nasmith]] have all produced realistic paintings of the city.\n\n== Description ==\n\n{{Quote box\n | quote  =  For partly in the primeval shaping of the hill, partly by the mighty craft and labour of old, there stood up from the rear of the wide court behind the Gate a towering bastion of stone, its edge sharp as a ship-keel facing east. Up it rose, even to the level of the topmost circle, and there was crowned by a battlement; so that those in the Citadel might look from its peak sheer down upon the Gate seven hundred feet below. The entrance to the Citadel also looked eastward, but was delved in the heart of the rock; thence a long lamp-lit slope ran up to the seventh gate. Thus men reached at last the High Court, and the Place of the Fountain before the feet of the White Tower: tall and shapely, fifty fathoms from its base to the pinnacle, where the banner of the Stewards floated a thousand feet above the plain.\n | source = ''[[The Lord of the Rings]]'', book 5, ch. 1 \"Minas Tirith\"\n | width  = 50%\n | align  = right\n}}\n\n{| class=\"wikitable floatright\"\n|+ Timeline<ref group=T>{{harvnb|Tolkien|1955|loc=Appendix B \"The Second Age\" and \"The Third Age\"}}</ref>\n|-\n! Date !! Event\n|-\n| c. [[Second Age|S.A.]] 3400 || Minas Tirith founded\n|-\n| [[Third Age|T.A.]] 2050 || Eärnur, last King of Gondor, dies;<br/>Stewards rule in his stead\n|-\n| 2685–2698 || Ecthelion rebuilds the White Tower\n|-\n| 3018–19 || [[War of the Ring]]\n|-\n| 3019, 10 March || [[Mordor]] attacks Gondor\n|- \n| 3019, 15 March || [[Battle of the Pelennor Fields]]\n|-\n| 3019, 1 May || [[Aragorn]] crowned King of Arnor and Gondor\n|}\n\nMinas Tirith ([[Sindarin]]: \"Tower of Guard\"<ref>{{cite book |last=Noel |first=Ruth S. |title=The Languages of Tolkien's Middle-earth |year=1974 |publisher=[[Houghton Mifflin Harcourt|Houghton Mifflin]] |isbn=0-395-29129-1 |page=170}}</ref>) was the capital of [[Gondor]] at the end of the [[Third Age]] of [[Middle-earth]]. It lay at the eastern end of the White Mountains, built around a shoulder of Mount Mindolluin. The city is sometimes called \"the White Tower\", a [[synecdoche]] for the city's most prominent building in its Citadel, the seat of the city's administration. The head of government is the Lord of the City, a role fulfilled by the Stewards of Gondor. Other officials included the Warden of the Houses of Healing and the Warden of the Keys. The Warden of the Keys was in charge of the city's security, especially its gates, and the safe-keeping of its treasury, notably the Crown of Gondor; he had command of the city when it was besieged by the forces of [[Mordor]].<ref group=T>{{harvnb|Tolkien|1955}}, book 5 ch. 8 \"The Houses of Healing\"</ref>\n\nMinas Tirith had seven walls: each wall held a gate, and for strength of defence each gate faced a different direction from the next, facing alternately somewhat north or south. Each level was about {{Convert|100|ft|m|0|abbr=on}} above the one below it, and each surrounded by a high stone wall coloured white, with the exception of the wall of the First Circle (the lowest level), which was black, built of the same material used for [[Orthanc]]. This outer wall was also the tallest, longest and strongest of the city's seven walls; it was vulnerable only to earthquakes capable of rending the ground where it stood.<ref name=\"Siege of Gondor\" group=T>{{harvnb|Tolkien|1955}}, book 5, ch. 4 \"The Siege of Gondor\"</ref> The Great Gate of Minas Tirith, constructed of iron and steel and guarded by stone towers and bastions, was the main gate in the first or outer wall of the city. In front of the Great Gate was a large paved area called the Gateway. The main roads to Minas Tirith met here: the North-way that became the Great West Road to [[Rohan (Middle-earth)|Rohan]]; the South Road to the southern provinces of Gondor; and the road to Osgiliath, which lay to the north-east of Minas Tirith. Except for the high [[Saddle (landform)|saddle]] of rock which joined the west of the hill to Mindolluin, the city was surrounded by the Pelennor, an area of farmlands.<ref name=\"MT\" group=T>{{harvnb|Tolkien|1955}} book 5 ch. 1 \"Minas Tirith\"</ref>\n\nThe city's main street zigzagged up the eastern hill-face and through each of the gates and the central spur of rock. It led to the Citadel through the Seventh Gate on its eastern part. The White Tower, at the city's highest level with a commanding view of the lower vales of [[Geography of Middle-earth#Rhovanion|Anduin]], stood in the Citadel, 700 feet above the surrounding plains, protected by the seventh and innermost wall atop the spur. Originally constructed by a king of yore, it is also known as the Tower of Ecthelion, the Steward of Gondor who had it rebuilt. The seat of the rulers of Gondor, the Kings and the Stewards, the tower stood {{Convert|300|ft|m|0|abbr=on}} tall, so that its pinnacle was some {{Convert|1000|ft|m|spell=in}} above the plain. The main doors of the tower faced east, onto the Court of the Fountain. Inside was the Tower Hall, the great [[throne room]] where the Kings (or Stewards) held court. The [[Palantír|Seeing-stone of Minas Tirith]], used by Denethor in ''[[The Return of the King]]'', rested in a secret chamber at the top of the Tower. There was a [[Buttery (room)|buttery]] of the Guards of the Citadel in the basement of the tower. Behind the tower, reached from the sixth level, was a [[Mountain pass|saddle]] leading to the Hallows or necropolis of the Kings and Stewards, with its street of tombs, Rath Dínen.<ref name=\"MT\" group=T />{{sfn|Fonstad|1991|pp=138–139}}<!--cf Map #40 in Barbara Strachey's ''[[Journeys of Frodo]]''-->\n\n== Identifications with historical or mythical cities ==\n\n{{further|Tolkien and the classical world}}\n\n[[File:Basilica di San Vitale dentro.jpg|thumb|upright|Minas Tirith's towering stone hall of Ecthelion has been compared to [[Ravenna]]'s 6th century [[Basilica of San Vitale]].<ref name=\"Ford 2005\"/> ]]\n\nTolkien was [[Influences on J. R. R. Tolkien|influenced by many authors]] when constructing Middle-earth, including [[Tolkien and the classical world|several classical sources]]. Scholars, following various leads in Tolkien's fantasy and letters, have identified Minas Tirith with several different historical or mythical cities, including Troy, Rome, Ravenna, and Constantinople.<ref name=\"Livingston 2013\"/><ref name=Libran-Moreno/><ref name=\"Swycaffer 1983\"/>\n\n=== Troy ===\n\nIn a letter, Tolkien stated that Minas Tirith, some \"600 miles south [of the village of [[Hobbiton]] in the Shire], is at about the latitude of [[Florence]]. The Mouths of Anduin and the ancient city of Pelargir [in the south of Gondor] are at about the latitude of ancient [[Troy]].\"<ref group=T>{{harvnb|Carpenter|2023|loc=#376 to Charlotte and Denis Plimmer, 8 February 1967 }}</ref> Michael Livingston comments in ''[[Mythlore]]'' that Minas Tirith resembled Troy in having \"impregnable walls\", and in being subjected to a [[siege]] that seemed to threaten civilisation.<ref name=\"Livingston 2013\"/> \n\nFurther, in Livingston's opinion, the Steward Denethor's two sons, [[Boromir]] and [[Faramir]], play the roles of [[Hector]] in [[Homer]]'s ''[[Iliad]]'', \"the heroic example of martial, mortal man\", and of [[Paris (mythology)|Paris]], the younger brother \"little loved by [his father]\", in \"asterisk\" form, as they might have been.<ref name=\"Livingston 2013\"/>  Livingston notes that Paris, like Faramir, is seriously wounded by a \"deadly dart\"; he is dragged back into Troy, just as Faramir is carried to Minas Tirith's Houses of Healing. Both men suffer burning fevers. Paris can't be saved; Faramir can. Paris's body is burned on a pyre; his abandoned wife Oenone burns herself to death with him. Denethor has himself burned alive on a pyre, and he tries to have Faramir burned with him, but is foiled in this.<ref name=\"Livingston 2013\">{{cite journal |last=Livingston |first=Michael |year=2013 |title=Troy and the Rings: Tolkien and the Medieval Myth of England |journal=[[Mythlore]] |volume=32 |issue=1 |at=Article 6 |url=https://dc.swosu.edu/mythlore/vol32/iss1/6}}</ref>\n\n=== Ravenna ===\n\nTolkien's map-notes for the illustrator [[Pauline Baynes]] indicate that Minas Tirith had the [[latitude]] of [[Ravenna]], an Italian city on the [[Adriatic Sea]], though it lay \"900 miles east of Hobbiton more near [[Belgrade]]\".<ref>{{cite news |last=Flood |first=Alison |url=https://www.theguardian.com/books/2015/oct/23/jrr-tolkien-middle-earth-annotated-map-blackwells-lord-of-the-rings |title=Tolkien's annotated map of Middle-earth discovered inside copy of Lord of the Rings |date=23 October 2015 |work=[[The Guardian]]}}</ref><ref>{{cite web |title=Tolkien annotated map of Middle-earth acquired by Bodleian library |url=https://www.exeter.ox.ac.uk/tolkien-annotated-map-of-middle-earth-acquired-by-bodleian-library/ |publisher=[[Exeter College, Oxford]] |access-date=9 April 2020 |date=9 May 2016}}</ref>\nThe Tolkien scholar Judy Ann Ford writes that there is an architectural connection with Ravenna in [[Pippin Took|Pippin]]'s description of the great hall of Denethor, which in her view suggests a Germanic myth of a restored Roman Empire.<ref name=\"Ford2005\">{{cite journal |last=Ford |first=Judy Ann |title=The White City: The Lord of the Rings as an Early Medieval Myth of the Restoration of the Roman Empire |journal=[[Tolkien Studies]] |volume=2 |issue=1 |year=2005 |pages=53–73 |issn=1547-3163 |doi=10.1353/tks.2005.0016 |s2cid=170501240 }}</ref>\n\n=== Ancient Rome ===\n\n[[File:Aeneas' Flight from Troy by Federico Barocci.jpg|thumb|[[Aeneas]] escaped the ruin of [[Troy]] to become a hero of Rome, as [[Elendil]] escaped [[Númenor]] to found Minas Tirith.{{sfn|Straubhaar|2007|pp=248–249}} Painting by [[Federico Barocci]], 1598]]\n\n[[Sandra Ballif Straubhaar]] states in ''[[The J. R. R. Tolkien Encyclopedia]]'' that \"the most striking similarities\" are with [[ancient Rome]]. She identifies several parallels: [[Aeneas]], from [[Troy]], and Elendil, from Númenor, both survive the destruction of their home countries; the brothers [[Romulus and Remus]] found Rome, while the brothers Isildur and Anárion found the Númenórean kingdoms of Gondor and Arnor in Middle-earth; and both Gondor and Rome experienced centuries of \"[[Fall of the Western Roman Empire|decadence and decline]]\".{{sfn|Straubhaar|2007|pp=248–249}}\n\nJudy Ann Ford adds in ''[[Tolkien Studies]]'' that Minas Tirith was entirely built of stone, and \"the only culture within [the Anglo-Saxons'] historical memory that had made places like Minas Tirith was the Roman Empire.\"<ref name=\"Ford 2005\">{{cite journal |last=Ford |first=Judy Ann |title=The White City: The Lord of the Rings as an Early Medieval Myth of the Restoration of the Roman Empire |journal=[[Tolkien Studies]] |volume=2 |issue=1 |year=2005 |doi=10.1353/tks.2005.0016 |pages=53–73 |s2cid=170501240 }}</ref> Tolkien intended to create [[a mythology for England]], so that while the [[Third Age]] is ostensibly many thousands of years ago, much of the setting is [[Tolkien and the medieval|medieval]].<ref>{{cite book |last=Fimi |first=Dimitra |author-link=Dimitra Fimi |title=Tolkien, Race, and Cultural History: From Fairies to Hobbits |title-link=Tolkien, Race and Cultural History |publisher=[[Palgrave Macmillan]] |year=2010 |orig-year=2008 |isbn=978-0-230-21951-9 |oclc=222251097 |pages=50–62}}</ref> She comments that Tolkien's account echoes the decline and [[fall of Rome]], but \"with a happy ending\", as it \"somehow withstood the onslaught of armies from the east, and ... was restored to glory.\"<ref name=\"Ford 2005\"/> She finds multiple likenesses between Minas Tirith and Rome.<ref name=\"Ford 2005\"/>\n\n{| class=\"wikitable\" style=\"margin:1em auto;\"\n|+ Judy Ann Ford's reasons for identifying Minas Tirith with Rome<ref name=\"Ford 2005\"/> \n|-\n! Story element !! [[Ancient Rome]] !! [[Gondor]]\n|-\n| Capital moved under threat || From Rome to [[Ravenna]] in 402 AD || From [[Osgiliath]] to Minas Tirith\n|-\n| Layout of the city || Walled city, built of stone || Seven walls of indomitable stone\n|-\n| Architecture || Ravenna's tall [[Basilica of San Vitale]] || The towering stone Hall of Ecthelion\n|- \n| Southern rivals who use war-elephants || [[Carthaginians]] || [[Haradrim]]\n|- \n| Devastating disease outbreak || [[Antonine Plague]] || Great Plague\n|- \n| Language becomes a [[lingua franca]] || [[Latin]] || [[Westron]]\n|}\n\n=== Constantinople === \n\n[[File:Constantinople 1453.jpg|thumb|upright|Tolkien called Minas Tirith a \"[[Byzantine Empire|Byzantine]] City\":<br/>that empire's capital was [[Constantinople]] (shown).<ref name=\"Hammond Scull p570\"/>]]\n\nIn a 1951 letter, Tolkien wrote of \"the Byzantine City of Minas Tirith\", thus associating Gondor's capital with [[Constantinople]], the capital of the [[Byzantine Empire]].<ref name=\"Hammond Scull p570\">{{harvnb|Hammond|Scull|2005|p=570}}</ref> The classical scholar Miryam Librán-Moreno writes that Tolkien drew heavily on the history of the Byzantine Empire, and its struggle with the [[Goths]] and [[Langobards]].<ref name=\"Libran-Moreno\">{{cite book |title=Tolkien and the Study of his Sources |last=Librán-Moreno |first=Miryam |publisher=[[McFarland & Company]] |year=2011 |isbn=978-0-7864-6482-1 |editor-last=Fisher |editor-first=Jason |editor-link=Jason Fisher |pages=84–116 |chapter='Byzantium, New Rome!' Goths, Langobards and Byzantium in ''The Lord of the Rings'' |chapter-url=https://books.google.com/books?id=98VQ3gHsVsMC&q=Gondor+Byzance&pg=PA98}}</ref> The Byzantine Empire and Gondor were both, in Librán-Moreno's view, only echoes of older states (the [[Roman Empire]] and the unified kingdom of Elendil), yet each proved to be stronger than their sister-kingdoms (the [[Western Roman Empire]] and Arnor, respectively). Both realms were threatened by powerful eastern and southern enemies: the Byzantines by the [[Sassanid Empire|Sassanid Persians]] and the Muslim armies of the Arabs and the Turks, as well as the Langobards and Goths; Gondor by the Easterlings, the Haradrim, and the hordes of Sauron. Both realms, as commentators including Librán-Moreno and Jefferson P. Swycaffer have observed, were in decline at the time of a final, all-out siege from the East; however, Minas Tirith survived the siege whereas [[Fall of Constantinople|Constantinople did not]].<ref name=Libran-Moreno/><ref name=\"Swycaffer 1983\">{{cite journal |last=Swycaffer |first=Jefferson P. |year=1983 |title=Historical Motivations for the Siege of Minas Tirith |journal=[[Mythlore]] |volume=10 |issue=1 |at=Article 14 |url=https://dc.swosu.edu/mythlore/vol10/iss1/14}}</ref> Swycaffer adds that Constantinople was famed for the strength of its defences, with its concentric walls.<ref name=\"Swycaffer 1983\"/> \n\n{| class=\"wikitable\" style=\"margin-left: auto; margin-right: auto; border: none;\"\n|+ Miryam Librán-Moreno's reasons for identifying Minas Tirith with [[Constantinople]]<ref name=Libran-Moreno/>\n|-\n! Situation             !! [[Byzantine Empire]]!! Gondor                    \n|-\n| Older state echoed     || [[Roman Empire]]|| [[Elendil]]'s unified kingdom of Gondor and Arnor\n|-\n| Weaker sister kingdom  || [[Western Roman Empire]] || [[Arnor (Middle-earth)|Arnor]], the Northern kingdom\n|-\n| Powerful enemies<br/>to East and South|| Persians,<br/>Arabs,<br/>[[Ottoman Turks]] || Easterlings,<br/>[[Haradrim]],<br/>[[Mordor]] \n|-\n| Final [[siege]] from the East || [[Fall of Constantinople|Constantinople falls]] || [[Battle of the Pelennor Fields]] is won\n|}\n\n== Analysis ==\n\n=== The White Tree ===\n\n{{anchor|Dry Tree|White Tree}}\n[[File:Trees of Sun and Moon and Dry Tree Rouen 1444.jpg|thumb|The lifeless White Tree of Gondor has been compared to the [[Dry Tree]] (pictured) of medieval legend.<ref name=\"Garth 2020\"/> Manuscript illustration dated 1444 of the Dry Tree (centre) with the [[Phoenix (mythology)|Phoenix]], flanked by the [[Trees of Sun and Moon|Trees of the Sun and the Moon]]. Both the Dry Tree and the Phoenix are symbols of [[Resurrection of Jesus|resurrection]] and new life. [[Rouen]] 1444-1445<ref name=\"British Library 2020\"/>]]\n\nTolkien stated that within the Court of the Fountain at the heart of Minas Tirith stood the White Tree, the symbol of Gondor. It was dry and dead throughout the centuries that Gondor was ruled by the Stewards; Aragorn brought a young living sapling of the White Tree into the city on his return as King, symbolising the rebirth of the monarchy.<ref name=\"Vaccaro 2004\">{{cite journal |last=Vaccaro |first=Christopher T. |title='And one white tree': the cosmological cross and the arbor vitae in J.R.R. Tolkien's \"The Lord of the Rings\" and \"The Silmarillion\" |journal=[[Mallorn (journal)|Mallorn]] |date=August 2004 |issue=42 |pages=23–28 |jstor=45320503}}</ref> \n\nTolkien's biographer [[John Garth (author)|John Garth]] writes that the White Tree has been likened to the [[Dry Tree]] of the 14th century ''[[Travels of Sir John Mandeville]]''.<ref name=\"Garth 2020\"/> The tale runs that the Dry Tree has been dry since the [[crucifixion of Christ]], but that it will flower afresh when \"a prince of the west side of the world should sing a mass beneath it\".<ref name=\"Garth 2020\">{{harvnb|Garth|2020|p=41}}</ref><ref name=\"Gusick2013\">{{cite book |last=Gasse |first=Rosanne |chapter=The Dry Tree Legend in Medieval Literature |editor-last=Gusick |editor-first=Barbara I. |title=Fifteenth-Century Studies 38 |chapter-url=https://books.google.com/books?id=KNZGXEfXIOEC&pg=PA73 |year=2013 |publisher=[[Camden House Publishing|Camden House]] |isbn=978-1-57113-558-2 |pages=65–96}}</ref><ref name=\"British Library 2020\">{{cite web |last=Drieshen |first=Clark |title=The Trees of the Sun and the Moon |url=https://blogs.bl.uk/digitisedmanuscripts/2020/01/the-trees-of-the-sun-and-the-moon.html |publisher=[[British Library]] |access-date=24 February 2021 |date=31 January 2020}}</ref>\n\n=== Contrast with Gondolin ===\n\nLisa Anne Mende, in ''Mythlore'', contrasts the happy [[eucatastrophe]]s which rescue Minas Tirith in ''The Lord of the Rings'' – the last-minute arrivals of the Riders of Rohan, and then of Aragorn in the enemy's ships – with the unmitigated disasters of the [[Fall of Gondolin]] and the other Elvish cities of [[Beleriand]] in ''[[The Silmarillion]]''. She notes Tolkien's [[Christianity in Middle-earth|Christianity, which influenced Middle-earth]], and describes the \"first victory of Evil\" in ''The Silmarillion'' as \"resolved into the harmony of the victory of Good\" in ''The Lord of the Rings''. In ''The Silmarillion'', the Dark Lord [[Melkor]] greatly influences the story, and the development of Middle-earth, whereas in ''The Lord of the Rings'', Melkor's acolyte, the Dark Lord [[Sauron]] is almost successful but fails in his plans.<ref name=\"Mende 1986\">{{cite journal |last=Mende |first=Lisa Anne |year=1986 |title=Gondolin, Minas Tirith and the Eucatastrophe |journal=[[Mythlore]] |volume=13 |issue=2 |at=Article 8 |url=https://dc.swosu.edu/mythlore/vol13/iss2/8}}</ref>\n\n== Adaptations ==\n\n=== Film ===\n \n{{multiple image\n | total_width = 500\n | image1 = Roturn King-Minas Tirith.jpg\n | image2 = Mont Saint-Michel France (cropped).jpg\n | footer = In [[Peter Jackson]]'s film ''[[The Lord of the Rings: The Return of the King]]'', Minas Tirith was modelled on [[Normandy]]'s [[Mont Saint-Michel]].<ref name=\"Morrison 2014\"/>\n}}\n\nIn [[Peter Jackson]]'s [[The Lord of the Rings (film series)|film adaptation of ''The Lord of the Rings'']], Minas Tirith was according to the concept designer [[Alan Lee (illustrator)|Alan Lee]] given an ancient appearance reminiscent of [[Byzantium]] or ancient Rome.<ref>{{cite web |title=ROTK Production Notes: A Note from Peter Jackson |url=https://www.theonering.net/torwp/2003/11/20/25172-rotk-production-notes/ |website=The One Ring.net |access-date=1 February 2024 |date=20 November 2003 |quote=One of the most complex locations in The Return of the King is Minas Tirith, a seven-tiered city of kings where a huge portion of the film unfolds. “We were looking a little bit towards an equivalent for Ancient Rome or Ancient Byzantium,” comments Alan Lee. “It would be an extraordinary structure.”}}</ref> However, the appearance and structure of the city was based upon the inhabited [[tidal island]] and [[abbey]] of [[Mont Saint-Michel]], France.<ref name=\"Morrison 2014\">{{cite web |last1=Morrison |first1=Geoffrey |title=The real-life Minas Tirith from 'Lord of the Rings': A tour of Mont Saint-Michel |url=https://www.cnet.com/news/take-a-tour-of-mont-saint-michel/ |publisher=CNET |date=27 June 2014}}</ref> In the films, the towers of the city, designed by Lee, are equipped with [[trebuchet]]s.<ref name=\"Russell2004\">{{cite book |last=Russell |first=Gary |title=The Art of The Lord of the Rings |url=https://archive.org/details/artoflordofth00gary|url-access=registration <!--ebook--> |year=2004|publisher=[[Houghton Mifflin Harcourt]] |isbn=0-618-51083-4 |pages=[https://archive.org/details/artoflordofth00gary/page/n104 103]–105<!--print-->}}</ref> The film critic [[Roger Ebert]] called the films' interpretation of Minas Tirith a \"spectacular achievement\", and compared it to the [[Emerald City]] from ''[[The Wizard of Oz (1939 film)|The Wizard of Oz]]''. He praised the filmmakers' ability to blend digital and real sets.<ref name=\"ebert\">{{cite news |last=Ebert |first=Roger |author-link=Roger Ebert |url=http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20031217/REVIEWS/312170301/1023 |title=Lord of the Rings: The Return of the King |newspaper=[[Chicago Sun-Times]] |date=17 December 2003 |access-date=15 November 2021 |archive-date=11 December 2011 |archive-url=https://web.archive.org/web/20111211075754/http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=%2F20031217%2FREVIEWS%2F312170301%2F1023 |url-status=dead }}</ref>\n\n=== Games ===\n\nThe setting of Minas Tirith has appeared in video game adaptations of ''The Lord of the Rings'', such as the 2003 video game ''[[The Lord of the Rings: The Return of the King (video game)|The Lord of the Rings: The Return of the King]]'' where it is directly modelled on Jackson's film adaptation.<ref name=\"GS diary6\">{{cite web | last=Dobson | first=Nina | url=http://www.gamespot.com/articles/the-lord-of-the-rings-the-return-of-the-king-designer-diary-6/1100-6077465/ | title=The Lord of the Rings: The Return of the King Designer Diary #6 | publisher=[[GameSpot]] | access-date=15 November 2014 | date=28 October 2003}}</ref>\n\n=== Art ===\n\n{{further|Illustrating Tolkien}}\n\n[[File:Ted_Nasmith_Gandalf_Rides_to_Minas_Tirith.jpg|thumb|[[Ted Nasmith]]'s painting of Gandalf riding to Minas Tirith has been described as the most fully rendered and realistic image of the city, free of the silliness of much fantasy art.<ref name=\"Tuthill 2020\"/>]]\n\nChristopher Tuthill, in ''[[A Companion to J. R. R. Tolkien]]'', evaluates the paintings of Minas Tirith made by the major Tolkien illustrators [[Alan Lee (illustrator)|Alan Lee]], [[John Howe (illustrator)|John Howe]] (both of whom worked as concept designers for Peter Jackson's film trilogy), [[Jef Murray]], and [[Ted Nasmith]]. Tuthill writes that it has become \"hard to imagine\" Middle-earth \"without the many sub-creators who have worked within it\", noting that the \"dreaded effects\" of what Tolkien called \"silliness and morbidity\" of much fantasy art in his time \"are nowhere in evidence\" in these artists' work.<ref name=\"Tuthill 2020\">{{cite book |last=Tuthill |first=Christopher |chapter=Art: Minas Tirith |editor-last=Lee |editor-first=Stuart D. |editor-link=Stuart D. Lee |title=[[A Companion to J. R. R. Tolkien]] |date=2020 |orig-year=2014 |publisher=[[Wiley (publisher)|Wiley]] |isbn=978-1-1196-5602-9 |pages=495–500 }}</ref> In Tuthill's view, the most \"fully rendered and realistic-looking\" painting is Nasmith's ''Gandalf Rides to Minas Tirith'', with a \"wholly convincing city\" in the background, majestic as the Wizard gallops towards it in the dawn light. He notes that Nasmith uses his architectural rendering skill to provide a detailed view of the whole city.<ref name=\"Tuthill 2020\"/> He quotes Nasmith as writing that he studied what Tolkien said, such as likening Gondor to the culture of ancient Egypt. Tuthill compares Howe's and Murray's versions of the same scene; Howe shows only a corner of the city, but vividly captures the movement of the horse and the rider's flying robes, with a strong interplay of light and dark, the white horse against the dusky rocks. Murray similarly uses strong contrast, with the white city against dark clouds overhead, but using \"flat bold lines and a deep blue hue\", while Howe's city more closely resembles a traditional castle of [[fairytale]]s with pennants on every pinnacle, in [[Fauvist]] style. Lee chooses instead to look within Minas Tirith, showing \"the same glimmering spires and white stone\", a guard standing in the foreground in place of Gandalf and his horse; his painting gives a feeling of \"how massive the city is\", with close attention to the late [[Romanesque architecture|Romanesque]] or early [[Gothic architecture|Gothic architectural]] detail and [[Perspective (graphical)|perspective]].<ref name=\"Tuthill 2020\"/>\n\n== References ==\n\n=== Primary ===\n\n{{reflist|group=T|24em}}\n\n=== Secondary ===\n\n{{reflist|30em}}\n\n== Sources ==\n* {{cite book |last=Hammond |first=Wayne G. |author1-link=Wayne G. Hammond |last2=Scull |first2=Christina |author2-link=Christina Scull |title=J.R.R. Tolkien: Artist and Illustrator |publisher=HarperCollins Publishers |publication-place=London |date=1995 |isbn=978-0-261-10322-1}}\n* {{ME-ref|Letters}} <!--Carpenter, 1981-->\n* {{ME-ref|AoMe}}    <!--Fonstad, 1991-->\n* {{cite book |last=Garth |first=John |author-link=John Garth (author) |title=The Worlds of J.R.R. Tolkien: The Places that Inspired Middle-earth |title-link=The Worlds of J. R. R. Tolkien |date=2020 |publisher=[[Frances Lincoln Publishers]] & [[Princeton University Press]] |isbn=978-0-7112-4127-5}}\n* {{ME-ref|RC}}      <!--Hammond and Scull 2005-->\n* {{cite book |title=The J. R. R. Tolkien Encyclopedia: Scholarship and Critical Assessment |title-link=J. R. R. Tolkien Encyclopedia |last=Straubhaar |first=Sandra Ballif |author-link=Sandra Ballif Straubhaar |publisher=[[Routledge]] |year=2007 |isbn=978-0-415-96942-0 |editor-last=Drout |editor-first=Michael D. C. |editor-link=Michael D. C. Drout |pages=248–249 |chapter=Gondor }} <!--Straubhaar, in Drout-->\n* {{ME-ref|ROTK}}\n\n{{The Lord of the Rings}}\n\n[[Category:Middle-earth populated places]]\n[[Category:Middle-earth castles and fortresses]]",
+  "redirect_chain": [],
+  "revision_id": 1358629281,
+  "revision_timestamp": "2026-06-09T23:06:32Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Description"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Description"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: table",
+      "structure_type": "table"
+    },
+    {
+      "heading_path": [
+        "Description"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Description"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Description"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Identifications with historical or mythical cities"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Identifications with historical or mythical cities",
+        "Troy"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Identifications with historical or mythical cities",
+        "Troy"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Identifications with historical or mythical cities",
+        "Ravenna"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Identifications with historical or mythical cities",
+        "Ancient Rome"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Identifications with historical or mythical cities",
+        "Ancient Rome"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Identifications with historical or mythical cities",
+        "Ancient Rome"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Identifications with historical or mythical cities",
+        "Ancient Rome"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: table",
+      "structure_type": "table"
+    },
+    {
+      "heading_path": [
+        "Identifications with historical or mythical cities",
+        "Constantinople"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Identifications with historical or mythical cities",
+        "Constantinople"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: table",
+      "structure_type": "table"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "The White Tree"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "The White Tree"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "The White Tree"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Contrast with Gondolin"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Film"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Film"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Games"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Art"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Art"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

@@ -1,0 +1,252 @@
+{
+  "article_artifact_id": "article_929ca69e72f6bb16f6b55d36a668a896819e4713f0ab93688d7919e3006e4df8",
+  "canonical_title": "Thingol",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_929ca69e72f6bb16f6b55d36a668a896819e4713f0ab93688d7919e3006e4df8",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Scholars have written that Thingol turns away from the light, so that when he receives a Silmaril, he is unable to appreciate it. They have stated, too, that he fails to take advantage of his marriage to Melian, instead ignoring her advice about the Silmaril, leading to the downfall of his kingdom.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_7ddd7524459d0684307c37f57044665674656b47b2bfeea05f7e5031647db479",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_929ca69e72f6bb16f6b55d36a668a896819e4713f0ab93688d7919e3006e4df8",
+      "heading_path": [
+        "Fictional history"
+      ],
+      "normalized_text": "thumb|upright=2|Sketch map of Beleriand. Thingol's forest realm of Doriath with its Sindar Elves is in the centre; the Noldor cities of Gondolin and Nargothrond are to its northwest and southwest respectively.",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_2fd1a2dd51c676d91d566cdbb34662ae7a334b06d0a849fd093c9555ec7140d4",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_929ca69e72f6bb16f6b55d36a668a896819e4713f0ab93688d7919e3006e4df8",
+      "heading_path": [
+        "The House of Thingol"
+      ],
+      "normalized_text": "¶ In the published Silmarillion, Edhellos does not appear, Orodreth is Finarfin's son (and still Finduilas' father), and Gil-galad is Fingon's son (and thus would not be on this tree).",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_5ff0ab8582dcf49cac1abcae39303647d8133d80c6c03715c61e8c4917403e44",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Thingol&action=history",
+  "namespace": 0,
+  "page_id": 160604,
+  "parent_revision_id": 1357836925,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1357859417",
+  "raw_wikitext": "{{good article}}\n{{Use British English|date=March 2021}}\n{{Infobox character\n| name          = Thingol\n| series        = [[J. R. R. Tolkien|Tolkien]]\n| image         = File:THINGOL FIGHTS BOLDOG cropped.jpg\n| image_upright = 1.2\n| caption       = A battle between Thingol (right) and the [[Orc]] chieftain Boldog. Illustration by [[Tom Loback]].\n| alias         = Elwë Singollo,<br/>Elu Thingol\n| race          = [[Elf (Middle-earth)|Elves]]\n| gender        = Male\n| lbl24         = Book(s)\n| data24        = ''[[The Silmarillion]]'',<br/>''[[The Children of Húrin]]'',<br/>''[[The Lays of Beleriand]]'',<br/>''[[The Tale of Beren and Lúthien|Beren & Lúthien]]''\n}}\n'''Elu Thingol''' or '''Elwë Singollo''' is a fictional character in [[J.R.R. Tolkien]]'s [[Middle-earth]] [[Tolkien's legendarium|legendarium]]. He appears in ''[[The Silmarillion]]'', ''[[The Lays of Beleriand]]'' and ''[[The Children of Húrin]]'' and in numerous stories in ''[[The History of Middle-earth]]''. The King of [[Doriath (Middle-earth)|Doriath]], King of the [[Sindar]] Elves, High-king<ref group=T>{{harvnb|Tolkien|1994}}, p. 21, \"Fingolfin...acknowledged the high-kingship of Thingol\"; p. 380, Thingol is acknowledged high-king by Círdan and his following; p. 410, the Grey-elves of Mithrim acknowledged Thingol as high-king.</ref> and Lord of [[Beleriand]], he is a major character in the [[First Age]] of Middle-earth<ref name=\"Drout2006\">{{cite encyclopedia |year=2013 |title=Thingol |encyclopedia=[[J. R. R. Tolkien Encyclopedia]] |publisher=Routledge |url=https://books.google.com/books?id=B0loOBA3ejIC&pg=PA646 |last=Bülles |first=Marcel R. |orig-year=2006 |editor=Michael D. C. Drout |editor-link=Michael D. C. Drout |page=646 |isbn=978-0-415-86511-1}}</ref> and an essential part of the ancestral backgrounding of the romance between [[Aragorn]] and [[Arwen]] in ''[[The Lord of the Rings]]''. Alone among the Elves, he married an [[angel]]ic [[Maia (Middle-earth)|Maia]], [[Melian (Middle-earth)|Melian]].\n\nScholars have written that Thingol turns away from the light, so that when he receives a [[Silmaril]], he is unable to appreciate it. They have stated, too, that he fails to take advantage of his marriage to Melian, instead ignoring her advice about the Silmaril, leading to the downfall of his kingdom.\n\n== Fictional history ==\n\n{{further|Sundering of the Elves}}\n\n[[File:Elvish_Migrations_and_Kindreds.svg|thumb|upright=2|[[Arda (Middle-earth)|Arda]] in the [[First Age]]. The Elves awaken in [[Middle-earth]] (right). Elwë (Thingol), [[Finwë and Míriel|Finwë]], and Ingwë encourage their peoples to obey the call of the [[Valar in Middle-earth|Valar]] and travel to [[Valinor]] (green arrows to the left), but some refuse, causing the first [[Sundering of the Elves]].{{sfn|Flieger|1983|p=73}} When the [[Noldor]] return to [[Beleriand]] (red arrows to the left), Thingol is suspicious of them and refuses to fight the common enemy [[Morgoth]] alongside them. ]]\n\nIn ''[[The Silmarillion]]'', Thingol is introduced as Elwë, one of the three chieftains (with [[Finwë and Míriel|Finwë]] and Ingwë) of the [[Elf (Middle-earth)|Elves]] who depart from [[Cuiviénen]], the place where the Elves awaken, with the Vala [[Oromë]] as ambassadors to [[Valinor]], and who later become Kings. Upon his return, he persuades many of his people to follow him west to Valinor. This host becomes known as the [[Teleri]].<ref name=\"Coming of the Elves and the Captivity of Melkor\" group=T>{{harvnb|Tolkien|1977}}, ch. 3 \"Of the Coming of the Elves and the Captivity of Melkor\"</ref> Some of the Teleri go to Valinor, following Thingol's younger brother Olwë.<ref name=\"Last Writings\" group=T/> Thingol meanwhile meets [[Melian (Middle-earth)|Melian]] the [[Maia (Middle-earth)|Maia]], an [[angel]]ic immortal, and falls in love with her; they create an enchantment which keeps his people from finding him.<ref name=\"Thingol and Melian\" group=T>{{harvnb|Tolkien|1977}}, ch. 4 \"Of Thingol and Melian\"</ref> Others of the Teleri reach the northwestern region of [[Beleriand]], but choose to remain there to look for Thingol, who had disappeared there. They later inhabit the forest realm of [[Doriath (Middle-earth)|Doriath]], when Thingol reappears and sets up his Kingdom of Doriath and his city of Menegroth; they are among the Sindar or Grey Elves of Beleriand. Alone of his people, he is an [[Calaquendi|Elf of the Light]] as he has seen the light of the [[Two Trees of Valinor]].<ref name=\"Sindar\" group=T>{{harvnb|Tolkien|1977|loc=ch. 10 \"Of the Sindar\"}}</ref><ref name=\"Túrin Turambar\" group=T>{{harvnb|Tolkien|1977|loc=ch. 21 \"Of Túrin Turambar\"}}</ref>{{sfn|Shippey|2005|p=283}}\n\n[[File:Sketch Map of Beleriand.svg|thumb|upright=2|Sketch map of [[Beleriand]]. Thingol's forest realm of Doriath with its [[Sindar]] Elves is in the centre; the [[Noldor]] cities of [[Gondolin]] and [[Nargothrond]] are to its northwest and southwest respectively.]]\n\nThingol and Melian have a daughter, [[Lúthien]], who in turn falls in love with the mortal Man [[Beren]]. Disapproving of their relationship, Thingol sets numerous quests that he thinks impossible for Beren, so as to prevent him from marrying Lúthien. One of these quests is to recover one of the priceless star-jewels, the [[Silmarils]] which [[Fëanor]] had created, and the [[Dark Lord]] [[Morgoth]] had stolen and set in his crown; but even that quest succeeds.<ref name=\"Beren and Lúthien\" group=T>{{harvnb|Tolkien|1977}}, ch. 19 \"Of Beren and Lúthien\"</ref>\n\nThingol fights several wars with Morgoth.<ref name=\"Sindar\" group=T/> He is suspicious of the [[Noldor]] Elves when they arrive in Beleriand,<ref name=\"Return of the Noldor\" group=T>{{harvnb|Tolkien|1977|loc=ch. 13 \"Of the Return of the Noldo\"}}</ref> and refuses to assist them when they fight Morgoth.<ref name=\"Noldor in Beleriand\" group=T>{{harvnb|Tolkien|1977|loc=ch. 15 \"Of the Noldor in Beleriand\"}}</ref> The hero of Men, [[Húrin]], comes to Menegroth in his old age, lamenting the death of his son [[Túrin Turambar|Túrin]]. In bitter rage he hurls the treasured necklace of the fallen Noldor city of [[Nargothrond]], the Nauglamír, at Thingol's feet. Melian sees Húrin's thought, and deals with him gently; Húrin is sorry, and gives Thingol the Nauglamír. Thingol gets some [[Dwarves in Middle-earth|Dwarves]] to set his Silmaril in the necklace. The Dwarves do so, but come to covet the unequalled work, and ask Thingol if they may keep it as payment. Thingol angrily refuses; offended, the Dwarves kill him and sack Menegroth. The Sons of Fëanor, who had sworn a terrible oath to recover the Silmarils on behalf of their father, later destroy Doriath<!--the Second Kinslaying--> to recover the Silmaril; they kill Dior, Thingol's grandson, the second and last King of Doriath.<ref name=\"Of the Ruin of Doriath\" group=T>{{harvnb|Tolkien|1977}}, ch. 22 \"Of the Ruin of Doriath\"</ref>\n\n== Analysis ==\n\nIn [[Tolkien's constructed languages]], Thingol is [[Sindarin]] for \"grey cloak\", \"greymantle\", while the [[Quenya]] form of his name, Singollo, has the same meaning.<ref group=T>{{harvnb|Tolkien|1977}}, annotated index entry for \"Thingol\"</ref> The medievalist and [[Tolkien research|Tolkien scholar]] [[Verlyn Flieger]] writes that while the name Elwë (\"the star\") indicates light, this is dimmed by the character's second name, the light being \"cloaked or mantled over\".{{sfn|Flieger|1983|p=85}} Further, Flieger comments that the softening of \"Singollo\" to \"Thingol\" can also be taken as a diminishment, reflecting the \"sound shifts that occur as light-infused Quenya modifies to twilight Sindarin\".{{sfn|Flieger|1983|p=85}}\n\nFlieger states that Thingol's actions may seem unjustified thematically, but they make sense in terms of his politics and dynastic needs. She contrasts him with Beren, who though a [[Man (Middle-earth)|Man]] is constantly drawn towards the light. With the return of the Noldor to Middle-earth, perhaps threatening his kingdom, Thingol's mood darkens. After he learns of the Elf-on-Elf [[Kinslaying]] at Alqualondë perpetrated by the Noldor on the Teleri, Thingol (Telerin himself) bans the use of their language Quenya in his lands, and Sindarin becomes the most prevalent Elven tongue in Middle-earth. He takes successively darker actions, moving further and further from the light, so that even when he receives the Silmaril from Beren, he knows neither how to appreciate it nor how to use it.<ref name=\"Flieger 1983\">{{harvnb|Flieger|1983|pp=120–130}}</ref>\n\nRobley Evans, writing in ''[[Mythlore]]'', draws a parallel between Thingol and Fëanor: like him, he turns away from the Light, and chooses to remain in Middle-earth with Melian, who could stop time and its changes.<ref name=\"Degenerative\">{{cite journal |last=Evans  |first=Robley |year=1987 |title=Tolkien's World Creation: Degenerative Recurrence |journal=[[Mythlore]] |volume=14 |issue=1 |at=article 55 |url=https://dc.swosu.edu/cgi/viewcontent.cgi?article=2327&context=mythlore}}</ref> Evans states that Thingol's marriage with Melian seems to \"promise a model union of diverse created beings\" on first impression. He comments that Thingol is however the \"complementary opposite of Fëanor in Tolkien's structural counterpoint\" in that he is ultimately destroyed by his own version of Fëanor's oath; the act of claiming the Silmaril recovered by Beren places his kingdom under the Doom of [[Mandos]]. This warned that the Elves would come to harm if they continued their rebellion against the Valar.<ref name=\"Degenerative\"/>\n\nThe Tolkien scholar [[Tom Shippey]] writes that Thingol forms part of the tightly-woven plot of ''The Silmarillion'', each part leading ultimately to tragedy. There are three Hidden Elvish Kingdoms, including Doriath, founded by Thingol and his relatives, and they are each betrayed and destroyed. The Kingdoms are each penetrated by a mortal Man, in Doriath's case Beren; and the sense of Doom, which Shippey glosses as \"future disaster\", hangs heavy over all of them in the tale.{{sfn|Shippey|2005|pp=287–296}}\n\n{| class=\"wikitable\" style=\"margin: 1em auto;\"\n|+ [[Tom Shippey]]'s analysis of the Hidden Kingdoms of Beleriand{{sfn|Shippey|2005|pp=287–296}}\n|-\n! Hidden<br/>Kingdom \n! [[Elves in Middle-earth|Elvish]] Kings<br/>(all relatives) \n! Man who penetrates<br/>the Kingdom\n! Result \n|-\n| [[Nargothrond]] || [[Finrod]] || [[Túrin Turambar|Túrin]] || City destroyed\n|-\n| [[Doriath (Middle-earth)|Doriath]] || Thingol || [[Lúthien and Beren|Beren]] || City destroyed\n|-\n| [[Gondolin]] || [[Turgon of Gondolin|Turgon]] || [[Tuor and Idril|Tuor]] || City destroyed\n|}\n\nThe medievalist [[Marjorie Burns]] states that Thingol gains \"great power\" through his marriage to Melian, writing that she resembles [[Rider Haggard]]'s infinitely desirable [[Arthurian]] muse, Ayesha of his 1887 novel ''[[She: A History of Adventure]]''.<ref>{{cite book |last=Burns |first=Marjorie |author-link=Marjorie Burns |title=Perilous Realms: Celtic and Norse in Tolkien's Middle-earth |title-link=Perilous Realms |year=2005 |publisher=[[University of Toronto Press]] |isbn=978-0-8020-3806-7 |page=123}}</ref>\n\nThe scholar of religion Lisa Coutras compares Melanie Rawls's account of Thingol and Melian to Lisa Hopkins's analysis of Tuor and Idril. Rawls presents Thingol as a prideful king who rarely listens to his wife's counsel, even though she has immense foresight and wisdom; this helps to bring about the downfall of his kingdom. Hopkins discusses the hero [[Tuor]], who is all the wiser for listening to his wife Idril.<ref name=\"Coutras193\">{{cite book |last=Coutras |first=Lisa |url=https://books.google.com/books?id=zrLIDAAAQBAJ&pg=PA193 |title=Tolkien's Theology of Beauty: Majesty, Splendor, and Transcendence in Middle-earth |publisher=[[Springer Nature|Springer]] |year=2016 |isbn=978-1-1375-5345-4 |page=193}}</ref><ref>{{cite journal |last=Rawls |first=Melanie |year=1984 |title=The Feminine Principle in Tolkien |journal=[[Mythlore]] |volume=10 |issue=4 |at=Article 2 |url=https://dc.swosu.edu/mythlore/vol10/iss4/2}}</ref><ref>{{cite journal |last=Hopkins |first=Lisa |year=1996 |title=Female Authority Figures in the Works of Tolkien, C.S. Lewis and Charles Williams |journal=[[Mythlore]] |volume=21 |issue=2 |at=Article 55 |url=https://dc.swosu.edu/mythlore/vol21/iss2/55}}</ref>\n\n== The House of Thingol ==\n\n{{chart top|Family tree<ref name=\"Last Writings\" group=T>{{harvnb|Tolkien|1996}}, \"Last Writings\"<!--for Círdan being a relative of Olwë--></ref><ref group=T>{{harvnb|Tolkien|1980}}, \"The History of Galadriel and Celeborn\"</ref><ref group=T>{{harvnb|Tolkien|1996}}, \"[[The Shibboleth of Fëanor]]\"</ref>}}\n{{Tree chart/start}}\n{{Tree chart| | | | | | | | | |F|~|~|~|~|~|~|~|~|7| | | | | | }}\n{{Tree chart | | | | | |,|-|-|-|+|-|-|-|.| | | | |:| | | | }}\n{{Tree chart |MEL|y|THI| |ELM | |OLW | | |CIR | | |THI='''Thingol'''<br/>(Elwë)|OLW=Olwë|ELM=Elmo §|MEL=[[Melian (Middle-earth)|Melian]]<br/>the [[Maia (Middle-earth)|Maia]]|CIR=Círdan<br/>the shipwright\n|boxstyle_MEL = background-color: #f1b6da\n|boxstyle_THI = background-color: #b8e186\n|boxstyle_ELM = background-color: #b8e186\n|boxstyle_OLW = background-color: #b8e186\n|boxstyle_CIR = background-color: #b8e186\n}}\n{{Tree chart| | | |!| | | | | |!| | | |!| | | | | | | | | | | | |}}\n{{Tree chart| | | |!| | | | |GAL| |EAR |~|~|y|~|FIN | | | | | | | | |GAL=Galadhon §|EAR=Eärwen|FIN=Finarfin\n|boxstyle_GAL = background-color: #b8e186\n|boxstyle_EAR = background-color: #b8e186\n|boxstyle_FIN = background-color: #b8e186\n}}\n{{Tree chart| | | |!| | | |,|-|^|-|.| | | |,|-|^|-|v|-|-|-|-|-|-|-|v|-|-|-|.| | | | | | |}}\n{{Tree chart| | |LUT | |GAL | |CEL |y|GLD | |ANG |y|ELD | |FIN | |AEG|LUT=[[Lúthien]]|CEL=Celeborn|GLD=[[Galadriel]]|GAL=Galathil §|ANG=Angrod|ELD=Edhellos ¶|FIN=Finrod|AEG=Aegnor\n|boxstyle_LUT = background-color: #b8e186\n|boxstyle_GAL = background-color: #b8e186\n|boxstyle_CEL = background-color: #b8e186\n|boxstyle_GLD = background-color: #b8e186\n|boxstyle_ANG = background-color: #b8e186\n|boxstyle_ELD = background-color: #b8e186\n|boxstyle_FIN = background-color: #b8e186\n|boxstyle_AEG = background-color: #b8e186\n}}\n{{Tree chart| | | |!| | | |!| | | | | |!| | | | | | | |!}}\n{{Tree chart| | |DIO|y|NIM| | | | |!| | | | | | |ORO|DIO=Dior|NIM=Nimloth|ORO=Orodreth ¶\n|boxstyle_DIO = background-color: #d9f0d3\n|boxstyle_NIM = background-color: #b8e186\n|boxstyle_ORO = background-color: #b8e186\n}}\n{{Tree chart| |,|-|-|-|+|-|-|-|.| | | |!| | | | | |,|-|^|-|.|}}\n{{Tree chart|ELU | |ELR | |ELW | | |!| | | | |FIN | |GIL|ELU=Eluréd|ELR=Elurín|ELW=Elwing|GIL=[[Gil-galad]] ¶|FIN=Finduilas\n|boxstyle_ELU = background-color: #d9f0d3\n|boxstyle_ELR = background-color: #d9f0d3\n|boxstyle_ELW = background-color: #d9f0d3; background-image: repeating-linear-gradient(-45deg, transparent, transparent 5px, rgba(184,225,134, 0.75) 5px, rgba(184,225,134, 0.75) 10px)\n|boxstyle_GIL = background-color: #b8e186\n|boxstyle_FIN = background-color: #b8e186\n}}\n{{Tree chart| | |,|-|-|-|-|-|-|(| | | |!}}\n{{Tree chart| |ELS | | | | |ELD |y|CEL | | | | | |ELS=Elros|ELD=[[Elrond]]|CEL=Celebrían\n|boxstyle_ELS = background-color: #d9f0d3; background-image: repeating-linear-gradient(-45deg, transparent, transparent 5px, rgba(255,255,255, 0.75) 5px, rgba(255,255,255, 0.75) 10px)\n|boxstyle_ELD = background-color: #d9f0d3; background-image: repeating-linear-gradient(-45deg, transparent, transparent 5px, rgba(184,225,134, 0.75) 5px, rgba(184,225,134, 0.75) 10px)\n|boxstyle_CEL = background-color: #b8e186\n}}\n{{Tree chart| | |:| | | | | | | | |!}}\n{{Tree chart| |ELE| | | | | | | |!|ELE=[[Elendil]]\n|boxstyle_ELE = background-color: #fff\n}}\n{{Tree chart| | |)|-|-|-|-|.| | | |!|}}\n{{Tree chart| |ISI| | |ANA| | |!|ISI=[[Isildur]]|ANA=Anárion\n\n}}\n{{Tree chart| | |:| | | | |:| | | |!}}\n{{Tree chart| |ARV|~|y|FIR| | |!|ARV=Arvedui|FIR=Fíriel\n|boxstyle_ARV = background-color: #fff\n|boxstyle_FIR = background-color: #fff\n}}\n{{Tree chart| | | | | |:| | | | | |)|-|-|-|v|-|-|-|.|}}\n{{Tree chart| | | | |ARA |~|y|~|ARW | |ELL | |ELR|ARA=[[Aragorn]]|ARW=[[Arwen]]|ELL=Elladan|ELR=Elrohir\n|boxstyle_ARA = background-color: #fff\n|boxstyle_ARW = background-color: #d9f0d3; background-image: repeating-linear-gradient(-45deg, transparent, transparent 5px, rgba(255,255,255, 0.75) 5px, rgba(255,255,255, 0.75) 10px)\n|boxstyle_ELL = background-color: #d9f0d3\n|boxstyle_ELR = background-color: #d9f0d3\n}}\n{{Tree chart| | | | | | | | |!|}}\n{{Tree chart| | | | | | | |ELD|ELD=Eldarion\n|boxstyle_ELD = background-color: #fff\n}}\n{{Tree chart/end}}\n\n{| class=\"wikitable\"\n|-\n|+ Colour key:\n! scope=\"col\" | Colour\n! scope=\"col\" | Description\n|-\n! scope=\"row\" | {{color box|#b8e186}}\n| style=\"text-align:left\" | [[Elf (Middle-earth)|Elves]]\n|-\n! scope=\"row\" | {{color box|#fff}}\n| style=\"text-align:left\" | [[Man (Middle-earth)|Men]]\n|-\n! scope=\"row\" | {{color box|#f1b6da}}\n| style=\"text-align:left\" | [[Maia (Middle-earth)|Maiar]]\n|-\n! scope=\"row\" | {{color box|#d9f0d3}}\n| style=\"text-align:left\" | [[Half-elven]]\n|-\n! scope=\"row\" | {{color box|#d9f0d3; background-image: repeating-linear-gradient(-45deg, transparent, transparent 5px, rgba(184,225,134, 0.75) 5px, rgba(184,225,134, 0.75) 10px)}}\n| style=\"text-align:left\" | Half-Elven who chose the fate of Elves\n|-\n! scope=\"row\" | {{color box|#d9f0d3; background-image: repeating-linear-gradient(-45deg, transparent, transparent 5px, rgba(255,255,255, 0.75) 5px, rgba(255,255,255, 0.75) 10px)}}\n| style=\"text-align:left\" | Half-Elven who chose the fate of mortal Men\n|}\n<p align=left>§ These figures appear in ''Unfinished Tales'', but not in the published Silmarillion. Late in life Tolkien revised the descent of Celeborn to make him a Teler of Alqualondë.</p>\n\n<p align=left>¶ In the published Silmarillion, Edhellos does not appear, Orodreth is Finarfin's son (and still Finduilas' father), and Gil-galad is Fingon's son (and thus would not be on this tree).</p>\n\n{{tree chart/end}}\n\n== References ==\n\n=== Primary ===\n\n{{reflist|group=T|30em}}\n\n=== Secondary ===\n{{reflist|30em}}\n\n== Sources ==\n\n* {{cite book |last=Flieger |first=Verlyn |author-link=Verlyn Flieger |year=1983 |title=Splintered Light: Logos and Language in Tolkien's World |title-link=Splintered Light |publisher=[[William B. Eerdmans Publishing Company|William B. Eerdmans]] |isbn=978-0-8028-1955-0}}\n* {{ME-ref|ROAD}}  <!--Shippey 2005-->\n* {{ME-ref|Silm}}\n* {{ME-ref|WJ}}\n* {{ME-ref|PM}}\n\n{{Middle-earth}}\n{{Elves}}\n\n[[Category:Grey Elves]]\n[[Category:High Elves (Middle-earth)]]\n[[Category:Teleri]]\n[[Category:Middle-earth rulers]]\n[[Category:Fictional kings]]\n[[Category:Fiction about regicide]]\n[[Category:The Silmarillion characters]]\n[[Category:The Children of Húrin characters]]\n[[Category:Literary characters introduced in 1977]]\n\n[[de:Figuren in Tolkiens Welt#Thingol]]\n[[pl:Lista Calaquendich#Elwë]]",
+  "redirect_chain": [],
+  "revision_id": 1357859417,
+  "revision_timestamp": "2026-06-05T02:48:39Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: table",
+      "structure_type": "table"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 7,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "The House of Thingol"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: table",
+      "structure_type": "table"
+    },
+    {
+      "heading_path": [
+        "The House of Thingol"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: table",
+      "structure_type": "table"
+    },
+    {
+      "heading_path": [
+        "The House of Thingol"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: table",
+      "structure_type": "table"
+    },
+    {
+      "heading_path": [
+        "The House of Thingol"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

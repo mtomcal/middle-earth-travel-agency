@@ -1,0 +1,454 @@
+{
+  "article_artifact_id": "article_f53794007130fdf887c95d5c177747c5f497be0f725aea511dd008ddbf94c34c",
+  "canonical_title": "Bilbo Baggins",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_f53794007130fdf887c95d5c177747c5f497be0f725aea511dd008ddbf94c34c",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Bilbo's way of life in the Shire, defined by features like the availability of tobacco and postal service, recalls that of the English middle class during the Victorian to Edwardian eras. This is not compatible with the much older world of Dwarves and Elves. Tolkien appears to have based Bilbo on the designer William Morris' travels in Iceland; Morris liked his home comforts but grew through his adventurous journeying. Bilbo's quest has been interpreted as a \"pilgrimage of grace\", in which he grows in both wisdom and virtue, and as a psychological journey towards wholeness.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_5d33e70ce69103ee641e11a03a33634568c78bdd3aa45b4ab2b66aa8a42b3949",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_f53794007130fdf887c95d5c177747c5f497be0f725aea511dd008ddbf94c34c",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Bilbo has appeared in numerous radio and film adaptations of The Hobbit and The Lord of the Rings, and video games based on them.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_b60e89e666fc5c9d81873e5d25711acf83aec459dbc43b03485bc77c3a6cd521",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_f53794007130fdf887c95d5c177747c5f497be0f725aea511dd008ddbf94c34c",
+      "heading_path": [
+        "Analysis",
+        "Name"
+      ],
+      "normalized_text": "thumb|upright=1.35|left|Baggins vs Huggins: Tolkien invented the name Baggins, which sounded like a real English surname such as Huggins or Dickens, but was a Huddersfield dialect word meaning an extra meal. He used Huggins as a Troll's surname.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_643dfe8ff51c1759c6cd5f217fc3ea1d8d31861b36927b37369cff09c4f4be7a",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_f53794007130fdf887c95d5c177747c5f497be0f725aea511dd008ddbf94c34c",
+      "heading_path": [
+        "Analysis",
+        "Name"
+      ],
+      "normalized_text": "In addition, \"Baggins\", while not a name by etymology, sounds very much like one of a class of English surnames such as Dickens, Jenkins, and Huggins. These names, Shippey notes, are formed from personal names, in the diminutive form; and Tolkien uses Huggins as the name of one of the Trolls in The Hobbit.",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_287fcb544a2c6b8b9e6902723ac05d593e58ae797fcf2042ddbb2e15f1e48597",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_f53794007130fdf887c95d5c177747c5f497be0f725aea511dd008ddbf94c34c",
+      "heading_path": [
+        "Analysis",
+        "Name"
+      ],
+      "normalized_text": "thumb|upright=1.35|Lobelia Sackville-Baggins's desire to acquire 'Bag End', Bilbo's hobbit-hole, has been compared to Vita Sackville-West's frustrated desire to inherit Knole House (pictured).",
+      "paragraph_ordinal": 6,
+      "passage_id": "passage_755a5b05f667f2463e8ad67b5ab058dc18b9e0b89b383e70cc4058fcaa8d09e1",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_f53794007130fdf887c95d5c177747c5f497be0f725aea511dd008ddbf94c34c",
+      "heading_path": [
+        "Adaptations"
+      ],
+      "normalized_text": "thumb|left|The illustrations of Bilbo in the 1976 Russian translation of The Hobbit were based on the actor Yevgeny Leonov (shown here on a postage stamp).",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_040bd19c9e1083d98676ef811e80f1f6029e2c75a44a44fa5fc12ccedb9f0120",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_f53794007130fdf887c95d5c177747c5f497be0f725aea511dd008ddbf94c34c",
+      "heading_path": [
+        "Adaptations"
+      ],
+      "normalized_text": "thumb|upright=0.9|Ian Holm as an older Bilbo Baggins in Peter Jackson's 2001 film The Lord of the Rings: The Fellowship of the Ring. Holm reprised this role in the 2012–2014 The Hobbit film trilogy.",
+      "paragraph_ordinal": 8,
+      "passage_id": "passage_1ba8bdc6a63838e9743ff470069bc4d7e499fcc38bf182f631d87bf521e9ea0b",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Bilbo_Baggins&action=history",
+  "namespace": 0,
+  "page_id": 59584,
+  "parent_revision_id": 1360288240,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1362034162",
+  "raw_wikitext": "{{short description|Protagonist in J. R. R. Tolkien's The Hobbit}}\n{{Good article}}\n{{pp-move-indef}}\n{{Use Oxford spelling|date=April 2024}}\n{{Use dmy dates|date=March 2020}}\n{{Infobox character\n| name       = Bilbo Baggins\n| series     = [[The Hobbit]]{{no italic|,}} [[The Lord of the Rings]]{{no italic|, and}} [[Bilbo's Last Song]]\n| image      = Bilbo Baggins Tolkien illustration.jpg\n| image_size = 150px\n| caption    = [[J. R. R. Tolkien]]'s illustration of Bilbo in his comfortable hobbit-hole, [[Bag End]]\n| race       = [[Hobbit]]\n| family     = Belladonna Took (mother)<br/>Bungo Baggins (father)<br/>Gerontius \"The Old\" Took (grandfather)<br/>[[Frodo Baggins]] (younger cousin)<!--yes, this is correct, please leave it alone-->\n| home       = Bag End, [[The Shire]]\n}}\n<!--\nThere have been similar sockpuppetry attacks on one [[Middle-earth]] character after another, e.g. [[Lúthien and Beren]] (6 April), [[Gil-galad]] (6 April), [[Bilbo Baggins]] (6 April), [[Elrond]] (6 April), [[Legolas]] (4 April), [[Gandalf]] (31 March and 4 April), [[Aragorn]] (3 April), [[Merry Brandybuck]] (2 April), [[Pippin Took]] (2 April), [[Gimli (Middle-earth)|Gimli]] (1 April), [[Frodo Baggins]] (1 April), [[Samwise Gamgee]] (1 April) and so on. There is already evidence that the socks move to unprotected/second line characters after protections are applied; it may make most sense to protect the whole set for an extended period.\n-->\n'''Bilbo Baggins''' ([[Westron]]: ''Bilba Labingi'') is the [[title character]] and [[protagonist]] of [[J. R. R. Tolkien]]'s 1937 novel ''[[The Hobbit]]'', a [[supporting character]] in ''[[The Lord of the Rings]]'', and the fictional [[narrator]] (along with [[Frodo Baggins]]) of many of Tolkien's [[Middle-earth]] writings. The [[Hobbit]] is selected by the wizard [[Gandalf]] to help [[Thorin Oakenshield]] and his party of [[Dwarf (Middle-earth)|Dwarves]] reclaim their ancestral home and treasure, which has been seized by the dragon [[Smaug]]. \n\nBilbo's way of life in [[the Shire]], defined by features like the availability of tobacco and postal service, recalls that of the English [[middle class]] during the [[Victorian era|Victorian]] to [[Edwardian era]]s. This is not compatible<!--paraphrase of cited text, take to talk page if you don't understand this, edit-warring is forbidden--> with the much older world of Dwarves and [[Elf (Middle-earth)|Elves]]. Tolkien appears to have based Bilbo on the designer [[William Morris]]' travels in Iceland; Morris liked his home comforts but grew through his adventurous journeying. Bilbo's quest has been interpreted as a \"pilgrimage of grace\", in which he grows in both wisdom and virtue, and as a psychological journey towards wholeness.\n\nBilbo has appeared in numerous radio and film adaptations of ''The Hobbit'' and ''The Lord of the Rings'', and video games based on them.\n\n==Appearances==\n\n===''The Hobbit''===\n{{further|The Hobbit}}\n\nThe [[protagonist]] of ''[[The Hobbit]]'', Bilbo Baggins, is a [[hobbit]] in comfortable middle age. He is hired as a \"burglar\", despite his initial objections, on the recommendation of the wizard [[Gandalf]] and [[List of The Hobbit characters#Thorin's company|13 Dwarves]] led by their king in exile, [[Thorin Oakenshield]]. The company of dwarves are on a quest to reclaim the [[Lonely Mountain]] and its treasures from the [[Dragon (Middle-earth)|dragon]] [[Smaug]].<ref group=T>{{harvnb|Tolkien|1937|loc=ch. 1 \"An Unexpected Party\"}}</ref> The adventure takes Bilbo and his companions through the wilderness,<ref group=T>{{harvnb|Tolkien|1937|loc=ch. 2 \"Roast Mutton\"}}</ref> to the [[Elf (Middle-earth)|Elvish]] haven of [[Rivendell]],<ref group=T>{{harvnb|Tolkien|1937|loc=ch. 3 \"A Short Rest\"}}</ref> across the [[Misty Mountains]] where, escaping from [[Orc (Middle-earth)|goblins]],<ref group=T>{{harvnb|Tolkien|1937|loc=ch. 4 \"Over Hill and Under Hill\"}}</ref> he meets [[Gollum]] and acquires [[One Ring|a magic ring]].<ref group=T name=\"Riddles in the Dark\">{{harvnb|Tolkien|1937|loc=ch. 5 \"Riddles in the Dark\"}}</ref> His journey continues via a lucky escape from [[Warg (Middle-earth)|wargs]], goblins, and fire,<ref group=T>{{harvnb|Tolkien|1937|loc=ch. 6 \"Out of the Frying-Pan into the Fire\"}}</ref> to the house of [[Beorn]] the shapeshifter,<ref group=T>{{harvnb|Tolkien|1937|loc=ch. 7 \"Queer Lodgings\"}}</ref> through the black forest of [[Mirkwood]],<ref group=T>{{harvnb|Tolkien|1937|loc=ch. 8 \"Flies and Spiders\"}}</ref> to [[Esgaroth|Lake-town]] in the middle of Long Lake,<ref group=T>{{harvnb|Tolkien|1937|loc=ch. 9 \"Barrels out of Bond\"}}</ref> and eventually to the Mountain itself.<ref group=T>{{harvnb|Tolkien|1937|loc=ch. 11 \"On the Doorstep\"}}</ref>\n\nAs burglar, Bilbo is sent down the secret passage to the dragon's lair. He steals a golden cup and takes it back to the Dwarves. Smaug awakes and instantly notices the theft and a draught of cold air from the opened passage. He flies out, nearly catches the Dwarves outside the door, and eats their ponies. Bilbo and the Dwarves hide inside the passage. Bilbo goes down to Smaug's lair again to steal some more, but the dragon is now only half-asleep. Wearing his magic ring, Bilbo is invisible, but Smaug at once smells him. Bilbo has a riddling conversation with Smaug, and notices that the dragon's armour does indeed have a gap. He escapes the dragon's flames as he runs up the passage, and tells the Dwarves about the gap in Smaug's armour. An old thrush hears what he says, and flies off to tell Bard in Lake-town.<ref group=T name=\"Inside Information\">{{harvnb|Tolkien|1937|loc=ch. 12 \"Inside Information\"}}</ref>\n\nSmaug realizes that Lake-town must have helped Bilbo, and flies off to destroy the town. After Smaug is killed in the attack, the Dwarves reclaim the Lonely Mountain, and horrify Bilbo by refusing to share the dragon's treasure with the lake-men or the wood-[[Elf (Middle-earth)|elves]]. Bilbo finds the Arkenstone of Thrain, the most precious heirloom of Thorin's family, but hides it. Thorin calls his relative [[Dáin II Ironfoot|Dáin]] to bring an army of Dwarves.<ref group=T name=\"Gathering of the Clouds\">{{harvnb|Tolkien|1937|loc=ch. 15 \"The Gathering of the Clouds\"}}</ref> Thorin and his dwarves fortify the entrance to the mountain hall, and are besieged by the Wood-elves and Lake-men. Bilbo tries to ransom the Arkenstone to prevent fighting, but Thorin sees his action as betrayal, and banishes Bilbo. Dain arrives, and the army of Dwarves faces off against the armies of Elves and Men. As battle is joined, a host of goblins and wargs arrive to take over the mountain, now that Smaug is dead. The armies of Elves, Men, and Dwarves, with the help of [[Eagle (Middle-earth)|Eagles]] and Beorn, defeat the goblins and wargs.<ref group=T>{{harvnb|Tolkien|1937|loc=ch. 17 \"The Clouds Burst\"}}</ref> Thorin is fatally wounded, but makes peace with Bilbo as he dies. Bilbo accepts only a little of the treasure which was his share, though it still represents great wealth for a Shire hobbit. Bilbo returns to his home in [[Shire (Middle-earth)|the Shire]] to find that several of his relatives, believing him to be dead, are trying to claim his home and possessions.<ref group=T>{{harvnb|Tolkien|1937|loc=ch. 19 \"The Last Stage\"}}</ref>\n\n=== ''The Lord of the Rings'' ===\n\n''[[The Lord of the Rings]]'' begins with Bilbo's \"eleventy-first\" (111th) birthday, 60&nbsp;years after the beginning of ''[[The Hobbit]]''. The main character of the novel<!--yes, one novel, in either one or three volumes depending on edition--> is [[Frodo Baggins]], Bilbo's cousin,{{efn|Although Frodo calls Bilbo his \"uncle\", they were in fact first ''and'' second cousins, once removed either way (Bilbo is Frodo's paternal great-great-uncle's son's son and his maternal great-aunt's son).}} who celebrates his 33rd&nbsp;birthday and legally comes of age on the same day. Bilbo has kept the ring, with no idea of its significance. It has prolonged his life and delayed signs of aging, but he has grown increasingly dependent upon it, leaving him feeling \"thin and stretched\". At the party, Bilbo tries to leave with the ring, but Gandalf persuades him to leave it behind for Frodo.<ref group=T name=\"Expected Party\">{{harvnb|Tolkien|1954a|loc=book 1, ch. 1 \"A Long-expected Party\"}}</ref> Bilbo travels to [[Rivendell]] and visits the dwarves of the Lonely Mountain before returning to retire at Rivendell and write books.<ref group=T name=\"Many Meetings\">{{harvnb|Tolkien|1954a|loc=book 2, ch. 2 \"Many Meetings\"}}</ref> \n\nGandalf discovers that Bilbo's ring is the [[One Ring]] forged by the Dark Lord [[Sauron]], and sets in motion the quest to destroy it.<ref group=T name=\"Shadow of the Past\">{{harvnb|Tolkien|1954a|loc=book 1, ch. 2 \"[[The Shadow of the Past]]\"}}</ref> Frodo and his friends set off on the quest, finding Bilbo, having greatly aged without the ring, in Rivendell.<ref group=T name=\"Many Meetings\"/> When they have destroyed the ring, they return to the Shire, via Rivendell, where Bilbo looks \"very old, but peaceful, and sleepy\".<ref group=T name=\"Many Partings\">{{harvnb|Tolkien|1955|loc=book 6, ch. 6 \"Many Partings\"}}</ref><ref group=T name=\"Scouring of the Shire\">{{harvnb|Tolkien|1955|loc=book 6, ch. 8 \"[[The Scouring of the Shire]]\"}}</ref> Two years later Bilbo accompanies Gandalf, [[Elrond]], [[Galadriel]], and Frodo to the Grey Havens, there to board ship bound for [[Tol Eressëa]] across the sea.<ref group=T>{{harvnb|Tolkien|1954a|loc=Prologue, \"Of the Ordering of the Shire\"}}</ref>\n\n=== Narrator ===\n{{further|Tolkien's frame stories}}\n\nIn Tolkien's narrative [[conceit]], in which all the writings of [[Middle-earth]] are translations from the fictitious volume of the ''[[Red Book of Westmarch]]'', Bilbo is the author of ''The Hobbit'', translator of various \"works from the [[Elvish language|elvish]]\",<ref group=T>{{harvnb|Tolkien|1955|loc=\"Appendix&nbsp;A – Annals of the Kings and Rulers\"}}</ref> and the author of the following [[Poetry in The Lord of the Rings|poems and songs]]:\n\n* \"[[A Walking Song]]\"<ref group=T>{{harvnb|Tolkien|1954a|loc=book 1, ch. 3 \"Three is Company\"}}</ref>\n* \"[[All that is gold does not glitter]]\", [[Shakespeare's influence on Tolkien|based on Shakespeare]]'s ''[[The Merchant of Venice]]'', which uses \"glisters\" instead of \"glitters\"<ref>''[[The Merchant of Venice]]'', Act&nbsp;2, scene&nbsp;7</ref>\n* \"[[The Man in the Moon Stayed Up Too Late]]\",<ref group=T>Sung by Frodo but said to have been created by Bilbo.{{harvnb|Tolkien|1937|loc=book 1, ch. 9 \"At the Sign of the Prancing Pony\"}}</ref> adapted from the [[nursery rhyme]] \"[[Hey Diddle Diddle]]\", supposedly as its ancestral form<ref>{{cite encyclopedia |last=Shippey |first=Tom |author-link=Tom Shippey |editor-last=Drout |editor-first=Michael D.C. |editor-link=Michael D. C. Drout |title=Poems by Tolkien: 'The Adventures of Tom Bombadil' |encyclopedia=[[J.R.R. Tolkien Encyclopedia|J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment]] |year=2013 |orig-year=2007 |publisher=[[Routledge]] |isbn=978-0-415-86511-1 |pages=515–516}}</ref>\n* \"[[The Road Goes Ever On (song)|The Road Goes Ever On]]\"<ref group=T>{{harvnb|Tolkien|1937|loc=ch. 19 \"The Last Stage\"}}</ref>\n* \"[[Bilbo's Last Song]]\", describing Bilbo's contemplation of his forthcoming voyage to the [[Undying Lands]].<ref>{{cite book |last=Shippey |first=Tom |author-link=Tom Shippey |title=[[J. R. R. Tolkien: Author of the Century]] |date=2001 |publisher=[[HarperCollins]] |isbn=978-0261-10401-3 |page=304}}</ref>\n\n== Analysis ==\n\n=== Name ===\n\n{{further|Ancestry as guide to character in Tolkien's legendarium}}\n\n[[File:Baggins vs Huggins.svg|thumb|upright=1.35|left|Baggins vs Huggins: Tolkien invented the name Baggins, which sounded like a real English surname such as Huggins or Dickens, but was a [[Huddersfield]] dialect word meaning an extra meal. He used Huggins as a [[Trolls in Middle-earth|Troll]]'s surname.<ref name=\"Shippey 2001 pp5-11\"/>]]\n\nThe [[philologist]] and Tolkien scholar [[Tom Shippey]] notes that \"Baggins\" is close to the spoken words ''bæggin'', ''bægginz'' in the dialect of [[Huddersfield|Huddersfield, Yorkshire]].<ref name=\"Shippey 1982 p66\"/> where it means a substantial meal eaten between main meals, most particularly at [[Tea (meal)|teatime in the afternoon]]; and Mr Baggins is definitely, Shippey writes, \"partial to&nbsp;... his tea\".<ref name=\"Shippey 1982 p66\">{{cite book |last=Shippey |first=Tom |author-link=Tom Shippey |title=[[The Road to Middle-Earth]] |date=1982 |publisher=Grafton ([[HarperCollins]]) |isbn=0261102753 |page=66}}</ref> Tolkien worked in [[Yorkshire]] early in his career, at the [[University of Leeds]]; from 1920 he was a reader in the school of English studies, and he rose to become a full professor there.<ref name=\"Hickes 2010\"/> More specifically, he wrote the foreword to Walter E. Haigh's 1928 ''A new glossary of the dialect of the Huddersfield district'', which included these spoken words.<ref name=\"Shippey 1982 p66\"/><ref name=\"Hickes 2010\">{{cite news |last=Hickes |first=Martin |title=JRR Tolkien and his overlooked connections with Leeds |url=https://www.theguardian.com/leeds/2010/sep/10/jrr-tolkien-lord-of-the-rings-leeds |work=[[The Guardian]] |date=10 September 2010 |url-status=live |archive-date=4 December 2024 |archive-url=https://web.archive.org/web/20241204075616/https://www.theguardian.com/leeds/2010/sep/10/jrr-tolkien-lord-of-the-rings-leeds}}</ref><ref name=\"Haigh 1928\">{{cite book |last=Tolkien |first=J. R. R. |author-link=J. R. R. Tolkien |chapter=Foreword |editor-last=Haigh |editor-first=Walter E. |title=A new glossary of the dialect of the Huddersfield district |date=1928 |publisher=[[Oxford University Press]] |oclc=890447317}}</ref> \n\nIn addition, \"Baggins\", while not a name by etymology, sounds very much like one of a class of English surnames such as Dickens, Jenkins, and Huggins. These names, Shippey notes, are formed from personal names, in the diminutive form; and Tolkien uses Huggins as the name of one of the Trolls in ''The Hobbit''.<ref name=\"Shippey 2001 pp5-11\"/>\n\nTolkien's choice of the surname Baggins may be connected to the name of Bilbo's house, Bag End, also the actual name of Tolkien's aunt's farmhouse, which Shippey notes was at the bottom of a lane with no exit. This is called a \"[[wikt:cul-de-sac|cul-de-sac]]\"{{efn|The French words in this phrase mean \"bottom-of-[a]-bag\", \"Bag End\", while the French word for a street with no exit, Shippey observes, is ''impasse''.<ref name=\"Shippey 2001 pp5-11\"/><ref>{{cite web |title=cul-de-sac |url=https://www.collinsdictionary.com/dictionary/english-french/cul-de-sac |publisher=Collins English-French Dictionary |access-date=20 April 2020}}</ref>}} in England; Shippey describes this as \"a silly phrase\", a piece of \"French-oriented snobbery\".<ref name=\"Shippey 2001 pp5-11\"/> \n\n[[File:Knole, Sevenoaks in Kent - March 2009.jpg|thumb|upright=1.35<!--fmt for low img-->|Lobelia Sackville-Baggins's desire to acquire 'Bag End', Bilbo's [[hobbit]]-hole, has been compared to [[Vita Sackville-West]]'s frustrated desire to inherit [[Knole House]] (pictured).<ref name=\"Dennison 2015\"/>]]\n\nShippey observes that Bilbo's socially aspiring cousins Lobelia and Otho Sackville-Baggins have similarly attempted to \"Frenchify\" their family name, ''Sac[k]-ville'' = \"Bag Town\", as a mark of their [[bourgeois]] status.<ref name=\"Shippey 2001 pp5-11\"/> The journalist Matthew Dennison, writing for [[St Martin's Press]], calls [[Lobelia Sackville-Baggins]] \"Tolken's unmistakable nod to [[Vita Sackville-West]]\", an [[aristocratic]] novelist and gardening columnist as passionately attached to her family home, [[Knole House]], which she was unable to inherit, as Lobelia was to Bag End.<ref name=\"Dennison 2015\">{{cite web |last=Dennison |first=Matthew |date=18 August 2015  |title=Behind The Mask: Vita Sackville-West |publisher=[[St. Martin's Press]] |location=London, England |url=https://www.thehistoryreader.com/modern-history/vita-sackville-west/ |url-status=live |access-date=20 April 2020 |archive-url=https://web.archive.org/web/20150920103722/https://www.thehistoryreader.com/modern-history/vita-sackville-west/ |archive-date=20 September 2015}}</ref> The opposite of a [[bourgeois]] is a [[burglar]] who breaks into bourgeois houses, and in ''The Hobbit'' Bilbo is asked to become a burglar (of [[Smaug]] the dragon's lair), Shippey writes, showing that the Bagginses and the Sackville-Bagginses are \"connected opposites\".<ref name=\"Shippey 2001 pp5-11\"/> He comments that the name Sackville-Baggins, for the [[Snobbery|snobbish]] branch of the Baggins family,<ref name=\"Shippey 1982 p66\"/> is \"an anomaly in Middle-earth and a failure of tone\".<ref name=\"Shippey 2014\">{{cite book |last=Shippey |first=Tom |author-link=Tom Shippey |chapter=A Cartographic Plot |year=2005 |orig-year=1982 |title=[[The Road to Middle-earth]] |publisher=[[HarperCollins]] |location=New York City |isbn=978-0-547-52441-2 |page=109 |chapter-url=https://books.google.com/books?id=qGzAAgAAQBAJ&pg=114}}</ref>\n\n===Period===\n\n{{further|Anachronism in Middle-earth|Tolkien and Edwardian adventure stories}}\n\nBilbo's [[Anachronism in Middle-earth|distinctly anachronistic period]], compared to the characters he meets, can be defined, Shippey notes, by the presence of [[tobacco]], [[Columbian exchange|brought to Europe]] in 1559, and a [[Uniform Penny Post|postal service, introduced in England in 1840]].<ref name=\"Shippey 2001 pp5-11\">{{cite book |last=Shippey |first=Tom |author-link=Tom Shippey |title=[[J. R. R. Tolkien: Author of the Century]] |date=2001 |publisher=[[HarperCollins]] |isbn=978-0261-10401-3 |pages=5–11}}</ref>{{efn|''The Annotated Hobbit'' notes also that Bilbo feels for [[match]]es (a 19th century invention) to light his pipe.<ref group=T name=\"Riddles in the Dark\"/>}} Like Tolkien himself, Bilbo was \"English, [[middle class]]; and roughly [[Victorian era|Victorian]] to [[Edwardian era|Edwardian]]\", something that as Shippey observes, does not belong to the much older world of [[Elf (Middle-earth)|elves]], [[Dwarf (Middle-earth)|dwarves]], and [[Wizard (Middle-Earth)|wizards]].<ref name=\"Shippey 2001 pp5-11\"/>\n\n===Character===\n{{further|Tolkien's modern sources}}\n\n[[File:William Morris on Pony in Iceland 1870 cartoon by Edward Burne-Jones.jpg|thumb|{{center|Bilbo's character and adventures match many details of [[William Morris]]'s expedition in Iceland.<ref name=\"Burns 2005\"/> Cartoon of Morris riding a pony by his travelling companion [[Edward Burne-Jones]] (1870)}}]]\n\n[[Marjorie Burns]], a [[medievalist]], writes that Bilbo's character and adventures match the fantasy writer and designer [[William Morris]]'s account of his travels in [[Iceland]] in the early 1870s in numerous details. Like Bilbo's, Morris's party set off enjoyably into the wild on [[Pony|ponies]]. He meets a \"boisterous\" man called \"Biorn the boaster\" who lives in a hall beside Eyja-fell, and who tells Morris, tapping him on the belly, \"...&nbsp;besides, you know you are so fat\", just as Beorn pokes Bilbo \"most disrespectfully\" and [[Hobbit#Rabbit|compares him to a plump rabbit]].<ref name=\"Burns 2005\"/> Burns notes that Morris was \"relatively short, a little rotund, and affectionately called 'Topsy', for his curly mop of hair\", all somewhat hobbit-like characteristics. Further, she writes, \"Morris in Iceland often chooses to place himself in a comic light and to exaggerate his own ineptitude\", just as Morris's companion, the painter [[Edward Burne-Jones]], gently teased his friend by depicting him as very fat in his Iceland cartoons.<ref name=\"Burns 2005\"/> Burns suggests that these images \"make excellent models\" for the Bilbo who runs puffing to the Green Dragon inn or \"jogs along behind Gandalf and the dwarves\" on his quest.<ref name=\"Burns 2005\"/> Another definite resemblance is the emphasis on home comforts: Morris enjoyed a pipe, a bath, and \"regular, well-cooked meals\"; Morris looked as out of place in Iceland as Bilbo did \"over the Edge of the Wild\"; both are afraid of dark caves; and both grow through their adventures.<ref name=\"Burns 2005\">{{cite book |last=Burns |first=Marjorie |author-link=Marjorie Burns |year=2005 |title=Perilous Realms: Celtic and Norse in Tolkien's Middle-earth |title-link=Perilous Realms |publisher=[[University of Toronto Press]] |isbn=978-0-8020-3806-7 |pages=86–92}}</ref>\n\n===Quest===\n{{further|Quests in Middle-earth|Character pairing in The Lord of the Rings#Jungian archetypes}}\n\nThe Christian writer [[Joseph Pearce]] describes ''The Hobbit'' as \"a [[pilgrimage]] of [[Divine grace|grace]], in which its protagonist, Bilbo Baggins, becomes grown up ... in wisdom and virtue\".<ref>{{cite journal |last=Epps |first=Peter G. |title=Review of ''Bilbo's Journey: Discovering the Hidden Meaning of The Hobbit'' |journal=Christianity and Literature |date=December 2014 |volume=64 |pages=122–126 |doi=10.1177/0148333114556596c |jstor=26194807|doi-access=free }}</ref> Dorothy Matthews sees the story rather as a psychological journey, the anti-heroic Bilbo being willing to face challenges while firmly continuing to love home and discovering himself. Along the way, Matthews sees [[Jungian archetype]]s, talismans, and symbols at every turn: the [[Wise old man|Jungian wise old man]] Gandalf; the devouring mother of the giant spider, not to mention Gollum's \"long grasping fingers\";<ref name=\"Matthews 2003\"/> the Jungian circle of the self, the ring; the escape from the dark underground imprisoning chambers of the wood-elves and Bilbo's symbolic rebirth into the sunlight and the waters of the woodland river; and the dragon guarding the contested treasure, itself \"an archetype of the self, of psychic wholeness\".<ref name=\"Matthews 2003\">{{cite book |last=Matthews |first=Dorothy |editor-last=Lobdell |editor-first=Jared |editor-link=Jared Lobdell |title=[[A Tolkien Compass]] |date=2003 |publisher=[[Open Court Publishing Company|Open Court]] |pages=27–39 |edition=2nd |chapter-url=https://books.google.com/books?id=TqJ7gHrwjUEC&pg=PA27 |chapter=The Psychological Journey of Bilbo Baggins|isbn=9780875483030 }}</ref> Later research has extended Matthews' analysis using alternative psychological frameworks such as [[Erik Erikson]]'s theory of development.<ref name=\"Collins 2020\">{{cite journal |last=Collins |first=Rory W. |date=2020 |title=Wombs, wizards, and wisdom: Bilbo's journey from childhood in ''The Hobbit'' |journal=Crossing Borders |volume=4 |doi=10.4148/2373-0978.1073 |doi-access=free |at=Article 1}}</ref>\n\n=== Genealogy ===\n{{further|Tolkien's Middle-earth family trees}}\n\nThe Tolkien scholar [[Jason Fisher]] notes that Tolkien stated that hobbits were extremely \"clannish\" and had strong \"predilections for [[genealogy]]\".<ref name=\"Drout 2007\">{{cite encyclopedia |last=Fisher |first=Jason |author-link=Jason Fisher |editor=Drout, Michael D.C. |editor-link=Michael D. C. Drout |title=Family Trees |encyclopedia=[[The J. R. R. Tolkien Encyclopedia]] |url=https://books.google.com/books?id=B0loOBA3ejIC&pg=PA188 |year=2007 |publisher=[[Taylor & Francis]] |isbn=978-0-415-96942-0 |pages=188–189}}</ref> Accordingly, Tolkien's decision to include the [[Tolkien's Middle-earth family trees|Baggins and other hobbit family trees]] in ''Lord of the Rings''<ref group=T>{{harvnb|Tolkien|1955|loc=\"Appendix&nbsp;C – Baggins of [[Hobbiton]]\"}}</ref> gives the book, in Fisher's view, a strongly \"hobbitish perspective\".<ref name=\"Drout 2007\"/> The tree also, he notes, serves to show Bilbo's and Frodo's connections and familial characteristics, including that Bilbo was both \"a Baggins and a Took\".<ref name=\"Drout 2007\"/> Fisher observes that Bilbo is, like [[Aragorn]]: a \"distillation of the best of two families\"; he notes that in ''The Quest of Erebor'', a manuscript of Tolkien's collected in the ''[[Unfinished Tales]]'', Gandalf is given the lines \"So naturally, thinking over the hobbits that I knew, I said to myself, 'I want a dash of the [adventurous] Took ... and I want a good foundation of the stolider sort, a Baggins perhaps.' That pointed at once to Bilbo\".<ref name=\"Drout 2007\"/><ref name=\"Unfinished Tales\">{{cite book|last=Tolkien|first=J. R. R.|author-link=J. R. R. Tolkien|editor-last=Tolkien|editor-first=Christopher|editor-link=Christopher Tolkien|title=Unfinished Tales|edition=paperback|year=1998|orig-year=1980|publisher=[[HarperCollins]]|isbn=978-0261-10362-7|page=428}}</ref>\n\nThe Tolkien critic [[Tom Shippey]] notes that Tolkien was very interested in such names, describing Shire names at length in ''The Lord of the Rings'' \"Appendix F\".<ref group=T name=\"Appendix F2\">{{harvnb|Tolkien|1955|loc=\"Appendix F\", 2, \"On Translation\"}}</ref> One category was the names that meant nothing to the hobbits \"in their daily language\", like Bilbo and Bungo; a few of these, like Otho and Drogo in the family tree, were \"by accident, the same as modern English names\".<ref name=\"Shippey 2001\">{{cite book |last=Shippey |first=Tom |author-link=Tom Shippey |date=2001 |title=[[J. R. R. Tolkien: Author of the Century]] |publisher=[[HarperCollins]] |isbn=978-0261-10401-3 |pages=182–183}}</ref>\n\n== Adaptations ==\n\n[[File:Russia-2001-stamp-Yevgeny Leonov.jpg|thumb|left|The illustrations of Bilbo in the 1976 Russian [[Translations of The Hobbit|translation of ''The Hobbit'']] were based on the actor [[Yevgeny Leonov]] (shown here on a postage stamp).<!--cp. Annotated Hobbit, 1989, p14 --><ref name=\"Belomlinsky 2014\"/> ]]\n\nIn the 1955–1956 [[BBC]] Radio serialization of ''[[The Lord of the Rings (1955 radio series)|The Lord of the Rings]]'', Bilbo was played by [[Felix Felton]].<ref>{{cite web |title=Genome BETA Radio Times 1923 - 2009 Listings |url=https://genome.ch.bbc.co.uk/schedules/third/1955-11-14 |archive-url=https://web.archive.org/web/20141017190848/http://genome.ch.bbc.co.uk/schedules/third/1955-11-14 |url-status=dead |archive-date=17 October 2014 |publisher=[[BBC]] |access-date=9 May 2020}}</ref> In the 1968 [[BBC]] Radio serialization of ''[[The Hobbit (radio series)|The Hobbit]]'', Bilbo was played by [[Paul Daneman]].<ref name=\"Robb Simpson 2013 ch1\">{{cite book |last1=Robb |first1=Brian J. |last2=Simpson |first2=Paul |year=2013 |title=Middle-earth Envisioned: The ''Hobbit'' and ''The Lord of the Rings'': On screen, on stage, and beyond |chapter=ch. 1 Audio Adaptations |publisher=Race Point Publishing |isbn=978-1-937994-27-3 |chapter-url=https://books.google.com/books?id=Nds_AQAAQBAJ&pg=PA4019 |pages=19, 66}}</ref>\n\nThe 1969 [[parody]] ''[[Bored of the Rings]]''<ref name=\"Beard 2001\">{{cite book |last=Beard |first=Henry |year=2001 |orig-year=1969 |collaboration=[[Harvard Lampoon]] |title=[[Bored of the Rings]] |publisher=Gollancz |isbn=978-0-575-07362-3 |oclc=47036020}}</ref> by \"[[Harvard Lampoon]]\" (i.e. its co-founders [[Douglas Kenney]] and [[Henry Beard]]) modifies the hobbit's name to \"Dildo Bugger\".<ref>{{cite news |last=Barnett |first=David |date=8 February 2011 |title=After Tolkien, get ''Bored of the Rings'' |newspaper=[[The Guardian]] |url=https://www.theguardian.com/books/booksblog/2011/feb/08/tolkien-bored-of-the-rings |url-status=live |archive-date=18 January 2025 |archive-url=https://web.archive.org/web/20250118162133/https://www.theguardian.com/books/booksblog/2011/feb/08/tolkien-bored-of-the-rings}}</ref>\n\nIn the 1977 [[Rankin/Bass]] [[The Hobbit (1977 film)|animated version of ''The Hobbit'']], Bilbo was voiced by [[Orson Bean]]. Bean also voiced both the aged Bilbo and Frodo in the same company's 1980 adaptation of ''[[The Return of the King (1980 film)|The Return of the King]]''.<ref>{{cite web |last=Gilkeson |first=Austin |date=24 April 2019 |title=Middle-Earth's weirdest movie: Rankin-Bass' animated ''The Return of the King'' |publisher=Tor.com |url=https://www.tor.com/2019/04/24/middle-earths-weirdest-movie-rankin-bass-animated-the-return-of-the-king/ |access-date=9 May 2020}}</ref>\n\nThe 1976 Russian translation of ''The Hobbit'' was illustrated with drawings by Mikhail Belomlinsky; he based his Bilbo character on the actor [[Yevgeny Leonov]], who he described as \"good-natured, plump, with hairy legs\".<ref name=\"Belomlinsky 2014\">{{cite journal |last=Belomlinsky |first=Mikhail |url=http://russian-bazaar.com/ru/content/8054.htm |title=Книжное обозрение: Леонов «играет» Хоббита |language=Russian |trans-title=Book Review: Leonov 'plays' the Hobbit |archive-url=https://web.archive.org/web/20140427192857/http://russian-bazaar.com/ru/content/8054.htm |archive-date=27 April 2014 |url-status=dead |journal=Russian Bazaar |volume=2 |issue=508 }}</ref>\n<!-- Deleted image removed: [[|thumb|[[Martin Freeman]] as the young Bilbo Baggins in [[Peter Jackson]]'s 2012 film ''[[The Hobbit: An Unexpected Journey]]'']] -->\n\nIn [[Ralph Bakshi]]'s 1978 [[The Lord of the Rings (1978 film)|animated version]] of ''The Lord of the Rings'', Bilbo was voiced by [[Norman Bird]].<ref name=\"Beck 2005\">{{cite book |last=Beck |first=Jerry |year=2005 |title=The Animated Movie Guide |page=154 |publisher=[[Chicago Review Press]] |isbn=978-1-56976-222-6 |url=https://books.google.com/books?id=fTI1yeZd-tkC&pg=PA154}}</ref> [[Billy Barty]] was the model for Bilbo in the live-action recordings Bakshi used for [[rotoscope|rotoscoping]].<ref name=\"Beck 2005\"/> The 3000th story to be broadcast in the BBC's long-running children's programme [[Jackanory]] was ''The Hobbit'', in 1979. Four narrators told the story with Bilbo's part being played by [[Bernard Cribbins]].<ref>{{cite web |last=Hewett |first=Richard |date=4 July 2014 |title=Now a Major TV Series: An ode to television tie-ins |publisher=Critical Studies in Television |url=https://cstonline.net/now-a-major-tv-series-an-ode-to-television-tie-ins-by-richard-hewett/ |access-date=9 May 2020}}</ref>\n\nIn the BBC's 1981 [[The Lord of the Rings (1981 radio series)|radio serialization]] of ''The Lord of the Rings'', Bilbo is played by [[John Le Mesurier]].<ref>{{cite web |last=Green |first=Willow |date=29 November 2001 |title=Lord of the Radio |url=https://www.empireonline.com/movies/news/lord-radio/ |publisher=Empire (Cinemas) |access-date=6 May 2020}}</ref> In the unlicensed 1985 Soviet version on the [[Leningrad TV]] channel, ''[[The Hobbit (1985 film)|Хоббита]]'' (\"The Hobbit\"), Bilbo was played by {{Interlanguage link|Данилов, Михаил Викторович (актёр)|lt=Mikhail Danilov|ru}}.<ref>{{cite web |last=Marshall |first=Colin |title=The 1985 Soviet TV Adaptation of The Hobbit: Cheap and Yet Strangely Charming |url=http://www.openculture.com/2014/08/the-1985-soviet-tv-adaptation-of-the-hobbit.html |publisher=Open Culture |date=14 August 2014}}</ref> In the 1993 television [[miniseries]] ''[[Hobitit]]'' by Finnish broadcaster [[Yle]], Bilbo is portrayed by [[Martti Suosalo]].<ref name=\"Robb Simpson 2013 ch1\"/>\n\n[[File:Bilbo Baggins.jpg|thumb|upright=0.9|[[Ian Holm]] as an older Bilbo Baggins in [[Peter Jackson]]'s 2001 film ''[[The Lord of the Rings: The Fellowship of the Ring]]''. Holm reprised this role in the 2012–2014 [[The Hobbit (film series)|''The Hobbit'' film trilogy]].<ref name=\"Kendrick 2011\"/>]]\n\nIn [[Peter Jackson]]'s films ''[[The Lord of the Rings: The Fellowship of the Ring|The Fellowship of the Ring]]'' (2001) and ''[[The Lord of the Rings: The Return of the King|The Return of the King]]'' (2003), Bilbo is played by [[Ian Holm]], who had played Frodo in the BBC radio series 20&nbsp;years earlier.<ref>{{cite web |title=Review of the ''Lord of the Rings'' radio adaptation |website=The Tolkien Library |url=http://www.tolkienlibrary.com/press/850-Lord-of-the-Rings-BBC-Dramatization.php |access-date=12 April 2020}}</ref>\n\nThroughout the 2003 video game ''[[The Hobbit (2003 video game)|The Hobbit]]'', the players control Bilbo, voiced by [[Michael Beattie (actor)|Michael Beattie]].<ref name=\"BTVA Beattie\">{{cite web |url=https://www.behindthevoiceactors.com/Michael-Beattie/ |title=Michael Beattie - 30 Character Images |website=Behind The Voice Actors |access-date=8 August 2021}} He is credited as \"Michael Beatie\".</ref> The game follows the plot of the book, but adds the elements of [[platform game]]play and various side-objectives along the main quests.<ref name=\"Lamb 2003\">{{cite book | last=Lamb | first=Kevin | year=2003 | title=The Hobbit PlayStation 2 instruction manual | pages=21–22 | chapter=Quest Log | publisher=[[Sierra Entertainment]] | url=http://www.replacementdocs.com/download.php?view.4126 | access-date=February 22, 2016 | via = replacementdocs.com}}</ref> \nIn ''[[The Lord of the Rings Online]]'' (2007) Bilbo resides in Rivendell, mostly playing riddle games with the Elf Lindir in the Hall of Fire.<ref>{{cite news |last=Schiesel |first=Seth |title=Finding Fellowship (Hairy Feet Optional) |url=https://www.nytimes.com/2007/05/04/arts/04lord.html |work=[[The New York Times]] |date=4 May 2007 |url-access=limited |url-status=live |archive-date=8 December 2024 |archive-url=https://web.archive.org/web/20241208182258/https://www.nytimes.com/2007/05/04/arts/04lord.html}}</ref>\n\nIn Peter Jackson's [[The Hobbit (film series)|''The Hobbit'' film series]], a prequel to ''The Lord of the Rings'', the young Bilbo is portrayed by [[Martin Freeman]],<ref>{{cite magazine |last=White |first=James |url=https://www.empireonline.com/movies/news/martin-freeman-confirmed-bilbo/ |title=Martin Freeman Confirmed As Bilbo! |magazine=[[Empire (magazine)|Empire]] |orig-date=22 October 2010 |access-date=10 March 2025 |date=8 October 2015 |url-status=live |archive-date=9 September 2017 |archive-url=https://web.archive.org/web/20170909064342/http://www.empireonline.com/movies/news/martin-freeman-confirmed-bilbo/}}</ref> while [[Ian Holm]] reprises his role as an older Bilbo in ''[[The Hobbit: An Unexpected Journey|An Unexpected Journey]]'' (2012) and ''[[The Hobbit: The Battle of the Five Armies|The Battle of the Five Armies]]'' (2014).<ref name=\"Kendrick 2011\">{{cite web |last=Kendrick |first=Ben |title=Sir Ian Holm Returning as Older Bilbo in 'The Hobbit' |url=https://screenrant.com/sir-ian-holm-hobbit-bilbo-baggins/ |publisher=Screenrant |access-date=9 May 2020 |date=22 April 2011}}</ref>\n\n== See also ==\n\n* [[The Quest of Erebor]]\n\n== Notes ==\n{{notelist |group=lower-alpha}}\n\n== References ==\n\n=== Primary ===\n\n{{reflist |25em |group=T}}\n\n=== Secondary ===\n{{reflist|25em}}\n\n== Sources ==\n\n* {{ME-ref|TH}}\n* {{ME-ref|FOTR}}\n* {{ME-ref|ROTK}}\n\n{{Hobbit}}\n{{Lotr}}\n{{Authority control}}\n\n<!--\n      PLEASE DO NOT ADD any \"Category:Fictional <type>\" here, it is not appropriate\n-->\n{{DEFAULTSORT:Baggins, Bilbo}}\n[[Category:Adventure film characters]]\n[[Category:Bearers of the One Ring]]\n[[Category:The Hobbit characters]]\n[[Category:Literary characters introduced in 1937]]\n[[Category:The Lord of the Rings characters]]\n[[Category:Television characters introduced in 1977]]\n[[Category:Middle-earth Hobbits]]\n<!--\n      PLEASE DO NOT ADD any \"Category:Fictional <type>\" here, it is not appropriate\n-->",
+  "redirect_chain": [],
+  "revision_id": 1362034162,
+  "revision_timestamp": "2026-07-01T15:24:43Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "The Hobbit"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "The Hobbit"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "The Hobbit"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "The Hobbit"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "The Lord of the Rings"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "The Lord of the Rings"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "Narrator"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "Narrator"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "Narrator"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: list",
+      "structure_type": "list"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Name"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Name"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Name"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Name"
+      ],
+      "paragraph_ordinal": 7,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Period"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Period"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Character"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Character"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Character"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Quest"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Quest"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Genealogy"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Genealogy"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Genealogy"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 7,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 9,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 10,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 11,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "See also"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: list",
+      "structure_type": "list"
+    },
+    {
+      "heading_path": [
+        "Notes"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

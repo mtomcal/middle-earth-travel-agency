@@ -1,0 +1,453 @@
+{
+  "article_artifact_id": "article_08ca9386f57a0eb9600c6c1e459a762bb6e08b7ae93011e23ad54ef223f14208",
+  "canonical_title": "Saruman",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_08ca9386f57a0eb9600c6c1e459a762bb6e08b7ae93011e23ad54ef223f14208",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Saruman, also called Saruman the White, later Saruman of Many Colours, is a fictional character and an antagonist in J. R. R. Tolkien's fantasy novel The Lord of the Rings. He is the leader of the Istari, wizards sent to Middle-earth in human form by the godlike Valar to challenge Sauron, the main antagonist of the novel. He comes to desire Sauron's power for himself, so he betrays the Istari and tries to take over Middle-earth by force from his base at Isengard. His schemes feature prominently in the second volume, The Two Towers; he appears briefly at the end of the third volume, The Return of the King. His earlier history is summarised in the posthumously published The Silmarillion and Unfinished Tales.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_0ad3d2c9c212ba16d6acff7e0937973f2fc2e768a68250502a0c548d974bcb29",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_08ca9386f57a0eb9600c6c1e459a762bb6e08b7ae93011e23ad54ef223f14208",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Saruman has appeared in adaptations of Tolkien's works for radio, cinema, and games, and was portrayed by Christopher Lee in Peter Jackson's The Lord of the Rings and The Hobbit film trilogies.",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_bf446aefad00e3304111f440c867f864a3196a97759db0885b808ecc50fef5ae",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_08ca9386f57a0eb9600c6c1e459a762bb6e08b7ae93011e23ad54ef223f14208",
+      "heading_path": [
+        "Creation and development"
+      ],
+      "normalized_text": "\"This tale grew in the telling\"",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_b673d22aafcaab83ba379613bd7df9325e400d778936e82e959714953d1a1f0a",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_08ca9386f57a0eb9600c6c1e459a762bb6e08b7ae93011e23ad54ef223f14208",
+      "heading_path": [
+        "Analysis",
+        "A thoroughly modern character"
+      ],
+      "normalized_text": "Tolkien described Saruman at the time of The Lord of the Rings as having a long face and a high forehead, \"...he had deep darkling eyes ... His hair and beard were white, but strands of black still showed around his lips and ears.\" His hair is elsewhere described as having been black when he first arrived in Middle-earth. He is referred to as 'Saruman the White' and is said to have originally worn white robes, but on his first entry in The Fellowship of the Ring they instead appear to be \"woven from all colours [, they] shimmered and changed hue so that the eye was bewildered\" and he names himself 'Saruman of Many Colours'.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_4706b7ebc74a74cb54b2b740445d1e7e2b39044422573deda5a5d38827636126",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_08ca9386f57a0eb9600c6c1e459a762bb6e08b7ae93011e23ad54ef223f14208",
+      "heading_path": [
+        "Analysis",
+        "Evil and providence"
+      ],
+      "normalized_text": "After the defeat of his armies, having been caught in the betrayal of Sauron, Saruman is offered refuge by Gandalf, in return for his aid, but having chosen his path, is unable to turn from it. Evans has compared the character of Saruman to that of Satan in John Milton's Paradise Lost in his use of rhetoric and in this final refusal of redemption, \"conquered by pride and hatred\".",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_838d76a5ded7f264a17a6489ac7a8de53d1a52d79faae645a688d5a8f4d494ee",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_08ca9386f57a0eb9600c6c1e459a762bb6e08b7ae93011e23ad54ef223f14208",
+      "heading_path": [
+        "Adaptations",
+        "Motion pictures"
+      ],
+      "normalized_text": "thumb|Christopher Lee played Saruman in Peter Jackson's The Lord of the Rings and The Hobbit film trilogies.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_169eed2a3c03564fe783904d908ee5ba2c2913842e59493e129303f97b9713b8",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Saruman&action=history",
+  "namespace": 0,
+  "page_id": 18618607,
+  "parent_revision_id": 1361917135,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1361919850",
+  "raw_wikitext": "{{Short description|Fictional character created by J. R. R. Tolkien}}\n{{good article}}\n{{pp-move}}\n{{Use Oxford spelling|date=June 2023}}\n{{Infobox character\n| name    = Saruman the White\n| series  = [[Tolkien]]\n| image   = Escudo Isengard.svg\n| first   = ''[[The Fellowship of the Ring]]'' (1954)\n| last    = ''[[Unfinished Tales]]'' (1980)\n| caption = [[Heraldry of Middle-earth#Maiar|The White Hand of Saruman]]\n| alias   = Curunír<br/>Curumo<br/>Sharkey<br/>Man of Skill<br/>White Messenger<br/>Head of the White Council<br/>Lord of [[Isengard]]\n| race    = [[Maia (Middle-earth)|Maia]]\n}}\n\n'''Saruman''', also called '''Saruman the White''', later '''Saruman of Many Colours''', is a fictional character and an antagonist in [[J. R. R. Tolkien]]'s fantasy novel ''[[The Lord of the Rings]]''. He is the leader of the [[Istari]], wizards sent to [[Middle-earth]] in human form by the godlike [[Valar]] to challenge [[Sauron]], the main [[antagonist]] of the novel. He comes to desire Sauron's power for himself, so he betrays the Istari and tries to take over Middle-earth by force from his base at [[Isengard]]. His schemes feature prominently in the second volume, ''[[The Two Towers]]''; he appears briefly at the end of the third volume, ''[[The Return of the King]]''. His earlier history is summarised in the posthumously published ''[[The Silmarillion]]'' and ''[[Unfinished Tales]]''.\n\nSaruman is one of several characters in the book who illustrate the [[Addiction to power in The Lord of the Rings|corruption of power]]. His desire for knowledge and order leads to his fall, and he rejects the [[Christianity in the Lord of the Rings|chance of redemption]] when it is offered. The name ''Saruman'' ({{IPA|ang|ˈsɑrumɑn|pron}}) means \"man of skill or cunning\" in the [[Mercian dialect]] of [[Old English language|Anglo-Saxon]];{{sfn|Clark Hall|2002|p=300}} he serves as an example of technology and modernity being [[Environmentalism in The Lord of the Rings|overthrown by forces more in tune with nature]].\n\nSaruman has appeared in adaptations of Tolkien's works for radio, cinema, and games, and was portrayed by [[Christopher Lee]] in [[Peter Jackson]]'s [[The Lord of the Rings (film series)|''The Lord of the Rings'']] and [[The Hobbit (film series)|''The Hobbit'']] film trilogies.\n\n==Appearances==\n\n===''The Lord of the Rings''===\n\nThe ''Lord of the Rings'' describes a quest to destroy the [[One Ring]], a powerful and [[Evil in Middle-earth|evil]] talisman created by the Dark Lord [[Sauron]] to control the nine rings of men, the remaining rings of the dwarves (originally seven) and the three of the elves, the most powerful, thus furthering Sauron's dominion over [[Middle-earth]]. Sauron lost the Ring in battle thousands of years before the beginning of the story, and it is now held in secret in [[the Shire]] by the [[hobbit]] [[Bilbo Baggins]], who passes it on to [[Frodo Baggins]], one of the story's protagonists. Early in the first volume, ''[[The Fellowship of the Ring]]'', the wizard [[Gandalf]] describes Saruman as \"the chief of my order\"<ref group=T>{{harvnb|Tolkien|1954a}} Book 1 Chapter 2 \"[[The Shadow of the Past]]\".</ref> and head of the [[White Council]] that forced Sauron from [[Mirkwood]] at the end of Tolkien's earlier book ''[[The Hobbit]]''.<ref group=T>{{harvnb|Tolkien|1937|loc=Chapter 19 \"The Last Stage\"}}</ref> He notes Saruman's great knowledge of the [[Rings of Power]] created by Sauron and by the [[Elf (Middle-earth)|Elven]]-smiths. Shortly afterwards, Gandalf breaks an arrangement to meet Frodo and guide him out of the Shire to [[Rivendell]] to keep the Ring safe from Sauron's agents.\n\nFrodo and Gandalf are reunited at Rivendell midway through ''The Fellowship of the Ring''. The wizard explains why he failed to join Frodo: he had been summoned to consult with Saruman but had been held captive. Saruman initially had proposed that the wizards ally themselves with the rising power of Sauron in order to eventually control him for their own ends, revealing himself as a traitor. Saruman went on to suggest that they could take the Ring for themselves and challenge Sauron. When Gandalf refused both options, the traitorous Saruman imprisoned him in the tower of Orthanc at [[Isengard]], hoping to learn from him the location of the Ring. Whilst on the summit of [[Orthanc]], Gandalf observed that Saruman had industrialized the formerly green valley of Isengard and was creating his own army of Half-[[Orc (Middle-earth)|Orc]]/Half-[[Men (Middle-earth)|Man]] fighters and [[Warg (Middle-earth)|Wargs]] to rival Sauron.<ref name=\"Council\" group=T>{{harvnb|Tolkien|1954a}} Book 2 Chapter 2 \"[[The Council of Elrond]]\"</ref> Gandalf's escape from the top of the tower on the back of a [[Eagle (Middle-earth)|Great Eagle]] left Saruman in a desperate position, as he knew he would now be known as traitor to his former allies, but was unable to procure the Ring directly for himself and therefore could not hope to truly rival Sauron. Shortly after arriving in Rivendell, Gandalf informs the [[Council of Elrond]] about Saruman's betrayal.\n\nIn ''[[The Two Towers]]'', the second volume of the story, Orcs from Saruman's army attack Frodo and his companions, and carry off two of Frodo's closest friends, [[Meriadoc Brandybuck|Merry]] and [[Peregrin Took|Pippin]]. The two escape into [[Fangorn Forest]], where they meet the [[Ent]]s, protectors of the trees, who are outraged at the widespread felling of trees by Saruman's Orcs.<ref name=\"Treebeard\" group=T>{{harvnb|Tolkien|1954}} Book 3 Chapter 4 \"Treebeard\"</ref> Meanwhile, Saruman prepares to invade the kingdom of [[Rohan (Middle-earth)|Rohan]], which has lain exposed ever since he had his servant [[Gríma Wormtongue]] render [[Théoden]], Rohan's king, weak and defenceless with \"subtle poisons\". Gandalf frees Théoden from Wormtongue's control just as Saruman's army is about to invade.\n\nSaruman is ruined when the Riders of Rohan defeat his army and Merry and Pippin prompt the Ents to destroy Isengard. Saruman himself is not directly involved, and only appears again in chapter 10, \"The Voice of Saruman\", by which time he is trapped in Orthanc. He fails in his attempt to negotiate with the Rohirrim and with Gandalf, and rejects Gandalf's conditional offer to let him go free. Gandalf casts him out of the White Council and the order of the wizards, and breaks Saruman's [[Magic (Middle-earth)#Magic items|staff]].<ref name=\"Voice\" group=T>{{harvnb|Tolkien|1954}} Book 3 Chapter 10 \"The Voice of Saruman\"</ref>\n\nSaruman makes his final appearance at the end of the last volume, ''[[The Return of the King]]'' (1955), after Sauron's defeat. After persuading the Ents to release him from Orthanc, he travels north on foot, apparently reduced to begging. He is accompanied by Wormtongue, whom he beats and curses.<ref group=T>{{harvnb|Tolkien|1955}} Book 6, Chapter 6 \"Many Partings\"</ref> When they reach the Shire, Saruman's agents—both Hobbits and [[Man (Middle-earth)|Men]]—have already taken it over and started a destructive process of industrialization. Saruman governs the Shire in secret under the name of Sharkey until the events of \"[[The Scouring of the Shire]]\". In that penultimate chapter, Frodo and his companions return and lead a rebellion, defeating the intruders and exposing Saruman's role.<ref name=\"Scouring\" group=T/> Even after Saruman attempts to stab Frodo, Frodo lets him go; but Wormtongue, whom Saruman continues to taunt and physically abuse, finally snaps and murders him.<ref group=T>{{harvnb|Tolkien|1955}} Book 6 Chapter 7 \"Homeward Bound\"</ref><ref name=\"Scouring\" group=T>{{harvnb|Tolkien|1955}} Book 6 Chapter 8 \"[[The Scouring of the Shire]]\"</ref>\n\n===Other books===\n\nConsistent accounts of Saruman's earlier history appear in Appendix B to ''The Lord of the Rings'', first published in ''The Return of the King'', and in the posthumously published ''[[The Silmarillion]]'' and ''[[Unfinished Tales]]''. All were written in the mid-1950s. Saruman, like Gandalf and [[Radagast the Brown]], is one of five 'wizards', known as the [[Istari]], who begin to arrive in Middle-earth some two thousand years before the beginning of ''The Lord of the Rings''. They are [[Maiar]], envoys of the godlike [[Valar]] sent to challenge Sauron (who was regaining his strength following his defeat at the end of the second age) during the third age by inspiring the people of Middle-earth rather than by direct conflict.<ref group=T>{{harvnb|Tolkien|1955}} Appendix B, \"The Third Age\".</ref> Tolkien regarded them as being somewhat like incarnate [[angel]]s.<ref group=T>{{harvnb|Carpenter|2006}} ''Letters'', #156 to [[Robert Murray S.J.]], November 1954: \"[of Gandalf] I would venture to say that he was an ''incarnate'' 'angel'-strictly an [angelos]: that is, with the other ''Istari'', wizards, 'those who know', an emissary from the [[Valar in Middle-earth|Lords of the West]], sent to Middle-earth, as the great crisis of Sauron loomed on the horizon.\"</ref> Saruman initially travels in the east; he is later appointed head of the White Council and eventually settles at [[Gondor]]'s outpost of Isengard. However, studying Sauron and the lore of the Rings of Power makes him desire to possess the ring for himself, eventually leading to his betrayal. Fifty years before ''The Lord of the Rings'', after his studies reveal that the One Ring might be found in the river [[Geography of Middle-earth#Rhovanion|Anduin]] near Sauron's stronghold at [[Dol Guldur]], he helps the White Council drive out Sauron in order to facilitate his search.<ref group=T>{{harvnb|Tolkien|1977}} \"Of the Rings of Power and the Third Age\"</ref>\n\n''Unfinished Tales'' contains drafts, not included in ''The Lord of the Rings'', that describe Saruman's attempts to frustrate Sauron's chief servants, the [[Nazgûl]], in their search for the Ring during the early part of ''The Fellowship of the Ring''; in one version he considers throwing himself on Gandalf's mercy. There is also a description of how Saruman becomes involved with the Shire and of how he gradually becomes jealous of Gandalf.<ref group=T>{{harvnb|Tolkien|1980}} Part 3 Chapter 4 \"The Hunt for the Ring\"</ref> Another brief account describes how the five Istari were chosen by the Valar for their mission.<ref group=T>{{harvnb|Tolkien|1980}} Part 4 Chapter 2 \"The Istari\"</ref>\n\n== Creation and development ==\n\n=== \"This tale grew in the telling\" ===<!--quote is from LOTR Prologue-->\n\n{{further|Constructing The Lord of the Rings|lt1=Constructing ''The Lord of the Rings''}}\n\nTolkien had been writing ''The Lord of the Rings'' for several years when Saruman came into existence as the solution to a long-unresolved plot development, and his role and characteristics continued to emerge in the course of writing. Tolkien started work on the book in late 1937 but was initially unsure of how the story would develop.<ref>{{harvnb|Carpenter|2002}} Part 5 Chapter II p. 247.</ref> Unlike some of the other characters in the book, Saruman had not appeared in Tolkien's 1937 novel, ''[[The Hobbit]]'', or in his then-unpublished ''[[Quenta Silmarillion]]'' and related mythology, which date back to 1917.{{efn|The volume published as ''[[The Silmarillion]]'' in 1977 contains four sections in addition to the ''Quenta Silmarillion''. The last of these—''[[Of the Rings of Power and the Third Age]]''—covers Saruman's earlier history, but was written after ''The Lord of the Rings''.}} When he wrote of Gandalf's failure to meet Frodo, Tolkien did not know what had caused it and later said: \"Most disquieting of all, Saruman had never been revealed to me, and I was as concerned as Frodo at Gandalf's failure to appear.\"<ref group=T>{{harvnb|Carpenter|2006}} ''Letters'' #163 to [[W. H. Auden]], June 1955.</ref> Tolkien's son, [[Christopher Tolkien|Christopher]], has said that the early stages of the creation of ''The Lord of the Rings'' proceeded in a series of waves, and that having produced the first half of ''The Fellowship of the Ring'', Tolkien rewrote the tale from the start three times.<ref group=T>{{harvnb|Tolkien|1988}} \"Foreword\"</ref> Saruman first appeared during a fourth phase of writing in a rough narrative outline dated August 1940. Intended to account for Gandalf's absence, it describes how a wizard titled \"Saramond the White\" or \"Saramund the Grey\", who has fallen under the influence of Sauron, lures Gandalf to his stronghold and traps him.<ref group=T>{{harvnb|Tolkien|1989}} Chapter 4. The outline suggests that Saruman is assisted by the \"giant\" Treebeard, an early and evil iteration of the [[Ent]] [[Treebeard]] from the finished book.</ref> The full story of Saruman's betrayal was later added to the existing chapters.<ref name=\"Council\" group=T/>\n\nSeveral of Saruman's other appearances in the book emerged in the process of writing. Christopher Tolkien believes that the old man seen by [[Aragorn]], [[Legolas]] and [[Gimli (Middle-earth)|Gimli]] at the edge of [[Fangorn]] forest near the beginning of ''The Two Towers'' is in the original drafts intended to be Gandalf. In the finished version he is Saruman.<ref group=T>{{harvnb|Tolkien|1989|at=chapters 14 and 20}} Gandalf says of the incident, \"You certainly didn't see me, so you must have seen Saruman.\"</ref> Similarly, in the first drafts of the chapter \"[[The Scouring of the Shire]]\", Sharkey is successively a ruffian met by the hobbits, and then that man's unseen boss. It is only in the second draft of the chapter that, as [[Christopher Tolkien]] puts it, his father \"perceive[d]\" that Sharkey was in fact Saruman.<ref name=Sharkey group=T>{{harvnb|Tolkien|1992|at=chapter 9 \"[[The Scouring of the Shire]]\"}} Saruman did not appear in the first draft of the chapter; Christopher Tolkien writes: \"It is striking that here, virtually at the end of the ''Lord of the Rings'' and in an element that my father had long meditated [that] he did not perceive that it was Saruman who was the real Boss, Sharkey, at [[Bag End]]\".</ref> The name used by Saruman's henchmen for their diminished leader is said in a footnote to the final text to be derived from an Orkish term meaning \"old man\".<ref name=\"Evans\" />\n\n=== ''She''-like death scene ===\n\n{{see also|Tolkien's modern sources}}\n\nSaruman's death scene, in which his body shrivels away to skin and bones revealing \"long years of death\" and \"a pale shrouded figure\" rises over the corpse,<ref name=\"Scouring\" group=T/> was not added until Tolkien reviewed the [[page proofs]] of the completed book.<ref group=T>{{harvnb|Tolkien|1992}} Chapter 9 \"The Scouring of the Shire\"</ref> [[John D. Rateliff]] and [[Jared Lobdell]] are among those to write that the scene shows similarities to the death of the 2000-year-old sorceress Ayesha in [[H. Rider Haggard]]'s 1887 novel ''[[She: A History of Adventure]]''.<ref>{{cite book |last1=Hammond |first1=Wayne G. |author1-link=Wayne G. Hammond |last2=Scull |first2=Christina |author2-link=Christina Scull |title=[[The Lord of the Rings: A Reader's Companion]] |publisher=[[Houghton Mifflin]] |year=2005 |isbn=978-0-618-64267-0 |page=264}}</ref>\n\n== Analysis ==\n\n=== A thoroughly modern character ===\n\n{{quote box|quote=\"[His voice was] low and melodious, its very sound an enchantment [...] it was a delight to hear the voice speaking, all that it said seemed wise and reasonable, and desire woke in them by swift agreement to seem wise themselves ... for those whom it conquered the spell endured while they were far away and ever they heard that soft voice whispering and urging them.\"|source=''The Two Towers'' Book 3, Chapter 10 \"The Voice of Saruman\"|width=31%|align=right}}\n\nTolkien described Saruman at the time of ''The Lord of the Rings'' as having a long face and a high forehead, \"...he had deep darkling eyes ... His hair and beard were white, but strands of black still showed around his lips and ears.\"<ref name=\"Voice\" group=T/> His hair is elsewhere described as having been black when he first arrived in Middle-earth. He is referred to as 'Saruman the White' and is said to have originally worn white robes, but on his first entry in ''The Fellowship of the Ring'' they instead appear to be \"woven from all colours [, they] shimmered and changed hue so that the eye was bewildered\" and he names himself 'Saruman of Many Colours'.<ref name=\"Council\" group=T/>\n\nThe power of Saruman's voice is noted throughout the book. [[Jonathan Evans (scholar)|Jonathan Evans]] calls the characterisation of Saruman in the chapter ''The Voice of Saruman'' a \"tour de force\".<ref name=\"Evans\">''[[J. R. R. Tolkien Encyclopedia]]'' 'Saruman' by [[Jonathan Evans (scholar)|Jonathan Evans]] pp. 589–590.</ref> The early critic [[Roger Sale]] wrote of the same chapter in 1968 that \"Tolkien valiantly tried to do something worth doing which he simply cannot bring off.\"<ref>{{cite book |last=Sale |first=Roger |author-link=Roger Sale |chapter=15 Tolkien and Frodo Baggins |editor-last=Isaacs |editor-first=Neil |title=Tolkien and the Critics; Essays on J. R. R. Tolkien's the Lord of the Rings |publisher=[[University of Notre Dame]] |year=1968 |isbn=0-268-00279-7 |url=https://archive.org/details/tolkiencriticses0000unse |page=270}}</ref> [[Tom Shippey]] writes that \"Saruman talks like a politician ... No other character in Middle-earth has Saruman's trick of balancing phrases against each other so that incompatibles are resolved, and none comes out with words as empty as 'deploring', 'ultimate', worst of all, 'real'. What is 'real change'?\"<ref name=\"elcoun\">{{harvnb|Shippey|2005}} pp. 135–138 Shippey refers to \"Tolkien's Northern 'theory of courage'\", which appears in [[The Monsters and the Critics|Tolkien's 1936 British Academy lecture]].</ref> Shippey contrasts this modern speech pattern with the archaic stoicism and directness, the [[Northern courage]], that Tolkien employs for other characters such as the [[Dwarf (Middle-earth)|Dwarven]] King [[Dáin II Ironfoot|Dáin]], which Shippey believes represent Tolkien's view of heroism [[Beowulf in Middle-earth|in the mould of ''Beowulf'']].<ref name=\"elcoun\"/>\n\n=== Once good, but fallen ===\n\n{{see also|Christianity in Middle-earth#Fall of man}}\n\nSaruman has been identified by critics as demonstrating the fall of an originally good character who has distinctively modern connections with technology.<ref>{{cite book |url=https://books.google.com/books?id=lwidpxMe-AIC&q=saruman+technology&pg=PA197 |title=Ents, Elves, and Eriador: The Environmental Vision of J.R.R. Tolkien |first1=Matthew T. |last1=Dickerson |author-link=Matthew T. Dickerson |first2=Jonathan Duane |last2=Evans |publisher=[[University Press of Kentucky]] |pages=192 et seq |isbn=978-0-8131-2418-6 |year=2006}}</ref>\n\nTolkien writes that ''The Lord of the Rings'' was often criticized for portraying all characters as either good or bad, with no shades of grey, a point to which he responds by proposing Saruman, along with [[Denethor]] and [[Boromir]], as examples of characters with more nuanced loyalties.<ref group=T>{{harvnb|Carpenter|2006}} ''Letters'' #154 to [[Naomi Mitchison]], September 1954.</ref> [[Marjorie Burns]] writes that while Saruman is an \"imitative and lesser\" double of Sauron, reinforcing the Dark Lord's character type, he is also [[Character pairing in The Lord of the Rings|a contrasting double]] of Gandalf, who becomes Saruman as he \"should have been\", after Saruman fails in his original purpose.<ref name=Burns>{{cite encyclopedia |last=Burns |first=Marjorie |author-link=Marjorie Burns |chapter=Doubles |editor-last=Drout |editor-first=Michael |editor-link=Michael Drout |title=[[J. R. R. Tolkien Encyclopedia]] |publisher=[[Routledge]] |location=New York |year=2007 |isbn=978-0-415-96942-0 |pages=127–128}}</ref>\n\nSaruman \"was great once, of a noble kind that we should not dare raise our hands against\" but decays as the book goes on.<ref>{{harvnb|Kocher|1973}} Chapter 4 p. 79, Kocher quoting Frodo's speech of ''[[The Return of the King]]'' Book 6 Chapter 8</ref> [[Patricia Meyer Spacks]] calls him \"one of the main case histories [in the book] of the gradual destructive effect of willing submission to evil wills\".<ref name=Spacks2>{{cite book |last=Spacks |first=Patricia Meyer |author-link=Patricia Meyer Spacks |chapter=6 Power and meaning in The Lord of the Rings |editor-last=Isaacs |editor-first=Neil |title=Tolkien and the Critics; Essays on J. R. R. Tolkien's the Lord of the Rings |publisher=[[University of Notre Dame]] |year=1968 |isbn=0-268-00279-7 |url=https://archive.org/details/tolkiencriticses0000unse |pages=84–85}}</ref> [[Paul H. Kocher|Paul Kocher]] identifies Saruman's use of a ''[[palantír]]'', a seeing-stone, as the immediate cause of his downfall, but also suggests that through his study of \"the arts of the enemy\", Saruman was drawn into imitation of Sauron.<ref>{{harvnb|Kocher|1973}} Chapter 3 \"Cosmic Order\", p. 51, and Chapter 4 \"Sauron and the nature of evil\", p. 68.</ref> According to Jonathan Evans and Spacks, Saruman [[Addiction to power in The Lord of the Rings|succumbs to the lust for power]],<ref name=\"Evans\" /><ref name=Spacks2 /> while Shippey identifies Saruman's devotion to goals of knowledge, organization and control as his weakness.<ref name=\"Wraith\" /> Tolkien writes that the Istari's chief temptation (and that to which Saruman fell) is impatience, leading to a desire to force others to do good, and then to a simple desire for power.<ref group=T>{{harvnb|Carpenter|2006}} ''Letters'' #181 to M. Straight, January 1956.</ref>\n\n=== Industrial evil ===\n\n{{see also|Environmentalism in The Lord of the Rings|lt1=Environmentalism in ''The Lord of the Rings''}}\n\n[[Treebeard]] describes Saruman as having \"a mind of metal and wheels\".<ref group=T>{{harvnb|Tolkien|1954}} Book 3 Chapter 4 \"Treebeard\" The quote is used as an illustration by Shippey, Spacks and Kocher among many others.</ref> [[Evil in Middle-earth|Evil in ''The Lord of the Rings'']] tends to be associated with machinery, whereas good is usually associated with nature. Both Saruman's stronghold of Isengard and his altered Shire demonstrate the negative effects of industrialization and Isengard is overthrown when the forests, in the shape of the Ents, literally rise against it.<ref name=Spacks2 /> [[Patrick Curry]] says Tolkien is [[Environmentalism in The Lord of the Rings|hostile to industrialism]], linking this to the widespread [[urban development]] that took place in the [[West Midlands (region)|West Midlands]] where Tolkien grew up in the first decades of the 20th century. He identifies Saruman as one of the key examples given in the book of the evil effects of industrialization, and by extension of [[imperialism]].<ref>{{cite encyclopedia |last=Curry |first=Patrick |author-link=Patrick Curry (author) |chapter=Industrialization |editor-last=Drout |editor-first=Michael |editor-link=Michael Drout |title=[[J. R. R. Tolkien Encyclopedia]] |publisher=[[Routledge]] |location=New York |year=2007 |isbn=978-0-415-96942-0 |page=294}}</ref>\n\nJohn R. Holmes writes that there is a [[philological]] link between \"a perverted will to power with the love of machines we see in Isengard\". The etymologies of English \"magic\", Latinized Greek ''magia'', \"the power of causing physical change in the real world\", and English \"machine\", Greek ''mekhane'' or ''makhana'' \"device\", are both from Old Persian ''maghush'' \"sorcerer\", from Proto-Indo-European ''*magh'', \"to have power\". Thus, Holmes writes, Tolkien was following an ancient cultural connection in making Saruman think in this way, using [[Magic (Middle-earth)|magic]].<ref name=\"Holmes\">{{cite book |last=Holmes |first=John R. |chapter=The Lord of the Rings |editor-last=Lee |editor-first=Stuart D. |editor-link=Stuart D. Lee |title=A Companion to J. R. R. Tolkien |title-link=A Companion to J. R. R. Tolkien |date=2020 |orig-year=2014 |publisher=[[Wiley (publisher)|Wiley]] |isbn=978-1119656029 |page=143}}</ref>\n\nShippey notes that Saruman's name repeats this view of technology: in the [[Mercian dialect]] of [[Old English]] used by Tolkien to represent the [[Rohirric|Language of Rohan]] in the book, the word ''saru''{{efn|The ordinary Old English form is ''searu''.{{sfn|Clark Hall|2002|p=300}} }} means \"clever\", \"skilful\" or \"ingenious\". This has associations with both technology and treachery that are fitting for Tolkien's portrayal of Saruman, the \"cunning man\".<ref>{{harvnb|Shippey|2005}} Chapter 4 \"The horses of the Mark\" pp. 139–140.</ref> He also writes of Saruman's distinctively modern association with [[Communism]] in the way the Shire is run under his control in \"[[The Scouring of the Shire]]\": goods are taken \"for fair distribution\" which, since they are mainly never seen again, Shippey terms an unusually modern piece of hypocrisy in the way evil presents itself in Middle-earth.<ref>{{harvnb|Shippey|2005}} Chapter 5 \"Interlacements and the Ring\" p. 195.</ref>\n\n=== Evil and providence ===\n\n{{see also|Christianity in Middle-earth#The nature of evil|Luck and fate in Middle-earth}}\n\nSaruman is in part the architect of his own downfall. Kocher, [[Randel Helms]] and Shippey write that Saruman's actions in the first half of ''The Two Towers'', although intended to further his own interests, in fact lead to his defeat and that of Sauron: his orcs help split the Fellowship at [[Parth Galen]], and in carrying off two of the hobbits initiate a series of incidents that lead to his ruin. In turn this frees the Rohirrim to intervene at the [[Battle of the Pelennor Fields]] and then together with the men of [[Gondor]] to assault Sauron's stronghold of [[Mordor]] and distract him from Frodo's final effort to destroy the Ring. Shippey says that this demonstrates the value of persistence in the face of despair, even if a way out cannot be seen;<ref>{{harvnb|Shippey|2005}} Chapter 5 \"Interlacements and the Ring\" pp. 186–188.</ref> Kocher and Helms write that it is part of a pattern of [[divine providence|providential]] events and of the reversed effects of evil intentions throughout the book.<ref>{{harvnb|Kocher|1973}} Chapter 3 \"Cosmic Order\", pp. 44–46.</ref><ref name=\"Helms 1974\">{{cite book |last=Helms |first=Randel |author-link=Randel Helms |title=Tolkien's World |publisher=[[Houghton Mifflin]] |location=Boston |year=1974 |isbn=0-395-18490-8 |url=https://archive.org/details/tolkiensworld00helm |at=Chapter 5 \"The structure and aesthetic of ''The Lord of the Rings''\" pp. 92–97}}</ref>\n\nAfter the defeat of his armies, having been caught in the betrayal of Sauron, Saruman is offered refuge by Gandalf, in return for his aid, but having chosen his path, is unable to turn from it.<ref name=Spacks2/> Evans has compared the character of Saruman to that of [[Satan]] in [[John Milton]]'s ''[[Paradise Lost]]'' in his use of rhetoric and in this final refusal of redemption, \"conquered by pride and hatred\".<ref name=\"Evans\"/>\n\nIn the end, the diminished Saruman is murdered, his throat cut, and Shippey notes that when he dies his spirit \"dissolved into nothing\". He identifies Saruman as the best example in the book of \"wraithing\", a distinctive 20th-century view of evil that he attributes to Tolkien in which individuals are \"'eaten up inside' by devotion to some abstraction\".<ref name=\"Wraith\">{{harvnb|Shippey|2001}} Chapter 4 \"Saruman and Denethor: technologist and reactionary\" pp. 121–128.</ref> Referring to Saruman's demise, Kocher says that he is one example of the consistent theme of nothingness as the fate of evil throughout ''The Lord of the Rings''.<ref>{{harvnb|Kocher|1973}} Chapter 4 \"Sauron and the nature of evil\", p. 79.</ref>\n\n== Adaptations ==\n\n=== Radio ===\n\nSaruman has appeared in film, radio, stage and video game adaptations of ''The Lord of the Rings''. [[BBC Radio]] produced the [[The Lord of the Rings (1955 radio series)|first adaptation in 1955]], in which Saruman was played by [[Robin de la Condamine|Robert Farquharson]], and which has not survived. Tolkien was disappointed by it.<ref>{{harvnb|Smith|Matthews|2004}} 'Of the beginning of days' pp. 15–16.</ref> BBC Radio's [[The Lord of the Rings (1981 radio series)|second adaptation of ''The Lord of the Rings'']], from 1981, presents Saruman much as in the books. Smith and Matthews report [[Peter Howell (actor)|Peter Howell]]'s performance as Saruman as \"brilliantly ambiguous ..., drifting from mellifluous to almost bestially savage from moment to moment without either mood seeming to contradict the other\".<ref>{{harvnb|Smith|Matthews|2004}} \"An Unexpected Party\", p. 83.</ref>\n\n=== Motion pictures ===\n\nIn [[Ralph Bakshi]]'s [[The Lord of the Rings (1978 film)|1978 animated adaptation of ''The Lord of the Rings'']], which corresponds to ''The Fellowship of the Ring'' and part of ''The Two Towers'', Saruman is voiced by [[Fraser Kerr (actor)|Fraser Kerr]]. He has only one major scene—his attempt to persuade Gandalf to join him. He appears again briefly before the [[Battle of Helm's Deep]], speaking to his army. The character is dressed in red and is called 'Saruman' and 'Aruman' at different points. Smith and Matthews suggest that the use of 'Aruman' was intended to avoid confusion with 'Sauron'.<ref>{{harvnb|Smith|Matthews|2004}} \"JRR Tolkien's The Lord of the Rings\" p. 54.</ref> The 1980 [[Rankin/Bass]] TV [[The Return of the King (1980 film)|animated version of ''The Return of the King'']] begins roughly where Bakshi's film ends but does not include Saruman's character.<ref>{{harvnb|Smith|Matthews|2004}} \"JRR Tolkien's The Lord of the Rings\" pp. 63–70.</ref> Saruman is played by [[Matti Pellonpää]] in the 1993 television [[miniseries]] ''[[Hobitit]]'' produced and aired by Finnish broadcaster [[Yle]].<ref>{{cite web |title=Hobitit |url=https://www.videodetective.com/show/hobitit-60466 |website=Video Detective |date=29 March 1993 |access-date=27 September 2020 |archive-date=24 June 2021 |archive-url=https://web.archive.org/web/20210624205024/https://www.videodetective.com/show/hobitit-60466 |url-status=dead }}</ref>\n\n[[File:Christopher Lee as Saruman LOTR.jpg|thumb|[[Christopher Lee]] played Saruman in [[Peter Jackson]]'s [[The Lord of the Rings (film series)|''The Lord of the Rings'']] and [[The Hobbit (film series)|''The Hobbit'']] film trilogies. ]]\n\nIn [[Peter Jackson]]'s [[The Lord of the Rings (film series)|film trilogy]] (2001–2003), where he is portrayed by [[Christopher Lee]], Saruman is significantly more active in the first two films than in the corresponding books, and he appears in several scenes that are not depicted in Tolkien's work. In the films, Saruman presents himself outright as a servant of Sauron and a traitor to the White Council. Smith and Matthews suggest that Saruman's role is built up as a substitute for Sauron—the story's main antagonist—who never appears directly in the book, a theory which Jackson confirms in the commentary to the DVD.<ref>{{cite video |people=[[Jackson, Peter]] |title=The Lord of the Rings : The Fellowship of the Ring Extended Edition (Director and Writers' commentary) |medium=DVD |publisher=[[New Line Cinema]] |date=2004 |time=Disc 1 Chapter 12 00:46:43}}</ref> They suggest that having secured Lee to play Saruman, it made sense to make greater use of his star status.<ref>{{harvnb|Smith|Matthews|2004}} 'The Return of the King' (2003) p. 177.</ref> Despite this increased role in the first two films, the scenes involving Saruman that were shot for use in the third film, ''The Lord of the Rings: The Return of the King'', were not used in the cinematic release, a decision which \"shocked\" Lee. Jackson reasoned that it would be anticlimactic to show Saruman's fate in the second movie (after the [[Battle of Helm's Deep]]) and too retrospective for the third one.<ref>{{cite news |title=Hey, what happened to Saruman? |url=http://edition.cnn.com/2003/SHOWBIZ/Movies/12/17/film.rings.saruman.ap/ |agency=[[Associated Press]] |access-date=23 January 2008 |archive-url=https://web.archive.org/web/20041130211122/http://edition.cnn.com/2003/SHOWBIZ/Movies/12/17/film.rings.saruman.ap/ |archive-date=30 November 2004}}</ref> The cut scenes end with Saruman falling to his death from the top of Orthanc after being stabbed by Wormtongue, who had reached his breaking point after being slapped by Saruman, and include material transposed from the chapter \"[[The Scouring of the Shire]]\". They are included at the start of the Extended Edition DVD release of the film.<ref>{{cite video |people=[[Philippa Boyens|Boyens, Phillipa]]; [[Jackson, Peter]]; [[Fran Walsh|Walsh, Fran]] |title=The Lord of the Rings : The Return of the King Extended Edition (Director and Writers' commentary) |medium=DVD |publisher=[[New Line Cinema]] |date=2004 |time=Disc 1 Chapter 4 00:17:26}}</ref> In Jackson's [[The Hobbit (film series)|film adaptations of ''The Hobbit'']] (2012–2014), Lee reprises his role as Saruman the White, even though Saruman does not appear in the book. In the first film, Saruman, Gandalf, [[Galadriel]], and [[Elrond]] gather at a meeting of the [[White Council]] in Rivendell, loosely based on material from the Appendices to ''The Lord of the Rings''.<ref>{{cite web |last=Vineyard |first=Jennifer |title=Five things changed/expanded from the book for 'The Hobbit' films |url=https://edition.cnn.com/2012/12/14/showbiz/movies/hobbit-book-movie-vineyard/index.html |publisher=[[CNN]] |access-date=27 September 2020 |date=17 December 2012}}</ref>\nLee posthumously reprises his role as Saruman in the 2024 anime film ''[[The Lord of the Rings: The War of the Rohirrim]]'' through archived voice recording.<ref name=\"Lee\">{{Cite web |last=Pak |first=Jaron |date=October 28, 2024 |title=The Lord Of The Rings: The War Of The Rohirrim Anime Will Have Christopher Lee's Voice – But Not How You Think |url=https://www.slashfilm.com/1696669/christopher-lee-the-lord-of-the-rings-the-war-of-the-rohirrim-voice-role-explained/ |url-status=live |archive-url=https://archive.today/20241028142450/https://www.slashfilm.com/1202644/the-best-anime-movies-ever/ |archive-date=October 28, 2024 |access-date=October 28, 2024 |website=[[/Film]]}}</ref>\n<!--please don't add anything without citing a reliable source, thanks-->\n\n=== Games ===\n\nIn the 2014 video game ''[[Middle-earth: Shadow of Mordor]]'', Saruman is voiced by [[Roger L. Jackson]].<ref>{{cite web |title=Saruman the White |url=https://www.behindthevoiceactors.com/video-games/Middle-earth-Shadow-of-Mordor/Saruman-the-White/ |website=Behind the Voice Actors |access-date=27 September 2020}}</ref><!-- The protagonist, Talion, finds artefacts that reveal that Saruman's spies are active within the borders of Mordor in the years between ''The Hobbit'' and ''The Lord of the Rings''. Saruman is revealed to be controlling Queen Marwen of the Nurnen to hinder Sauron while bringing about the destruction of the men of Nurn.--> Saruman appears as a minor villain in ''[[Lego Dimensions]]'', in which he allies himself with main antagonist Lord Vortech.<ref>{{cite web |last1=The Escapist Staff |title=Save the Multiverse With Our Full LEGO Dimensions Story Levels Guide |url=https://v1.escapistmagazine.com/articles/view/video-games/walkthroughs/15208-LEGO-Dimensions-Story-Mode-Walkthrough.5 |website=The Escapist |access-date=27 September 2020 |date=13 August 2017 |archive-date=21 November 2018 |archive-url=https://web.archive.org/web/20181121110149/https://v1.escapistmagazine.com/articles/view/video-games/walkthroughs/15208-LEGO-Dimensions-Story-Mode-Walkthrough.5 |url-status=dead }}</ref>\n<!--\n    Please do not add anything here without citing a reliable source, it will be removed.\n-->\n\n== Notes ==\n\n{{notelist}}\n\n== References ==\n\n=== Primary ===\n\n{{reflist|group=T|30em}}\n\n=== Secondary===\n\n{{reflist|30em}}\n\n== Sources ==\n\n=== Secondary ===\n\n* {{cite book |last=Carpenter |first=Humphrey |author-link=Humphrey Carpenter |title=J. R. R. Tolkien: A Biography |title-link=J. R. R. Tolkien: A Biography |publisher=[[HarperCollins]] |location=London |year=2002 |isbn=0-00-713284-0}}\n* {{cite book |editor-last=Carpenter |editor-first=Humphrey |author-link=Humphrey Carpenter |title=[[The Letters of J. R. R. Tolkien]] |publisher=[[HarperCollins]] |orig-year=1981 |year=2006 |isbn=0-261-10265-6}}\n* {{cite book |last=Clark Hall |first=J. R. |author-link=John Richard Clark Hall |title=A Concise Anglo-Saxon Dictionary |date=2002 |orig-year=1894 |publisher=[[University of Toronto Press]] |edition=4th |url=https://books.google.com/books?id=ufdQAQAAMAAJ}}\n* {{cite book |last=Kocher |first=Paul H. |author-link=Paul H. Kocher |title=[[Master of Middle-earth]] |publisher=[[Thames and Hudson]] |location=London |year=1973 |isbn=0-500-01095-1}}\n* {{cite book |last=Shippey |first=Tom |author-link=Tom Shippey |title=[[The Road to Middle-earth]] |publisher=[[HarperCollins]] |orig-year=1982 |year=2005 |isbn=0-261-10275-3}}\n* {{cite book |last=Shippey |first=Tom |author-link=Tom Shippey |title=[[J. R. R. Tolkien: Author of the Century]] |publisher=[[HarperCollins]] |year=2001 |isbn=0-261-10401-2}}\n* {{cite book |last=Smith |first=Jim |last2=Matthews |first2=J. Clive |title=The Lord of the Rings: the Films, the Books, the Radio Series |publisher=[[Virgin Books]] |location=London |year=2004 |isbn=978-0-7535-0874-9 |oclc=56460751}}\n* {{cite book |last=Zimbardo |first=Rose A. |author1-link=Rose Zimbardo |last2=Isaacs |first2=Neil D. |title=[[Understanding the Lord of the Rings]] |publisher=[[Houghton Mifflin Harcourt]] |date=2004 |isbn=978-0-618-42253-1 |ref=none}}\n\n=== History of composition ===\n\n* {{ME-ref|ROTS}} \n* {{ME-ref|Treason}}\n* {{ME-ref|SD}}\n\n=== Fiction ===\n\n* {{ME-ref|TH}}\n* {{ME-ref|FOTR}}\n* {{ME-ref|TT}} \n* {{ME-ref|ROTK}}\n* {{ME-ref|Silm}}\n* {{ME-ref|UT}}\n\n{{Middle-earth}}\n{{The Lord of the Rings}}\n{{Authority control}}\n\n[[Category:The Silmarillion characters]]\n[[Category:Literary characters introduced in 1954]]\n[[Category:The Lord of the Rings characters]]\n[[Category:Fictional murdered people]]\n[[Category:Deceased fictional characters]]\n[[Category:Male film villains]]\n[[Category:Male literary villains]]\n[[Category:Middle-earth rulers]]\n[[Category:Middle-earth wizards]]\n\n[[de:Figuren in Tolkiens Welt#Saruman]]",
+  "redirect_chain": [],
+  "revision_id": 1361919850,
+  "revision_timestamp": "2026-06-30T21:15:21Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "The Lord of the Rings"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "The Lord of the Rings"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "The Lord of the Rings"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "The Lord of the Rings"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "The Lord of the Rings"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "Other books"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "Other books"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Creation and development"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Creation and development"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Creation and development"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Creation and development",
+        "She-like death scene"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Creation and development",
+        "She-like death scene"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "A thoroughly modern character"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "A thoroughly modern character"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Once good, but fallen"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Once good, but fallen"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Once good, but fallen"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Once good, but fallen"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Industrial evil"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Industrial evil"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Industrial evil"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Industrial evil"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Evil and providence"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Evil and providence"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Evil and providence"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Radio"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Motion pictures"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Motion pictures"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Games"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Notes"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources",
+        "History of composition"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources",
+        "Fiction"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources",
+        "Fiction"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources",
+        "Fiction"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources",
+        "Fiction"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

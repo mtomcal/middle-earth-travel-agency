@@ -1,0 +1,438 @@
+{
+  "article_artifact_id": "article_f12df31a00f3219ad491b4ac18ad8fca2a1666428c4c334b14a20f69b909b7d6",
+  "canonical_title": "Isengard",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_f12df31a00f3219ad491b4ac18ad8fca2a1666428c4c334b14a20f69b909b7d6",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "In The Lord of the Rings, Orthanc, the tower at the centre of Isengard, is the home of the Wizard Saruman. He had been ensnared by the Dark Lord Sauron through the tower's palantír, a far-seeing crystal ball able to communicate with others like it. Saruman had bred Orcs in Isengard, in imitation of Sauron's forces, to be ready for war with Rohan. The Orcs cut down many trees in the forest of the Ents, who retaliate by destroying Isengard while the army of Orcs is away attacking Rohan at Helm's Deep. However, the Ents are unable to harm the tower of Orthanc. Saruman, isolated in the tower, is visited by members of the Fellowship of the Ring; his staff is broken by the Wizard Gandalf.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_42e06d8c76bf5944cd1aa20ce0efecd7105e709d0067e934a9ac9d98cb53caaa",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_f12df31a00f3219ad491b4ac18ad8fca2a1666428c4c334b14a20f69b909b7d6",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Isengard has been described by Tolkien scholars as an industrial hell, and as an illustration of the homogeneity of evil, in contrast to the evident diversity of the free societies of Middle-earth, including those of the Elves, Dwarves, and Gondor. Others have compared it to Vichy France, and its proposed governor on behalf of Mordor, the Mouth of Sauron, to a traitorous Quisling.",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_2f47409ba93f67082e3ba747d4ff199227395504d1f0de4bc37a8c20306c27c8",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_f12df31a00f3219ad491b4ac18ad8fca2a1666428c4c334b14a20f69b909b7d6",
+      "heading_path": [
+        "Fictional history"
+      ],
+      "normalized_text": "thumb|The natural landscape of Glenorchy, New Zealand, represented the setting of Isengard in Peter Jackson's The Lord of the Rings film trilogy.",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_f1ae35e9760dfdc1bea3f32f1de8e2ba15705ea641976aaf2dcab9c4955b2982",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_f12df31a00f3219ad491b4ac18ad8fca2a1666428c4c334b14a20f69b909b7d6",
+      "heading_path": [
+        "Fictional history",
+        "Depopulation"
+      ],
+      "normalized_text": "Gondor did not wish to relinquish its claim to the tower, but lacked the strength to garrison it. A solution presented itself to the Steward of Gondor, Beren, as the Wizard Saruman suddenly reappeared from the East, offering to guard Isengard. Beren gladly gave him the keys to Orthanc. At first he resided there as Warden of the Tower on behalf of Gondor. The valley became known as Nan Curunír, the \"Wizard's Vale\". On Sauron's return to Mordor, Saruman asserted himself as Lord of Isengard.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_6e8bde82b21da41e966c74dafefd37227ca41093a066bdac1c1e44935a8cffe1",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_f12df31a00f3219ad491b4ac18ad8fca2a1666428c4c334b14a20f69b909b7d6",
+      "heading_path": [
+        "Fictional history",
+        "War of the Ring"
+      ],
+      "normalized_text": "During the War of the Ring, Saruman prepares for war against Rohan, defiling the valley of Isengard with deep pits where he breeds large numbers of powerful warrior Orcs, Uruk-hai, smithing weapons in underground workshops full of machinery, and felling the valley's trees.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_99db18f9691981ac61a8ae0194c4bc3c3a5f4f20eb60520c70bf280e1daf7de9",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Isengard&action=history",
+  "namespace": 0,
+  "page_id": 199002,
+  "parent_revision_id": 1337554414,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1339122922",
+  "raw_wikitext": "{{Short description|Fortress in JRR Tolkien's Middle-earth}}\n{{Redirect|Orthanc|the medical imaging server|Orthanc (server)}}\n{{Redirect|River Isen|the river in Bavaria|Isen (river)}}\n{{About|the location in ''The Lord of the Rings''|the Norwegian band|Isengard (band)}}\n{{good article}}\n{{Use British English|date=May 2021}}\n{{Use dmy dates|date=September 2024}}\n{{Infobox fictional location\n| name         = Isengard\n| series       = [[J. R. R. Tolkien's legendarium]]\n| image        = Escudo Isengard.svg\n| image_size   = 100px\n| caption      = The Orcs of Isengard bore [[Heraldry of Middle-earth#Maiar|upon their shields the symbol of the White Hand on a black field]].<ref group=T name=\"Departure of Boromir\"/>\n| alt_name     = Angrenost, Nan Curunír, Wizard's Vale\n| type         = Fortress built to guard the [[Gap of Rohan]]\n| blank_label  = Location\n| blank_data   = [[Calenardhon]]\n| blank_label1 = Lifespan\n| blank_data1  = [[Second Age]] – [[Fourth Age]]\n| blank_label2 = Founder\n| blank_data2  = [[Gondor]], during the time of [[Isildur]]\n| ruler        = [[Saruman]] \n| first        = ''[[The Fellowship of the Ring]]''\n| locations    = The Tower of Orthanc, the Ring of Isengard, the pillar of the White Hand, the Isen\n}}\n\nIn [[J. R. R. Tolkien]]'s fantasy writings, '''Isengard''' ({{IPAc-en|ˈ|aɪ|z|@n|ɡ|ɑr|d}}) is a large fortress in '''Nan Curunír''', the Wizard's Vale, in the western part of [[Middle-earth]]. In the fantasy world, the name of the fortress is described as a translation of '''Angrenost''', a word in Tolkien's [[elvish language]], [[Sindarin]], a compound of two [[Old English]] words: {{wikt-lang|ang|isern|īsen}} and {{wikt-lang|ang|ġeard}}, meaning \"enclosure of iron\".\n\nIn ''[[The Lord of the Rings]]'', '''Orthanc''', the tower at the centre of Isengard, is the home of the [[Wizard (Middle-earth)|Wizard]] [[Saruman]]. He had been ensnared by the Dark Lord [[Sauron]] through the tower's ''[[palantír]]'', a far-seeing crystal ball able to communicate with others like it. Saruman had bred [[Orc#Tolkien|Orcs]] in Isengard, in imitation of Sauron's forces, to be ready for war with [[Rohan (Middle-earth)|Rohan]]. The Orcs cut down many trees in the forest of the [[Ents]], who retaliate by destroying Isengard while the army of Orcs is away attacking Rohan at [[Helm's Deep]]. However, the Ents are unable to harm the tower of Orthanc. Saruman, isolated in the tower, is visited by members of the [[Fellowship of the Ring (characters)|Fellowship of the Ring]]; his staff is broken by the Wizard [[Gandalf]].\n\nIsengard has been described by Tolkien scholars as [[Hell and Middle-earth|an industrial hell]], and as an illustration of the homogeneity of [[Evil in Middle-earth|evil]], in contrast to the evident diversity of the free societies of Middle-earth, including those of the [[Elf (Middle-earth)|Elves]], [[Dwarf (Middle-earth)|Dwarves]], and [[Gondor]]. Others have compared it to [[Vichy France]], and its proposed governor on behalf of [[Mordor]], the [[Mouth of Sauron]], to a traitorous [[Quisling]].<!-- Note that this is all fully explained and cited in the article body below, please read before thinking about editing thus summary, thanks -->\n\n== Fictional history ==\n\n[[File:Dart River upstream.jpg|thumb|The natural landscape of [[Glenorchy, New Zealand]], represented the setting of Isengard in [[Peter Jackson]]'s [[The Lord of the Rings (film series)|''The Lord of the Rings'' film trilogy]].]]\n\n=== Construction ===\n\n{{further|Second Age}}\n\nThe [[Númenor|Númenóreans]] in exile built Isengard in the [[Second Age]] as a walled circular enclosure, with the tower of Orthanc at its centre. It lay just outside the north-western corner of [[Rohan (Middle-earth)|Rohan]], guarding the Fords of Isen from enemy incursions into [[Calenardhon]] together with the fortress of [[Helm's Deep#Later writings|Aglarond]] to its south.<ref name=\"The Road to Isengard\" group=T>{{harvnb|Tolkien|1954|loc=book 3 ch. 8, \"The Road to Isengard\"}}</ref>\n\n{{anchor|River Isen}}\nThe river Isen or Angren began on Methedras, the southernmost peak of the [[Misty Mountains]]. Methedras stood behind Isengard, forming its northern wall. The rest of its perimeter consisted of a large wall, the Ring of Isengard, breached only by the inflow of the river at the north-east through a [[portcullis]], and the gate of Isengard at the south, on the river. For most of its history, Isengard was a green and pleasant place, with many fruiting trees.<ref name=\"The Road to Isengard\" group=T/>\n\nOrthanc was built towards the end of the Second Age by men of [[Gondor]] from four many-sided columns of rock joined by an unknown process and then hardened. No known weapon could harm it.<ref name=\"Flotsam and Jetsam\" group=T/> Orthanc rose to more than {{convert|500|ft|m|0|abbr=off}} above the plain of Isengard, and ended in four sharp peaks.<ref name=\"The Road to Isengard\" group=T>{{harvnb|Tolkien|1954|loc=book 3 ch. 8, \"The Road to Isengard\"}}</ref>{{sfn|Svitil|2007|pp=75–76}} Its only entrance was at the top of a high stair, and above that was a small window and balcony.<ref name=\"The Voice of Saruman\" group=T/> It housed one of the [[palantír]]s of the South Kingdom, and was guarded by a warden.<ref name=\"The House of Eorl\" group=T/>\n\n=== Depopulation ===\n\n{{further|Third Age}}\n\nIn the [[Third Age]] the land around Isengard (Calenardhon) became depopulated, and the last warden of Orthanc was recalled to [[Minas Tirith]]. Isengard remained guarded by a small company, led by a hereditary captain. Contact with Minas Tirith gradually decreased and eventually ceased altogether. When Cirion, [[Steward of Gondor]], gave Calenardhon to the Éothéod, becoming the land of Rohan, Isengard was the sole fortress retained by Gondor north of the [[Ered Nimrais]]. The small guard intermarried much with the [[Dunlendings]], until the fortress became Dunlending in all but name. The tower of Orthanc however remained locked and inaccessible to the Dunlendings, as the Steward of Gondor alone held the keys in [[Minas Tirith]]. The line of hereditary Captains died out, and during the rule of Rohan's King Déor, Isengard became openly hostile to the [[Rohan (Middle-earth)#People|Rohirrim]]. Using Isengard as their base, the Dunlendings continually raided Rohan until during the rule of Helm Hammerhand, the Dunlending lord Freca and his son [[Wulf (Middle-earth)|Wulf]] nearly managed to destroy the Rohirrim. The Rohirrim fought off the invaders and blockaded Isengard, eventually taking it.<ref name=\"The House of Eorl\" group=T>{{harvnb|Tolkien|1955|loc=Appendix A, II \"The House of Eorl\"}}</ref>\n\nGondor did not wish to relinquish its claim to the tower, but lacked the strength to garrison it. A solution presented itself to the Steward of Gondor, Beren, as the [[Wizard (Middle-earth)|Wizard]] [[Saruman]] suddenly reappeared from the East, offering to guard Isengard. Beren gladly gave him the keys to Orthanc. At first he resided there as Warden of the Tower on behalf of Gondor.<ref name=\"The House of Eorl\" group=T/> The valley became known as Nan Curunír, the \"Wizard's Vale\".<ref name=\"The Road to Isengard\" group=T/> On [[Sauron]]'s return to Mordor, Saruman asserted himself as Lord of Isengard.<ref name=\"The Road to Isengard\" group=T/>\n\n{{anchor|Destruction}}\n\n=== War of the Ring ===\n\n{{further|Saruman|Palantír}}\n\nDuring the [[War of the Ring]], Saruman prepares for war against Rohan, defiling the valley of Isengard with deep pits where he breeds large numbers of powerful warrior [[Orc (Middle-earth)|Orcs, Uruk-hai]], smithing weapons in underground workshops full of machinery, and felling the valley's trees.<ref name=\"The Road to Isengard\" group=T/>\n\nThe Orcs of Isengard bear upon their shields the symbol of a White Hand on a black field, and on their helmets an S-rune ([[File:Certh 35.svg|10px]]) to signify ''Saruman''. A carved and painted White Hand of stone is set on a black pillar outside the gates of Isengard.<ref name=\"Departure of Boromir\" group=T>{{harvnb|Tolkien|1954|loc=book 3 ch. 1, \"The Departure of Boromir\": \"Upon their shields they bore a strange device: a small white hand in the centre of a black field; on the front of their iron helms was set an S-rune, wrought of some white metal\"}}</ref><ref group=T>{{harvnb|Tolkien|1954|loc=book 3 ch. 2, \"The Riders of Rohan\": \"Great Orcs, who also bore the White Hand of Isengard\"}}</ref><ref name=\"The Road to Isengard\" group=T/>\n\n{{anchor|Destruction}}\n[[Treebeard]], leader of the [[Ent]]s, seeing that the Orcs would destroy his forest of Fangorn, leads an army of Ents and [[Huorn]]s to Isengard, destroys it, and floods it, leaving Saruman isolated in the tower of Orthanc.<ref name=\"Flotsam and Jetsam\" group=T>{{harvnb|Tolkien|1954|loc=book 3 ch. 9, \"Flotsam and Jetsam\"}}</ref> The [[hobbit]]s [[Merry Brandybuck]] and [[Pippin Took]], as the new \"doorwardens\", receive [[Théoden]] King of Rohan, [[Aragorn]] and the wizard [[Gandalf]] at the wrecked gates.<ref name=\"Flotsam and Jetsam\" group=T/> Gandalf speaks with Saruman and breaks his staff. [[Grima Wormtongue]] throws the Orthanc palantír, a stone of seeing, at the party;<ref name=\"The Voice of Saruman\" group=T>{{harvnb|Tolkien|1954|loc=book 3 ch. 10, \"The Voice of Saruman\"}}</ref> both Pippin and Aragorn later use it, seeing and deceiving Sauron as to the Fellowship's intentions.{{sfn|Shippey|2005|pp=188, 423-425}}\n\nSaruman is locked in Orthanc and guarded by Treebeard, who later sets him free. Saruman hands the tower's keys over to Treebeard, and takes Gríma with him. Saruman exploits Treebeard's unwillingness to see any living thing caged, most likely using [[Saruman#Characterisation|his power with words]].<ref name=\"Many Partings\" group=T>{{harvnb|Tolkien|1955|loc=book 6 ch. 6, \"Many Partings\"}}</ref>\n\n=== Restoration ===\n\n{{further|Fourth Age}}\n\nDuring the [[Fourth Age]], when Aragorn has been crowned as King Elessar (\"Elfstone\"), he visits Orthanc, finding there heirlooms of [[Isildur]], among them the ''Elendilmir'', the Star of Arnor, and the small gold case on a chain that Isildur had used to carry the One Ring, evidence that Saruman had found and apparently destroyed Isildur's remains.<ref name=\"UT Elendilmir\" group=T>{{harvnb|Tolkien|1980|loc=Part 3, ch. 1 \"Disaster of the Gladden Fields\" <!--pp=276-277-->}}</ref>{{sfn|Libran Moreno|2013|pp=146–147}} Isengard is restored, and the entire valley granted to the Ents. The Ents name the new forest the Treegarth of Orthanc. Orthanc becomes again a tower of the Reunited Kingdom of Gondor and Arnor.<ref name=\"Many Partings\" group=T/>\n\n== Origins ==\n\n=== Etymology ===\n\n[[File:Orthanc enta geweorc in Maxims II manuscript.jpg|thumb|upright=2|The phrase ''Orthanc enta geweorc'', on the second line of the Old English [[Maxims II]] manuscript, seems to have inspired Tolkien{{sfn|Shippey|2001|p=88}}]]\n\n\"Isengard\" is from [[Old English]] {{lang|ang|īsen}}, \"iron\" and {{lang|ang|geard}}, \"court, enclosure\".{{sfn|Clark Hall|2002|pp=149, 207}} The names, supposedly given by the [[Rohirrim]], for Orthanc, the cunningly-built tower of Isengard, and for the Ents, the tree-giants of Fangorn forest who eventually destroy Isengard, are similarly in reality from Old English. Both are found in the poem ''[[The Ruin]]'', which describes the ancient Roman ruins as {{lang|ang|orþanc}}, \"skilful work\", and {{lang|ang|enta geweorc}}, \"the work of giants\"{{sfn|Cusack|2011|page=172}} and in ''[[Maxims II]]''.{{Sfn|Shippey|2005|p=149|ps= \"To the North are the Ents, another Old English word which had interested Tolkien ... [he] identified them with the ''orþanc enta geweorc'', the 'skilful work of ents' of the poem ''Maxims II''.\"}}\nClark Hall gives the meanings of the noun {{lang|ang|orþanc}} as \"intelligence, understanding, mind; cleverness, skill; skilful work, mechanical art\", and as an adjective \"ingenious, skilful\".{{sfn|Clark Hall|2002|p=270}} The Tolkien scholar [[Tom Shippey]] suggests that Tolkien may have chosen to read the phrase also as \"Orthanc, the Ent's fortress\".{{sfn|Shippey|2001|p=88}} \n\nThe historian Casper Clemmensen suggests that Tolkien was inspired by [[Norse mythology]] and the Danish landscape, with the manor house [[Isgård]] (\"Ice manor\") on the [[Djursland]] peninsula as the inspiration for Isengard.<ref>{{Cite news |last=Sternberg |first=Sarah Rothkegel |date=22 May 2022 |title=Historien om Tolkien og Jylland er langt større, end jeg troede  |language=da |trans-title=The story of Tolkien and Jutland is much bigger than I thought |url=https://jyllands-posten.dk/jpaarhus/ECE14021493/historien-om-tolkien-og-jylland-er-langt-stoerre-end-jeg-troede/ |url-status=live |archive-url=https://web.archive.org/web/20250101223713/https://jyllands-posten.dk/jpaarhus/ECE14021493/historien-om-tolkien-og-jylland-er-langt-stoerre-end-jeg-troede/ |archive-date=1 January 2025 |access-date=1 January 2025 |work=[[Jyllands-Posten]]}}</ref>\n\n=== Bilingual pun ===\n\n{{further|Pseudotranslation in The Lord of the Rings#Multiple homonyms}}\n\nThe name of the tower of Orthanc is unique in that it is explicitly [[Tolkien's ambiguity|stated to be a bilingual pun]] in ''[[The Two Towers]]'': Tolkien gives the two meanings as \"Mount Fang\" in Elvish ([[Sindarin]]), and \"Cunning Mind\" in the \"language of the Mark of Old\", [[Rohirric]].{{sfn|Shippey|2001|p=88}}{{sfn|Berube|2018}} However, \"Orthanc\" genuinely means \"Cunning Mind\" in the language Tolkien had used to represent Rohirric, [[Old English]]: he had [[Pseudotranslation in The Lord of the Rings|pretended that he had translated]] Rohirric into Old English, and the related [[Westron]] into modern English. The unlikely coincidence of homonyms and synonyms makes Tolkien's claim about Rohirric look like a mistake.{{sfn|Fimi|2010|pp=191–192}}\n\n<gallery class=center mode=nolines widths=400 heights=250>\nFile:Multiple Homonym Error in The Two Towers.svg|In ''[[The Two Towers]]'', Tolkien said Orthanc had meanings in [[Sindarin]] and [[Rohirric]]; but it is also a synonym and homonym in [[Old English]], making Tolkien's claim look like a mistake.{{sfn|Fimi|2010|pp=191–192}}\n</gallery>\n\n=== Illustrations ===\n\n{{further|Constructing The Lord of the Rings#Drawings}}\n\n[[File:Hell-fresco-from-Raduil.jpg|thumb|upright|Isengard: an \"industrial [[hell]]\", as Tolkien wrote \"tunneled .. dark .. deep .. graveyard of unquiet dead .. furnaces\".{{sfn|Huttar|1975|pp=135–137}} Medieval fresco of hell, St Nicholas in Raduil, Bulgaria]]\n\nTolkien made [[Constructing The Lord of the Rings#Drawings|detailed sketches of Isengard and Orthanc]], published in ''J. R. R. Tolkien: Artist and Illustrator'', as he developed his conception of them.{{sfn|Hammond|Scull|1995|pp=166–171, and plates 162–165}}\n\n== Analysis ==\n\n=== Industrial hell ===\n\n{{further|Environmentalism in The Lord of the Rings|label1=Environmentalism in ''The Lord of the Rings''|Hell and Middle-earth}}\n\nThe scholar of English literature [[Charles A. Huttar]] describes Isengard as an \"industrial [[hell]]\".{{sfn|Huttar|1975|pp=135–137}} He quotes Tolkien's description of Isengard, supplying his own emphasis on Tolkien's words: \"''tunneled .. circle .. dark .. deep .. graveyard of unquiet dead .. the ground trembled .. treasuries .. furnaces .. iron wheels .. endlessly .. lit from beneath .. venomous''\".<ref group=T>{{harvnb|Tolkien|1954|loc=book 3, ch. 8 \"The Road to Isengard\"}}</ref>{{sfn|Huttar|1975|pp=135–137}} Huttar comments: \"The imagery is familiar, its connotations plain. This is yet another hell [after [[Moria (Middle-earth)|Moria]] and [[Mordor]]]\".{{sfn|Huttar|1975|pp=135–137}} All the same, he writes, the tower of Orthanc<!--hmm, not created by Saruman!--> cannot but be admired, with its \"marvellous shape\" and wonderful, ancient strength; he supposes that for Tolkien, technology could neither be \"wholeheartedly embraced nor utterly rejected\".{{sfn|Huttar|1975|pp=135–137}}\n\nShippey, discussing Saruman's character, notes several facts about him: Treebeard's comment that \"He has a mind of metal and wheels\"; that Isengard means \"Irontown\"; that the Ents are attacked in Isengard with \"a kind of [[napalm]] [or] perhaps ... [given] Tolkien's own experience, a [[Flammenwerfer]]\".{{sfn|Shippey|2005|p=194}} Shippey concludes that Saruman had been led into \"wanton [[pollution]] ... by something corrupting in the love of machines\",{{sfn|Shippey|2005|p=194}} which he connects to \"Tolkien's own childhood image of industrial ugliness ... [[Sarehole Mill]], with its [[Bone crusher|literally bone-grinding]] owner\".{{sfn|Shippey|2005|p=194}}\n\nDavid D. Oberhelman, writing in the ''[[J.R.R. Tolkien Encyclopedia]]'', states, following Anne C. Petty, that there are multiple \"industrial 'hells' in Tolkien's work, such as Saruman's blighted, machine-ridden Isengard\".{{sfn|Oberhelman|2013|p=18}}{{sfn|Petty|2003|p=63}} He notes that its prototype was the fallen [[Vala (Middle-earth)|Vala]] [[Morgoth]]'s subterranean fortress, [[Angband (Middle-earth)|Angband]], whose name meant \"Iron Prison\" or \"Hell of Iron\".{{sfn|Oberhelman|2013|p=18}}\n\n=== Vichy status ===\n\n[[File:Bundesarchiv Bild 101III-Moebius-029-12, Norwegen, Besuch Himmler, Terboven und Quisling.jpg|thumb|The Mouth of Sauron's plan to rule the West of Middle-earth from Isengard has been compared to [[Vidkun Quisling]]'s role as a puppet of the [[Nazi regime]] in Norway.{{sfn|Shippey|2001|p=166}} Photo shows Quisling (front, left) with [[Heinrich Himmler]] and other Nazis in 1941.]]\n\nIsengard is the promised reward for the nameless \"Mouth of Sauron\", as soon as Gondor and its allies had surrendered. In his words in front of the Black Gate:<ref name=\"The Black Gate Opens\" group=T>{{harvnb|Tolkien|1954|loc=book 3, ch. 10 \"The Black Gate Opens\"}}</ref>\n\n{{blockquote|West of the Anduin as far as the Misty Mountains and the Gap of Rohan shall be tributary to Mordor, and men there shall bear no weapons, but shall have leave to govern their own affairs. But they shall help to rebuild Isengard which they have wantonly destroyed, and that shall be Sauron's, and there his lieutenant shall dwell: not Saruman, but one more worthy of trust.<ref name=\"The Black Gate Opens\" group=T/>}}\n\nShippey compares Sauron's offer to the Vichy treaty imposed on France after its surrender in 1940: \"sovereignty over the disputed territory of Ithilien [East of the Anduin], the [[Alsace-Lorraine]] of Middle-earth, is to be transferred\", and in the lands to the West \"a [[demilitarized zone]], with what one can only call [[Vichy Government|Vichy status]], which will pay [[war-reparations]], and be governed [from Isengard] by what one can again only call a [[Quisling]]\".{{sfn|Shippey|2001|p=166}}{{-}}\n\n=== Homogeneity of evil ===\n\n[[File:Orthanc_by_Alan_Lee.jpg|thumb|upright|The model of Orthanc, the tower at the centre of Isengard, used in Peter Jackson's ''The Two Towers'' was based on [[Alan Lee (illustrator)|Alan Lee]]'s illustration{{sfn|Svitil|2007|pp=75–76}}]]\n\nDuring the War of the Ring, Isengard was controlled by Saruman until the fortress's destruction, but Saruman had become \"more like Sauron than he realizes\",{{sfn|Kocher|1974|p=63}} like him believing in \"supremacy through absolute power\",{{sfn|Kocher|1974|p=63}} and unintentionally a pupil of Sauron, having against Elrond's advice \"stud[ied] too deeply the arts of the enemy\".{{sfn|Kocher|1974|p=63}} The Tolkien scholars Wayne Hammond and [[Christina Scull]] note that the palantír in Orthanc had formed what Gandalf called \"some link between Isengard and Mordor, which I have not yet fathomed\": the link was that Sauron had used the stone to take control of Saruman, and through him his forces of Orcs.{{sfn|Hammond|Scull|2005|p=432}} In ''The Two Towers'', Tolkien himself described Saruman's Isengard as \"only a little copy, a child's model or a slave's flattery ... [of Sauron's] vast fortress, armoury, prison, furnace of great power, [[Barad-dûr]]\".<ref name=\"The Road to Isengard\" group=T/> The Tolkien scholar [[Brian Rosebury]] writes that Tolkien was making the point that whereas good government in free societies like those of Gondor, the [[Dwarves (Middle-earth)|Dwarves]], the [[Elves (Middle-Earth)|Elves]], the [[Drúedain]], and [[Shire (Middle-earth)|the Shire]] leads to diversity, \"evil tends to homogeneity\".{{sfn|Rosebury|2016|pp=39–40}}\n\n== Adaptations ==\n\nIn [[Peter Jackson]]'s [[The Lord of the Rings (film series)|films of ''The Lord of the Rings'']], Isengard and Orthanc were based on [[Alan Lee (illustrator)|Alan Lee]]'s illustrations and modelled under the direction of [[Richard Taylor (filmmaker)|Richard Taylor]];{{sfn|Svitil|2007|pp=75–76}} Lee worked as the project's conceptual artist in New Zealand throughout the making of the film trilogy.<ref>{{cite news |last1=Barnett |first1=David M. |title=Making fantasy reality: Alan Lee, the man who redrew Middle-earth |url=https://www.theguardian.com/books/2018/sep/03/alan-lee-jrr-tolkien-the-lord-of-the-rings-the-hobbit-the-fall-of-gondolin |work=[[The Guardian]] |date=3 September 2018}}</ref> The very large miniature or \"bigature\" of Orthanc was cast and then carved from [[Microcrystalline wax|micro-crystalline wax]] by [[Wētā Workshop]] to resemble [[obsidian]], black volcanic glass; it was made at 1/35 scale, standing some {{convert|15|feet|metre}} high. The model of the walled circular area of Isengard was more than {{convert|65|feet|metre}} wide.{{sfn|Svitil|2007|pp=75–76}} In [[post-production]], the [[Shot (filmmaking)|long shots]] of the Orthanc model were combined, using [[chroma key]]ing, with panoramic views of the [[Mount Earnslaw / Pikirakatahi]] region and [[Mount Aspiring National Park]] near [[Queenstown, New Zealand|Queenstown]] and [[Glenorchy, New Zealand|Glenorchy]], [[New Zealand]].<ref>{{Cite web|title=Lord of the Rings Filming Locations in New Zealand |url=https://www.wayfairertravel.com/inspiration/lord-of-the-rings-filming-locations-new-zealand/|access-date=11 January 2021 |website=Wayfairer Travel}}</ref>\n\n== References ==\n\n=== Primary ===\n\n{{reflist|group=T|28em}}\n\n=== Secondary ===\n\n{{reflist|28em}}\n\n== Sources ==\n\n* {{cite journal |last=Berube |first=Pierre H. |year=2018 |title=Bilingual Puns in 'The Lord of the Rings' |journal=[[Mythlore]] |volume=37 |issue=1 |at=Article 15 |url=https://dc.swosu.edu/mythlore/vol37/iss1/15}}\n* {{cite book |last=Clark Hall |first=J. R. |author-link=John Richard Clark Hall |title=A Concise Anglo-Saxon Dictionary |date=2002 |orig-year=1894 |publisher=[[University of Toronto Press]] |edition=4th}}\n* {{cite book |last=Cusack |first=Carole M. |title=The Sacred Tree: Ancient and Medieval Manifestations |url=https://books.google.com/books?id=kQMrBwAAQBAJ&pg=PA172 |year=2011 |publisher=[[Cambridge Scholars Publishing]] |isbn=978-1-4438-3031-7}}\n* * {{cite book |last=Fimi |first=Dimitra |author-link=Dimitra Fimi |title=Tolkien, Race, and Cultural History: From Fairies to Hobbits |publisher=[[Palgrave Macmillan]] |year=2010 |orig-year=2008 |isbn=978-0-230-21951-9 |oclc=222251097}}\n* {{cite encyclopedia |last=Libran Moreno |first=Miryam |editor-last=Drout |editor-first=Michael D. C. |editor-link=Michael D. C. Drout |title=Elendilmir |encyclopedia=[[The J. R. R. Tolkien Encyclopedia|The J. R. R. Tolkien Encyclopedia: Scholarship and Critical Assessment]] |year=2013 |orig-year=2007 |publisher=[[Routledge]] |isbn=978-0-415-86511-1|pages=146–147}}\n* {{cite book |last1=Hammond |first1=Wayne G. |author1-link=Wayne G. Hammond |last2=Scull |first2=Christina |author2-link=Christina Scull |title=J. R. R. Tolkien: Artist and Illustrator |title-link=J. R. R. Tolkien: Artist and Illustrator |publisher=[[HarperCollins]] | year=1995 |isbn=0-261-10322-9}}\n* {{cite book |last1=Hammond |first1=Wayne G. |author1-link=Wayne G. Hammond |last2=Scull |first2=Christina |author2-link=Christina Scull |title=The Lord of the Rings: A Reader's Companion |title-link=The Lord of the Rings: A Reader's Companion |publisher=[[HarperCollins]] | year=2005 |isbn=978-0-00-720907-1}}\n* {{cite book |last=Huttar |first=Charles A. |author-link=Charles A. Huttar |chapter=Hell and The City: Tolkien and the Traditions of Western Literature  |editor-last=Lobdell |editor-first=Jared |editor-link=Jared Lobdell |title=[[A Tolkien Compass]] |date=1975 |publisher=[[Open Court Publishing Company|Open Court]] |isbn=978-0-8754-8303-0}}\n* {{cite book |last=Kocher |first=Paul |author-link=Paul H. Kocher |title=Master of Middle-earth: The Achievement of J.R.R. Tolkien |title-link=Master of Middle-earth |date=1974 |orig-year=1972 |publisher=[[Penguin Books]] |isbn=978-0-14-003877-4}}\n* {{cite encyclopedia |last=Oberhelman |first=David D. |editor-last=Drout |editor-first=Michael D. C. |editor-link=Michael D. C. Drout |title=Angband |encyclopedia=[[The J. R. R. Tolkien Encyclopedia|The J. R. R. Tolkien Encyclopedia: Scholarship and Critical Assessment]] |year=2013 |orig-year=2007 |publisher=[[Routledge]] |isbn=978-0-415-86511-1 |pages=17–18}}\n* {{cite book |last=Petty |first=Anne C. |title=Tolkien in the Land of Heroes: Discovering the Human Spirit |date=2003 |publisher=Cold Spring Press |isbn=978-1892975997}}\n* {{cite book |last=Rosebury |first=Brian |author-link=Brian Rosebury |title=Tolkien: A Critical Assessment |url=https://books.google.com/books?id=ofS-DAAAQBAJ&pg=PA40 |date=2016 |publisher=Springer |isbn=978-1-349-22133-2}}\n* {{cite book |first=Tom |last=Shippey |author-link=Tom Shippey |title=[[J. R. R. Tolkien: Author of the Century]] |publisher=[[Houghton Mifflin Harcourt|Houghton Mifflin]] |year=2001 |isbn=978-0-618-12764-1}}\n* {{ME-ref|ROAD}}  <!--Shippey 2005-->\n* {{cite book |last=Svitil |first=Torene |title=So You Want to Work in Animation & Special Effects? |url=https://books.google.com/books?id=eysHF3iMyMgC&pg=PA75 |year=2007 |publisher=[[Enslow Publishing|Enslow Publishers]] |isbn=978-0-7660-2737-4}}\n* {{ME-ref|TT}}\n* {{ME-ref|ROTK}}\n* {{ME-ref|UT}}\n\n{{The Lord of the Rings}}\n{{Middle-earth}}\n\n[[Category:Middle-earth castles and fortresses]]\n[[Category:Middle-earth realms]]",
+  "redirect_chain": [
+    {
+      "source_title": "Treegarth",
+      "target_title": "Isengard"
+    }
+  ],
+  "revision_id": 1339122922,
+  "revision_timestamp": "2026-02-19T01:33:17Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "Construction"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "Construction"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "Construction"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "Construction"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "Depopulation"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "Depopulation"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "Depopulation"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "War of the Ring"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "War of the Ring"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "War of the Ring"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "War of the Ring"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "Restoration"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "Restoration"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Origins",
+        "Etymology"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Origins",
+        "Etymology"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Origins",
+        "Etymology"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Origins",
+        "Bilingual pun"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Origins",
+        "Bilingual pun"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Origins",
+        "Illustrations"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Origins",
+        "Illustrations"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Origins",
+        "Illustrations"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Industrial hell"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Industrial hell"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Industrial hell"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Industrial hell"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Vichy status"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Vichy status"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Vichy status"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Vichy status"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Homogeneity of evil"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Homogeneity of evil"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

@@ -1,7 +1,7 @@
 # Private Demo Access and Operations
 
-> **Spec Version**: 0.1.0
-> **Last Updated**: 2026-07-18
+> **Spec Version**: 0.2.0
+> **Last Updated**: 2026-07-23
 > **Depends On**: [Corpus Acquisition and Provenance](corpus-acquisition-and-provenance.md), [Corpus Curation and Releases](corpus-curation-and-releases.md), [Conversation and Attempt Lifecycle](conversation-and-attempt-lifecycle.md), [Web Experience](web-experience.md), [Evaluation and Review](evaluation-and-review.md)
 > **Depended By**: None; this system provides orthogonal operational support
 
@@ -65,7 +65,7 @@ Define actor/authorization, command or deletion type, target release or retained
 
 ### Backup and recovery set
 
-Define the consistent identities and integrity evidence required to recover SQLite state, corpus artifacts, release manifests, and rebuildable indexes.
+Consume the approved corpus-release completion evidence from [Corpus Curation and Releases](corpus-curation-and-releases.md#release-completion-evidence), then define the additional consistent identities and integrity evidence required to recover SQLite state, hosted storage, and rebuildable indexes.
 
 ## Behavior
 
@@ -89,7 +89,7 @@ Specify network exposure, HTTPS, process startup, health, graceful shutdown, str
 
 ### Persistent data and recovery
 
-Specify durability across restarts, backup consistency, restore validation, local storage exhaustion, index rebuildability, and preservation of immutable release evidence.
+Preserve the approved distinction in [release completion evidence](corpus-curation-and-releases.md#release-completion-evidence) between release validity and milestone backup completion. Specify full application durability across restarts, SQLite backup consistency, restore validation, storage exhaustion, index rebuildability, and recovery of protected supporting evidence.
 
 ### Offline corpus command execution
 
@@ -129,7 +129,7 @@ Cover active attempts, incomplete output, database recovery, corpus-release avai
 
 ### Backup or restore inconsistency
 
-Cover mismatched SQLite, manifests, artifacts, and indexes; require validation or rebuild before service.
+Cover missing corpus-release completion evidence according to [Corpus Curation and Releases](corpus-curation-and-releases.md#release-completion-evidence), plus mismatched SQLite, manifests, artifacts, indexes, and hosted state; require validation or rebuild before service.
 
 ### Offline operation failure
 
@@ -147,4 +147,5 @@ Cover partial acquisition, index build, activation, rollback, deletion, and reta
 
 | Version | Date | Changes |
 |---------|------|---------|
+| 0.2.0 | 2026-07-23 | Updated backup and recovery authoring guidance to consume the approved corpus-release completion-evidence contract; system behavior remains a skeleton |
 | 0.1.0 | 2026-07-18 | Initial skeleton |

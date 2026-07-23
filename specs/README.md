@@ -1,7 +1,7 @@
 # Halls of Knowledge Specification Suite
 
-> **Version**: 0.2.0
-> **Last Updated**: 2026-07-18
+> **Version**: 0.3.0
+> **Last Updated**: 2026-07-23
 > **Purpose**: Navigate and author the behavior contracts for implementing Halls of Knowledge from scratch.
 
 ---
@@ -12,7 +12,7 @@ Halls of Knowledge is a private, password-protected Tolkien-lore AI chat demo fo
 
 ## Suite maturity
 
-The vocabulary baseline and the three corpus-foundation specifications are approved. The remaining six system specs are `0.1.0` skeletons; do not treat their guidance prompts as approved requirements.
+The vocabulary baseline and the three corpus-foundation specifications are approved. The remaining six system specs are skeletons: five remain `0.1.0`, while Private Demo Access and Operations is `0.2.0` because its backup guidance now consumes the approved curation-owned release-completion contract. Do not treat skeleton guidance as approved requirements.
 
 ## Technology stack
 
@@ -107,19 +107,19 @@ graph TD
 | Artifact | Description | Version |
 |----------|-------------|---------|
 | [SPEC-OF-SPECS.md](SPEC-OF-SPECS.md) | Suite constitution and authoring rules | 1.0.0 |
-| [UBIQUITOUS_LANGUAGE.md](UBIQUITOUS_LANGUAGE.md) | Canonical domain vocabulary | 0.2.0 |
-| [DESIGN_LANGUAGE.md](DESIGN_LANGUAGE.md) | Interface vocabulary and interaction preamble | 0.2.0 |
-| [parameters.md](parameters.md) | Shared values and rationale | 0.2.0 |
-| [corpus-acquisition-and-provenance.md](corpus-acquisition-and-provenance.md) | Approved source acquisition and article-artifact contract | 1.0.0 |
-| [corpus-curation-and-releases.md](corpus-curation-and-releases.md) | Approved curation cockpit and immutable-release contract | 1.0.0 |
+| [UBIQUITOUS_LANGUAGE.md](UBIQUITOUS_LANGUAGE.md) | Canonical domain vocabulary | 0.3.0 |
+| [DESIGN_LANGUAGE.md](DESIGN_LANGUAGE.md) | Interface vocabulary and interaction preamble | 0.3.0 |
+| [parameters.md](parameters.md) | Shared values and rationale | 0.3.0 |
+| [corpus-acquisition-and-provenance.md](corpus-acquisition-and-provenance.md) | Approved strict acquisition, extraction-review, and article-artifact contract | 2.0.0 |
+| [corpus-curation-and-releases.md](corpus-curation-and-releases.md) | Approved audited curation cockpit and immutable-release contract | 2.0.0 |
 | [corpus-retrieval-and-agent-tools.md](corpus-retrieval-and-agent-tools.md) | Approved active-corpus keyword retrieval and agent-tool contract | 1.0.0 |
 | [lore-agent-and-response-policy.md](lore-agent-and-response-policy.md) | Lore-agent system skeleton | 0.1.0 |
 | [evidence-presentation-and-attribution.md](evidence-presentation-and-attribution.md) | Evidence presentation system skeleton | 0.1.0 |
 | [conversation-and-attempt-lifecycle.md](conversation-and-attempt-lifecycle.md) | Conversation lifecycle system skeleton | 0.1.0 |
 | [web-experience.md](web-experience.md) | Browser experience system skeleton | 0.1.0 |
 | [evaluation-and-review.md](evaluation-and-review.md) | Evaluation system skeleton | 0.1.0 |
-| [private-demo-access-and-operations.md](private-demo-access-and-operations.md) | Access and operations system skeleton | 0.1.0 |
-| [SPEC-OF-SPECS-PLAN.md](SPEC-OF-SPECS-PLAN.md) | Spec-authoring progress tracker | 0.2.0 |
+| [private-demo-access-and-operations.md](private-demo-access-and-operations.md) | Access and operations skeleton with updated release-backup guidance | 0.2.0 |
+| [SPEC-OF-SPECS-PLAN.md](SPEC-OF-SPECS-PLAN.md) | Spec-authoring progress tracker | 0.3.0 |
 
 ## Specification-authoring checklist
 
@@ -134,6 +134,7 @@ graph TD
 - [x] Author and approve Corpus Acquisition and Provenance.
 - [x] Author and approve Corpus Curation and Releases.
 - [x] Author and approve Corpus Retrieval and Agent Tools.
+- [x] Approve strict acquisition review, audited curation, and complete-article first-release governance.
 
 ### Response core
 
@@ -149,7 +150,7 @@ graph TD
 
 ### Implementation readiness
 
-- [ ] Promote every system spec to `1.0.0` after human review.
+- [ ] Promote every remaining system skeleton to `1.0.0` after human review.
 - [ ] Verify all parameters have values and rationale.
 - [ ] Verify all test-scenario indexes and cross-references.
 - [ ] Create an implementation plan only after the specification baseline is approved.

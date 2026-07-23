@@ -1,7 +1,7 @@
 # Design Language
 
-> **Version**: 0.2.0
-> **Last Updated**: 2026-07-18
+> **Version**: 0.3.0
+> **Last Updated**: 2026-07-23
 > **Purpose**: Shared UI/UX and operator-interface vocabulary for Halls of Knowledge; this preamble does not establish a finished visual system.
 
 ---
@@ -49,10 +49,13 @@ There is no initial public JSON API, WebSocket interface, native application, pu
 |---------|------------|-------------|-----------------|
 | **Offline corpus command** | A package-owned operator command that performs corpus acquisition, extraction, curation support, indexing, validation, activation, or rollback outside web requests. | For deliberate corpus lifecycle operations | During an HTTP request or as an agent-exposed tool |
 | **Command result** | The deterministic operator-facing summary of an offline command’s outcome, affected release or artifact identities, and recoverable errors. | At command completion or failure | As user-facing lore provenance |
+| **Acquisition review cockpit** | The single-key terminal review surface for sampled emitted passages, structural exclusions, redirect provenance, and extraction conformance. | Before accepting a corrected acquisition | For assigning passage classifications or hiding extraction defects |
+| **Extraction review frame** | The visibly typed question showing one emitted passage or structural exclusion, its source location, review progress, and pass/flag/skip choices. | While recording an extraction review finding | As a semantic lore-classification prompt |
 | **Curation cockpit** | The single-key terminal review surface that shows one passage and only its mission-critical progress, location, target scope, and classification state. | During rapid passage classification | As a dense dashboard of every available datum and command |
 | **Expanded instruments** | The optional curation-cockpit panel containing neighboring context, raw wikitext, decision hierarchy, source identifiers, and bulk-scope controls. | When the operator asks for evidence or less-common controls | In the default rapid-review frame |
 | **End-of-pass summary** | The visually distinct terminal state reporting classification totals and unresolved passages after the operator reaches the final passage. | At the end of every review pass | As a replacement for durable release validation |
 | **Undo-and-return control** | The single-key action that reverses the latest curation decision and returns focus to its passage for immediate reclassification. | Immediately after a mistaken rapid classification | As rollback of a corpus release |
+| **Audit question frame** | The exact typed question, evidence, scope, key, and semantic answer captured atomically for a state-changing cockpit action or equivalent command. | Whenever review state, classification, selection, or confirmation changes | For ordinary navigation or toggling detail |
 
 ## Interaction-state vocabulary
 
@@ -73,7 +76,9 @@ There is no initial public JSON API, WebSocket interface, native application, pu
 - **Trusted final rendering** — incremental agent text is escaped, while final HTML and generative UI blocks are produced by trusted application renderers.
 - **Immediate control feedback** — cancellation, failure, completion, retry, and verdict actions expose visible and assistive state changes.
 - **Keyboard and focus continuity** — interactive controls remain keyboard-operable and focus moves intentionally after swaps, completion, cancellation, and validation errors.
-- **Operator progressive disclosure** — the curation cockpit shows only information needed for the current classification; context, raw source, provenance, hierarchy, and bulk controls appear on explicit request.
+- **Operator progressive disclosure** — each cockpit shows only information needed for the current judgment; context, raw source, provenance, hierarchy, and bulk controls appear on explicit request.
+- **Separated review authority** — acquisition review records extraction conformance and never creates a curation decision; curation begins only from accepted article artifacts.
+- **Atomic review audit** — a state-changing answer and its exact audit question frame become durable together or neither is accepted, and the cockpit never advances after a partial save.
 - **Reversible review momentum** — a classification key saves and advances without Enter, while one undo action reverses the decision and restores the reviewed passage.
 - **Terminal-state distinction** — the end-of-pass summary MUST be visually and textually distinguishable from an ordinary passage-review frame and MUST NOT rely on color alone.
 
@@ -91,6 +96,8 @@ No color, spacing, typography, motion, iconography, or breakpoint tokens are app
 | Evaluation conditions | Hide condition names until blinded review no longer depends on concealment | “Left” and “Right” during review |
 | Wikimedia attribution | Use plain textual attribution without endorsement or trade-dress implications | “Source: Wikipedia” within the full notice |
 | Operator review controls | Use stable single-key classifications and explicit action labels | “1 Lore”, “U Undo + return”, “M More” |
+| Acquisition findings | Distinguish structural conformance from semantic classification | “P Pass”, “F Flag”, “X Skip” |
+| Audit questions | Name the exact target scope and semantic answer | “Classify this paragraph?” rather than “Apply?” |
 
 ## Flagged design ambiguities
 
@@ -100,3 +107,4 @@ No color, spacing, typography, motion, iconography, or breakpoint tokens are app
 - The precise focus destination after completion, cancellation, retry, and HTMX swaps is unresolved.
 - The authorization experience distinguishing invited visitors from evaluation reviewers is unresolved.
 - No visual token values or brand direction are approved.
+- The visitor-facing presentation of review audit history is out of scope; audit inspection is an operator command concern.

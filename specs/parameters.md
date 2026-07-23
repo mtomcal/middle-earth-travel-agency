@@ -1,7 +1,7 @@
 # Parameters
 
-> **Spec Version**: 0.2.0
-> **Last Updated**: 2026-07-18
+> **Spec Version**: 0.3.0
+> **Last Updated**: 2026-07-23
 > **Depends On**: None (foundational specification)
 > **Depended By**: Every system specification that references these values
 
@@ -22,12 +22,15 @@ A value marked `TBD` is intentionally unresolved and MUST be selected through th
 | `INITIAL_SOURCE_DUMP_FILENAME` | `enwiki-20260701-pages-articles.xml.bz2` | Wikimedia artifact filename | Identifies the full non-multistream article dump selected for initial offline extraction. |
 | `FIRST_DUMP_EXTRACTION_PROFILE` | Full non-multistream article dump | Acquisition profile | Favors one simple sequential offline scan over multistream range handling for the first demo. |
 | `SOURCE_NAMESPACE` | 0 | MediaWiki namespace | Explicit filtering is required because the article-dump filename does not reliably guarantee namespace-zero-only content. |
+| `ACQUISITION_CANONICAL_ARTICLE_TARGET` | 60–80 | Unique canonical articles after redirect resolution | Provides enough choice to assemble a strong 25–50-article first release without reviewing an unnecessarily broad corpus. |
 | `INITIAL_APPROVED_ARTICLE_TARGET` | 25–50 | Manually approved pages | Keeps first-release curation practical while covering enough lore to exercise retrieval and synthesis; this is guidance, not a validation threshold. |
 | `INITIAL_MEDIA_SCOPE` | Text only | Content policy | Avoids file-specific media licensing and Tolkien image, map, audio, video, and logo rights during the initial demo. |
 | `SUPPORTED_PASSAGE_STRUCTURE` | Prose paragraphs | Structural content policy | Keeps extraction and review focused on readable answer evidence rather than tables, lists, quotations, references, or layout fragments. |
 | `INITIAL_INDEXABLE_CLASSIFICATION` | Internal lore only | Passage classification | Prevents creation history, analysis, reception, adaptations, and administrative material from becoming answer evidence. |
 | `MINIMUM_RELEASE_PASSAGE_COUNT` | 1 | Included lore passage | Prevents activation of an operationally useless empty corpus release without turning the target page range into a hard gate. |
 | `CORPUS_RELEASE_RETENTION_POLICY` | Until manual deletion | Policy | Avoids automated cleanup complexity and preserves simple operator rollback for the small demo. |
+| `EMITTED_PASSAGE_REVIEW_SAMPLE` | 20 | Percent per article, rounded up | Gives higher-risk emitted prose broad deterministic human inspection without requiring review of every passage before curation. |
+| `STRUCTURAL_EXCLUSION_REVIEW_SAMPLE` | 10 | Percent per article, rounded up | Samples the more numerous exclusions for lost useful prose while keeping acquisition acceptance practical. |
 
 ## Corpus retrieval
 

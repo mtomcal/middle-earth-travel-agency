@@ -1,7 +1,7 @@
 # Ubiquitous Language
 
-> **Version**: 0.2.0
-> **Last Updated**: 2026-07-18
+> **Version**: 0.3.0
+> **Last Updated**: 2026-07-23
 > **Purpose**: Canonical shared vocabulary for all Halls of Knowledge specifications; read this before any system spec.
 
 ---
@@ -52,8 +52,12 @@ This glossary governs the initial **Halls of Knowledge** bounded context: a priv
 |------|------------|------------------|
 | **Source snapshot** | A source snapshot is a fixed official Wikimedia dump run identified by its wiki database, dated run identifier, exact filename, and dated source URL. | latest dump, Wikipedia snapshot, live Wikipedia |
 | **Candidate article** | A candidate article is a namespace-0 English Wikipedia page proposed for human curation but not yet admitted to a corpus release. | corpus article, approved page |
+| **Canonical target preview** | A canonical target preview is the audited redirect-resolved, deduplicated view of proposed candidate articles that the operator approves or revises before acquisition acceptance. | approved candidate list, redirect report |
+| **Accepted acquisition** | An accepted acquisition is one exact homogeneous source-and-extractor artifact set whose automated checks, canonical targets, and sampled extraction review all passed. | current acquisition, approved pages |
 | **Article artifact** | An article artifact is an immutable package-owned filesystem record for exactly one pinned Wikipedia page revision and extractor configuration, retaining its raw wikitext, normalized prose passages, source identifiers, and redirect provenance. | document, page file, index record |
-| **Extracted passage** | An extracted passage is a stably identified prose-paragraph unit produced deterministically from an article artifact and available for an operator’s page, section, or paragraph classification. | chunk, snippet, document |
+| **Extracted passage** | An extracted passage is a stably identified prose-paragraph unit produced deterministically from an article artifact and available for acquisition review and an operator’s page, section, or paragraph classification. | chunk, snippet, document |
+| **Acquisition review cockpit** | The acquisition review cockpit is the offline terminal surface through which the operator rapidly verifies sampled extracted passages and structural exclusions without creating curation decisions. | reviewer cockpit, curation mode |
+| **Extraction review finding** | An extraction review finding is an operator’s pass, flag, or skip answer about whether one exact extracted passage or structural exclusion conforms to the acquisition contract. | curation decision, QA label |
 | **Lore passage** | A lore passage is an operator-approved extracted passage whose effective classification is internal lore and is therefore eligible for release and retrieval. | chunk, context, approved text |
 | **Passage classification** | A passage classification is the curation category that distinguishes internal lore from creation history, analysis or reception, adaptation material, and reference or administrative material. | tag, topic |
 | **Internal lore** | Internal lore is passage content that describes the fictional world's entities, events, relationships, places, or chronology from within the lore context. | canon, in-universe truth |
@@ -61,7 +65,9 @@ This glossary governs the initial **Halls of Knowledge** bounded context: a priv
 | **Analysis or reception** | Analysis or reception is passage content that interprets Tolkien's work or records scholarship, criticism, influence, or audience response. | lore, commentary |
 | **Adaptation material** | Adaptation material is passage content originating in or describing films, games, or other adaptations rather than Tolkien's lore as scoped for the demo. | lore, LOTRO content |
 | **Reference or administrative material** | Reference or administrative material is source apparatus or wiki-maintenance content retained for provenance but excluded from answer text. | lore passage, answer context |
-| **Curation decision** | A curation decision is an operator review outcome that records scope, classify-or-clear action, optional passage classification, operator label, timestamp, and explicit supersession at page, section, or paragraph level. | filter, approval, review rationale |
+| **Curation decision** | A curation decision is an operator review outcome that records scope, classify-or-clear action, optional passage classification, curation-rubric version, operator label, timestamp, and explicit supersession at page, section, or paragraph level. | filter, approval, specification decision |
+| **Curation rubric** | A curation rubric is a versioned operator policy that applies the five passage classifications to concrete content boundaries without replacing the governing specification. | prompt, classifier policy, specification |
+| **Quick-key audit event** | A quick-key audit event is an append-only record of the exact evidence shown, question asked, and semantic answer supplied by a cockpit key or equivalent scriptable command. | rationale, decision, interaction log |
 | **Corpus release manifest** | A corpus release manifest is the authoritative immutable inventory of the article artifacts and lore passages included in one corpus release together with their source and extraction identities. | approved corpus manifest, allowlist, exclusion inventory |
 | **Corpus release** | A corpus release is an immutable, validated, versioned body of curated lore passages defined by exactly one corpus release manifest. | lore corpus version, index version, dataset |
 | **Active corpus release** | The active corpus release is the one explicitly selected validated release targeted by runtime retrieval, with prior releases retained for association and rollback and temporary index unavailability permitted. | current corpus, latest corpus |
@@ -95,7 +101,10 @@ This glossary governs the initial **Halls of Knowledge** bounded context: a priv
 - A **Guide message** has one **Temporal frame**, one **Traveler perspective**, claim-level **Citations**, and one consolidated **Source list**; it may contain zero or more visibly labeled **Itinerary inferences**.
 - The **Operator** may propose **Candidate articles**, record **Curation decisions**, create a **Corpus release**, and build its **Retrieval index** only through offline corpus commands.
 - The initial **Source snapshot** is English Wikipedia dump run `20260701`, and each **Article artifact** represents exactly one page revision and extractor configuration drawn from that pinned source evidence.
+- One approved **Canonical target preview** defines the deduplicated article pool reviewed by one **Accepted acquisition**.
 - One **Article artifact** contains zero or more **Extracted passages**, while only operator-approved **Lore passages** are eligible to enter a **Corpus release**.
+- Each sampled **Extracted passage** or structural exclusion receives one current **Extraction review finding** before its acquisition can be accepted, and each state-changing answer creates one atomic **Quick-key audit event**.
+- Each **Curation decision** applies exactly one version of the **Curation rubric** and has one atomic **Quick-key audit event**; inherited effective classifications do not imply independent paragraph decisions.
 - One **Corpus release** has exactly one **Corpus release manifest** and may have multiple rebuildable **Retrieval indexes**.
 - **Candidate articles** discovered through Wikimedia categories remain outside the **Lore corpus** until explicit **Curation decisions** approve their relevant passages.
 - Conflicting or uncertain **Lore passages** remain separately represented so a **Lore answer** can state the uncertainty rather than invent a reconciliation.
@@ -108,8 +117,10 @@ This glossary governs the initial **Halls of Knowledge** bounded context: a priv
 > **Domain expert:** “No; it must produce an abstention because every grounded claim needs retrieved evidence from the associated corpus release.”  
 > **Dev:** “May a guide message still propose a likely route?”  
 > **Domain expert:** “Only after the visitor explicitly requests or confirms the guide, and any route synthesis must be a visibly labeled itinerary inference within its temporal frame and traveler perspective.”  
-> **Dev:** “Does linking a citation satisfy our Wikipedia obligations?”  
+> **Dev:** “Does linking a citation satisfy our Wikipedia obligations?”
 > **Domain expert:** “Not by itself; citations show claim support, while the attribution notice supplies the separate contributor, modification, and CC BY-SA 4.0 treatment.”
+> **Dev:** “Is a pass in the acquisition review cockpit a curation decision?”
+> **Domain expert:** “No; it is an extraction review finding, while a later curation decision classifies the accepted prose under a versioned curation rubric.”
 
 ## Flagged ambiguities
 
@@ -121,4 +132,5 @@ This glossary governs the initial **Halls of Knowledge** bounded context: a priv
 - “Retry replaces the failed visible answer” does not settle whether replacement preserves a visible audit marker or makes prior attempts accessible anywhere outside debugging and evaluation metadata — specify the visitor-visible history policy separately from retained attempt records.
 - **Itinerary inference** is required to be visibly labeled, but the label wording and whether each inferred claim or the whole itinerary carries it are unresolved — specify the minimum labeling unit in the guide contract.
 - The first release targets approximately 25–50 manually approved pages, but the exact page set and final passage decisions remain release data chosen by the single operator, not glossary definitions.
+- Behavior when a newly discovered extraction defect invalidates a previously accepted acquisition remains unresolved; do not silently convert the defective structure into a passage classification.
 - Wikimedia attribution is intentionally conservative, but exact source-panel placement and legal conclusions about private demos, hosted-model transmission, generated adaptations, ShareAlike scope, and Tolkien rights remain unresolved — retain separate **Citation** and **Attribution notice** concepts and obtain legal review before broader release.

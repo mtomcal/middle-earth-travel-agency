@@ -1,0 +1,36 @@
+.env
+.venv/
+.pytest_cache/
+.ruff_cache/
+__pycache__/
+*.py[cod]
+apicache/
+throttle.ctrl
+# By default, ignore everything under data/ (at any depth). The canonical
+# small corpus JSON files are explicitly re-included below so they can be
+# tracked in git. gitignore's last-match-wins semantics makes a leading
+# broad ignore plus a later ``!`` re-include the only way to express a
+# single allowlist against a parent directory that would otherwise be
+# wholesale ignored.
+data/**
+!data/discovery/
+!data/discovery/*.json
+!data/corpus/
+!data/corpus/source/
+!data/corpus/source/source-snapshot.json
+!data/corpus/acquisition-result.json
+!data/corpus/articles/
+!data/corpus/articles/*.json
+# The broad data/ rule above also excludes source dumps and invalidated runs.
+# Keep their explicit names here so that policy remains obvious if data/ rules change.
+data/corpus/source/*.bz2
+data/corpus/source/*.part
+data/corpus/acquisition-result-*.json
+# Operator-side runtime artifacts
+backups/
+*.pid
+logs/
+*.log
+# Temp/catalog directories and interrupted writes
+*.tmp
+hok-redirects-*/

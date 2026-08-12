@@ -62,6 +62,33 @@ semantic boundary between lore and commentary is too consequential to infer
 from extraction or Wikipedia structure. Versioning the rubric makes changed
 policy visible and prevents old labels from appearing current by accident.
 
+The initial rubric applies the five classifications as follows:
+
+- **Internal lore** covers claims about the fictional setting, chronology,
+  peoples, characters, places, objects, languages, and events. Neutral framing
+  such as "in Tolkien's legendarium" does not by itself make an otherwise
+  in-world claim external.
+- **External creation history** covers authorship, drafting, textual
+  development, publication, naming or linguistic inspiration, sources,
+  influences, and Tolkien's stated or inferred creative intentions.
+- **Analysis or reception** covers interpretation, themes, criticism,
+  scholarship, comparisons, reviews, awards, popularity, and cultural impact.
+- **Adaptation material** covers the production, casting, design, release, and
+  adaptation-specific depiction or invention of film, television, radio,
+  stage, game, and other derivative versions.
+- **Reference or administrative material** covers bibliographic mechanics,
+  navigation, disambiguation, source administration, and prose that does not
+  make a self-contained evidentiary claim.
+
+Classification is passage-wide and conservative. A passage is internal lore
+only when its substantive claims are usable together as fictional-world
+evidence. A passage mixing lore with creation history, analysis, reception, or
+adaptation claims receives the applicable non-lore classification rather than
+being partially admitted. When more than one non-lore classification applies,
+the operator records the principal reason the passage is unsuitable. If that
+reason is not clear from the available context, the passage remains undecided
+until deferred review rather than being guessed.
+
 ### Favor complete-article inclusion
 
 Once an article is selected, all of its current internal-lore passages enter the
@@ -103,4 +130,3 @@ an explicit selection rather than data mutation. See
 Future classifier assistance may be explored, but it must not silently replace
 the operator's review authority or train on audit questions as if they were
 current labels.
-

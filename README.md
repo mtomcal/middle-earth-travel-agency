@@ -14,9 +14,10 @@ sourced lore, uncertainty, inference, citations, and attribution.
 This is an unofficial fan project and is not affiliated with or endorsed by the
 Tolkien Estate or other rights holders.
 
-The implemented slice currently covers offline candidate discovery,
-acquisition and extraction from the pinned Wikimedia source, and deterministic
-corpus backup. Curation, retrieval indexing, travel planning, guide generation,
+The implemented slice currently covers offline candidate discovery, acquisition
+and extraction from the pinned Wikimedia source, deterministic corpus backup,
+and a passage-only terminal curation cockpit with auditable SQLite state.
+Release publication, retrieval indexing, travel planning, guide generation,
 evaluation, and the web experience are not implemented yet.
 
 ## Documentation
@@ -34,7 +35,11 @@ the current implementation.
 
 ```bash
 uv sync
+uv run pre-commit install
 ```
+
+The installed Git hook runs linting, formatting checks, and the full test suite
+before each commit. Tests enforce a minimum total coverage of 90%.
 
 Store the monitored Wikimedia contact locally in the gitignored `.env` file:
 
@@ -49,6 +54,7 @@ The implementation uses `middle_earth_travel_agency` as its Python package and
 
 - [Acquire the corpus](docs/runbooks/acquire-corpus.md)
 - [Back up and restore corpus evidence](docs/runbooks/back-up-and-restore.md)
+- [Curate extracted passages](docs/runbooks/curate-corpus.md)
 
 ## Verification
 
@@ -56,6 +62,7 @@ The implementation uses `middle_earth_travel_agency` as its Python package and
 uv run pytest
 uv run ruff check .
 uv run ruff format --check .
+uv run pre-commit run --all-files
 ```
 
 Network acquisition follows Wikimedia's API usage, User-Agent, and API

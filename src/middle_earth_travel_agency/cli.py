@@ -23,6 +23,7 @@ from .corpus_acquisition import (
     extract_article_artifacts,
 )
 from .corpus_backup import create_backup, verify_backup
+from .corpus_curation import CurationState, load_corpus, run_terminal
 
 
 class _EmptyCatalog:
@@ -83,6 +84,24 @@ def _parser() -> argparse.ArgumentParser:
         "verify-backup", help="verify a backup archive and its sidecar"
     )
     verify.add_argument("archive", type=Path, help="path to the backup archive")
+
+    curate = corpus_commands.add_parser(
+        "curate", help="interactively classify extracted prose passages"
+    )
+    curate.add_argument(
+        "--articles-dir",
+        type=Path,
+        required=True,
+        help="directory containing immutable article JSON",
+    )
+    curate.add_argument(
+        "--state-db", type=Path, required=True, help="explicit SQLite curation state path"
+    )
+    curate.add_argument(
+        "--review-deferred",
+        action="store_true",
+        help="revisit deferred passages in deterministic corpus order",
+    )
     return parser
 
 
@@ -232,6 +251,18 @@ def _verify(arguments: argparse.Namespace) -> int:
     return 0
 
 
+def _curate(arguments: argparse.Namespace) -> int:
+    if not sys.stdin.isatty() or not sys.stdout.isatty():
+        raise ValueError("corpus curation requires an interactive TTY")
+    corpus = load_corpus(arguments.articles_dir)
+    state = CurationState(arguments.state_db, corpus)
+    try:
+        run_terminal(state, review_deferred=arguments.review_deferred)
+    finally:
+        state.close()
+    return 0
+
+
 def main(argv: Sequence[str] | None = None) -> int:
     load_dotenv(dotenv_path=Path.cwd() / ".env")
     arguments = _parser().parse_args(argv)
@@ -243,6 +274,8 @@ def main(argv: Sequence[str] | None = None) -> int:
         return _backup(arguments)
     if arguments.corpus_command == "verify-backup":
         return _verify(arguments)
+    if arguments.corpus_command == "curate":
+        return _curate(arguments)
     raise AssertionError("unreachable command")
 
 

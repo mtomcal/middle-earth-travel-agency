@@ -15,9 +15,13 @@ _SRC = _REPO_ROOT / "src"
 if str(_SRC) not in sys.path:
     sys.path.insert(0, str(_SRC))
 
-from halls_of_knowledge.cli import console  # noqa: E402  (path-adjusted import)
+
+def main() -> None:
+    from halls_of_knowledge.cli import console
+
+    sys.argv = ["hok", "corpus", "backup", *sys.argv[1:]]
+    console()
 
 
 if __name__ == "__main__":
-    sys.argv = ["hok", "corpus", "backup", *sys.argv[1:]]
-    console()
+    main()

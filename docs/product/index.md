@@ -1,9 +1,9 @@
 # Product documentation
 
 The product documentation captures the intent that cannot be recovered safely
-from code alone. It tells contributors and coding agents what Halls of Knowledge
-is trying to learn, which tradeoffs are deliberate, and which behaviors must not
-be lost during implementation changes.
+from code alone. It tells contributors and coding agents what Middle-earth
+Travel Agency is trying to learn, which tradeoffs are deliberate, and which
+behaviors must not be lost during implementation changes.
 
 ## Product foundation
 
@@ -20,9 +20,10 @@ be lost during implementation changes.
 - [Corpus acquisition](capabilities/corpus-acquisition.md)
 - [Corpus curation](capabilities/corpus-curation.md)
 - [Corpus retrieval](capabilities/corpus-retrieval.md)
-- [Lore responses](capabilities/lore-responses.md)
+- [Travel planning](capabilities/travel-planning.md)
+- [Travel guides](capabilities/travel-guides.md)
 - [Evidence and attribution](capabilities/evidence-and-attribution.md)
-- [Conversations](capabilities/conversations.md)
+- [Travel consultations](capabilities/conversations.md)
 - [Web experience](capabilities/web-experience.md)
 - [Evaluation](capabilities/evaluation.md)
 - [Private demo](capabilities/private-demo.md)
@@ -36,9 +37,8 @@ behavior has been approved.
 
 Ubiquitous language remains important here. The filename is simply
 `glossary.md`: the practice is that product documents, code, tests, interfaces,
-and conversation use the same domain terms with the same meanings.
+and consultation use the same domain terms with the same meanings.
 
 The glossary contains domain concepts whose meaning matters across boundaries.
 It does not need an entry for every class, table, command flag, or UI component.
 Those local implementation names are best explained where they are used.
-

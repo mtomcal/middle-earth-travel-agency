@@ -1,4 +1,4 @@
-"""Operator entry point that delegates to :mod:`halls_of_knowledge.cli`.
+"""Operator entry point that delegates to :mod:`middle_earth_travel_agency.cli`.
 
 The script exists so an operator can run ``python scripts/backup_corpus.py``
 without remembering the console-script name. All behavior is owned by the
@@ -17,9 +17,9 @@ if str(_SRC) not in sys.path:
 
 
 def main() -> None:
-    from halls_of_knowledge.cli import console
+    from middle_earth_travel_agency.cli import console
 
-    sys.argv = ["hok", "corpus", "backup", *sys.argv[1:]]
+    sys.argv = ["meta", "corpus", "backup", *sys.argv[1:]]
     console()
 
 

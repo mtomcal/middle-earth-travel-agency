@@ -6,7 +6,7 @@ from datetime import UTC, datetime
 import pytest
 from email.message import Message
 
-from halls_of_knowledge.corpus_acquisition import (
+from middle_earth_travel_agency.corpus_acquisition import (
     CandidatePage,
     DiscoveryRecord,
     DiscoveryRequest,

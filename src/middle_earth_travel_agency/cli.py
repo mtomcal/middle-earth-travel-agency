@@ -31,8 +31,8 @@ class _EmptyCatalog:
 
 
 def _parser() -> argparse.ArgumentParser:
-    contact = os.environ.get("HOK_WIKIMEDIA_CONTACT")
-    parser = argparse.ArgumentParser(prog="hok")
+    contact = os.environ.get("META_WIKIMEDIA_CONTACT")
+    parser = argparse.ArgumentParser(prog="meta")
     commands = parser.add_subparsers(dest="command", required=True)
     corpus = commands.add_parser("corpus", help="offline corpus lifecycle")
     corpus_commands = corpus.add_subparsers(dest="corpus_command", required=True)
@@ -44,7 +44,7 @@ def _parser() -> argparse.ArgumentParser:
     discover.add_argument(
         "--contact",
         default=contact,
-        help="monitored email or URL (defaults to HOK_WIKIMEDIA_CONTACT)",
+        help="monitored email or URL (defaults to META_WIKIMEDIA_CONTACT)",
     )
     discover.add_argument("--minimum-request-interval", type=float, default=1.0)
     discover.add_argument("--output", type=Path, required=True)
@@ -57,7 +57,7 @@ def _parser() -> argparse.ArgumentParser:
     acquire.add_argument(
         "--contact",
         default=contact,
-        help="required for download (defaults to HOK_WIKIMEDIA_CONTACT)",
+        help="required for download (defaults to META_WIKIMEDIA_CONTACT)",
     )
     acquire.add_argument("--dump-path", type=Path)
     acquire.add_argument(

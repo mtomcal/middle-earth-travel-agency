@@ -596,7 +596,7 @@ def extract_article_artifacts(
     output_dir.mkdir(parents=True, exist_ok=True)
 
     with tempfile.TemporaryDirectory(
-        prefix="hok-redirects-", dir=output_dir.parent
+        prefix="meta-redirects-", dir=output_dir.parent
     ) as temporary_dir:
         database = sqlite3.connect(Path(temporary_dir) / "redirects.sqlite3")
         database.execute("PRAGMA journal_mode=MEMORY")

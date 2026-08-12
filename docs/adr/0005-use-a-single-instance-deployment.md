@@ -4,10 +4,11 @@
 
 ## Context
 
-Halls of Knowledge is a private experiment for a small invited audience and one
-operator. Its initial data model favors local SQLite state, immutable filesystem
-artifacts, and rebuildable retrieval indexes. Demand and availability
-requirements do not yet justify distributed coordination.
+Middle-earth Travel Agency is a private, noncommercial fan experiment for a
+small invited audience and one operator. Its initial data model favors local
+SQLite state, immutable filesystem artifacts, and rebuildable retrieval
+indexes. Demand and availability requirements do not yet justify distributed
+coordination.
 
 Exact AWS packaging, persistent-volume attachment, reverse proxy, and TLS
 termination remain undecided.
@@ -48,4 +49,3 @@ database, or a distributed filesystem into the initial demo.
 Reconsider this constraint when observed traffic exceeds a single instance,
 downtime becomes materially harmful, multiple operators require concurrent
 work, or recovery objectives cannot be met with verified backup and restore.
-

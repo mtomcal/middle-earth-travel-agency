@@ -1,0 +1,1 @@
+"""Middle-earth Travel Agency."""

@@ -33,4 +33,4 @@ logs/
 *.log
 # Temp/catalog directories and interrupted writes
 *.tmp
-hok-redirects-*/
+meta-redirects-*/

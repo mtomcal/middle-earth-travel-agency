@@ -6,22 +6,23 @@
 
 Evidence and attribution turn validated claim-to-passage bindings into
 understandable citations and conservative Wikimedia license treatment. They
-help a visitor inspect why a claim was made while preserving the separate legal
-purpose of attribution.
+help a traveler inspect why a claim was made while preserving the separate
+legal purpose of attribution.
 
 ## Desired outcomes
 
-- A visitor can connect a factual claim to supporting passage context and an
+- A traveler can connect a factual claim to supporting passage context and an
   exact source revision.
 - Citation presentation does not imply support that the response did not bind.
 - Wikipedia contributor and license treatment remains visible and accurate.
-- Internal provenance detail does not overwhelm or leak into the visitor
+- Internal provenance detail does not overwhelm or leak into the traveler
   experience.
 
 ## Boundaries
 
 This capability resolves existing evidence identities, validates bindings, and
-constructs citations, guide source lists, and attribution notices.
+constructs citations, guide source lists, and attribution notices for agency
+messages and guide revisions.
 
 It does not retrieve evidence, decide claim boundaries, invent claim support,
 render arbitrary model HTML, or determine final page layout.
@@ -32,12 +33,12 @@ render arbitrary model HTML, or determine final page layout.
   corpus release and to its exact Wikipedia revision.
 - A citation is associated with a specific grounded claim; a general source
   list is not a substitute.
-- A guide also provides a consolidated source list without implying that every
-  source supports every statement.
-- An abstention or claim-free conversational response does not need fabricated
+- A guide revision provides a consolidated source list without implying that
+  every source supports every statement.
+- An abstention or claim-free agency message does not need fabricated
   citations.
 - Attribution identifies Wikipedia contributors, the applicable exact revision
-  and license, and modifications made by Halls of Knowledge.
+  and license, and modifications made by Middle-earth Travel Agency.
 - Citation and attribution remain distinct even when presented in the same
   interface region.
 - Missing, stale, or mismatched evidence fails safely rather than producing a
@@ -68,7 +69,7 @@ release.
 
 ## Representative scenarios
 
-- A grounded claim references a valid passage; the visitor can reach the exact
+- A grounded claim references a valid passage; the traveler can reach the exact
   supporting revision and understand the article and section context.
 - A binding references a passage outside the response's release; final
   presentation fails rather than silently linking a different source.
@@ -83,4 +84,3 @@ release.
 Minimum claim granularity, source-panel placement, persistent versus collapsed
 attribution, and the broader legal boundary remain open. See
 [open product questions](../open-questions.md).
-

@@ -1,9 +1,9 @@
 """Tests for the deterministic corpus backup capability.
 
 Each test exercises one operator-visible behavior at a public seam:
-``halls_of_knowledge.corpus_backup.create_backup``,
-``halls_of_knowledge.corpus_backup.verify_backup``, and the two
-``hok corpus`` subcommands. The tests construct a canonical corpus fixture
+``middle_earth_travel_agency.corpus_backup.create_backup``,
+``middle_earth_travel_agency.corpus_backup.verify_backup``, and the two
+``meta corpus`` subcommands. The tests construct a canonical corpus fixture
 on disk, then assert the contract advertised in the spec.
 """
 
@@ -17,9 +17,9 @@ from pathlib import Path
 
 import pytest
 
-from halls_of_knowledge import corpus_backup
-from halls_of_knowledge.cli import main
-from halls_of_knowledge.corpus_backup import (
+from middle_earth_travel_agency import corpus_backup
+from middle_earth_travel_agency.cli import main
+from middle_earth_travel_agency.corpus_backup import (
     ARCHIVE_BASENAME_PREFIX,
     ARCHIVE_SUFFIX,
     BackupError,
@@ -281,19 +281,19 @@ def test_backup_excludes_secrets_dump_logs_temp_sqlite_and_invalid_runs(
     _seed_canonical(repo)
     _init_git(repo)
 
-    (repo / ".env").write_text("HOK_WIKIMEDIA_CONTACT=secret@example.test\n")
+    (repo / ".env").write_text("META_WIKIMEDIA_CONTACT=secret@example.test\n")
     (repo / "data" / "corpus" / "source" / "enwiki-20260701-pages-articles.xml.bz2").write_bytes(
         b"huge dump"
     )
     (
         repo / "data" / "corpus" / "source" / "enwiki-20260701-pages-articles.xml.bz2.tmp"
     ).write_bytes(b"part")
-    (repo / "hok-redirects-abc").mkdir()
-    (repo / "hok-redirects-abc" / "redirects.sqlite3").write_bytes(b"x")
+    (repo / "meta-redirects-abc").mkdir()
+    (repo / "meta-redirects-abc" / "redirects.sqlite3").write_bytes(b"x")
     (repo / "throttle.ctrl").write_text("busy")
     (repo / "logs").mkdir()
-    (repo / "logs" / "hok.log").write_text("log")
-    (repo / "hok.pid").write_text("42")
+    (repo / "logs" / "meta.log").write_text("log")
+    (repo / "meta.pid").write_text("42")
     (repo / "data" / "corpus" / "stray.json").write_text('{"unrelated": true}\n')
     _write(
         repo / "data" / "corpus" / "acquisition-result-20260720T120000000Z.json",
@@ -321,10 +321,10 @@ def test_backup_excludes_secrets_dump_logs_temp_sqlite_and_invalid_runs(
         ".env",
         "data/corpus/source/enwiki-20260701-pages-articles.xml.bz2",
         "data/corpus/source/enwiki-20260701-pages-articles.xml.bz2.tmp",
-        "hok-redirects-abc/redirects.sqlite3",
+        "meta-redirects-abc/redirects.sqlite3",
         "throttle.ctrl",
-        "logs/hok.log",
-        "hok.pid",
+        "logs/meta.log",
+        "meta.pid",
         "data/corpus/stray.json",
         "data/corpus/acquisition-result-20260720T120000000Z.json",
     }
@@ -740,8 +740,8 @@ def test_create_backup_uses_agreed_archive_basename(tmp_path: Path) -> None:
     _init_git(repo)
     out = tmp_path / "backups"
     create_backup(repo, label="acquisition-v1", output_dir=out)
-    assert (out / "hok-enwiki-20260701-acquisition-v1.tar.gz").is_file()
-    assert (out / "hok-enwiki-20260701-acquisition-v1.tar.gz.sha256").is_file()
+    assert (out / "meta-enwiki-20260701-acquisition-v1.tar.gz").is_file()
+    assert (out / "meta-enwiki-20260701-acquisition-v1.tar.gz.sha256").is_file()
 
 
 def test_verify_rejects_evil_member_even_if_manifest_lists_it(
@@ -794,8 +794,8 @@ def test_verify_rejects_evil_member_even_if_manifest_lists_it(
 
 
 def test_verify_rejects_duplicate_tar_member_names(tmp_path: Path) -> None:
-    archive = tmp_path / "hok-enwiki-20260701-dupes.tar.gz"
-    sidecar = tmp_path / "hok-enwiki-20260701-dupes.tar.gz.sha256"
+    archive = tmp_path / "meta-enwiki-20260701-dupes.tar.gz"
+    sidecar = tmp_path / "meta-enwiki-20260701-dupes.tar.gz.sha256"
     with tarfile.open(archive, "w:gz") as dst:
         payload = b"a"
         for _ in range(2):
@@ -876,9 +876,9 @@ def test_verify_rejects_duplicate_manifest_paths(tmp_path: Path) -> None:
 
 def test_verify_rejects_malformed_manifest_as_backup_error(tmp_path: Path) -> None:
     """Truncated gzip must surface as a BackupError, not a raw EOFError."""
-    archive = tmp_path / "hok-enwiki-20260701-truncated.tar.gz"
+    archive = tmp_path / "meta-enwiki-20260701-truncated.tar.gz"
     archive.write_bytes(b"\x1f\x8b\x08\x00")
-    sidecar = tmp_path / "hok-enwiki-20260701-truncated.tar.gz.sha256"
+    sidecar = tmp_path / "meta-enwiki-20260701-truncated.tar.gz.sha256"
     sidecar.write_text(
         hashlib.sha256(archive.read_bytes()).hexdigest() + "  " + archive.name + "\n"
     )
@@ -979,5 +979,5 @@ def test_scripts_backup_corpus_delegates_to_package_cli(tmp_path: Path) -> None:
         check=False,
     )
     assert completed.returncode == 0, completed.stderr
-    assert (out / "hok-enwiki-20260701-operator.tar.gz").is_file()
-    assert (out / "hok-enwiki-20260701-operator.tar.gz.sha256").is_file()
+    assert (out / "meta-enwiki-20260701-operator.tar.gz").is_file()
+    assert (out / "meta-enwiki-20260701-operator.tar.gz.sha256").is_file()

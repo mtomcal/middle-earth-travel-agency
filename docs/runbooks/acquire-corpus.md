@@ -11,7 +11,7 @@ uv sync
 Store the monitored Wikimedia contact in the gitignored `.env` file:
 
 ```dotenv
-HOK_WIKIMEDIA_CONTACT=mailto:YOUR_MONITORED_EMAIL
+META_WIKIMEDIA_CONTACT=mailto:YOUR_MONITORED_EMAIL
 ```
 
 The contact is required for Wikimedia network operations. `--contact` is
@@ -26,7 +26,7 @@ dump, a temporary SQLite redirect catalog, and extracted article artifacts.
 Run bounded category discovery and add direct human nominations as needed:
 
 ```bash
-uv run hok corpus discover \
+uv run meta corpus discover \
   --category "Middle-earth characters" \
   --category "Middle-earth locations" \
   --nominate "Gandalf" \
@@ -37,7 +37,7 @@ uv run hok corpus discover \
 Human nominations do not require network traffic or a contact value:
 
 ```bash
-uv run hok corpus discover \
+uv run meta corpus discover \
   --nominate "Gandalf" \
   --nominate "Mithrandir" \
   --output data/discovery/nominations.json
@@ -51,7 +51,7 @@ Acquire from the exact source selected by
 [ADR 0001](../adr/0001-use-a-pinned-wikimedia-source-snapshot.md):
 
 ```bash
-uv run hok corpus acquire \
+uv run meta corpus acquire \
   --discoveries data/discovery/initial.json \
   --data-dir data/corpus
 ```
@@ -66,7 +66,7 @@ If the dump is already present, supply its absolute path and actual retrieval
 timestamp:
 
 ```bash
-uv run hok corpus acquire \
+uv run meta corpus acquire \
   --discoveries data/discovery/initial.json \
   --data-dir data/corpus \
   --dump-path /absolute/path/enwiki-20260701-pages-articles.xml.bz2 \

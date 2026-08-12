@@ -5,7 +5,7 @@
 ## Context
 
 The product needs an inspectable evidence base whose contents and revision
-identity do not change between extraction, curation, evaluation, and visitor
+identity do not change between extraction, curation, evaluation, and traveler
 answers. Live Wikipedia requests and `/latest/` dump URLs would make the source
 move during that chain.
 
@@ -25,7 +25,7 @@ or replace the pinned revision.
 
 - Fixed revisions make displayed claims reproducible and attributable.
 - One sequential source is easier for a single operator to inspect and recover.
-- Offline acquisition keeps live network state outside visitor requests and
+- Offline acquisition keeps live network state outside traveler requests and
   agent tools.
 - A full dump avoids early complexity around multistream ranges and per-page
   consistency.
@@ -55,4 +55,3 @@ or replace the pinned revision.
 Reconsider this decision when corpus refresh frequency, corpus size, download
 cost, or multiple source authorities make a full sequential snapshot materially
 impractical.
-

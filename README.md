@@ -1,14 +1,23 @@
-# Halls of Knowledge
+# Middle-earth Travel Agency
 
-Halls of Knowledge is a private Tolkien-lore AI chat experiment for invited
-newcomers. It explores citation-grounded answers, honest abstention, temporal
-guide messages, provenance, and blinded retrieval evaluation against a small
+Middle-earth Travel Agency is a private, noncommercial fan demo that turns an
+agentic travel consultation into a personalized guide for an imagined journey
+through Middle-earth during the Third Age. It explores evidence-grounded
+planning, explicit temporal and traveler perspectives, honest limits, labeled
+travel inference, provenance, and blinded retrieval evaluation against a small
 human-curated English Wikipedia corpus.
+
+The conversation is the workshop; the travel guide is the product. The guide's
+in-world advice is accompanied by an editorial layer that distinguishes
+sourced lore, uncertainty, inference, citations, and attribution.
+
+This is an unofficial fan project and is not affiliated with or endorsed by the
+Tolkien Estate or other rights holders.
 
 The implemented slice currently covers offline candidate discovery,
 acquisition and extraction from the pinned Wikimedia source, and deterministic
-corpus backup. Curation, retrieval indexing, lore responses, evaluation, and the
-web experience are not implemented yet.
+corpus backup. Curation, retrieval indexing, travel planning, guide generation,
+evaluation, and the web experience are not implemented yet.
 
 ## Documentation
 
@@ -30,8 +39,11 @@ uv sync
 Store the monitored Wikimedia contact locally in the gitignored `.env` file:
 
 ```dotenv
-HOK_WIKIMEDIA_CONTACT=mailto:YOUR_MONITORED_EMAIL
+META_WIKIMEDIA_CONTACT=mailto:YOUR_MONITORED_EMAIL
 ```
+
+The implementation uses `middle_earth_travel_agency` as its Python package and
+`meta` as its command, with `META_*` reserved for project configuration.
 
 ## Current workflows
 

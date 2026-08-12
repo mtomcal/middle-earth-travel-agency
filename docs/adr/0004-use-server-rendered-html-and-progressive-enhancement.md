@@ -5,11 +5,11 @@
 ## Context
 
 The planned web product consists primarily of protected documents with stable
-URLs: conversations, assistant messages, sources, and blinded review forms.
+URLs: travel consultations, guide revisions, sources, and blinded review forms.
 Server state is authoritative, while streaming, cancellation, and a small
 catalog of typed generated content require focused browser lifecycle behavior.
 
-The visitor experience has not yet been fully authored or implemented, so this
+The traveler experience has not yet been fully authored or implemented, so this
 decision remains proposed.
 
 ## Decision
@@ -24,7 +24,7 @@ application for the initial demo.
 
 ## Rationale
 
-- Stable conversation and review documents fit server rendering naturally.
+- Stable consultation, guide, and review documents fit server rendering naturally.
 - Server authority remains visible and reload behavior is straightforward.
 - HTMX covers ordinary form and fragment workflows without creating a second
   client-side domain model.
@@ -56,4 +56,3 @@ Reconsider this decision if the product develops sustained cross-surface client
 state, predominantly bespoke interactive components, deeply editable generated
 content, offline or optimistic workflows, required non-HTML clients,
 independent frontend deployment, or recurring DOM-swap lifecycle failures.
-

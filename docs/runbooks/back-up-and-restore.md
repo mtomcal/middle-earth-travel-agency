@@ -7,7 +7,7 @@ command rejects a dirty working tree unless `--allow-dirty` is supplied
 deliberately.
 
 ```bash
-uv run hok corpus backup \
+uv run meta corpus backup \
   --label acquisition-v1 \
   --output-dir backups/
 ```
@@ -32,8 +32,8 @@ uv run python scripts/backup_corpus.py \
 Always verify an archive before treating it as recoverable:
 
 ```bash
-uv run hok corpus verify-backup \
-  backups/hok-enwiki-20260701-acquisition-v1.tar.gz
+uv run meta corpus verify-backup \
+  backups/meta-enwiki-20260701-acquisition-v1.tar.gz
 ```
 
 Verification checks the sidecar, archive safety, member allowlist, manifest
@@ -46,10 +46,10 @@ Restore into a new staging directory. Do not merge an unverified archive into
 the canonical corpus tree.
 
 ```bash
-uv run hok corpus verify-backup \
-  backups/hok-enwiki-20260701-acquisition-v1.tar.gz
+uv run meta corpus verify-backup \
+  backups/meta-enwiki-20260701-acquisition-v1.tar.gz
 mkdir restored-acquisition
-tar -xzf backups/hok-enwiki-20260701-acquisition-v1.tar.gz \
+tar -xzf backups/meta-enwiki-20260701-acquisition-v1.tar.gz \
   -C restored-acquisition
 ```
 

@@ -82,7 +82,7 @@ wheels = [
 ]
 
 [[package]]
-name = "halls-of-knowledge"
+name = "middle-earth-travel-agency"
 version = "0.1.0"
 source = { editable = "." }
 dependencies = [

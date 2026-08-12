@@ -2,80 +2,104 @@
 
 ## Purpose
 
-The private demo exists to produce evidence about product hypotheses. A working
-application is necessary but is not, by itself, a successful outcome.
+The noncommercial fan demo exists to produce evidence about whether an agentic
+consultation can create a useful and trustworthy Middle-earth travel guide. A
+working consultation interface or polished artifact is necessary but is not, by
+itself, a successful outcome.
 
 ## Hypotheses
 
-### Grounding improves trustworthiness
+### A consultation can turn vague intent into a coherent trip brief
 
-For questions covered by the curated corpus, retrieval-grounded responses
-should make supported factual claims and expose enough provenance for a reviewer
-to inspect their basis.
+The agency should identify the few choices that materially affect a journey:
+when it occurs, who is traveling, where the journey begins and ends, what the
+traveler values, and which constraints matter. It should make reasonable
+progress without turning the experience into a long questionnaire.
 
-Evidence comes from human review of factual support, citation correctness, and
-matched retrieval ablations.
+Evidence comes from reviewed consultations that begin with both vague and
+specific requests.
 
-### Abstention is better than unsupported fluency
+### Grounding improves guide trustworthiness
 
-When the corpus does not support an answer, the assistant should decline the
-unsupported portion rather than rely on plausible pretrained knowledge.
+For journeys covered by the curated corpus, retrieval-grounded guides should
+make supported factual claims and expose enough provenance for a reviewer to
+inspect their basis.
 
-Evidence comes from deliberately unsupported prompts and attempts to elicit
-facts the model may already know.
+Evidence comes from human review of factual support, citation correctness,
+temporal consistency, and matched retrieval ablations.
 
-### Newcomers can understand the answer
+### Inference makes a guide useful without masquerading as lore
 
-Grounding alone is insufficient if responses assume expert vocabulary or bury
-the useful explanation. Answers should be understandable to the initial
-newcomer audience while remaining faithful to evidence.
+Travel guides require synthesis that source prose rarely states directly,
+including route choice, journey legs, provisions, durations, and practical
+advice. Those additions should be useful while remaining visibly
+distinguishable from sourced lore.
 
-Evidence requires human judgment; citation presence is not a proxy for clarity.
+Evidence comes from reviewed guides that mix direct support, uncertain
+chronology, and itinerary inference.
 
-### Temporally framed guides are useful without pretending inference is fact
+### Honest limits are better than unsupported specificity
 
-A guide message should help a visitor explore places and routes within a stated
-fictional time and perspective. Any plausible synthesis not directly stated by
-sources should remain visibly distinguishable from sourced lore.
+When the corpus cannot support a place, route, date, danger, or custom, the
+agency should omit the detail, qualify it, ask the traveler to choose an
+assumption, or explicitly abstain. It should not rely on plausible pretrained
+knowledge or false precision.
 
-Evidence comes from reviewed guide cases covering supported facts, temporal
-uncertainty, and itinerary inference.
+Evidence comes from deliberately unsupported requests and prompts designed to
+elicit details the model may already know.
+
+### Newcomers can use the resulting guide
+
+The consultation and guide should orient a newcomer without assuming expert
+vocabulary. The artifact should communicate what the journey is, why each leg
+matters, and which advice is uncertain without requiring separate research.
+
+Evidence requires human judgment; citation presence is not a proxy for
+clarity, coherence, or usefulness.
+
+### Immersion and editorial transparency can coexist
+
+The main guide should feel addressed to a traveler in Middle-earth, while its
+editorial layer makes evidence, inference, uncertainty, and source attribution
+inspectable. Neither layer should undermine the meaning of the other.
 
 ### Provenance remains understandable end to end
 
-The operator should be able to trace displayed claims back through retrieved
+The operator should be able to trace displayed claims through retrieved
 passages, curation decisions, immutable article artifacts, and an exact source
-revision. Visitors need understandable citations and attribution, not access to
-internal storage details.
+revision. Travelers need understandable citations and attribution, not access
+to internal storage details.
 
 ## Initial evidence plan
 
 The initial evaluation suite should contain approximately 12 to 20
 human-reviewed cases spanning:
 
-- supported single-source facts;
-- small multi-source synthesis;
+- vague requests that require consultation;
+- a straightforward supported journey;
+- a journey requiring small multi-source synthesis;
+- alternative routes or traveler perspectives;
+- temporally inconsistent or impossible requests;
 - insufficient-evidence abstention;
-- explicit guide generation;
-- conflicting or uncertain accounts; and
+- uncertain travel logistics and explicitly labeled inference; and
 - prompts designed to elicit unsupported pretrained knowledge.
 
-Each case is run under normal retrieval and retrieval disabled. The owner
-reviews randomized left/right output pairs using `left better`, `tie`, `right
-better`, or `both fail`, with optional notes and tags. An automated model judge
-is intentionally outside the first experiment.
+Each guide-generation case is run under normal retrieval and retrieval
+disabled. The owner reviews randomized left/right output pairs using `left
+better`, `tie`, `right better`, or `both fail`, with optional notes and tags.
+An automated model judge is intentionally outside the first experiment.
 
 ## Success criteria still requiring a decision
 
-The suite does not yet have approved numeric thresholds for calling the product
-bet successful. Before the demo is treated as validated, the owner should decide:
+The suite does not yet have approved thresholds for calling the product bet
+successful. Before the demo is treated as validated, the owner should decide:
 
-- which failures are release-blocking regardless of aggregate results;
+- which factual, temporal, or inference-label failures block a release;
 - the minimum acceptable support and citation correctness;
-- the acceptable abstention behavior for supported and unsupported prompts;
-- how newcomer clarity will be judged; and
-- what ablation result would justify retaining or changing the retrieval
-  strategy.
+- what constitutes a sufficiently complete trip brief;
+- how guide coherence, newcomer clarity, and practical usefulness are judged;
+- the acceptable response to supported and unsupported requests; and
+- what ablation result justifies retaining or changing the retrieval strategy.
 
 Until those criteria exist, evaluation results are learning evidence rather
 than a pass/fail certification.
@@ -84,11 +108,14 @@ than a pass/fail certification.
 
 The following observations would challenge the current product direction:
 
-- retrieval-enabled answers frequently contain unsupported factual claims;
-- retrieval-disabled answers perform equivalently without a meaningful change
-  in support or abstention;
+- consultations ask many questions without materially improving the guide;
+- guides read like generic lore summaries instead of serving a journey;
+- retrieval-enabled guides frequently contain unsupported or temporally
+  inconsistent factual claims;
+- route and logistics inference is presented as canonical fact;
+- retrieval-disabled guides perform equivalently without a meaningful change
+  in support, transparency, or abstention;
 - citations are present but do not support their associated claims;
-- newcomers cannot understand answers without substantial external context;
-- guide messages blur sourced facts and inferred routes; or
-- corpus preparation costs overwhelm the value learned from the private demo.
-
+- newcomers cannot understand or use the guide without substantial outside
+  context; or
+- corpus preparation costs overwhelm the value learned from the demo.

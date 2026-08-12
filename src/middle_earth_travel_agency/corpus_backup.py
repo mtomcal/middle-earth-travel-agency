@@ -8,7 +8,7 @@ Public seams:
   extracting files to disk.
 
 All domain failures raise :class:`BackupError` (a :class:`ValueError`
-subclass) so the existing ``hok`` console entry point can surface them as
+subclass) so the ``meta`` console entry point can surface them as
 operator-actionable errors. Internal Python errors during verification
 (malformed JSON, truncated gzip) are converted to :class:`BackupError`
 with an operator-readable message.
@@ -38,7 +38,7 @@ MANIFEST_FILENAME = "backup-manifest.json"
 ARCHIVE_SUFFIX = ".tar.gz"
 SIDECAR_SUFFIX = ".sha256"
 PART_SUFFIX = ".part"
-ARCHIVE_BASENAME_PREFIX = "hok-enwiki-20260701"
+ARCHIVE_BASENAME_PREFIX = "meta-enwiki-20260701"
 
 # Pinned source identity required on every canonical backup.
 WIKI_DATABASE = "enwiki"

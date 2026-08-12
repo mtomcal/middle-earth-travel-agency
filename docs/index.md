@@ -1,8 +1,8 @@
 # Project documentation
 
-This documentation explains why Halls of Knowledge has its present shape and
-which commitments an implementation must preserve. It is deliberately not a
-prose copy of the code.
+This documentation explains why Middle-earth Travel Agency has its present
+shape and which commitments an implementation must preserve. It is
+deliberately not a prose copy of the code.
 
 ## Sources of authority
 
@@ -59,4 +59,3 @@ Before editing a product document, ask:
 > commitment, or a durable trust boundary?
 
 If the answer is yes, the product document should normally remain unchanged.
-

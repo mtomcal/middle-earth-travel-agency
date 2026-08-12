@@ -23,7 +23,7 @@ plain-text search, immediate surrounding context, and the controlled
 retrieval-disabled condition.
 
 It does not curate content, select the active release, write an answer, decide
-whether a result supports a claim, or construct visitor-facing citations.
+whether a result supports a claim, or construct traveler-facing citations.
 
 ## Durable invariants
 
@@ -86,4 +86,3 @@ the response capability's responsibility.
 
 The lexical baseline should be replaced or supplemented only when evaluation
 shows a specific failure that a more complex strategy can address.
-

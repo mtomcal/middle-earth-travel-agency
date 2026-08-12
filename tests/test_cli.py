@@ -1,7 +1,7 @@
 import json
 
-from halls_of_knowledge import cli
-from halls_of_knowledge.cli import main
+from middle_earth_travel_agency import cli
+from middle_earth_travel_agency.cli import main
 
 
 def test_nomination_discovery_command_writes_repeatable_schema(tmp_path):
@@ -27,8 +27,8 @@ def test_nomination_discovery_command_writes_repeatable_schema(tmp_path):
 
 def test_category_discovery_loads_contact_from_dotenv(tmp_path, monkeypatch):
     monkeypatch.chdir(tmp_path)
-    monkeypatch.delenv("HOK_WIKIMEDIA_CONTACT", raising=False)
-    (tmp_path / ".env").write_text("HOK_WIKIMEDIA_CONTACT=mailto:operator@example.test\n")
+    monkeypatch.delenv("META_WIKIMEDIA_CONTACT", raising=False)
+    (tmp_path / ".env").write_text("META_WIKIMEDIA_CONTACT=mailto:operator@example.test\n")
     observed = {}
 
     class Catalog:

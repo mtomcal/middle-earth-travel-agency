@@ -1,7 +1,7 @@
 [project]
-name = "halls-of-knowledge"
+name = "middle-earth-travel-agency"
 version = "0.1.0"
-description = "Private, curated Tolkien-lore corpus tooling"
+description = "Agentic Middle-earth travel-guide demo with curated lore grounding"
 requires-python = ">=3.12"
 dependencies = [
   "mwparserfromhell>=0.7,<0.8",
@@ -10,7 +10,7 @@ dependencies = [
 ]
 
 [project.scripts]
-hok = "halls_of_knowledge.cli:console"
+meta = "middle_earth_travel_agency.cli:console"
 
 [dependency-groups]
 dev = ["pytest>=8,<9", "ruff>=0.12,<0.13"]
@@ -20,7 +20,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [tool.hatch.build.targets.wheel]
-packages = ["src/halls_of_knowledge"]
+packages = ["src/middle_earth_travel_agency"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

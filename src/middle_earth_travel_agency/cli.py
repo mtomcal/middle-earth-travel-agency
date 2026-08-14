@@ -24,6 +24,7 @@ from .corpus_acquisition import (
 )
 from .corpus_backup import create_backup, verify_backup
 from .corpus_curation import CurationState, load_corpus, run_terminal
+from .curation_snapshot import export_snapshot, load_snapshot
 
 
 class _EmptyCatalog:
@@ -101,6 +102,24 @@ def _parser() -> argparse.ArgumentParser:
         "--review-deferred",
         action="store_true",
         help="revisit deferred passages in deterministic corpus order",
+    )
+
+    export_curation = corpus_commands.add_parser(
+        "export-curation", help="write deterministic, versionable curation JSONL"
+    )
+    export_curation.add_argument(
+        "--state-db", type=Path, required=True, help="SQLite curation state to export"
+    )
+    export_curation.add_argument(
+        "--output", type=Path, required=True, help="JSONL snapshot to create or update"
+    )
+
+    load_curation = corpus_commands.add_parser(
+        "load-curation", help="create SQLite curation state from versioned JSONL"
+    )
+    load_curation.add_argument("--input", type=Path, required=True, help="curation JSONL snapshot")
+    load_curation.add_argument(
+        "--state-db", type=Path, required=True, help="new SQLite curation state to create"
     )
     return parser
 
@@ -263,6 +282,21 @@ def _curate(arguments: argparse.Namespace) -> int:
     return 0
 
 
+def _export_curation(arguments: argparse.Namespace) -> int:
+    result = export_snapshot(arguments.state_db, arguments.output)
+    print(
+        f"exported {result.audit_events} audit event(s) and "
+        f"{result.metadata_records} metadata record(s) to {arguments.output}"
+    )
+    return 0
+
+
+def _load_curation(arguments: argparse.Namespace) -> int:
+    result = load_snapshot(arguments.input, arguments.state_db)
+    print(f"loaded {result.audit_events} audit event(s) into {arguments.state_db}")
+    return 0
+
+
 def main(argv: Sequence[str] | None = None) -> int:
     load_dotenv(dotenv_path=Path.cwd() / ".env")
     arguments = _parser().parse_args(argv)
@@ -276,6 +310,10 @@ def main(argv: Sequence[str] | None = None) -> int:
         return _verify(arguments)
     if arguments.corpus_command == "curate":
         return _curate(arguments)
+    if arguments.corpus_command == "export-curation":
+        return _export_curation(arguments)
+    if arguments.corpus_command == "load-curation":
+        return _load_curation(arguments)
     raise AssertionError("unreachable command")
 
 

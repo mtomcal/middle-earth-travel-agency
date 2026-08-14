@@ -16,7 +16,8 @@ Tolkien Estate or other rights holders.
 
 The implemented slice currently covers offline candidate discovery, acquisition
 and extraction from the pinned Wikimedia source, deterministic corpus backup,
-and a passage-only terminal curation cockpit with auditable SQLite state.
+and a passage-only terminal curation cockpit with auditable SQLite working state
+and a deterministic, versionable JSONL representation.
 Release publication, retrieval indexing, travel planning, guide generation,
 evaluation, and the web experience are not implemented yet.
 

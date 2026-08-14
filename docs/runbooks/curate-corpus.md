@@ -12,9 +12,9 @@ The command requires two paths:
 - `--articles-dir` is the directory of immutable JSON article artifacts created
   by corpus acquisition. The repository's current acquisition is under
   `data/corpus/articles/`.
-- `--state-db` is the SQLite file that will hold decisions, audit events, and
-  resume positions. Choose this path once and reuse the exact same path for
-  every session over that acquisition.
+- `--state-db` is the SQLite working file that holds decisions, audit events,
+  and resume positions while the cockpit runs. Choose this path once and reuse
+  the exact same path for every session over that acquisition.
 
 The state database is created automatically, including its parent directory.
 For the current repository layout, use:
@@ -24,11 +24,29 @@ data/curation/initial.sqlite
 ```
 
 Files below `data/curation/` are operator working state and are ignored by Git's
-broad `data/**` rule. The SQLite file is nevertheless authoritative curation
-evidence, not a disposable cache.
+broad `data/**` rule except for JSONL snapshots. The SQLite file is an
+operational projection of the versioned curation evidence, not a disposable
+cache while it contains decisions that have not yet been exported.
 
 Do not point `--state-db` at an existing database from another acquisition, and
 do not give two running cockpit processes the same state database.
+
+## Restore the SQLite working state
+
+The tracked curation record is `data/curation/initial.jsonl`. If the SQLite
+working file does not exist, reconstruct it before starting the cockpit:
+
+```bash
+uv run meta corpus load-curation \
+  --input data/curation/initial.jsonl \
+  --state-db data/curation/initial.sqlite
+```
+
+The loader validates the JSONL schema, metadata, audit-event supersession
+relationships, and resulting SQLite integrity before publishing the database.
+It refuses to overwrite an existing SQLite file. The cockpit subsequently
+checks that the reconstructed database belongs to the supplied article
+artifacts and current rubric.
 
 ## Prepare the project
 
@@ -211,27 +229,32 @@ For curation to be complete, both `deferred` and `undecided` should be zero.
 Only effective internal-lore decisions are eligible for a future corpus
 release. This command does not yet create or validate that release.
 
-## Protect the curation record
+## Version the curation record
 
-Treat `data/curation/initial.sqlite` as irreplaceable operator evidence:
-
-- Keep using the same file for this artifact set and rubric.
-- Do not edit its tables manually or replace it while the cockpit is running.
-- Do not use the acquisition backup command as proof that curation is backed
-  up; that command currently protects acquisition evidence, not this SQLite
-  working state.
-- Before a long session, after a long session, and before changing the curation
-  implementation, make a consistent SQLite backup while the cockpit is closed:
+After quitting the cockpit, export the closed SQLite working database:
 
 ```bash
-mkdir -p backups/curation
-sqlite3 data/curation/initial.sqlite \
-  ".backup 'backups/curation/initial.sqlite'"
+uv run meta corpus export-curation \
+  --state-db data/curation/initial.sqlite \
+  --output data/curation/initial.jsonl
 ```
 
-Use a dated or otherwise unique destination name for retained backups rather
-than overwriting the example repeatedly. The `backups/` directory is ignored by
-Git, so copy important backups to separate protected storage as well.
+The exporter writes deterministic UTF-8 JSON Lines in audit-event ID order and
+atomically replaces the prior JSONL snapshot. With unchanged SQLite input,
+repeated exports are byte-identical. Review the Git diff and commit the JSONL
+after each curation session that changes state.
+
+Treat `data/curation/initial.jsonl` as the portable source of curation evidence
+and the SQLite database as its writable operational form:
+
+- Do not edit the JSONL or SQLite tables manually.
+- Do not export while the cockpit is running; a consistent export could still
+  omit decisions saved after the export transaction begins.
+- Do not delete the SQLite working file until its latest decisions have been
+  exported and the JSONL has been loaded successfully as a verification check.
+- Do not use the acquisition backup command as proof that curation is backed
+  up; that command protects acquisition evidence. Git and an external copy of
+  the tracked JSONL protect curation evidence.
 
 ## Respond to errors
 

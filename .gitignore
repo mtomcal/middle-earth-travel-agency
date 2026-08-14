@@ -23,6 +23,8 @@ data/**
 !data/corpus/acquisition-result.json
 !data/corpus/articles/
 !data/corpus/articles/*.json
+!data/curation/
+!data/curation/*.jsonl
 # The broad data/ rule above also excludes source dumps and invalidated runs.
 # Keep their explicit names here so that policy remains obvious if data/ rules change.
 data/corpus/source/*.bz2

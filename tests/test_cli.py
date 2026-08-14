@@ -266,6 +266,50 @@ def test_curation_command_runs_and_closes_state(tmp_path, monkeypatch):
     assert closed == [True]
 
 
+def test_curation_snapshot_commands_delegate_and_report(tmp_path, monkeypatch, capsys):
+    snapshot = tmp_path / "curation.jsonl"
+    database = tmp_path / "curation.sqlite"
+    observed = []
+    result = SimpleNamespace(audit_events=7, metadata_records=2)
+    monkeypatch.setattr(
+        cli, "export_snapshot", lambda source, output: observed.append((source, output)) or result
+    )
+    monkeypatch.setattr(
+        cli, "load_snapshot", lambda source, output: observed.append((source, output)) or result
+    )
+
+    assert (
+        main(
+            [
+                "corpus",
+                "export-curation",
+                "--state-db",
+                str(database),
+                "--output",
+                str(snapshot),
+            ]
+        )
+        == 0
+    )
+    assert (
+        main(
+            [
+                "corpus",
+                "load-curation",
+                "--input",
+                str(snapshot),
+                "--state-db",
+                str(database),
+            ]
+        )
+        == 0
+    )
+    assert observed == [(database, snapshot), (snapshot, database)]
+    output = capsys.readouterr().out
+    assert "exported 7 audit event(s)" in output
+    assert "loaded 7 audit event(s)" in output
+
+
 def test_console_reports_expected_operator_errors(monkeypatch, capsys):
     monkeypatch.setattr(cli, "main", lambda: (_ for _ in ()).throw(ValueError("bad input")))
 

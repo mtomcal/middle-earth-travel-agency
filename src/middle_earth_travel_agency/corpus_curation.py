@@ -28,6 +28,20 @@ CLASSIFICATIONS = {
 }
 ACTION_KEYS = frozenset((*CLASSIFICATIONS, "s"))
 
+CURATION_SCHEMA_SQL = """
+CREATE TABLE IF NOT EXISTS curation_meta (key TEXT PRIMARY KEY, value TEXT NOT NULL);
+CREATE TABLE IF NOT EXISTS audit_events (
+  id INTEGER PRIMARY KEY, action TEXT NOT NULL, passage_id TEXT NOT NULL,
+  classification TEXT, rubric_id TEXT NOT NULL, question TEXT NOT NULL,
+  evidence TEXT NOT NULL, semantic_answer TEXT NOT NULL, created_at TEXT NOT NULL,
+  supersedes_event_id INTEGER REFERENCES audit_events(id)
+);
+CREATE TABLE IF NOT EXISTS session_state (
+  singleton INTEGER PRIMARY KEY CHECK (singleton = 1), current_passage_id TEXT,
+  current_undecided_passage_id TEXT, current_deferred_passage_id TEXT
+);
+"""
+
 
 @dataclass(frozen=True)
 class Passage:
@@ -134,21 +148,7 @@ class CurationState:
         self.connection.close()
 
     def _create_schema(self) -> None:
-        self.connection.executescript(
-            """
-            CREATE TABLE IF NOT EXISTS curation_meta (key TEXT PRIMARY KEY, value TEXT NOT NULL);
-            CREATE TABLE IF NOT EXISTS audit_events (
-              id INTEGER PRIMARY KEY, action TEXT NOT NULL, passage_id TEXT NOT NULL,
-              classification TEXT, rubric_id TEXT NOT NULL, question TEXT NOT NULL,
-              evidence TEXT NOT NULL, semantic_answer TEXT NOT NULL, created_at TEXT NOT NULL,
-              supersedes_event_id INTEGER REFERENCES audit_events(id)
-            );
-            CREATE TABLE IF NOT EXISTS session_state (
-              singleton INTEGER PRIMARY KEY CHECK (singleton = 1), current_passage_id TEXT,
-              current_undecided_passage_id TEXT, current_deferred_passage_id TEXT
-            );
-            """
-        )
+        self.connection.executescript(CURATION_SCHEMA_SQL)
         columns = {row[1] for row in self.connection.execute("PRAGMA table_info(session_state)")}
         for column in ("current_undecided_passage_id", "current_deferred_passage_id"):
             if column not in columns:

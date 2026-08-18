@@ -1,0 +1,278 @@
+{
+  "article_artifact_id": "article_dccc324d71ed3416548bb2705aaebc3368321662f36e1e05ae7f94abbba53a20",
+  "canonical_title": "Battle of the Morannon",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_dccc324d71ed3416548bb2705aaebc3368321662f36e1e05ae7f94abbba53a20",
+      "heading_path": [
+        "Battle"
+      ],
+      "normalized_text": "The battle took place on 25 March. Before the battle began, Sauron sent the Black Númenórean called the Mouth of Sauron to speak with the Captains of the West. He tried to trick Gandalf into believing Sauron held Frodo captive, displaying as evidence Sam's sword, an Elven cloak, and Frodo's mithril shirt. The Mouth threatened that Frodo would be tortured if the West did not agree to Sauron's terms of surrender. Gandalf took the items from the Mouth of Sauron, and dismissed him.",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_3fea78609a806739436fadb90d91a59394464e93d13d14ec885f809aeb7ba1d5",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_dccc324d71ed3416548bb2705aaebc3368321662f36e1e05ae7f94abbba53a20",
+      "heading_path": [
+        "Battle"
+      ],
+      "normalized_text": "The forces of Sauron advanced and surrounded the Army of the West. Sauron's army outnumbered that of the West by at least ten to one. The Army of the West divided itself into two rings upon hills of rubble opposite the gate: Aragorn, Gandalf, and the sons of Elrond \"with the Dúnedain about them\" were on the left, with Éomer, Imrahil, and the Knights of Dol Amroth on the right. Against them were hordes of Orcs, Trolls, and Men, Easterlings and Haradrim. The Olog-hai, improved versions of Trolls, appeared for the first time. During the battle, the hobbit Pippin Took, marching as a Guard of the Citadel of Minas Tirith, killed a Troll. The surviving Nazgûl hovered over the Army of the West and spread fear and confusion. The giant Eagles of the Misty Mountains, led by Gwaihir the Windlord, attacked the Ringwraiths.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_1205c02c7ae9b75cd7b8253ea217d7cd531acc146566b57ebe4c999d6d25c18c",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_dccc324d71ed3416548bb2705aaebc3368321662f36e1e05ae7f94abbba53a20",
+      "heading_path": [
+        "Battle"
+      ],
+      "normalized_text": "The Orcs and other creatures of Sauron were left directionless with his demise, and were easily defeated by the Army of the West. Some killed themselves, while others fled. The proud Easterlings and Haradrim fought on bravely, though eventually many surrendered, to be sent home in peace by Aragorn as he established the renewed and united Kingdoms of Gondor and Arnor.",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_82a46cde1a4c325dcac046840c0fecb276a0a7cb8e6bac0424839f4c6182d279",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_dccc324d71ed3416548bb2705aaebc3368321662f36e1e05ae7f94abbba53a20",
+      "heading_path": [
+        "Adaptations"
+      ],
+      "normalized_text": "thumb|upright=1.35|Peter Jackson's film version of the battle in his 2003 The Return of the King, showing the large scale of the scene with many extras and massive use of CGI. Barad-dûr and Mount Doom can be seen through the open gate between the Towers of the Teeth.",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_0037ca672fcf49055bdcec11095508056d55c3619262d940b6c2a9ce06a9c37b",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Battle_of_the_Morannon&action=history",
+  "namespace": 0,
+  "page_id": 766996,
+  "parent_revision_id": 1338261866,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1338302567",
+  "raw_wikitext": "{{short description|Fictional battle in The Lord of the Rings}}\n{{good article}}\n{{Use British English|date=September 2024}}\n{{Use dmy dates|date=May 2021}}\nIn [[J. R. R. Tolkien]]'s [[epic fantasy]] novel ''[[The Lord of the Rings]]'', the '''Battle of the Morannon''' or the '''Battle of the Black Gate''' is the final confrontation in the [[War of the Ring]]. [[Gondor]] and its allies send a small army ostensibly to challenge [[Sauron]] at the entrance to his land of [[Mordor]]; he supposes that they have with them the [[One Ring]] and mean to use it to defeat him. In fact, the Ring is being carried by the hobbits [[Frodo Baggins]] and [[Sam Gamgee]] into Mordor to destroy it in [[Mount Doom]], and the army is moving to distract Sauron from them. Before the battle, a nameless leader, the \"Mouth of Sauron\", taunts the leaders of the army with the personal effects of Frodo and Sam. The battle begins, but just as it seems the army of Gondor will be overwhelmed, the Ring is destroyed, and the forces of Sauron lose heart. Mount Doom erupts, and Sauron's tower, [[Barad-dûr]], collapses, along with the Black Gate. The army of Gondor returns home victorious, the War of the Ring won.\n\n== Context ==\n\nThe final battle against [[Sauron]] in the [[War of the Ring]], fought at the Morannon, the Black Gate of [[Mordor]]. The Army of the West, led by [[Aragorn]], marched on the gate to distract Sauron's attention from the hobbits [[Frodo Baggins]] and [[Sam Gamgee]], who were dangerously carrying the [[One Ring]] into Mordor. It was hoped that Sauron would think Aragorn had the Ring and was now trying to use it to overthrow Mordor. As the journey progressed, Aragorn was credited openly as \"the King Elessar\" by their [[herald]]s to challenge Sauron.<ref name=\"The Last Debate\" group=T>{{harvnb|Tolkien|1955|loc=\"The Last Debate\"}}</ref>\n\nAragorn had around 7,000 soldiers of Gondor and [[Rohan (Middle-earth)|Rohan]], some 6,000 foot and 1,000 horse. The army included King [[Éomer]] of Rohan; Prince Imrahil of [[Dol Amroth]]; Elladan and Elrohir, the twin sons of [[Elrond]]; [[Beregond]], a Guard of the Citadel of [[Minas Tirith]]; and five of the eight{{efn|[[Frodo Baggins|Frodo]] and [[Samwise Gamgee|Sam]] were in Mordor, and [[Merry Brandybuck|Merry]] remained in Minas Tirith recovering from the effects of attacking the [[Witch-king of Angmar|Captain of the Nazgûl]].}} surviving members of the [[Company of the Ring]] (Aragorn, [[Gandalf]], [[Legolas]], [[Gimli (Middle-earth)|Gimli]] and [[Pippin Took|Pippin]]).<ref name=\"The Last Debate\" group=T/>\n\nThey were ambushed by [[Orc (Middle-earth)|Orcs]] and Easterlings on the very spot where [[Faramir]] and the Rangers of Ithilien had ambushed a company of [[Haradrim]] some two weeks earlier, but the enemy was beaten back without much loss. Aragorn realized that this was an intentionally weak feint, meant to lure them into thinking that Sauron's army was exhausted. Later, some whose fear overcame them were sent to retake and hold the island of Cair Andros. Thus the Army of the West was less than 6,000 strong at the Black Gate.<ref name=\"mouth\" group=T>{{harvnb|Tolkien|1955|loc=\"The Black Gate Opens\"}}</ref>\n\n== Battle ==\n\nThe battle took place on 25 March. Before the battle began, Sauron sent the [[Black Númenórean]] called the Mouth of Sauron to speak with the Captains of the West. He tried to trick [[Gandalf]] into believing Sauron held Frodo captive, displaying as evidence Sam's sword, an [[Elf (Middle-earth)|Elven]] cloak, and Frodo's ''[[mithril]]'' shirt. The Mouth threatened that Frodo would be tortured if the West did not agree to Sauron's terms of surrender. Gandalf took the items from the Mouth of Sauron, and dismissed him.<ref name=\"mouth\" group=T/>\n\nThe forces of Sauron advanced and surrounded the Army of the West. Sauron's army outnumbered that of the West by at least ten to one. The Army of the West divided itself into two rings upon hills of rubble opposite the gate:  Aragorn, Gandalf, and the sons of [[Elrond]] \"with the [[Dúnedain]] about them\" were on the left, with Éomer, Imrahil, and the Knights of [[Dol Amroth]] on the right. Against them were hordes of Orcs, [[Troll (Middle-earth)|Trolls]], and Men, Easterlings and [[Haradrim]]. The [[Olog-hai]], improved versions of Trolls, appeared for the first time.<ref name=\"mouth\" group=T/> During the battle, the hobbit [[Pippin Took]], marching as a Guard of the Citadel of [[Minas Tirith]], killed a Troll. The surviving [[Nazgûl]] hovered over the Army of the West and spread fear and confusion. The giant [[Eagle (Middle-earth)|Eagles]] of the [[Misty Mountains]], led by Gwaihir the Windlord, attacked the Ringwraiths.<ref name=\"mouth\" group=T/> \n\nAt that moment, when all hope seemed lost, Frodo put on the One Ring, revealing to Sauron that Frodo was inside [[Mount Doom]], and the Ring was in peril. He immediately summoned the Nazgûl from the battle to intercept Frodo; the army of Mordor, bereft of Sauron's attention, was thrown into disarray. [[Gollum]] bit the Ring off Frodo's finger. As Gollum celebrated, he fell with the Ring into the [[Orodruin|Crack of Doom]], destroying Sauron's power. The Nazgûl perished.<ref name=\"Mount Doom\" group=T>{{harvnb|Tolkien|1955|loc=\"Mount Doom\"}}</ref> [[Barad-dûr]], the Black Gate and the Towers of the Teeth collapsed as their foundations were built with the power of the Ring.<ref name=\"Mount Doom\" group=T/> Sauron perished; his gigantic shadow formed in the sky and reached out in wrath, but was blown away and his spirit was left forever bodiless and impotent.<ref name=\"The Field of Cormallen\" group=T>{{harvnb|Tolkien|1955|loc=\"The Field of Cormallen\"}}</ref>\n\nThe Orcs and other creatures of Sauron were left directionless with his demise, and were easily defeated by the Army of the West. Some killed themselves, while others fled. The proud Easterlings and Haradrim fought on bravely, though eventually many surrendered, to be sent home in peace by Aragorn as he established the renewed and united Kingdoms of Gondor and Arnor.<ref name=\"The Field of Cormallen\" group=T/>\n\n== Analysis ==\n\n=== Christianity ===\n\n{{further|Christianity in Middle-earth}}\n\nThe Tolkien scholar [[Tom Shippey]] writes that Tolkien, a [[Roman Catholic]], comes very close to [[allegory]] and [[Christianity in Middle-earth|writing about Christian revelation]] in moments of what Tolkien called \"[[eucatastrophe]]\". When the [[One Ring]] is destroyed and Sauron is overthrown for <!--two words, British English, meaning is different from the single word-->ever, an eagle comes to report the glad news. The eagle sings a song that, Shippey notes, sounds very much like [[Psalms]] [[Psalm 24|24]] and [[Psalm 33|33]] in the [[Bible]], complete with [[Authorised Version]] words like \"ye\" and \"hath\". When the eagle sings \"and the Black Gate is broken\", Shippey writes, the surface meaning is the Gate of the Morannon, but it could \"''very easily'' [[Hell and Middle-earth|apply to Death and Hell]]\", as in [[Matthew 16:18]]. In his view, this degree of [[double meaning]] was \"deliberate\", as the date was 25 March, for the [[Anglo-Saxons]] the date of [[Jesus' Crucifixion|Christ's Crucifixion]], and [[the Annunciation]], and the [[Genesis creation narrative|last day of Creation]].{{sfn|Shippey|2005|pp=226–227}}\n\n=== Courage ===\n\n{{further|Northern courage in Middle-earth}}\n\nThe Tolkien critic [[Paul H. Kocher]] states that while commentators have noted the \"self-sacrificial courage\" of the hobbits Frodo and Sam crossing Mordor to destroy the One Ring, far fewer had spoken of the \"equal if less solitary unselfish daring\" of the 7,000 men who offered battle at the Morannon. Kocher notes that if Frodo and Sam had completed their mission an hour later, the whole army would have been lost, given the \"desperate\" odds; the hobbits saved the army, but just as much, the army \"saved the hobbits and so the West\".<ref>{{cite book |last=Kocher |first=Paul |author-link=Paul H. Kocher |title=Master of Middle-earth: The Achievement of J.R.R. Tolkien |title-link=Master of Middle-earth |date=1974 |orig-year=1972 |publisher=[[Penguin Books]] |isbn=978-0-14-003877-4 |pages=140–141}}</ref>\n\n=== 20th century parallels ===\n\n{{further|The Great War and Middle-earth}}\n\nCommentators have drawn parallels between the Mouth of Sauron and notable figures during [[World War II]]: Gandalf's refusal to negotiate with a mere mouthpiece of Sauron and turning down his master's harsh terms of occupation was described as an echo of [[Winston Churchill]] by Daniel Timmons,<ref>{{cite book |last=Timmons |first=Daniel |title=Tolkien and Shakespeare: essays on shared themes and language |editor-first=Janet Brennan |editor-last=Croft |editor-link=Janet Brennan Croft |publisher=McFarland & Co |year=2006 |isbn=0-7864-2827-9 |page=87 |url=https://books.google.com/books?id=-WGaDtnHUOYC&pg=PA87}}</ref> while Shippey compared the Mouth of Sauron's offer of peace in exchange for the Army of the West's surrender in slavery to [[Vichy France]] under [[Nazi German]] occupation.{{sfn|Shippey|2005|pp=175–176}}\n\n=== Psychological quest ===\n\n{{further|Psychological journeys of Middle-earth}}\n\nGregory Bassham and Eric Bronson's ''The Hobbit and Philosophy'' notes that the hobbit Pippin, who starts out on the [[Quests in Middle-earth|quest]] playful and childish, is radically altered by his experiences, as shown by his killing of a troll in the Battle of the Morannon.<ref name=\"BasshamBronson2012\">{{cite book |last1=Bassham |first1=Gregory |last2=Bronson |first2=Eric |title=The Hobbit and Philosophy: For When You've Lost Your Dwarves, Your Wizard, and Your Way |url=https://books.google.com/books?id=33HUiYwuBxQC&pg=PA14 |year=2012 |publisher=[[John Wiley & Sons]] |isbn=978-0-470-40514-7 |page=14}}</ref>\n\n== Adaptations ==\n\n[[File:Battle_of_the_Morannon.jpg|thumb|upright=1.35<!--fmt for low image-->|[[Peter Jackson]]'s film version of the battle in his 2003 ''[[The Lord of the Rings: The Return of the King|The Return of the King]]'', showing the large scale of the scene with many extras and massive use of [[Computer animation|CGI]].<ref name=\"Wilkinson 2020\"/> [[Barad-dûr]] and Mount Doom can be seen through the open gate between the Towers of the Teeth.]]\n\nIn 1957, Morton Grady Zimmerman and colleagues proposed to Tolkien with a screenplay that they make a film of ''Lord of the Rings'' combining animation, miniatures and live action. The final drama of the Battle of the Black Gate was to feature Gandalf's turning each of the ringwraiths to stone in front of the watching armies. Tolkien was strongly opposed to their approach and nothing came of it.<ref name=\"StratynerKeller2015\">{{cite book |last1=Stratyner |first1=Leslie |last2=Keller |first2=James R. |title=Fantasy Fiction into Film: Essays |url=https://books.google.com/books?id=k39NBgAAQBAJ&pg=PA8 |date=21 January 2015 |publisher=McFarland |isbn=978-1-4766-1135-8 |page=8}}</ref>\n<!--In the [[Rankin/Bass]] [[The Return of the King (1980 film)|animated film adaptation]], the battle ... UNABLE TO SOURCE THIS--> \n<!--In the [[The Lord of the Rings (1981 radio series)|1981 radio series]], the encounter with the Mouth of Sauron and the events preceding the battle are faithful to the book. However, the battle itself is virtually omitted. UNABLE TO SOURCE THIS-->\n\n[[Peter Jackson]]'s film adaptation of ''[[The Lord of the Rings: The Return of the King|The Return of the King]]'' is interspersed with scenes of Frodo and Sam at Mount Doom, and focuses mainly on the characters of Gandalf, Aragorn, and the rest of the Fellowship. Aragorn fights a troll, a departure from the book;<ref>{{cite web |last=Evans |first=Willy |title=15 Secrets You Didn't Know Behind The Making Of Lord Of The Rings |url=https://screenrant.com/lord-of-the-rings-bts-secrets/ |website=Screenrant |access-date=16 April 2020 |date=3 March 2018}}</ref><ref name=\"Leitch2009\">{{cite book |last=Leitch |first=Thomas |title=Film Adaptation and Its Discontents: From Gone with the Wind to The Passion of the Christ |url=https://books.google.com/books?id=noLMw2EmFA8C&pg=RA2-PT57 |year=2009 |publisher=[[Johns Hopkins University Press]] |isbn=978-0-8018-9187-8 |page=2}}</ref> Large numbers of extras were used for the battle, and some hundreds of soldiers from New Zealand's army to give an impression of the battle's enormous scale.<ref name=\"Wilkinson 2020\">{{cite web |last=Wilkinson |first=Matthew |title=Lord Of The Rings: 10 Hidden Details From Return Of The King |url=https://screenrant.com/lord-of-the-rings-hidden-details-return-of-the-king/ |website=ScreenRant |access-date=25 May 2020 |date=21 January 2020}}</ref> Jackson had at one stage intended Aragorn to fight the Dark Lord Sauron in person, but \"wisely\" reduced this to combat with a troll.<ref name=\"BogstadKaveny2011\">{{cite book |last=Rateliff |first=John D. |author-link=John D. Rateliff |chapter=Two Kinds of Absence |editor1-last=Bogstad |editor1-first=Janice M. |editor2-last=Kaveny |editor2-first=Philip E. |title=[[Picturing Tolkien]] |chapter-url=https://books.google.com/books?id=jNjKrXRP0G8C&pg=PA66 |year=2011 |publisher=[[McFarland & Company|McFarland]] |isbn=978-0-7864-8473-7 |pages=65–66}}</ref>\n\nThe Mouth of Sauron appears in the extended edition of ''The Return of the King'', where he is played by [[Bruce Spence]], though his scenes are cut in the theatrical release. This version of the character has a diseased and disfigured appearance: a helmet covers Spence's entire face except the mouth, which is digitally increased to disproportionate size and disfigured by blackened, cracked lips and rotting teeth.<ref>{{cite book|last=Russell|first=Gary|title=The Art Of The Lord Of The Rings|url=https://archive.org/details/artoflordofth00gary|url-access=registration|page=[https://archive.org/details/artoflordofth00gary/page/187 187]|publisher=Houghton Mifflin Harcourt|year=2004|isbn=978-0-618-51083-2}}</ref> According to director's commentary bundled with the film's extended edition DVD release, the idea behind this visual interpretation is that the repetition of Sauron's messages has such an evil effect that it has warped the character's body.<ref>[[Peter Jackson]], [[Fran Walsh]] and [[Philippa Boyens]] (2004). Director/Writers' Special Extended Edition commentary (DVD). [[New Line Cinema]].</ref>\n\n== See also ==\n\n* [[Battle of Helm's Deep]] – the first battle, in which the Rohirrim defeat Saruman's army\n* [[Battle of the Pelennor Fields]] – the second battle, in which Gondor and Rohan defeat the army of Minas Morgul\n\n== References ==\n\n{{notelist}}\n\n=== Primary ===\n\n{{reflist|group=T|24em}}\n\n=== Secondary ===\n\n{{reflist}}\n\n== Sources ==\n\n* {{ME-ref|ROAD}}    <!--Shippey 2005-->\n* {{ME-ref|ROTK}}\n\n{{The Lord of the Rings}}\n{{Middle-earth}}\n\n{{DEFAULTSORT:the Morannon}}\n[[Category:Middle-earth battles]]\n\n[[fi:Sormuksen sota#Mustan portin taistelu]]",
+  "redirect_chain": [],
+  "revision_id": 1338302567,
+  "revision_timestamp": "2026-02-14T09:36:26Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Context"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Context"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Context"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Battle"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Christianity"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Christianity"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Courage"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Courage"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "20th century parallels"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "20th century parallels"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Psychological quest"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Psychological quest"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "See also"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: list",
+      "structure_type": "list"
+    },
+    {
+      "heading_path": [
+        "References"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

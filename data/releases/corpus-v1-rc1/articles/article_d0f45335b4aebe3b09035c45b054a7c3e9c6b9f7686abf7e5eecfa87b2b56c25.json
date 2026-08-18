@@ -1,0 +1,252 @@
+{
+  "article_artifact_id": "article_d0f45335b4aebe3b09035c45b054a7c3e9c6b9f7686abf7e5eecfa87b2b56c25",
+  "canonical_title": "Gríma Wormtongue",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_d0f45335b4aebe3b09035c45b054a7c3e9c6b9f7686abf7e5eecfa87b2b56c25",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "To some psychologists, Wormtongue serves as an archetypal sycophant. Tolkien scholars note that Tolkien based Wormtongue on the untrustworthy character Unferth in Beowulf. He is presumptive, behaving as if he already rules Rohan, and exemplifies lechery, as correctly guessed by Gandalf; he hopes to become rich, and to take Éowyn as the woman he desires.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_06b2f06eb5c5498a2c959313810897913cf1e1205ce7840a1d84e4c2808edd44",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_d0f45335b4aebe3b09035c45b054a7c3e9c6b9f7686abf7e5eecfa87b2b56c25",
+      "heading_path": [
+        "Analysis"
+      ],
+      "normalized_text": "thumb|Gríma, as portrayed in Ralph Bakshi's The Lord of the Rings",
+      "paragraph_ordinal": 5,
+      "passage_id": "passage_4c3af83ad592013d465ec14ab66c3904d8cf5b91bda3f9512731bcc2553df7ba",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_d0f45335b4aebe3b09035c45b054a7c3e9c6b9f7686abf7e5eecfa87b2b56c25",
+      "heading_path": [
+        "Portrayal in adaptations"
+      ],
+      "normalized_text": "thumb|upright=1.35|Wormtongue (left, played by Brad Dourif) with King Theoden in Peter Jackson's The Two Towers as \"a snivelling sidekick urging his master on to acts of increasing depravity\"",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_a2aa0b89311d748da681ae8988036e14f6e73b2668144e7653f73661d81ac777",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Gr%C3%ADma_Wormtongue&action=history",
+  "namespace": 0,
+  "page_id": 62663,
+  "parent_revision_id": 1361186279,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1361188784",
+  "raw_wikitext": "{{short description|Traitor and spy in The Lord of the Rings}}\n{{redirect|Wormtongue|the Icelandic poet|Gunnlaugr Ormstunga}}\n{{good article}}\n{{Use dmy dates|date=May 2017}}\n{{Use British English|date=May 2017}}\n{{Infobox character\n| name   = Gríma\n| series = [[J. R. R. Tolkien|Tolkien]]\n| alias  = Wormtongue, Worm\n| race   = [[Man (Middle-earth)|Men]] of [[Rohan (Middle-earth)|Rohan]]\n| lbl24  = Book(s)\n| data24 = ''[[The Two Towers]]'' (1954) <br /> ''[[The Return of the King]]'' (1955) <br /> ''[[Unfinished Tales]]'' (1980)\n}}\n'''Gríma''', called (the) '''Wormtongue''', is a fictional character in [[J. R. R. Tolkien]]'s ''[[The Lord of the Rings]]''. He serves as a secondary [[antagonist]] there; his role is expanded in ''[[Unfinished Tales]]''. He is introduced in ''The Two Towers'' as the chief advisor to King [[Théoden]] of [[Rohan (Middle-earth)|Rohan]] and henchman of [[Saruman]].\n\nTo some psychologists, Wormtongue serves as an [[archetype|archetypal]] [[sycophant]]. Tolkien scholars note that Tolkien based Wormtongue on the untrustworthy character [[Unferð|Unferth]] in ''[[Beowulf]]''. He is presumptive, behaving as if he already rules Rohan, and exemplifies lechery, as correctly guessed by [[Gandalf]]; he hopes to become rich, and to take [[Éowyn]] as the woman he desires.\n\nThe name ''[[wikt:grima#Old English|Gríma]]'' derives from the [[Old English language|Old English]] or [[Icelandic language|Icelandic]] word meaning \"mask\", \"helmet\", or \"spectre\".<ref>{{cite book |chapter-url=http://bosworth.ff.cuni.cz/017508 |chapter=gríma |title=[[An Anglo-Saxon Dictionary]] (Online) | last1=Bosworth |first1=Joseph | author1-link=Joseph Bosworth (scholar) |last2=Toller |first2=T. Northcote |date=2014 |location=Prague |publisher=[[Charles University]] }}</ref>\n\n==Appearances==\n\n===''The Two Towers''===\n\nGríma, son of Gálmód, is at first a faithful servant, but he falls in league with the traitorous wizard [[Saruman]], and from then on works to weaken King [[Théoden]] of [[Rohan, Middle-earth|Rohan]] and his kingdom through lies and persuasion, in his position as chief advisor to the King.<ref name=\"hall\" group=T>{{harvnb|Tolkien|1954|loc=book 3, ch. 6 \"The King of the Golden Hall\"}}</ref>\n\nTolkien describes him as \"a wizened figure of a man, with a pale wise face, and heavy lidded eyes\", and a \"long pale tongue\". Gríma is widely disliked in [[Edoras]]; everyone except [[Théoden]] calls him \"Wormtongue\".<ref name=\"hall\" group=T/> In [[Old English]] ''wyrm'' means \"serpent, snake, dragon\",<ref name=\"Clark Hall 2002\">{{cite book |last1=Clark Hall |first1=J. R. |author-link=John Richard Clark Hall |title=A Concise Anglo-Saxon Dictionary |date=2002 |orig-year=1894 |publisher=[[University of Toronto Press]] |edition=4th |page=427}}</ref> and [[Gandalf]] repeatedly compares him to a snake:\n\n{{blockquote|text=The wise speak only of what they know, Gríma son of Gálmód. A witless worm have you become. Therefore be silent, and keep your forked tongue behind your teeth. I have not passed through fire and death to bandy crooked words with a serving-man till the lightning falls.<ref name=\"hall\" group=T/>}}\n\n{{blockquote|text=See, Théoden, here is a snake! To slay it would be just. But it was not always as it now is. Once it was a man, and it did you service in its fashion.<ref name=\"hall\" group=T/>}}\n   \nSaruman had promised him [[Éowyn]], the king's niece, as a reward for his services.<ref name=\"hall\" group=T/> Her brother [[Éomer]] accuses him of \"watching her under his lids and haunting her steps\". His schemes are foiled when Gandalf the White and his companions arrived at Edoras, and convinces the king that he is not as weak as his adviser had made him seem. Upon Théoden's restoration, \"many things which men had missed\" are found locked in Gríma's trunk, including the king's sword, [[Herugrim]]. Théoden decides to go forth to battle at the Fords of Isen, and Gríma is given a choice: prove his loyalty and ride into battle with the king, or ride into exile.<ref name=\"hall\" group=T/> Choosing the latter, he goes to Saruman at [[Orthanc]]. Following the confrontation between Saruman and Gandalf, Gríma mistakenly throws the ''[[palantír]]'' of [[Orthanc]] at the Men of Rohan accompanying Gandalf, or possibly at Saruman himself, and so permits its capture by [[Peregrin Took]].<ref name=\"voice\" group=T>{{harvnb|Tolkien|1954|loc=book 3, ch. 10 \"The Voice of Saruman\"}}</ref>\n\n===''The Return of the King''===\n\n{{further|The Scouring of the Shire}}\n\nGríma accompanies Saruman to [[the Shire]], where Saruman seeks revenge for his defeat at Orthanc in petty tyranny over the [[Hobbit]]s. During this time, Saruman shortens Gríma's nickname to \"Worm\"  in order to demean him. When Saruman is [[The Scouring of the Shire|overthrown by a hobbit rebellion]] and ordered to leave, [[Frodo Baggins]] implores Gríma not to follow him, and even offers him food, shelter, and forgiveness. Saruman counters by revealing to the Hobbits that Gríma had murdered and possibly eaten Lotho Sackville-Baggins, a kinsman of Frodo; whereupon Gríma kills Saruman by slitting his throat, and is in turn shot by Hobbit archers.<ref name=\"scouring\" group=T>{{harvnb|Tolkien|1955|loc=book 6, ch. 7 \"[[The Scouring of the Shire]]\"}}</ref>\n\n===''Unfinished Tales''===\n\nGríma plays a major role in the back-story to ''[[The Lord of the Rings]]'', prior to his first appearance in ''The Two Towers''. In ''[[Unfinished Tales]]'', Tolkien writes that Gríma is captured by the [[Nazgûl]] in the [[Rohan (Middle-earth)|fields of the Rohirrim]], while on his way to [[Isengard]] to inform Saruman of Gandalf's arrival at [[Edoras]]. He divulges what he knows of Saruman's plans to the Nazgûl, specifically his interest in the Shire, and its location. Gríma is set free, and the Nazgûl set out immediately for the Shire. In another version in the same chapter, this role is given to the ''squint-eyed southerner'' that the hobbits encounter at [[Bree (Middle-earth)|Bree]].<ref group=T>{{harvnb|Tolkien|1980|loc=part 3, ch. 4 \"The Hunt for the Ring\"}}</ref> Tolkien further suggests that Gríma may have given Théoden \"subtle poisons\" that cause him to age at an accelerated pace.<ref group=T>{{harvnb|Tolkien|1980|loc=part 3, ch. 5 \"The Battles of the Fords of Isen\"}}</ref>\n\n== Analysis ==\n\nTo the psychologists Deborah and Mark Parker, Wormtongue serves as an [[archetype|archetypal]] [[sycophant]], flatterer, liar, and manipulator.<ref>{{cite web |title=Sycophancy in Middle Earth |url=https://www.psychologytoday.com/intl/blog/sucking/201712/sycophancy-in-middle-earth |last1=Parker |first1=Deborah |last2=Parker |first2=Mark |date=1 December 2017 |website=[[Psychology Today]]}}</ref>\n\nTolkien scholars have noted that Wormtongue's interaction with Gandalf in [[Meduseld]] has an Old English counterpart in the epic poem ''[[Beowulf]]'': the account is [[Beowulf and Middle-earth|closely based on the hero Beowulf's]] dealings with [[Unferth]] in [[Heorot]], where Unferth is King [[Hrothgar]]'s \"ambiguous\"<ref name=\"H&S\"/> spokesman; Unferth is thoroughly discredited by Beowulf, as Wormtongue is by Gandalf.<ref name=\"H&S\">{{cite book |last1=Hammond |first1=Wayne G. |author1-link=Wayne G. Hammond |last2=Scull |first2=Christina |author2-link=Christina Scull |title=The Lord of the Rings: A Reader's Companion |title-link=The Lord of the Rings: A Reader's Companion |publisher=[[HarperCollins]] | year=2005 |isbn=978-0-00-720907-1 |page=405}}</ref><ref>{{cite journal |last1=Thompson |first1=Ricky L. |title=Tolkien's Word-Hord Onlēac |journal=[[Mythlore]] |date=1994 |volume=20 |issue=1  |url=https://dc.swosu.edu/mythlore/vol20/iss1/4}}</ref><ref name=\"Allard North 2011\">{{cite book |last1=Allard |first1=Joe |last2=North |first2=Richard |title=Beowulf and Other Stories |publisher=[[Routledge]] |year=2011 |edition=2nd |isbn=978-1408286036 |pages=45–47}}</ref>\n\nThe critic Charles W. Nelson describes Wormtongue's attitude as an example of presumption, behaving \"as if he were already on the throne\" of Rohan. Nelson notes that Richard Purtill<!--JRRT: Myth, Morality, and Religion, p. 76--> suggests that Tolkien is intentionally embodying the [[seven deadly sins]] in his characters. He quotes from one of Tolkien's letters to this effect: \"the encouragement of good morals in this real world, by the ancient device of exemplifying them in unfamiliar embodiments, that may tend to 'bring them home.'\"<!--''Letters'', 1981, p. 194--> Clark writes that [[Dwarves in Middle-earth|Dwarves]] exemplify greed, [[Men in Middle-earth|Men]] pride, [[Elves in Middle-earth|Elves]] envy, [[Ent]]s sloth, [[Hobbit]]s gluttony, [[Orc]]s anger, and Wormtongue lechery. That lechery is, Nelson notes, correctly guessed by Gandalf: that he would gain a large share in Meduseld's treasure, and Éowyn's hand in marriage, \"on whose person Grima had long cast lecherous eyes and lascivious looks\", and indeed in Éomer's words that Grima had \"haunted her steps\".<ref name=\"Nelson 2000\">{{cite book |last=Clark |first=George |title=J.R.R. Tolkien and His Literary Resonances: Views of Middle-earth |url=https://books.google.com/books?id=ES0Hs75IVg0C&pg=PA83 |year=2000 |publisher=[[Greenwood Publishing Group]] |isbn=978-0-313-30845-1 |pages=84–92}}</ref>\n\nColleen Donnelly writes that Wormtongue and [[Gollum]] are both distorted characters, and both end up [[Feudal allegiance in The Lord of the Rings|disloyal to their masters]]. Donnelly notes that they are both \"eaten up by desire\", but comments that where Wormtongue is irredeemably full of treason against his lord, King Théoden of Rohan, Gollum remains open to kindness and can still intend to do good and honest service. Both characters end up unintentionally doing good through what seems to be an evil act: Wormtongue slits his master [[Saruman]]'s throat, helping to end the harm being done to the hobbits' home, [[the Shire]]; while Gollum, desperate to get the [[One Ring]], bites it off his master Frodo's finger and falls to his death, with the Ring, into the fires of [[Mount Doom]], thus destroying the Ring and ending the Dark Lord Sauron's evil reign.<ref name=\"Donnelly 2007\">{{cite journal |last=Donnelly |first=Colleen |title=Feudal Values, Vassalage, and Fealty in ''The Lord of the Rings'' |journal=[[Mythlore]] |volume=25 |issue=3/4 |year=2007 |pages=17–27 |url=https://dc.swosu.edu/cgi/viewcontent.cgi?article=1236&context=mythlore }}</ref>\n\n[[File:BakshiGríma.JPG|thumb|Gríma, as portrayed in [[Ralph Bakshi]]'s ''[[The Lord of the Rings (1978 film)|The Lord of the Rings]]'']]\n\n==Portrayal in adaptations==\n\n[[File:Grima and Théoden.jpg|thumb|upright=1.35<!--fmt for low img-->|Wormtongue (left, played by [[Brad Dourif]]) with [[King Theoden]] in [[Peter Jackson]]'s ''[[The Lord of the Rings: The Two Towers|The Two Towers]]'' as \"a snivelling sidekick urging his master on to acts of increasing depravity\"<ref name=\"Gilbey 2002\"/> ]]\n\nIn [[Ralph Bakshi]]'s 1978 animated film adaptation of ''[[The Lord of the Rings (1978 film)|The Lord of the Rings]]'', Wormtongue was voiced by [[Michael Deacon (actor)|Michael Deacon]].<ref>{{cite web |title=Michael Deacon |url=https://www.behindthevoiceactors.com/Michael-Deacon/ |publisher=Behind the Voice Actors |access-date=30 April 2020}}</ref>\n<!--[[Paul Brooke]] played Gríma in [[BBC Radio]]'s 1981 [[The Lord of the Rings (1981 radio series)|serialisation]]. UNABLE TO SOURCE-->\n\nIn [[Peter Jackson]]'s ''[[The Lord of the Rings (film series)|Lord of the Rings]]'' films, Wormtongue was played by [[Brad Dourif]], described in ''[[The Guardian]]'' as an \"unnerving presence\"<ref name=\"Guardian\">{{cite news |last=Leigh |first=Danny |title=Brad Dourif: best supporting creep who shines in the shadows |url=https://www.theguardian.com/film/filmblog/2011/may/06/brad-dourif-best-supporting-creep |newspaper=[[The Guardian]] |date=6 May 2011}}</ref> and in ''[[The Independent]]'' as a \"snivelling sidekick urging his master on to acts of increasing depravity\".<ref name=\"Gilbey 2002\">{{cite news |last=Gilbey |first=Ryan |title=Brad Dourif: How weird is Brad |url=https://www.independent.co.uk/arts-entertainment/films/features/brad-dourif-how-weird-is-brad-136824.html |newspaper=[[The Independent]] |date=20 December 2002}}</ref> According to Dourif, Jackson encouraged him to shave off his eyebrows so that the audience would immediately have a [[subliminal stimuli|subliminal]] reaction of unease to the character.<ref>{{cite web |title=An Hour with Brad Dourif |url=http://www.west-of-the-moon.net/bradhour.htm |archive-url=https://web.archive.org/web/20080103033455/http://www.west-of-the-moon.net/bradhour.htm |date=3 January 2008 |archive-date=3 January 2008 |url-status=dead |access-date=10 December 2005 }}</ref><ref name=\"Guardian\"/>\n\n\"[[The Scouring of the Shire]]\" episode with the deaths of both [[Saruman]] and Wormtongue does not appear in the film version; the deaths were moved to an earlier scene, \"The Voice of Saruman\". The cut scene can be found on the Extended Edition [[DVD]] of ''[[The Lord of the Rings: The Return of the King|The Return of the King]]''.<ref>{{cite AV media |title=[[The Lord of the Rings: The Return of the King]]: Extended Edition |type=DVD |date=2012 |chapter=The Voice of Saruman}}</ref>\n\n==References==\n\n===Primary===\n\n{{reflist|group=T|28em}}\n\n===Secondary===\n\n{{reflist|28em}}\n\n== Sources ==\n\n* {{ME-ref|TT}}\n* {{ME-ref|ROTK}}\n* {{ME-ref|UT}}\n\n{{Lord of the Rings}}\n\n{{DEFAULTSORT:Grima Wormtongue}}\n[[Category:Middle-earth Rohirrim]]\n[[Category:The Lord of the Rings characters]]\n[[Category:Fictional advisors]]\n[[Category:Fictional murderers]]\n[[Category:Fictional henchmen]]\n[[Category:Fictional cannibals]]\n[[Category:Literary characters introduced in 1954]]\n[[Category:Male literary villains]]\n[[Category:Male film villains]]",
+  "redirect_chain": [],
+  "revision_id": 1361188784,
+  "revision_timestamp": "2026-06-26T07:09:27Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "The Two Towers"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "The Two Towers"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "The Two Towers"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "The Two Towers"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "The Two Towers"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "The Return of the King"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "The Return of the King"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances",
+        "Unfinished Tales"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Portrayal in adaptations"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Portrayal in adaptations"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Portrayal in adaptations"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

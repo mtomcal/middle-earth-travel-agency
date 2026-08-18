@@ -297,6 +297,7 @@ Then resume with the same curation command.
 ## Current limitations
 
 The cockpit is intentionally passage-only. It does not yet provide article or
-section bulk decisions, anomaly review, notes, release validation or
-publication, activation, or retrieval. The current summary is operational
-feedback, not a published corpus release.
+section bulk decisions, anomaly review, notes, release activation, or
+retrieval. The current summary is operational feedback, not a published corpus
+release. Use the separate [release workflow](release-corpus.md) after curation
+is complete.

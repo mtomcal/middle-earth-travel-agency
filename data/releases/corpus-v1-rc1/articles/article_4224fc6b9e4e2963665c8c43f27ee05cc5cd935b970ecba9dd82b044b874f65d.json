@@ -1,0 +1,541 @@
+{
+  "article_artifact_id": "article_4224fc6b9e4e2963665c8c43f27ee05cc5cd935b970ecba9dd82b044b874f65d",
+  "canonical_title": "Sauron",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_4224fc6b9e4e2963665c8c43f27ee05cc5cd935b970ecba9dd82b044b874f65d",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Tolkien, while denying that absolute evil could exist, stated that Sauron came as near to a wholly evil will as was possible. Commentators have compared Sauron to the title character of Bram Stoker's 1897 novel Dracula, and to Balor of the Evil Eye in Irish mythology. Sauron is briefly seen in a humanoid form in Peter Jackson's film trilogy, which otherwise shows him as a disembodied, flaming Eye.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_f5aa628799b0a2bb6b6ea1e321dcbcf12e7db3601c932e7710f9a3394c8c268b",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_4224fc6b9e4e2963665c8c43f27ee05cc5cd935b970ecba9dd82b044b874f65d",
+      "heading_path": [
+        "Fictional history",
+        "Second Age"
+      ],
+      "normalized_text": "thumb|upright=0.6|Sauron appeared in the Second Age as the fair-seeming Annatar. Illustration by Alan Lee",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_7675b913f102aa93620ef83e0632390bf7c82f1d4a2dc28dcf22cbb52e98c508",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_4224fc6b9e4e2963665c8c43f27ee05cc5cd935b970ecba9dd82b044b874f65d",
+      "heading_path": [
+        "Appearance",
+        "Eye of Sauron"
+      ],
+      "normalized_text": "thumb|A flag displaying the Red Eye of Sauron, based on a design by Tolkien that was used on the cover of the first edition of The Fellowship of the Ring in 1954",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_edbaa2283e38d91483e84c9a1a6b3488efe8064e5907412c97d6c4d3aedd7370",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_4224fc6b9e4e2963665c8c43f27ee05cc5cd935b970ecba9dd82b044b874f65d",
+      "heading_path": [
+        "Appearance",
+        "Eye of Sauron"
+      ],
+      "normalized_text": "Later, Tolkien writes as if Frodo and Sam really glimpse the Eye directly. The mists surrounding Barad-dûr are briefly withdrawn, and:",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_a812e3aebaf248dfdcd3dfbe4f8c1a3ddedc10fd33902e2e2a25db2b3d64e03c",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_4224fc6b9e4e2963665c8c43f27ee05cc5cd935b970ecba9dd82b044b874f65d",
+      "heading_path": [
+        "Appearance",
+        "Eye of Sauron"
+      ],
+      "normalized_text": "Christopher Tolkien comments: \"The passage is notable in showing the degree to which my father had come to identify the Eye of Barad-dûr with the mind and will of Sauron, so that he could speak of 'its wrath, its fear, its thought'. In the second text ... he shifted from 'its' to 'his' as he wrote out the passage anew.\"",
+      "paragraph_ordinal": 8,
+      "passage_id": "passage_1846dbee34d383e48c8e52b0506c629cf85702a55d94760dca7c08fb8643c574",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Sauron&action=history",
+  "namespace": 0,
+  "page_id": 23141343,
+  "parent_revision_id": 1361888756,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1361889186",
+  "raw_wikitext": "{{Short description|Primary antagonist in Tolkien's \"The Lord of the Rings\"}}\n{{About|the character from J.&nbsp;R.&nbsp;R. Tolkien's Middle-earth writings}}\n{{good article}}\n{{pp-move|small=yes}}\n{{Use British English|date=August 2024}}\n{{Infobox character\n| name    = Sauron\n| series  = [[J. R. R. Tolkien|Tolkien]]\n| image   = Sauron Tolkien illustration.jpg\n| caption = J. R. R. Tolkien's unfinished watercolour illustration of Sauron<ref name=\"Hammond Scull 1995\" group=T/>\n| alias   = {{Plainlist|\n* Mairon (originally)\n<!--please do not add things here which are not explained and cited in the article body, thanks-->\n* Annatar\n* The [[Dark Lord]]\n* The [[Necromancer]]\n* Lord of the Rings\n}}\n| race    = [[Maia (Middle-earth)|Maia]]\n| lbl24   = Book(s)\n| data24  = {{Plainlist |\n* ''[[The Hobbit]]''\n* ''[[The Lord of the Rings]]''\n* ''[[The Silmarillion]]''\n* ''[[Unfinished Tales]]''\n* ''[[The History of Middle-earth]]'' series\n* ''[[Beren and Lúthien]]''}}\n}}\n\n'''Sauron''' ({{IPAc-en|ˈ|s|aʊ|r|ɒ|n}})<ref group=T>{{harvnb|Tolkien|1977|loc=\"Note on Pronunciation\": \"The first syllable of ''Sauron'' is like English ''sour'', not ''sore''\"}}</ref> is the [[title character]] and the main [[antagonist]] of [[J. R. R. Tolkien]]'s ''[[The Lord of the Rings]]'', where he rules the land of [[Mordor]]. He seeks to conquer [[Middle-earth]] using the power of the [[One Ring]], which he has lost and attempts to recapture. In the same work, he is identified as the \"[[necromancy|Necromancer]]\" of Tolkien's earlier novel ''[[The Hobbit]]''. ''[[The Silmarillion]]'' describes him as the chief lieutenant of the first [[Dark Lord]], [[Morgoth]]. Originally an angelic being, Sauron followed Morgoth in his rebellion against Eru Iluvatar, the supreme being in Tolkien's mythology. Sauron appears most often as \"the Eye\", as if disembodied.\n\nTolkien, while denying that absolute [[Evil in Middle-earth|evil]] could exist, stated that Sauron came as near to a wholly evil will as was possible. Commentators have compared Sauron to the [[Count Dracula|title character]] of [[Bram Stoker]]'s 1897 novel ''[[Dracula]]'', and to [[Balor|Balor of the Evil Eye]] in [[Irish mythology]]. Sauron is briefly seen in a [[humanoid]] form in [[Peter Jackson]]'s [[The Lord of the Rings (film series)|film trilogy]], which otherwise shows him as a disembodied, flaming Eye.<!--this is a SUMMARY of what is in the article - please do not add things here which are not explained and cited in the article body, thanks-->\n\n== Fictional history ==\n\n{{further|History of Arda|Decline and fall in Middle-earth}}\n<!--section must be brief; must not be in-universe or flowery in style-->\n\n=== Before the world's creation ===\n\nThe supreme being [[Eru Ilúvatar|Eru]] began the creation with good,<ref group=T name=\"Council of Elrond\"/> immortal spirits, the powerful [[Valar]] and the lesser [[Maia (Middle-earth)|Maiar]]. Sauron was one of the Maiar.<ref group=\"T\" name=\"Letter 156\"/><ref name=\"Letter 183\" group=\"T\"/> The Vala<!--singular, there is no -r here, that'd be the plural--> [[Melkor]] rebelled against Eru,<ref group=T>The story of the Song of Creation was presented by the [[Vala (Middle-earth)|Valar]] \"according to our modes of thought and our imagination of the visible world, in symbols that were intelligible to us\". {{harvnb|Tolkien|1994|p=407}}</ref><ref group=T>{{harvnb|Tolkien|1977|loc=\"[[Ainulindalë]]\"}}</ref> starting evils<ref group=T>{{harvnb|Tolkien|1996|p=413}}</ref> that Sauron continued.<ref name=\"MR pp395–398\" group=T/> Sauron perceived Eru directly;<ref name=\"MR pp395–398\" group=\"T\">{{harvnb|Tolkien|1993|pp=395–398}}</ref> he was \"far higher\" than the Maiar who later came to Middle-earth as [[Wizard (Middle-earth)|Wizards]].<ref name=\"Letter 183\" group=T>{{harvnb|Carpenter|2023|loc=#183, notes on [[W. H. Auden]]'s review of ''[[The Return of the King]]'' }}</ref>\n\n=== First Age ===\n\nSauron served [[Aulë]], the smith of the Valar, acquiring knowledge.<ref name=\"MR 52\" group=T>{{harvnb|Tolkien|1993|p=52}}</ref><ref name=\"Valaquenta\" group=T>{{harvnb|Tolkien|1977|loc=\"[[Valaquenta]]\"}}</ref>{{efn|The name ''Sauron'', meaning \"The Abhorred\" is used throughout ''The Lord of the Rings'' and ''The Silmarillion'' as his common name.<ref name=\"Abhorred\" group=T>{{harvnb|Tolkien|1977|loc=\"Index: Sauron\"}}</ref>}} Sauron, hating disorder,<ref name=\"MR pp395–398\" group=T/> was drawn to Melkor's power.<ref name=\"Of the Rings of Power\" group=T>{{harvnb|Tolkien|1977|loc=\"Of the Rings of Power and the Third Age\"}}</ref> He became a spy for Melkor on the isle of [[Almaren]], the Valar's home,<ref name=\"MR 52\" group=T/> which Melkor soon destroyed; the Valar moved to [[Valinor]], not perceiving Sauron's treachery.<ref name=\"Letter 131\" group=T>{{harvnb|Carpenter|2023|loc=#131 to [[Milton Waldman]], late 1951 }}</ref> Sauron followed Melkor to [[Middle-earth]],<ref group=T>{{harvnb|Tolkien|1955|p=239}}</ref> joining the Valar's enemy.<ref name=\"Letter 183\" group=T/>\n\nSauron helped Melkor in every kind of deceit.<ref name=\"MR 420–421\" group=T>{{harvnb|Tolkien|1993|pp=420–421}}</ref><ref name=\"Valaquenta\" group=T/> By the time [[Elf (Middle-earth)|Elves]] awoke, Sauron was Melkor's lieutenant with command over the stronghold of [[Angband (Middle-earth)|Angband]]. The Valar made war on and captured Melkor; Sauron escaped.<ref group=T>{{harvnb|Tolkien|1977|loc=ch. 3 \"Of the Coming of the Elves and the Captivity of Melkor\"}}</ref> He repaired Angband, and bred an army of [[Orc (Middle-earth)|Orcs]]. Melkor, now called Morgoth, murdered Finwë, King of the Noldor, and escaped to Middle-earth with the [[Silmaril]]s, pursued by the Noldor.<ref name=\"MR 420–421\" group=T/>{{efn|This conflicts with earlier versions of the story, in which Orcs existed before the wakening of the Elves, as in ''[[The Fall of Gondolin]]''.<ref group=T>{{harvnb|Tolkien|2018|p=25}}</ref>}} Sauron made war on the Elves, conquering their fortress on the isle of Tol Sirion. The elf [[Lúthien]] came there to save her lover, the imprisoned [[Beren]], with [[Huan (Middle-earth)|Huan]] the Wolfhound. Sauron, as a [[werewolf]], battled Huan, who took him by the throat; Sauron was defeated and fled, taking the form of a huge [[vampire bat]]. Lúthien destroyed the tower and rescued Beren. Later, the half-elf [[Eärendil]] sailed to Valinor to ask the Valar to fight Morgoth. They did so in the [[War of Wrath]], where Morgoth was defeated and cast into the Outer Void; but Sauron escaped.<ref name=\"v333\" group=T>{{harvnb|Tolkien|1987|p=333}}</ref>\n\n=== Second Age ===\n\n[[File:Sauron (as Annatar) drawn by Alan Lee from The Fall of Númenor.png|thumb|upright=0.6|Sauron appeared in the Second Age as the fair-seeming Annatar.<ref name=\"Of the Rings of Power\" group=\"T\"/> Illustration by [[Alan Lee (illustrator)|Alan Lee]] ]]\n\nIn the [[Second Age]], Sauron reappeared,<ref name=\"MR 420–421\" group=\"T\"/> intent on taking over Middle-earth.<ref name=\"Letter 183\" group=\"T\"/><ref name=\"Letter 131\" group=\"T\"/><ref name=\"letters190\" group=\"T\">{{harvnb|Carpenter|2023|loc=#153 to Peter Hastings (draft) }}</ref><ref name=\"MR pp395–398\" group=\"T\"/> To seduce the Elves into his service, Sauron assumed a fair appearance as ''Annatar'', \"Lord of Gifts\",<ref name=\"Of the Rings of Power\" group=\"T\"/> and befriended [[Celebrimbor]]'s Elven-smiths. He taught them arts and magic, helping them to forge the [[Rings of Power]], but then secretly forged the [[One Ring]] to rule all the others.<ref name=\"Letter 131\" group=\"T\"/> The Elves detected him when he put on the Ring, and removed their Rings. Enraged, Sauron made war, killed Celebrimbor, and seized the Seven and the Nine Rings of Power. The Three were hidden by the Elves [[Gil-galad]], [[Círdan]], and [[Galadriel]]; Sauron attacked them. The Elves were saved by an army from [[Númenor]], defeating Sauron. Sauron fortified Mordor and completed the Dark Tower, [[Barad-dûr]]. He distributed the Seven and the Nine Rings to lords of [[Dwarf (Middle-earth)|Dwarves]] and Men. Dwarves did not submit, but he enslaved nine Men as the feared [[Nazgûl]]. Orcs, [[Troll (Middle-earth)|Trolls]], [[Easterling (Middle-earth)|Easterlings]] and men of [[Harad]] became his servants.<ref name=\"Letter 183\" group=\"T\"/>\n\nLate in the Second Age, the men of Númenor sought to colonise Middle-earth. Led by Ar-Pharazôn, their army sailed to Middle-earth to battle Sauron. Dismayed, Sauron surrendered, hoping to corrupt Númenor from within.<ref name=\"Letter 211\" group=T>{{harvnb|Carpenter|2023|loc=#211 to Rhona Beare, 14 October 1958 }}</ref><ref name=\"Letter 156\" group=T/> Using the One Ring, Sauron soon undermined their religion and deceived them into worshipping Melkor with [[human sacrifice]].<ref name=\"Letter 156\" group=T/><ref name=\"MR pp395–398\" group=T/> Sauron later deceived Ar-Pharazôn into attacking [[Aman (Middle-earth)|Aman]] by sea by pretending he could steal immortality from the Valar.<ref name=\"Letter 156\" group=T/><ref name=\"Letter 131\" group=T/> The Valar appealed to Eru,<ref group=T name=\"Letter 156\"/> who [[The Silmarillion#Akallabêth|destroyed Númenor]]. Sauron's body was destroyed, and he lost the ability to appear beautiful.<ref name=\"Letter 211\" group=T/>\n\nLed by [[Elendil]], nine ships escaped to Middle-earth from [[Akallabeth|the Downfall]] of Númenór. There, the Númenóreans founded the kingdoms of [[Gondor]] and [[Arnor (Middle-earth)|Arnor]]. Sauron returned to Mordor, took on a new physical form, and made war on these Exiles.<ref group=T>{{harvnb|Tolkien|1955|loc=Appendices}}</ref> He captured the fortress of Minas Ithil, and Elendil's son [[Isildur]] escaped down the Anduin River. Elendil's other son, [[Anárion]], defended [[Osgiliath]], the capital of Gondor, and drove Sauron's forces back to the mountains.<ref name=\"Of the Rings of Power\" group=T/> Elendil, Isildur and Anárion formed the Last Alliance with the Elves and defeated Sauron at [[Dagorlad]]. They invaded Mordor and besieged Barad-dûr for seven years. Finally, Sauron came out to fight face-to-face, killing Elendil and Gil-galad;<ref name=\"Letter 131\" group=T/> Elendil's sword [[List of Middle-earth weapons and armour#Narsil|Narsil]] broke beneath him. Isildur took up the hilt-shard and cut the One Ring from Sauron's hand, vanquishing Sauron. Isildur refused to destroy the Ring by casting it into Mount Doom, but kept it for his own.<ref name=\"Of the Rings of Power\" group=T/>\n\n=== Third Age ===\n\n{{further|The Lord of the Rings}}\n\nThe Ring was lost in the River Anduin when Isildur was ambushed and killed by Orcs at the [[Gladden Fields]]. Sauron spent a thousand years as a shapeless evil.<ref group=T name=\"Gladden Fields\">{{harvnb|Tolkien|1980|loc=\"The disaster of the Gladden Fields\"}}</ref> He reembodied as the [[Necromancy|Necromancer]], hiding at [[Dol Guldur]] in Mirkwood.<ref group=T name=\"years\">{{harvnb|Tolkien|1955|loc=Appendix B, \"The Tale of Years\", \"The Third Age\"}}</ref> The [[White Council]] discovered that Sauron had taken up residence in Mirkwood and drove him away in 2941.<ref group=T name=\"Council of Elrond\" /><ref group=T name=\"years\" /> Sauron returned to Mordor, openly declared himself, and began to rebuild the fortress of Barad-dûr.<ref group=T name=\"declares\">{{harvnb|Tolkien|1955|loc=Appendix B, \"The Tale of Years (Chronology of the Westlands)\": \"2951 Sauron declares himself openly and gathers power in Mordor. He begins the rebuilding of Barad-dûr\".}}</ref>\n\nSauron captured and tortured the monster [[Gollum]]. Gollum, who had previously possessed the Ring, informed Sauron that the hobbit [[Bilbo Baggins]] had taken the Ring.<ref group=T name=\"Council of Elrond\">{{harvnb|Tolkien|1954a|loc=book 2, ch. 2 \"[[The Council of Elrond]]\"}}</ref><ref group=T name=\"years\" /><ref group=T name=\"Shadow of the Past\">{{harvnb|Tolkien|1954a|loc=book 1, ch. 2 \"[[The Shadow of the Past]]\"}}</ref> Bilbo gifted the Ring to his cou<!--yes, not nephew, see his family tree-->sin, [[Frodo Baggins]]. In 3018, the wizard Gandalf identified it as the One Ring. Sauron was urgently seeking the Ring, which he needed to take control of Middle-earth. Sauron had \"let a great part of his own former power\" pass into the Ring.<ref group=T name=\"Shadow of the Past\"/> That year, Sauron sent the Nazgûl to find \"Baggins\" and seize the Ring, but Frodo and his companions escaped them and reached [[Rivendell]]. There, Elrond convened a council, which determined that Frodo should take the Ring to Mount Doom and destroy it.<ref group=T name=\"Council of Elrond\" /><ref group=T name=\"years\" /> Sauron did not anticipate this course of action. He expected that someone would use the Ring to attempt to overthrow him and take his place. To prevent this outcome, he prepared to make war on the land of Gondor.<ref group=T>{{harvnb|Tolkien|1954|loc=book 3, ch. 5 \"The White Rider\"}}</ref>\n\nAfter [[Aragorn]], Isildur's descendant and heir to the throne of Gondor, used the [[palantír]] of [[Orthanc]]  to show himself to Sauron,<ref group=T name=\"palantir\">{{harvnb|Tolkien|1954|loc=book 5, ch. 2 \"The Passing of the Grey Company\"}}</ref> Sauron was troubled and attacked Minas Tirith prematurely. His attack failed in the [[Battle of the Pelennor Fields]].<ref name=\"RotK last\" group=T />\n\nThe nations of Gondor and Rohan launched an attack on Mordor's [[Morannon|Black Gate]].<ref name=\"RotK last\" group=T>{{harvnb|Tolkien|1955|loc=book 5, ch. 9 \"The Last Debate\"}}</ref><ref group=T name=\"gate\">{{harvnb|Tolkien|1955|loc=book 5, ch. 10 \"The Black Gate Opens\"}}</ref> Meanwhile, Frodo and his servant, Samwise Gamgee, had secretly entered Mordor through the passage of Cirith Ungol.<ref group=T name=\"mordor\">{{harvnb|Tolkien|1955|loc=book 6, ch. 1 \"The Tower of Cirith Ungol\"}}</ref> Frodo and Samwise reached Mount Doom. Under the Ring's evil influence, Frodo claimed the Ring for himself; in so doing, he revealed its location to Sauron. Sauron then realized for the first time that his enemies purposed to destroy the Ring. Before Sauron could intervene, Gollum seized the Ring and fell into the Cracks of Doom, destroying it and himself.<ref group=T name=\"doom\">{{harvnb|Tolkien|1955|loc=book 6, ch. 3 \"[[Mount Doom]]\"}}</ref> Utterly defeated, Sauron passed away.<ref group=T name=\"field\">{{harvnb|Tolkien|1955|loc=book 6, ch. 4 \"The Field of Cormallen\"}}</ref><ref group=T>{{harvnb|Tolkien|1955|loc=Appendices}}</ref>\n\n== Appearance ==\n\n=== Physical body ===\n\nTolkien never described Sauron's appearance in detail, though he painted a watercolour illustration of him.<!--in infobox--><ref name=\"Hammond Scull 1995\" group=T>{{harvnb|Hammond|Scull|1995|pp=152ff}}</ref> Sarah Crown, in ''[[The Guardian]]'', wrote that \"we're never ushered into his presence; we don't hear him speak. All we see is his influence\".<ref name=\"Crown 2014\"/> She called it \"a bold move, to leave the book's central evil so undefined – an edgeless darkness given shape only through the actions of its subordinates\",<ref name=\"Crown 2014\"/> with the result that he becomes \"truly unforgettable ... vaster, bolder and more terrifying through his absence than he could ever have been through his presence\".<ref name=\"Crown 2014\">{{cite news |last=Crown |first=Sarah |title=Baddies in books: Sauron, literature's ultimate source of evil |url=https://www.theguardian.com/books/booksblog/2014/oct/27/baddies-in-books-sauron-literatures-ultimate-source-of-evil |access-date=19 September 2020 |work=[[The Guardian]] |date=27 October 2014 |archive-date=28 October 2020 |archive-url=https://web.archive.org/web/20201028060905/https://www.theguardian.com/books/booksblog/2014/oct/27/baddies-in-books-sauron-literatures-ultimate-source-of-evil |url-status=live }}</ref>\n\nSauron was initially able to change his appearance at will; however, when he became Morgoth's servant, he took a sinister shape. In the First Age, the outlaw Gorlim was ensnared and brought into \"the dreadful presence of Sauron\", who had daunting eyes.<ref group=T>{{harvnb|Tolkien|1977|loc=ch. 19, \"Of Beren and Luthien\"}}</ref> In the battle with [[Huan (Middle-earth)|Huan]], the hound of Valinor, Sauron took the form of a werewolf. Then he assumed a serpent-like form, and finally changed back \"from monster to his own accustomed [human-like] form\".<ref group=T>{{harvnb|Tolkien|1977|loc=ch. 20 \"Of the Fifth Battle: Nirnaeth Arnoediad\"}}</ref> He took on a beautiful appearance at the end of the First Age to charm [[Eönwë]], near the beginning of the Second Age when appearing as Annatar to the Elves, and again near the end of the Second Age to corrupt the men of Númenor. He appeared then \"as a man, or one in man's shape, but greater than any even of the race of Númenor in stature ... And it seemed to men that Sauron was great, though they feared the light of his eyes. To many he appeared fair, to others terrible; but to some evil.\"<ref group=T>{{harvnb|Tolkien|1987|p=67}}</ref> After the destruction of his fair form in the fall of Númenor, Sauron always took the shape of a terrible dark lord.<ref group=T>{{harvnb|Carpenter|2023|loc=#246 to Eileen Elgar, September 1963 }}</ref> His first incarnation after the Downfall of Númenor was hideous, \"an image of malice and hatred made visible\".<ref name=\"Akallabêth\" group=T>{{harvnb|Tolkien|1977|loc=[[Akallabêth]]}}</ref> Isildur recorded that Sauron's hand \"was black, and yet burned like fire\".<ref group=T name=\"Council of Elrond\"/>\n\n{{anchor|Eye of Sauron}}\n\n=== Eye of Sauron ===\n\n[[File:Flag of Mordor SVG.svg|thumb|A flag displaying the Red Eye of Sauron, based on a design by Tolkien that was used on the cover of the first edition of ''[[The Fellowship of the Ring]]'' in 1954]]\n\nThroughout ''The Lord of the Rings'', \"the Eye\" (known by other names, including the Red Eye, the Evil Eye, the Lidless Eye, the Great Eye) is the image most often associated with Sauron. Sauron's Orcs bore the symbol of the Eye on their helmets and shields, and referred to him as the \"Eye\" because he did not allow his name to be written or spoken, according to Aragorn.<ref group=T>{{harvnb|Tolkien|1954|loc=book 3, ch. 5 \"The Departure of Boromir\"}}</ref>{{efn|A notable exception was Sauron's emissary, the [[Mouth of Sauron]].}} The [[Lord of the Nazgûl]] threatened [[Éowyn]] with torture before the \"Lidless Eye\" at the Battle of the Pelennor Fields.<ref group=T>{{harvnb|Tolkien|1954|loc=book 5, ch. 6 \"The Battle of the Pelennor Fields\"}}</ref> Frodo had a vision of the Eye in the Mirror of Galadriel:<ref name=\"Mirror of Galadriel\" group=T/>\n\n{{blockquote|The Eye was rimmed with fire, but was itself glazed, yellow as a cat's, watchful and intent, and the black slit of its pupil opened on a pit, a window into nothing.<ref name=\"Mirror of Galadriel\" group=T>{{harvnb|Tolkien|1954a|loc=book 2, ch. 7 \"The Mirror of Galadriel\"}}</ref>}}\n\nLater, Tolkien writes as if Frodo and Sam really glimpse the Eye directly. The mists surrounding Barad-dûr are briefly withdrawn, and:\n\n{{blockquote|one moment only it stared out ... as from some great window immeasurably high there stabbed northward a flame of red, the flicker of a piercing Eye ... The Eye was not turned on them, it was gazing north ... but Frodo at that dreadful glimpse fell as one stricken mortally.<ref name=\"Mount Doom\" group=T>{{harvnb|Tolkien|1955|loc=book 6, ch. 3 \"Mount Doom\"}}</ref>}}\n\nThis raises the question of whether an \"Eye\" was Sauron's actual manifestation, or whether he had a body beyond the Eye.<ref name=\"sd38\" group=T/> Gollum (who was tortured by Sauron in person) tells Frodo that Sauron has, at least, a \"Black Hand\" with four fingers.<ref group=T>{{harvnb|Tolkien|1954|loc=book 4, ch. 3 \"The Black Gate is Closed\"}}</ref> The missing finger was cut off when [[Isildur]] took the Ring, and the finger was still missing when Sauron reappeared centuries later. Tolkien writes in ''[[The Silmarillion]]'' that \"the Eye of Sauron the Terrible few could endure\" even ''before'' his body was lost in the War of the Last Alliance.<ref name=\"Akallabêth\" group=T/> In the draft text of the climactic moments of ''The Lord of the Rings'', \"the Eye\" stands for Sauron's very person, with emotions and thoughts:<ref name=\"sd38\" group=T/>\n\n{{blockquote|The Dark Lord was suddenly aware of him [Frodo], the Eye piercing all shadows ... Its wrath blazed like a sudden flame and its fear was like a great black smoke, for it knew its deadly peril, the thread upon which hung its doom ... [I]ts thought was now bent with all its overwhelming force upon the Mountain...\"<ref name=\"sd38\" group=T>{{harvnb|Tolkien|1992|loc=part 1, ch. 4 \"Mount Doom\"}}</ref>}}\n\n[[Christopher Tolkien]] comments: \"The passage is notable in showing the degree to which my father had come to identify the Eye of Barad-dûr with the mind and will of Sauron, so that he could speak of 'its wrath, its fear, its thought'. In the second text ... he shifted from 'its' to 'his' as he wrote out the passage anew.\"<ref name=\"sd38\" group=T/>\n\n== Concept and creation ==\n\nSince the earliest versions of the Silmarillion [[legendarium]], as detailed in the ''[[The History of Middle-earth|History of Middle-earth]]'' series, Sauron underwent many changes. The prototype or precursor Sauron-figure was a giant monstrous cat, the Prince of Cats. Called ''Tevildo'', ''Tifil'' and ''Tiberth'' among other names, this character played the role later taken by Sauron in the earliest version of the story of Beren and Tinúviel in ''[[The Book of Lost Tales]]'' in 1917.<ref group=T>{{harvnb|Tolkien|1984b|loc=Part Two, \"The Tale of Tinúviel\"}}</ref> The Prince of Cats was later replaced by ''Thû'', the Necromancer. The name was then changed to ''Gorthû'', ''Sûr'', and finally to Sauron. ''Gorthû'', in the form ''Gorthaur,'' remained in ''The Silmarillion'';<ref name=\"Valaquenta\" group=T/> both ''Thû'' and ''Sauron'' name the character in the 1925 ''[[Lay of Leithian]]''.<ref group=T>{{harvnb|Tolkien|1984|loc=\"The Lay of Leithian\"}}</ref>\n\nThe story of [[Beren and Lúthien]] also features the heroic hound Huan and involved the subtext of cats versus dogs in its earliest form. Later the cats were changed to wolves or werewolves, with Sauron becoming the Lord of Werewolves.<ref group=T>{{harvnb|Tolkien|1977|loc=ch. 18 \"Of the Ruin of Beleriand and the Fall of Fingolfin\"}}</ref>\n\nBefore the 1977 publication of ''The Silmarillion'', Sauron's origins and true identity were unclear to those without access to Tolkien's notes. In 1968, the poet [[W. H. Auden]] conjectured that Sauron might have been one of the Valar.<ref>{{cite journal |last=Auden |first=W. H. |author-link=W. H. Auden |title=Good and Evil in ''The Lord of the Rings'' |journal=[[Critical Quarterly]] |volume=10 |issue=1–2 |date=June 1968 |pages=138–142 |doi=10.1111/j.1467-8705.1968.tb02218.x}}</ref>\n\n== Analysis ==\nSauron is the [[title character]]{{efn|This is made clear in the chapter \"[[The Council of Elrond]]\", where Glorfindel states that \"soon or late the Lord of the Rings would learn of its hiding place and would bend all his power towards it\".<ref group=T name=\"Council of Elrond\">{{harvnb|Tolkien|1954a|loc=book 2, ch. 2 \"[[The Council of Elrond]]\"}}</ref>}} and the main [[antagonist]]<ref>{{cite web |publisher=GreenBooks, [[TheOneRing.net]] |url=http://greenbooks.theonering.net/guest/files/050102.html |title=How much was Rowling inspired by Tolkien? |first=Caroline |last=Monroe |access-date=21 May 2006 |archive-date=14 September 2019 |archive-url=https://web.archive.org/web/20190914023536/http://greenbooks.theonering.net/guest/files/050102.html |url-status=live }}</ref> in ''[[The Lord of the Rings]]''.\n\n=== Embodiment of evil ===\n\n{{further|Evil in Middle-earth}}\n\n[[File:Alternative views of Evil in the world.svg|thumb|upright=2|Sauron, like everything else, is created good (the [[Augustinianism|Augustinian]] view),{{sfn|Rosebury|2003|pp=35–41}}{{sfn|Walther|Larsen|2024|pp=92–109}} and seems to embody evil which is as powerful as good (the [[Manichaean]] view), but is rather the absence of good (the [[Boethian]] view).{{sfn|Shippey|2005|pp=160–161}} ]]\nTolkien described the \"rebellion and evil of Morgoth and his satellite Sauron\" as Satanic.<ref group=T name=\"Letter 156\">{{harvnb|Carpenter|2023|loc=#156 to [[Robert Murray SJ]], 4 November 1954 }}</ref> While denying that absolute [[Evil in Middle-earth|evil]] could exist, Tolkien stated that Sauron came as near to a wholly evil will as was possible. Tolkien added that Sauron \"went further than human tyrants in pride and the lust for domination\" since he was an immortal (angelic) spirit. In Tolkien's words, \"He began as Morgoth's servant, became his representative in the Second Age, and at the end of the Third Age actually claimed to be 'Morgoth returned'\".<ref group=T>{{harvnb|Carpenter|2023|loc=#183 notes on [[W. H. Auden]]'s review of ''[[The Return of the King]]'' }}</ref>\n\n[[Tom Shippey]] writes that Tolkien's depiction of Sauron embodies an ancient debate within Christianity on the nature of [[evil]]. Shippey notes [[Elrond]]'s statement that \"nothing is evil in the beginning. Even [the Dark Lord] Sauron was not so\".<ref name=\"Council of Elrond\" group=T/> He takes this to mean that Sauron was created good, and became evil by moving away from the good.{{sfn|Shippey|2005|pp=160–161}} The first part of Elrond's statement is taken by scholars to imply an [[Augustinianism|Augustinian]] universe, created good.{{sfn|Rosebury|2003|pp=35–41}}{{sfn|Walther|Larsen|2024|pp=92–109}} The second part of Elrond's statement, Shippey writes, is the [[Boethian]] view, where evil is the absence of good. Shippey adds that Tolkien sets this alongside the [[Manichaean]] view that good and evil are equally powerful, and battle it out in the world.{{sfn|Shippey|2005|pp=160–161}} [[The Great War and Middle-earth|Tolkien's personal war experience]] was Manichean: evil seemed at least as powerful as good, and could easily have been victorious, a strand which (Shippey writes) can be seen in Middle-earth.{{sfn|Shippey|2005|pp=169–170}}\n\n=== Classically reptilian ===\n\n{{see also|Tolkien and the classical world}}\n\nThe classicist J. K. Newman comments that \"Sauron's Greek name\" makes him \"the Lizard\", {{ety|grc|''[[wikt:σαῦρος|σαῦρος]]'' (sauros)|lizard or reptile}}, and that in turn places Frodo (whose quest destroys Sauron) as \"a version of [[Praxiteles]]' ''[[Apollo Sauroktonos]]''\", [[Apollo]] the Lizard-killer.<ref>{{cite journal |last=Newman |first=J. K. |title=J.R.R. Tolkien's 'The Lord of the Rings': A Classical Perspective |journal=Illinois Classical Studies |volume=30 |year=2005 |pages=229–247 |jstor=23065305}}</ref>\n\n=== Destructive Dracula-figure ===\n\nGwenyth Hood, writing in ''[[Mythlore]]'', compares Sauron to [[Count Dracula]] from [[Bram Stoker]]'s 1897 novel ''[[Dracula]]''. In her view, both of these monstrous antagonists seek to destroy<!--are \"counter-creators\"-->, are linked to powers of darkness, are parasitical on created life, and are [[undead]]. Both control others psychologically and have \"hypnotic eyes\". Control by either of them represents \"high spiritual terror\" as it is a sort of \"[[damnation]]-on-earth\".<ref name=\"Hood 1987\">{{cite journal |last=Hood |first=Gwenyth |title=Sauron and Dracula |journal=[[Mythlore]] |date=1987 |volume=14 |issue=2 (52) |pages=11–17, 56 |url=https://dc.swosu.edu/mythlore/vol14/iss2/2/ |access-date=2020-05-31 |archive-date=2020-09-19 |archive-url=https://web.archive.org/web/20200919185156/https://dc.swosu.edu/mythlore/vol14/iss2/2/ |url-status=live }}</ref>\n\n=== Celtic Balor of the Evil Eye ===\n\n{{further|Celtic influences on Tolkien}}\n\nEdward Lense, also writing in ''Mythlore'', identifies a figure from [[Celtic mythology]], [[Balor|Balor of the Evil Eye]], as a possible source for the Eye of Sauron. Balor's evil eye, in the middle of his forehead, was able to overcome a whole army. He was a leader of the supernatural [[Fomorians]]. Lense further compares Mordor to \"a Celtic [[hell]]\", just as the Undying Lands of Aman resemble the Celtic [[Earthly Paradise]] of ''[[Tír na nÓg]]'' in the furthest (Atlantic) West; and Balor \"ruled the dead from a tower of glass\".<ref name=\"Lense1976\">{{cite journal |last=Lense |first=Edward |title=Sauron and Dracula |journal=[[Mythlore]] |date=1976 |volume=4 |issue=1 |at=article 1 |url=https://dc.swosu.edu/mythlore/vol4/iss1/1/ |access-date=2020-05-31 |archive-date=2020-09-18 |archive-url=https://web.archive.org/web/20200918170825/https://dc.swosu.edu/mythlore/vol4/iss1/1/ |url-status=live }}</ref>\n\n=== Antagonist ===\n\nThe Tolkien scholar [[Verlyn Flieger]] writes that if there was an opposite to Sauron in ''The Lord of the Rings'', it would not be Aragorn, his political opponent, nor Gandalf, his spiritual enemy, but [[Tom Bombadil]], the earthly Master who is entirely free of the desire to dominate and hence cannot be dominated.<ref name=\"Flieger 2011\">{{cite book |last=Flieger |first=Verlyn |author-link=Verlyn Flieger |chapter=Sometimes One Word is Worth a Thousand Pictures |editor1-last=Bogstad |editor1-first=Janice M. |editor2-last=Kaveny |editor2-first=Philip E. |title=[[Picturing Tolkien]] |chapter-url=https://books.google.com/books?id=jNjKrXRP0G8C&pg=PA244 |year=2011 |publisher=[[McFarland (publisher)|McFarland]] |location=Jefferson, North Carolina |isbn=978-0-7864-8473-7 |pages=50–51 |access-date=2020-06-28 |archive-date=2020-09-21 |archive-url=https://web.archive.org/web/20200921142641/https://books.google.com/books?id=jNjKrXRP0G8C&pg=PA244 |url-status=live }}</ref>\n\n{| style=\"margin-left: auto; margin-right: auto; border: none;\" class=\"wikitable\"\n|+ Sauron's opposite, as analysed by Verlyn Flieger<ref name=\"Flieger 2011\"/>\n|-\n! style=\"width: 100px;\" |          \n! style=\"width: 150px;\" | Sauron \n! style=\"width: 275px;\" | Tom Bombadil\n|-\n! Role  \n| Antagonist || Earthly counterpart\n|-\n! Title  \n| Dark Lord || \"Master\"\n|-\n! Purpose \n| Domination of whole of [[Middle-earth]] || Care for [[The Old Forest]] \"No hidden agenda, no covert desire or plan of operation\"\n|-\n! Effect of the One Ring \n| \"Power over other wills\" || No effect on him \"as he is not human\", nor does it make others invisible to him, or him to others\n|-\n! How he sees the Ring \n| Means of domination || Looks right through it, his \"blue eye peering through the circle of the Ring\"\n|}\n\n== Adaptations ==\n\n[[File:Sauron.jpg|thumb|upright=1.3|left|Sauron, portrayed by [[Sala Baker]], in [[Peter Jackson]]'s ''[[The Lord of the Rings: The Fellowship of the Ring|The Fellowship of the Ring]]''<ref name=\"BFI\">{{cite web |title=Sala Baker |url=https://www2.bfi.org.uk/films-tv-people/4ce2bcac0937e |archive-url=https://web.archive.org/web/20201203145133/https://www2.bfi.org.uk/films-tv-people/4ce2bcac0937e |url-status=dead |archive-date=December 3, 2020 |publisher=[[British Film Institute]] |access-date=13 September 2022}}</ref>]]\n\nIn early film versions of ''The Lord of the Rings'', Sauron has been left off-screen as \"an invisible and unvisualizable antagonist\"<ref name=\"Langford 2013\"/> as in [[Ralph Bakshi]]'s 1978 [[The Lord of the Rings (1978 film)|animated version]],<ref name=\"Langford 2013\">{{cite encyclopedia |last=Langford |first=Barry |title=Bakshi, Ralph (1938–) |editor-first=Michael D. C. |editor-last=Drout |editor-link=Michael D. C. Drout |encyclopedia=[[J.R.R. Tolkien Encyclopedia]] |url=https://books.google.com/books?id=B0loOBA3ejIC&pg=PA48 |year=2013 |orig-year=2007 |publisher=[[Taylor & Francis]] |location=Abingdon, England |isbn=978-0-415-96942-0 |page=48 |access-date=2020-07-03 |archive-date=2020-08-02 |archive-url=https://web.archive.org/web/20200802072541/https://books.google.com/books?id=B0loOBA3ejIC&pg=PA48 |url-status=live }}</ref> or as a disembodied Eye, as in [[Rankin/Bass]]'s 1980 animated adaptation of ''[[The Return of the King (1980 film)|The Return of the King]]''.<ref name=\"CEDmagic\">{{Cite web |url=http://www.cedmagic.com/featured/tolkien/rotk-2-3400-eye-sauron.html |title=The Eye of Sauron – J.R.R. Tolkien's ''The Return of the King'' |access-date=2006-10-13 |archive-date=2017-06-01 |archive-url=https://web.archive.org/web/20170601224634/http://www.cedmagic.com/featured/tolkien/rotk-2-3400-eye-sauron.html |url-status=live }}</ref>\n\nIn [[The Lord of the Rings (1981 radio series)|the 1981 BBC Radio adaptation]] of ''The Lord of the Rings'', Sauron does not appear in person, but his wishes, commands and intent are spoken by intermediaries such as [[The Mouth of Sauron]], played by John Rye.<ref name=\"Radio Riel 2009\">{{cite web |last=Pearse |first=Edward |title=The Lord of the Rings, Episode 2 |url=https://radioriel.org/content/daily-programme/riel-radio-theatre-the-lord-of-the-rings-episode-2/ |publisher=Radio Riel |date=15 January 2009 |archive-url=https://web.archive.org/web/20200115144511/https://www.radioriel.org/content/daily-programme/riel-radio-theatre-the-lord-of-the-rings-episode-2/ |archive-date=15 January 2020 |url-status=dead}}</ref>\n\nIn the 2001–2003 [[The Lord of the Rings (film series)|film trilogy]] directed by [[Peter Jackson]], Sauron is voiced by [[Alan Howard (actor)|Alan Howard]]. He is briefly shown as a large humanoid figure clad in spiky black armour, portrayed by [[Sala Baker]],<ref>{{cite web |last=Vejvoda |first=Jim |title=Lord of the Rings: Amazon Series Reportedly Includes Sauron, Galadriel, and Elrond |url=https://www.ign.com/articles/lord-of-the-rings-series-sauron-galadriel-elrond |publisher=[[IGN]] |access-date=14 October 2022 |date=31 July 2020 |quote=The villainous Sauron was played in humanoid form by Sala Baker, while Alan Howard voiced the antagonist in The Lord of the Rings}}</ref><ref name=\"BFI\"/><!-- when he forges and possesses the Ring,{{cn}}--> but appears only as the disembodied Eye throughout the rest of the storyline.<ref name=\"MOTG\">{{cite journal |last=Harl |first=Allison |title=The monstrosity of the gaze: critical problems with a film adaptation of The Lord of the Rings |date=Spring–Summer 2007 |journal=[[Mythlore]] |volume=25 |issue=3 |url=https://dc.swosu.edu/mythlore/vol25/iss3/7 |access-date=14 October 2022 |archive-date=19 September 2020 |archive-url=https://web.archive.org/web/20200919191226/https://dc.swosu.edu/mythlore/vol25/iss3/7/ |url-status=live }}</ref> In earlier versions of Jackson's script, Sauron does battle with Aragorn, as shown in the extended DVD version of ''[[The Lord of the Rings: The Return of the King]]''. The scene was removed as too large a departure from Tolkien's text and was replaced with Aragorn fighting a troll.<ref>{{cite web |last=Stauffer |first=Derek |title=Lord Of The Rings: 15 Deleted Scenes You Won't Believe Were Cut |url=https://screenrant.com/lord-of-the-rings-best-deleted-scenes-extended-edition/ |website=[[Screen Rant]] |access-date=31 May 2020 |date=10 August 2017 |archive-date=6 August 2019 |archive-url=https://web.archive.org/web/20190806035624/https://screenrant.com/lord-of-the-rings-best-deleted-scenes-extended-edition/ |url-status=live }}</ref> Sauron appears as the Necromancer in Jackson's [[The Hobbit (film series)|''The Hobbit'' film adaptations]], where he is voiced by [[Benedict Cumberbatch]].<ref>{{cite news |last=Child |first=Ben |title=Hobbit forming: will Peter Jackson give Tolkien's story a new ending? |url=https://www.theguardian.com/film/filmblog/2012/jan/06/the-hobbit-peter-jackson-ending |access-date=31 May 2020 |work=[[The Guardian]] |date=6 January 2012 |archive-date=11 November 2020 |archive-url=https://web.archive.org/web/20201111173337/http://www.theguardian.com/film/filmblog/2012/jan/06/the-hobbit-peter-jackson-ending |url-status=live }}</ref>\n\nSauron appears in the form of his eye in the 2017 ''[[The Lego Batman Movie]]'' voiced by [[Jemaine Clement]]. He is one of the many classic villains the [[Joker (character)|Joker]] frees from the [[Phantom Zone]] to run amok in [[Gotham City]].<ref>{{Cite web |first=Caitlin |last=Busch |url=https://www.inverse.com/article/27676-lego-batman-villains-voldemort-sauron-godzilla-king-kong-daleks-jaws/amp |title=The 9 Most Surprising Cameos in 'Lego Batman' |date=February 10, 2017 |access-date=3 January 2021 |archive-date=29 October 2021 |archive-url=https://web.archive.org/web/20211029063450/https://www.inverse.com/article/27676-lego-batman-villains-voldemort-sauron-godzilla-king-kong-daleks-jaws/amp |url-status=live}}</ref><ref>{{Cite web |first=Caitlin |last=Busch |url=https://www.inverse.com/article/27707-lego-batman-voldemort-sauron-daleks-harry-potter-lord-of-the-rings-doctor-who/amp |title='LEGO Batman' Crosses over with 'Harry Potter,' 'Doctor Who,' and 'Lord of the Rings' |date=February 10, 2017|access-date=3 January 2021 |archive-date=29 October 2021 |archive-url=https://web.archive.org/web/20211029063449/https://www.inverse.com/article/27707-lego-batman-voldemort-sauron-daleks-harry-potter-lord-of-the-rings-doctor-who/amp |url-status=live}}</ref> He features, too, in the merchandise of the Jackson films, including computer and video games. These include ''[[The Lord of the Rings: The Battle for Middle-earth II]]'' (where he was voiced by [[Fred Tatasciore]]), ''[[The Lord of the Rings: Tactics]]'', and ''[[The Lord of the Rings: The Third Age]]''.<ref>{{cite news |last=Power |first=Ed |title=The battle of Middle Earth: how Christopher Tolkien fought Peter Jackson over The Lord of the Rings |url=https://www.telegraph.co.uk/books/authors/battle-middle-earth-christopher-tolkien-fought-peter-jackson/ |archive-url=https://ghostarchive.org/archive/20220111/https://www.telegraph.co.uk/books/authors/battle-middle-earth-christopher-tolkien-fought-peter-jackson/ |archive-date=2022-01-11 |url-access=subscription |url-status=live |access-date=31 May 2020 |work=[[The Daily Telegraph|The Telegraph]] |date=17 January 2020}}{{cbignore}}</ref><ref>{{cite news |last1=Sammut |first1=Mark |title=Every Single The Lord Of The Rings Video Game, Officially Ranked |url=https://www.thegamer.com/the-lord-of-the-rings-video-games-ranked-best-all-time/ |newspaper=Thegamer |access-date=3 July 2020 |date=23 July 2018 |archive-date=3 July 2020 |archive-url=https://web.archive.org/web/20200703115658/https://www.thegamer.com/the-lord-of-the-rings-video-games-ranked-best-all-time/ |url-status=live }}</ref><!-- Sauron is a [[playable character]] in games such as ''[[The Lord of the Rings: Conquest]]'', voiced by Jon Olson.{{cn}} He appears in ''[[Middle-earth: Shadow of Mordor]]'' and its sequel ''[[Middle-earth: Shadow of War]]'', voiced by [[Steve Blum]].{{cn}}--> In the ''[[Lord of the Rings Online]]'' game, he is featured as an enemy.<ref>{{cite journal |last=Bainbridge |first=William Sims |title=Virtual Nature: Environmentalism in Two Multi-player Online Games |journal=Journal for the Study of Religion, Nature & Culture |date=September 2010 |volume=4 |issue=3 |pages=135–152 |doi=10.1558/jsrnc.v4i3.135 }}</ref>\n\nSauron's rise to power in the Second Age is portrayed in the Amazon prequel series ''[[The Lord of the Rings: The Rings of Power]]''.<ref>{{cite news |last=Otterson |first=Joe |title='Lord of the Rings' Amazon Series Reveals Full Title in New Video |website=[[Variety (magazine)|Variety]] |date=19 January 2022 |url=https://variety.com/2022/tv/news/lord-of-the-rings-rings-of-power-amazon-series-1235156784/ |access-date=23 July 2022 }}</ref> He first appears disguised as the non-canonical human character Halbrand,<ref name=\"Hibberd 2022\">{{cite news |last=Hibberd |first=James |title='The Rings of Power' Finale: Even Sauron Actor Didn't Know He Was Sauron at First |work=[[The Hollywood Reporter]] |date=13 October 2022 |url=https://www.hollywoodreporter.com/tv/tv-news/rings-of-power-finale-sauron-actor-interview-1235240895/ |access-date=14 October 2022}}</ref> and then in the second season as Annatar (a canonical alias of Sauron), both played by [[Charlie Vickers]].<ref name=\"ROP S2 ref\">{{cite magazine |last=Dockterman |first=Eliana |title=Why Sauron Can Change Form on ''The Rings of Power'' |date=29 August 2024 |magazine=[[Time (magazine)|Time magazine]] |url=https://time.com/7010955/the-rings-of-power-sauron-true-form/ |accessdate=30 August 2024}}</ref> The Halbrand persona was conceived to make the audience share the feeling of being deceived by Sauron, and to ensure he would not overshadow other characters. Afterwards, he would be allowed to function like other classic TV villains (such as [[Walter White (Breaking Bad)|Walter White]] or [[Tony Soprano]]), or [[Lucifer]] in [[John Milton]]'s ''[[Paradise Lost]]''.<ref>{{cite news |last=Hibberd |first=James |title='The Rings of Power' Showrunners: Sauron Will Be Like Walter White in Season 2 |work=[[The Hollywood Reporter]] |date=13 October 2022 |url=https://www.hollywoodreporter.com/tv/tv-news/rings-of-power-sauron-season-2-lotr-1235240809/ |access-date=5 October 2024}}</ref> Vickers said he was unaware of his character's true identity until filming [[Adar (The Lord of the Rings: The Rings of Power)|the third episode]]. He admitted he began to suspect when lines from [[John Milton]]'s ''[[Paradise Lost]]'', a narrative poem about the [[Bible|biblical]] story of the [[fall of man]], were used during an audition.<ref name=\"Hibberd 2022\"/> [[Jack Lowden]] portrays the character's First Age and early Second Age form in flashback in the [[Elven Kings Under the Sky|second season premiere]].<ref name=\"ROP S2 ref\"/> The depiction of [[Evil in Middle-earth|evil in Arda]] as embodied in Sauron shifts both in Tolkien's writings and in the Amazon series. The prequel adopts Tolkien's use of both [[Augustinian theodicy|Augustinian]] and [[Manichean]] attitudes to evil.<ref name=\"Walther Larsen 2024\">{{cite journal |last1=Walther |first1=Bo Kampmann |last2=Larsen |first2=Lasse Juel |year=2024 |title=Beyond the Fantasy of Orcs: Orcish Transformation in Amazon's The Rings of Power |journal=HumaNetten |issue=52 (Spring 2024) |pages=92–109 |url=https://open.lnu.se/index.php/hn/article/view/4305/3796 |doi=10.15626/hn.20245209|doi-access=free }}</ref>\n\n== In culture ==\n\n{{further|List of things named after J. R. R. Tolkien and his works}}\n<!--Per talk, please do not add anything named after Sauron here, the list is sufficient-->\n\n<!--Novels-->\nThe Eye of Sauron is mentioned in ''[[The Stand]]'', a 1978 [[post-apocalyptic]] novel written by [[Stephen King]]. The villain [[Randall Flagg]] possesses an [[astral body]] in the form of an \"Eye\" akin to the Lidless Eye. The novel itself was conceived by King as a \"fantasy epic like ''The Lord of the Rings'', only with an American setting\".<ref>{{cite book |last=King |first=Stephen |author-link=Stephen King |title=The Stand: The Complete & Uncut Edition |publisher=[[Doubleday (publisher)|Doubleday]] |location=New York City |date=1978 |isbn=978-0-385-12168-2 |url=https://archive.org/details/stand00step_1 |url-access=registration}}</ref> The idea of Sauron as a sleepless eye that watches and seeks the protagonists also influenced King's epic fantasy series ''[[The Dark Tower (series)|The Dark Tower]]''; its villain, the [[Crimson King]], is a similarly disembodied evil presence whose icon is also an eye.<ref>{{cite book |last=Magistrale |first=Tony |author-link=Tony Magistrale |date=21 December 2009 |title=Stephen King: America's Storyteller |url=https://books.google.com/books?id=neqOJbFjVvEC&pg=PA40 |location=Santa Barbara, California |publisher=[[Greenwood Publishing Group|Praeger]] |page=40 |isbn=978-0313352287 |access-date=19 May 2015 |archive-date=29 October 2021 |archive-url=https://web.archive.org/web/20211029063451/https://books.google.com/books?id=neqOJbFjVvEC&pg=PA40 |url-status=live }}</ref>\n\n<!--Comics-->\nIn the [[Marvel Comics Universe]], the [[supervillain]] [[Sauron (Marvel Comics)|Sauron]], an enemy of the [[X-Men]] created in 1969, names himself after the Tolkien character.<ref name=\"X-Men' 1969\">{{cite comic |writer=[[Roy Thomas]] |penciller=[[Neal Adams]] |inker=[[Tom Palmer (comics)|Tom Palmer]] |letterer=[[Sam Rosen (comics)|Sam Rosen]] |editor=[[Stan Lee]] |story=In the Shadow of...Sauron! |title=[[Uncanny X-Men|The X-Men]] |volume=1 |issue=60 |date=September 1969 |publisher=[[Marvel Comics]] |location=New York City}}</ref> In the comic series ''[[Fables (comics)|Fables]]'', by [[Bill Willingham]], begun in 2002, one character is called \"The Adversary\", an ambiguous figure of immense evil and power believed to be responsible for much of the misfortune in the Fables' overall history. Willingham has stated \"The Adversary\", in name and in character, was inspired by Sauron.<ref>{{cite web |last=O'Shea |first=Tom |title=\"This is a Wonderful Job\": An Orca Q&A with Fables' Bill Willingham | year=2003 |url=http://www.orcafresh.net/interview/in020503.html |access-date=31 July 2007 |archive-url=https://web.archive.org/web/20050429103441/http://www.orcafresh.net/interview/in020503.html |archive-date=29 April 2005}}  Interview with Bill Willingham</ref><!-- Technology -->\n\n== Notes ==\n\n{{notelist}}\n\n== References ==\n\n=== Primary ===\n\n{{Reflist|group=T|28em}}\n\n=== Secondary ===\n\n{{Reflist|28em}}\n\n=== Sources ===\n\n* {{ME-ref|Letters}} <!--Carpenter-->\n* {{ME-ref|A&I}} <!--Hammond & Scull, but Tolkien's artwork-->\n* {{cite book |last=Rosebury |first=Brian |author-link=Brian Rosebury |title=Tolkien: A Cultural Phenomenon |title-link=Tolkien: A Cultural Phenomenon |date=2003 |publisher=Palgrave |isbn=978-1403-91263-3}}\n* {{ME-ref|ROAD}} <!--Shippey 2005-->\n* {{ME-ref|FOTR}}\n* {{ME-ref|TT}}\n* {{ME-ref|ROTK}}\n* {{ME-ref|Silm}}\n* {{ME-ref|UT}}\n* {{ME-ref|BOLT}}\n* {{ME-ref|BOLT2}}\n* {{ME-ref|LROW}}\n* {{ME-ref|MR}}\n* {{ME-ref|SD}}\n* {{ME-ref|WJ}}\n* {{ME-ref|PM}}\n* {{ME-ref|FG}}\n\n{{Lord of the Rings}}\n{{Hobbit}}\n{{Middle-earth}}\n<!--\n    PLEASE DO NOT ADD CATEGORIES HERE UNLESS MENTIONED AND CITED IN ARTICLE\n-->\n\n[[Category:The Silmarillion characters]]\n[[Category:The Hobbit characters]]\n[[Category:The Lord of the Rings characters]]\n[[Category:Middle-earth rulers]]\n[[Category:Dark lords]]\n[[Category:Male film villains]]\n[[Category:Male literary villains]]\n[[Category:Bearers of the One Ring]]\n[[Category:Unseen characters]]\n[[Category:Fictional undead]]\n[[Category:Deceased fictional characters]]\n\n[[de:Figuren in Tolkiens Welt#Sauron]]",
+  "redirect_chain": [],
+  "revision_id": 1361889186,
+  "revision_timestamp": "2026-06-30T17:55:47Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: list",
+      "structure_type": "list"
+    },
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "Before the world's creation"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "First Age"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "First Age"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "Second Age"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "Second Age"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "Second Age"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "Third Age"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "Third Age"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "Third Age"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "Third Age"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "Third Age"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearance",
+        "Physical body"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearance",
+        "Physical body"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearance",
+        "Physical body"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearance",
+        "Eye of Sauron"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearance",
+        "Eye of Sauron"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearance",
+        "Eye of Sauron"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearance",
+        "Eye of Sauron"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearance",
+        "Eye of Sauron"
+      ],
+      "paragraph_ordinal": 7,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Concept and creation"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Concept and creation"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Concept and creation"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Embodiment of evil"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Embodiment of evil"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Embodiment of evil"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Classically reptilian"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Classically reptilian"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Destructive Dracula-figure"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Celtic Balor of the Evil Eye"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Celtic Balor of the Evil Eye"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Antagonist"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Antagonist"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: table",
+      "structure_type": "table"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "In culture"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "In culture"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "In culture"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Notes"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

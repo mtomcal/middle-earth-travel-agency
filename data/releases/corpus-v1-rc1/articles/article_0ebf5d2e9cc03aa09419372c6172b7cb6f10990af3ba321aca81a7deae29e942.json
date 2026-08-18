@@ -1,0 +1,411 @@
+{
+  "article_artifact_id": "article_0ebf5d2e9cc03aa09419372c6172b7cb6f10990af3ba321aca81a7deae29e942",
+  "canonical_title": "Túrin Turambar",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_0ebf5d2e9cc03aa09419372c6172b7cb6f10990af3ba321aca81a7deae29e942",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Tolkien consciously based the story on the tale of Kullervo in the 19th-century Finnish mythological poem Kalevala. Scholars have noted parallels with other myths including that of Sigmund and Sigurd in the Völsunga saga of Norse mythology; with the Greek myth of Oedipus; and in terms of structure and style, with Arthurian legend.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_bd819ec78a27ef24e65c49349e4b08d4d7921a0ce82e92520d5b0f6834c08e4e",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0ebf5d2e9cc03aa09419372c6172b7cb6f10990af3ba321aca81a7deae29e942",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Excerpts have been published in prose in The Silmarillion, Unfinished Tales, The Book of Lost Tales Part II, and The War of the Jewels, and in alliterative long-line verse in The Lays of Beleriand. The complete story was published as The Children of Húrin in 2007.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_279c5e06e147f1071771a0035fa980bacc4e89532955048769c39e5930537ac4",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0ebf5d2e9cc03aa09419372c6172b7cb6f10990af3ba321aca81a7deae29e942",
+      "heading_path": [
+        "Narrative",
+        "Nargothrond"
+      ],
+      "normalized_text": "They journey to the hidden fortress of Nargothrond, where Gwindor had been a lord. He gives Beleg's sword Anglachel to Túrin, who has it reforged and renamed Gurthang, \"Iron of Death\". Túrin hides his own name, becoming known as Mormegil or the Blacksword of Nargothrond. Gwindor meets his beloved, Finduilas daughter of King Orodreth, but she unwillingly falls in love with Túrin; Túrin does not perceive this and holds her in awe. Túrin becomes a chief counsellor to the King. He encourages the Elves to abandon their secrecy, and they build a great bridge before the Doors of Nargothrond and clear the land between the River Sirion and the coastal Falas from enemies. Túrin becomes arrogant, ignoring even a warning from the godlike Vala Ulmo to destroy the bridge and return to secrecy.",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_5bfb6b8ddcb2564fd63eab3e2f74935096fe8961bb8ed886532747e67c7f7ef1",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0ebf5d2e9cc03aa09419372c6172b7cb6f10990af3ba321aca81a7deae29e942",
+      "heading_path": [
+        "Narrative",
+        "Nargothrond"
+      ],
+      "normalized_text": "After five years, Morgoth sends a great host of Orcs led by the dragon Glaurung. Túrin persuades Orodreth to fight them in the open. In the ensuing Battle of Tumhalad, Nargothrond's forces are destroyed and Orodreth is killed; the bridge helps Morgoth's forces to locate the fortress and cross the river Narog. Túrin fights Glaurung off, but leaves the battle to carry away the mortally wounded Gwindor. Before Gwindor dies, he instructs Túrin to save Finduilas, prophesying that she alone can avert Túrin's doom. Hastening to save the captives, Túrin is caught by Glaurung's powerful gaze. He stands by enspelled as Finduilas is dragged away, calling to him. The dragon deceives him into believing that Morwen and Niënor are suffering in Dor-lómin; Túrin abandons Finduilas to seek out his kin. When he reaches Dor-lómin, he finds that Morwen had already left for Doriath before the fall of Nargothrond. In his rage he kills the people around him.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_c2f01ce44f075053e1c3cf35229d30ab39ba51d08de0889af02de50a07ca7e4e",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0ebf5d2e9cc03aa09419372c6172b7cb6f10990af3ba321aca81a7deae29e942",
+      "heading_path": [
+        "Narrative",
+        "Brethil"
+      ],
+      "normalized_text": "Túrin next tries to find Finduilas, travelling to the forest of Brethil, but is too late: the woodmen inform him that she had been killed by the Orcs when the Men of Brethil tried to rescue her. Túrin collapses in grief upon her grave, and is brought to a village in the forest, Ephel Brandir. There he takes up his life again, now calling himself Turambar (\"Master of Doom\") and renouncing his descent, hoping to overcome his curse. The Folk of Haleth dwelling there are ruled by Brandir the Lame, who hopes to preserve his people by secrecy. Turambar quickly gains power, gathering companies to fight Orcs. He stops wielding Gurthang and fights using a spear and a bow.",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_1af1e604f95a62f3e3427789b4c2d524a905c4d10de2f4908570c854eb1fe7e9",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0ebf5d2e9cc03aa09419372c6172b7cb6f10990af3ba321aca81a7deae29e942",
+      "heading_path": [
+        "Narrative",
+        "Brethil"
+      ],
+      "normalized_text": "When Morwen and Niënor hear the news of Nargothrond's destruction, they rashly go to look for Túrin. Glaurung, now living in the ruins of Nargothrond, descends into the river to create a fog. Morwen loses her way in the fog, but Niënor meets the dragon and is enspelled by him, forgetting her past. She flees to Brethil. Turambar finds her at Finduilas's grave, naked, unable to speak and remembering nothing. He names her Níniel, \"Maid of Tears\", and takes her to Ephel Brandir. There she is healed by Brandir, who falls in love with her; but Níniel and Turambar come to love each other. Turambar asks her to marry him; Brandir dissuades her, foreboding evil, but they are married. Turambar goes back to war when Glaurung sends Orcs to attack Brethil: taking up the sword again, Turambar drives them away. Next year Níniel conceives, and Glaurung attacks Brethil in person.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_5180e5c173eb6fe4c94472f62df10463f2bf0ec98d5ca97278dec7ba789a4151",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0ebf5d2e9cc03aa09419372c6172b7cb6f10990af3ba321aca81a7deae29e942",
+      "heading_path": [
+        "Narrative",
+        "Brethil"
+      ],
+      "normalized_text": "Turambar decides to ambush the Dragon and to try stabbing him from beneath. Of his two companions, Dorlas deserts, and Hunthor is killed by a stone. Turambar mortally wounds Glaurung with Gurthang, but is poisoned by the Dragon's blood and falls in a swoon. When Níniel comes to search for him, Glaurung with his last words undoes his spell, and she remembers who she is, and that Turambar is her brother. Horrified, Niënor drowns herself in the river Teiglin.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_f56ab921a05b4229b0ce70b79061cb0ca2b7621ab61ea94294f1bf6c01945338",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0ebf5d2e9cc03aa09419372c6172b7cb6f10990af3ba321aca81a7deae29e942",
+      "heading_path": [
+        "Narrative",
+        "Brethil"
+      ],
+      "normalized_text": "Brandir tauntingly tells Turambar what has happened. Turambar kills the defenceless Brandir and runs in madness to Finduilas's grave. There an Elf of Doriath, Mablung, confirms the words of Brandir. Turambar flees and kills himself with Gurthang. He is buried in a high mound, together with the shards of the sword. A great stone is set upon the grave, upon which the Elves write in Cirth runes:",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_98db6b3fbe70c5953b6d1e6107d6d024cc56fc1272cbb7670f2fe55f45b9dc40",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0ebf5d2e9cc03aa09419372c6172b7cb6f10990af3ba321aca81a7deae29e942",
+      "heading_path": [
+        "Narrative",
+        "Brethil"
+      ],
+      "normalized_text": "{{center| TÚRIN TURAMBAR DAGNIR GLAURUNGA NIËNOR NÍNIEL",
+      "paragraph_ordinal": 5,
+      "passage_id": "passage_db5d649d133884d59a406f673f7b04db5cdef32e4704c65530268d48dd1d33de",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0ebf5d2e9cc03aa09419372c6172b7cb6f10990af3ba321aca81a7deae29e942",
+      "heading_path": [
+        "Narrative",
+        "Brethil"
+      ],
+      "normalized_text": "(Túrin, Conqueror of Fate, Slayer of Glaurung",
+      "paragraph_ordinal": 6,
+      "passage_id": "passage_5ba4339404bc6ce56f6a06ccd9642643c80e644305e35759ff6c62f7fbc46c3d",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0ebf5d2e9cc03aa09419372c6172b7cb6f10990af3ba321aca81a7deae29e942",
+      "heading_path": [
+        "Narrative",
+        "Brethil"
+      ],
+      "normalized_text": "Niënor Níniel) }}",
+      "paragraph_ordinal": 7,
+      "passage_id": "passage_fdf44bac1e3b6962e3bfe582ddcb698787e9be9cce40daa4c27110077c7ac7e3",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0ebf5d2e9cc03aa09419372c6172b7cb6f10990af3ba321aca81a7deae29e942",
+      "heading_path": [
+        "Narrative",
+        "Brethil"
+      ],
+      "normalized_text": "However, Niënor's body is not there. Two years later Morwen and Húrin meet there for the last time; Morwen is later buried there. The mound survives the War of Wrath and the Drowning of Beleriand; Tol Morwen becomes an island off the coast of Middle-earth.",
+      "paragraph_ordinal": 8,
+      "passage_id": "passage_55cbfd76dd410dfed02d02827775e80b21963022ba5560ba480504fd4bbeeca1",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0ebf5d2e9cc03aa09419372c6172b7cb6f10990af3ba321aca81a7deae29e942",
+      "heading_path": [
+        "Narrative",
+        "Fate after death"
+      ],
+      "normalized_text": "Tolkien wrote several versions of a prophecy about Túrin's fate after death.",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_61ca7105d8bd1abde8effd9f4fe2692d5ce6b6dc9185be5ac74bd8db6132bf8e",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0ebf5d2e9cc03aa09419372c6172b7cb6f10990af3ba321aca81a7deae29e942",
+      "heading_path": [
+        "Analysis",
+        "Mythological parallels"
+      ],
+      "normalized_text": "thumb|upright=1.35|Tolkien partly based Túrin on the tragic figure of Kullervo from the Finnish Kalevala. Painting Kullervo Rides to War by Akseli Gallen-Kallela, 1901",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_b9ce1f8d0345f968c0fb3ccde36b4d72e0775fafe9a5034d3b43763de38fafc9",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0ebf5d2e9cc03aa09419372c6172b7cb6f10990af3ba321aca81a7deae29e942",
+      "heading_path": [
+        "Analysis",
+        "Mythological parallels"
+      ],
+      "normalized_text": "Tolkien noted some of Túrin's mythological parallels in a letter to the publisher Milton Waldman:",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_8aed75d2ef11d6560bdb88cfac2eaa9c3aae2f9f9f669b85a8addc9d4479605c",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=T%C3%BArin_Turambar&action=history",
+  "namespace": 0,
+  "page_id": 248420,
+  "parent_revision_id": 1337535364,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1337583995",
+  "raw_wikitext": "{{Short description|Fictional character from Middle-earth}}\n{{Redirect|Túrin|other uses|Turin (disambiguation)}}\n{{Good article}}\n{{Use British English|date=May 2022}}\n{{Infobox character\n| name        = Túrin\n| series      = [[J. R. R. Tolkien|Tolkien]] \n| race        = [[Man (Middle-earth)|Men]]\n| lbl24       = Book(s)\n| data24      = ''[[The Silmarillion]]'',<br/>''[[Unfinished Tales]]''<br/>''[[The Book of Lost Tales]]'' Part II<br/>''[[The Lays of Beleriand]]''<br/>''[[The War of the Jewels]]''<br/>''[[The Children of Húrin]]''\n}}\n'''Túrin Turambar''' (pronounced {{IPA|sjn|ˈtuːrɪn tuˈrambar|}}) is a fictional character in [[J. R. R. Tolkien]]'s [[Tolkien's legendarium|legendarium]]. ''Turambar and the Foalókë'', begun in 1917, is the first appearance of Túrin in the legendarium.  Túrin is a [[Man (Middle-earth)|Man]] of the [[First Age]] of [[Middle-earth]], whose family had been cursed by the Dark Lord [[Morgoth]]. While trying vainly to defy the curse, Túrin brings ruin across much of [[Beleriand]], and upon himself and his sister Niënor. His title, \"Turambar\", means master of fate.\n\nTolkien consciously based the story on the tale of [[Kullervo]] in the 19th-century Finnish mythological poem ''[[Kalevala]]''. Scholars have noted parallels with other myths including that of [[Sigmund]] and [[Sigurd]] in the ''[[Völsunga saga]]'' of [[Norse mythology]]; with the [[Greek mythology|Greek myth]] of [[Oedipus]]; and in terms of structure and style, with [[Arthurian legend]].\n\nExcerpts have been published in prose in ''[[The Silmarillion]]'', ''[[Unfinished Tales]]'', ''[[The Book of Lost Tales]]'' Part II, and  ''[[The War of the Jewels]]'', and in alliterative long-line verse in ''[[The Lays of Beleriand]]''. The complete story was published as ''[[The Children of Húrin]]'' in 2007.\n\n== Publication history ==\n\nTolkien wrote multiple versions of the tale of Túrin.<ref group=T name=\"MR1\">{{harvnb|Tolkien|1993}}, \"Myths Transformed\" (I), p. 373 and note 2</ref> These were published after his death, edited by his son [[Christopher Tolkien]], as follows:\n\n{| class=\"wikitable\"\n|+ Published versions of the tale of Túrin\n|-\n! Date \n! scope=\"col\" style=\"width:175px\"; | Book \n! scope=\"col\" style=\"width:200px\"; | Section \n! Type \n! Notes\n|-\n| 1977 || ''[[The Silmarillion]]'' || \"Of Túrin Turambar\" || Prose || Chapter; omits what would have been a short summary of the story's conclusion, \"The Wanderings of Húrin\" as [[Christopher Tolkien]] judged it too complex\n|-\n| 1980 || ''[[Unfinished Tales]]'' || \"Narn i Chîn Húrin\"<br/>(\"Tale of the Children of Húrin\") || Prose || Known as the \"Narn\"; {{circa}} 90 pages, prose, written {{circa}} 1917\n|-\n| 1984 || ''[[The Book of Lost Tales]]'' Part II || \"Turambar and the Foalókë\" || Prose || {{circa}} 45 pages, with 28 pages of commentary. This was the first version of the Túrin story, written {{circa}} 1917\n|-\n| 1985 || ''[[The Lays of Beleriand]]'' || \"[[The Lay of the Children of Húrin]]\" || Poetry || 2276 lines of long-line [[alliterative verse]], composed {{circa}} 1925 in Leeds\n|-\n| 1994 || ''[[The War of the Jewels]]'' || \"The Wanderings of Húrin\" || Prose || Continues the \"Narn\"\n|-\n| 2007 || ''[[The Children of Húrin]]'' || (whole book) || Prose || Complete, book-length; drafted from 1910, revised repeatedly, not finished in Tolkien's lifetime\n|}\n\n== Narrative ==\n\n=== Dor-lómin ===\n\n[[File:Turin Turambar locations in Beleriand.svg|thumb|upright=2.5|{{center|Sketch map of [[Beleriand]], showing the major locations mentioned:<br/>1 [[Hithlum|Dor-lomin]]; 2 [[Doriath (Middle-earth)|Doriath]]; 3: Amon Rûdh; 4: [[Nargothrond]]; 5: [[Brethil]]}}]]\n\nTúrin is the son of [[Húrin]], Lord of the Folk of Hador, and Morwen of the House of Bëor.<ref group=T name=\"Narn1\">{{harvnb|Tolkien|2007}} \"The Childhood of Túrin\"</ref> The [[Siege of Angband]] has been broken, but Túrin's homeland of Dor-lómin in the northwest of [[Beleriand]] is still contested by Húrin against the Dark Lord [[Morgoth]]'s forces. When Túrin is eight, Húrin leads his [[Men in Middle-earth|Men]] to war; all are killed in the [[Battle of Unnumbered Tears]]. Húrin is captured and cursed by Morgoth, who sends an army of Easterlings to Dor-lómin. Túrin remains with Morwen, who hides him and sends him secretly to the hidden [[Elves in Middle-earth|Elven]]-realm of [[Doriath (Middle-earth)|Doriath]]; Morwen remains in Dor-lómin, and shortly afterwards gives birth to a girl, Niënor.<ref name=\"Of Túrin Turambar\" group=T>{{harvnb|Tolkien|1977|loc=ch. 22 \"Of Túrin Turambar\"}}</ref><ref group=T name=\"Narnplot\">{{harvnb|Tolkien|1994}} \"The Wanderings of Húrin\", pp. 256–257 (a plot-synopsis for the ''Narn'')</ref>\n\n=== Doriath ===\n\n{{see also|Beleriand#A sense of doom}}\n\nTúrin reaches Doriath, which is protected by an enchantment, the Girdle of [[Melian (Middle-earth)|Melian]]. The marchwarden Beleg leads them to the city of [[Menegroth]], where King [[Thingol]] adopts Túrin, in memory of Húrin's heroism. The Elven-lady Nellas watches over Túrin at Melian's bidding, teaching him Elven-lore. Túrin becomes esteemed for his prowess, and Beleg teaches him warfare. When after some years Dor-lómin is cut off and news from Morwen and Niënor ceases to arrive, Túrin decides to pit his strength against Morgoth's forces, hoping to avenge the sorrows of his kin. Thingol appoints him a \"knight of the sword\".<ref group=T name=\"Narn5\">{{harvnb|Tolkien|2007}} \"Túrin in Doriath\"</ref> Túrin departs to fight the [[Orc (Middle-earth)|Orcs]] in the north of Doriath, where he is joined by Beleg. His chief weapon is the sword, and he wears the [[Helm of Hador|Dragon-helm]] of Hador, so that the Orcs fear him. At the age of 20,<ref group=T name=\"Narn5\"/><ref group=T name=\"GA\">{{harvnb|Tolkien|1994}} ''The Grey Annals'', pp. 61–103, 129–165.</ref> Túrin accidentally kills Saeros, one of Thingol's counsellors, who had insulted him. Ignoring advice, he flees from Doriath, fearing imprisonment. Thingol pardons Túrin, and Beleg obtains leave to seek out his friend.<ref group=T name=\"Narnplot\"/>\n\n=== Amon Rûdh ===\n\nTúrin, unaware of this, flees westward, joining a band of outlaws in Gaurwaith and becomes its leader by accidentally killing their captain.<ref group=T name=\"Túrin among the Outlaws\">{{harvnb|Tolkien|2007}} \"Túrin among the Outlaws\".</ref> Beleg finds the band in the wild, but Túrin rejects Beleg's advice to return to Doriath. Túrin's band captures Mîm the [[Petty-dwarf]]. To save his life, Mîm shares his dwellings on the hill of Amon Rûdh with the band. Beleg returns to Túrin, bringing the Dragon-helm. The \"Two Captains\" free much of West Beleriand from evil, but the Dragon-helm reveals Túrin's identity to Morgoth, who attacks Amon Rûdh.<ref group=T name=\"GA\"/> The Orcs find Mîm, and he buys his life by leading them up the hill. Túrin is captured and all his men killed; Beleg escapes.<ref group=T name=\"AD\">{{harvnb|Tolkien|1994}}, \"Ælfwine and Dírhaval\", pp. 311–315</ref> Beleg follows the Orcs through the forest of Taur-nu-Fuin, and meets Gwindor, an escaped slave from Angband. Together they rescue Túrin in Anfauglith. Unfortunately, while Beleg is cutting the sleeping Túrin free from his bonds, he pricks Túrin's foot with the black sword [[Anglachel]]. Túrin, mistaking him in the darkness for an Orc, takes the sword and kills Beleg. Gwindor leads the grief-stricken Túrin to the Pools of Ivrin, where he returns to his senses.<ref group=T name=\"Narnplot\"/>\n\n=== Nargothrond ===\n\nThey journey to the hidden fortress of [[Nargothrond]], where Gwindor had been a lord. He gives Beleg's sword Anglachel to Túrin, who has it reforged and renamed ''Gurthang'', \"Iron of Death\". Túrin hides his own name, becoming known as ''Mormegil'' or the ''Blacksword of Nargothrond''. Gwindor meets his beloved, Finduilas daughter of King Orodreth, but she unwillingly falls in love with Túrin; Túrin does not perceive this and holds her in awe. Túrin becomes a chief counsellor to the King. He encourages the Elves to abandon their secrecy, and they build a great bridge before the Doors of Nargothrond and clear the land between the River Sirion and the coastal [[Falas]] from enemies. Túrin becomes arrogant, ignoring even a warning from the godlike [[Vala (Middle-earth)|Vala]] [[Ulmo]] to destroy the bridge and return to secrecy.<ref name=\"Of Túrin Turambar\" group=T/>\n\nAfter five years, Morgoth sends a great host of Orcs led by the [[Dragon (Middle-earth)|dragon]] Glaurung. Túrin persuades Orodreth to fight them in the open. In the ensuing Battle of Tumhalad, Nargothrond's forces are destroyed and Orodreth is killed; the bridge helps Morgoth's forces to locate the fortress and cross the river Narog. Túrin fights Glaurung off, but leaves the battle to carry away the mortally wounded Gwindor. Before Gwindor dies, he instructs Túrin to save Finduilas, prophesying that she alone can avert Túrin's doom. Hastening to save the captives, Túrin is caught by Glaurung's powerful gaze. He stands by enspelled as Finduilas is dragged away, calling to him. The dragon deceives him into believing that Morwen and Niënor are suffering in Dor-lómin; Túrin abandons Finduilas to seek out his kin. When he reaches Dor-lómin, he finds that Morwen had already left for Doriath before the fall of Nargothrond. In his rage he kills the people around him.<ref group=T name=\"Narnplot\"/>\n\n=== Brethil ===\n\nTúrin next tries to find Finduilas, travelling to the forest of Brethil, but is too late: the woodmen inform him that she had been killed by the Orcs when the Men of Brethil tried to rescue her. Túrin collapses in grief upon her grave, and is brought to a village in the forest, Ephel Brandir. There he takes up his life again, now calling himself ''Turambar'' (\"Master of Doom\") and renouncing his descent, hoping to overcome his curse. The Folk of Haleth dwelling there are ruled by Brandir the Lame, who hopes to preserve his people by secrecy. Turambar quickly gains power, gathering companies to fight Orcs. He stops wielding Gurthang and fights using a spear and a bow.<ref group=T name=\"Narnplot\"/>\n\nWhen Morwen and Niënor hear the news of Nargothrond's destruction, they rashly go to look for Túrin. Glaurung, now living in the ruins of Nargothrond, descends into the river to create a fog. Morwen loses her way in the fog, but Niënor meets the dragon and is enspelled by him, forgetting her past. She flees to Brethil. Turambar finds her at Finduilas's grave, naked, unable to speak and remembering nothing. He names her ''Níniel'', \"Maid of Tears\", and takes her to Ephel Brandir. There she is healed by Brandir, who falls in love with her; but Níniel and Turambar come to love each other. Turambar asks her to marry him; Brandir dissuades her, foreboding evil, but they are married. Turambar goes back to war when Glaurung sends Orcs to attack Brethil: taking up the sword again, Turambar drives them away. Next year Níniel conceives, and Glaurung attacks Brethil in person.<ref group=T name=\"Narnplot\"/>\n\nTurambar decides to ambush the Dragon and to try stabbing him from beneath. Of his two companions, Dorlas deserts, and Hunthor is killed by a stone. Turambar mortally wounds Glaurung with Gurthang, but is poisoned by the Dragon's blood and falls in a swoon. When Níniel comes to search for him, Glaurung with his last words undoes his spell, and she remembers who she is, and that Turambar is her brother. Horrified, Niënor drowns herself in the river Teiglin.<ref group=T name=\"Narnplot\"/>\n\nBrandir tauntingly tells Turambar what has happened. Turambar kills the defenceless Brandir and runs in madness to Finduilas's grave. There an Elf of Doriath, Mablung, confirms the words of Brandir. Turambar flees and kills himself with Gurthang. He is buried in a high mound, together with the shards of the sword. A great stone is set upon the grave, upon which the Elves write in [[Cirth]] runes:<ref group=T name=\"Narnplot\"/>\n\n{{center|\nTÚRIN TURAMBAR DAGNIR GLAURUNGA<br/>\nNIËNOR NÍNIEL\n\n(Túrin, Conqueror of Fate, Slayer of Glaurung\n\nNiënor Níniel)\n}}\n\nHowever, Niënor's body is not there. Two years later Morwen and Húrin meet there for the last time; Morwen is later buried there. The mound survives the [[War of Wrath]] and the Drowning of Beleriand; Tol Morwen becomes an island off the coast of Middle-earth.<ref group=T name=\"Narnplot\"/>\n\n=== Fate after death ===\n\nTolkien wrote several versions of a prophecy about Túrin's fate after death.\n\nThe fragmentary earliest outline mentions \"purification of Turambar and Vainóni<!--the original name of Niënor, p. 138--> who fare shining about the world and go with the hosts of [[Tulkas]] against Melko.\"<ref group=T name=\"Turambar and the Foalókë\">{{harvnb|Tolkien|1984b}}, \"Turambar and the Foalókë\", pp. 69–143</ref> In the finished manuscript of ''[[The Tale of Turambar and the Foalókë]]'', this becomes a story that Túrin and Niënor were only admitted to Mandos after their parents' prayers; they entered the \"bath of flame\", where the Sun replenished its light, \"and so were all their sorrows and stains washed away, and they dwelt as shining Valar among the blessed ones.\" A new detail is introduced, that \"Turambar indeed shall stand beside Fionwë in the Great Wrack, and Melko and his drakes shall curse the sword of Mormakil\".<ref group=T name=\"Turambar and the Foalókë\"/>\n\nIn Tolkien's later writings, Niënor's fate is not mentioned, but Túrin's destiny is made even more prominent. Túrin would take part in the Last Battle before the End of the World, when Morgoth would return and make the final assault upon the Valar and the [[Children of Ilúvatar]]. In the \"Earliest Silmarillion\", \"the spirit of Túrin\" comes back and fights, and \"it shall be Túrin who with his black sword will slay Morgoth\",<ref group=T name=\"SoMe\">{{harvnb|Tolkien|1986}}, \"The Earliest 'Silmarillion'\", p. 29–30, 40–41; \"The Quenta\", p. 125–131</ref> elaborated in the 1930 revision of the ''[[Quenta Noldorinwa]]''.<ref name=\"QN p165\" group=T>{{harvnb|Tolkien|1986}}, \"Quenta Noldorinwa\", p. 165</ref> In \"The Problem of Ros\" (1968 or later), the last time Tolkien returned to the subject, Túrin is prophesied to return from death and kill [[Ancalagon the Black]] in the [[War of Wrath]], replacing the role of [[Eärendil]].<ref group=T>{{harvnb|Tolkien|1994}} \"The Problem of Ros\", p. 374</ref>\n\n=== Line of Túrin and Niënor ===\n\n{{TúrinTuor family tree}}\n\n== Analysis ==\n{{See also|The Children of Húrin|Narn i Chîn Húrin}}\n\n=== Mythological parallels ===\n\n{{further|Finnish influences on Tolkien|Luck and fate in Middle-earth}}\n\n[[File:Kullervon sotaanlähtö.jpg|thumb|upright=1.35|Tolkien partly based Túrin on the tragic figure of [[Kullervo]] from the Finnish ''[[Kalevala]]''. Painting ''[[Kullervo Rides to War]]'' by Akseli Gallen-Kallela, 1901]]\n\nTolkien noted some of Túrin's mythological parallels in a letter to the publisher [[Milton Waldman]]:\n\n{{blockquote|There is the ''Children of Húrin'', the tragic tale of Túrin Turambar and his sister Níniel – of which Túrin is the hero: a figure that might be said (by people who like that sort of thing, though it is not very useful) to be derived from elements in Sigurd the Volsung, Oedipus, and the Finnish Kullervo.<ref group=T name=\"Letter 131\">{{harvnb|Carpenter|2023|loc=#131 to [[Milton Waldman]], late 1951 }}</ref>}}\n\nTúrin, as Tolkien stated,<ref group=T name=\"Letter 131\"/> is mainly based on [[Kullervo]], a character from the [[Finland|Finnish]] [[folklore]] poems known as ''[[Kalevala]]''. Kullervo similarly committed unwitting incest with his sister, brought ruin upon his family, and slew himself.<ref name=\"Shippey 2004\">{{cite book |last=Shippey |first=Tom |author-link=Tom Shippey |editor-first=Jane |editor-last=Chance |title=Tolkien and the Invention of Myth: A Reader |title-link=Tolkien and the Invention of Myth |pages=155, 156 |publisher=[[University Press of Kentucky]] |year=2004 |isbn=978-0-8131-2301-1 |chapter=Tolkien and the Appeal of the Pagan |chapter-url=https://books.google.com/books?id=8LLxZXqgJdwC&q=T%C3%BArin}}</ref> In [[Norse mythology]], [[Sigmund]], the father of [[Sigurd]] in the ''[[Völsunga saga]]'', resembles Túrin in the incestuous relationship he has with his sister.<ref>{{cite journal |last=St. Clair |first=Gloriana |year=1996 |title=Volsunga Saga and Narn: Some Analogies |journal=[[Mythlore]] |volume=21 |issue=2 |at=Article 14 |url=https://dc.swosu.edu/mythlore/vol21/iss2/14 }}</ref><ref group=T name=\"Letter 131\"/> In [[Richard Wagner]]'s opera ''[[Die Walküre]]'' (drawn in part from the [[Völsung]] myths), Siegmund and [[Signy|Sieglinde]] are parallels of Túrin and Niënor.<ref name=\"Hoffman 2008\">{{cite book |last=Hoffman |first=Curtiss |title=Seven Story Tower : a Mythic Journey Through Space And Time. |publisher=[[Basic Books]] |publication-place=New York |date=2008 |isbn=978-0-465-01238-1 |oclc=792687220 |at=ch. 9 Master of Fate: The Art of Mythopoeia |url=https://www.google.co.uk/books/edition/Seven_Story_Tower/J9c4DgAAQBAJ&pg=PT276 |quote=her [Niënor's] Germanic counterpart, Sieglinde, in Wagner's ''Die Walküre'': his Siegmund (who, like Túrin, has disguised himself under an alias) sings the praises of the ''metaphorical'' sibling incest of Spring and love, but it is Sieglinde who recognizes him and maneuvers him into the real thing,...}}</ref> Further, Túrin is like Sigurd, as both achieve great renown for the slaying of a dragon of immense power: in Sigurd's case Fafnir; in Túrin's, Glaurung.<ref name=\"Flieger 2000\">{{cite journal |last=Flieger |first=Verlyn |author-link=Verlyn Flieger |title=J. R. R. Tolkien and the Matter of Britain |journal=[[Mythlore]] |date=2000 |volume=23 |issue=1 (87) |pages=47–58 |jstor=26814251 |url=https://dc.swosu.edu/mythlore/vol23/iss1/5 }}</ref>\nThe [[Tolkien scholar]] [[Verlyn Flieger]] further likens the tale of Túrin to [[Arthurian Legend]], with its complex manuscript history and \"overlapping story variants in both poetry and prose\", supplemented by Tolkien's pretence that he was translating a lost ''Narn'' poem from its original Elvish language.<ref name=\"Flieger 2000\"/>\n\nTolkien mentions the resemblance to the unfortunate [[Oedipus]], prince of Thebes, who unwittingly fulfils a prophecy that he will kill his father and marry his mother.<ref group=T name=\"Letter 131\"/><ref name=\"West 2013\">{{cite encyclopedia |year=2013 |title=Túrin |encyclopedia=[[The J. R. R. Tolkien Encyclopedia]] |publisher=[[Routledge]] |url=https://books.google.com/books?id=B0loOBA3ejIC&pg=PA680 |last=West |first=Richard C. |author-link=Richard C. West |orig-year=2007 |editor-last=Drout |editor-first=Michael D. C. |editor-link=Michael D. C. Drout |pages=680–681 |isbn=978-0-415-86511-1}}</ref> The Tolkien scholar [[Richard C. West]], in ''[[The J. R. R. Tolkien Encyclopedia]]'', writes that the tale \"is one of almost unrelieved gloom\", though a prophecy in Tolkien's mythology holds that Túrin will help in the final defeat of Morgoth, after the end of the world, and that he and his sister will be cleansed of their sin. West writes that as in many other stories of Middle-earth, there is a \"delicate balance\" between fate, whereby each character inevitably takes certain actions and suffers the consequences, and free will, whereby he makes his own bold or rash choices that determine the outcomes for him.<ref name=\"West 2013\"/>\n\n{|class=\"wikitable\"\n|+ Parallels of Túrin to mythical heroes, as noted by Tolkien<ref group=T name=\"Letter 131\"/>\n|-\n! Source !! Hero  !! Curse !! Incest !! Kills dragon !! Suicide !! Disaster to his people\n|-\n| Tolkien ||Túrin || {{yan}} || {{yan}}<br/>with sister || {{yan}}<br/>[[Glaurung]] || {{yan}} || {{yan}} \n|-\n| [[Kalevala]]<ref name=\"Shippey 2004\"/><br/>Finnish mythology ||[[Kullervo]] || {{yan}} || {{yan}}<br/>with sister || || {{yan}} || {{yan}} \n|-\n| rowspan=2 |[[Völsunga saga]]<ref name=\"Flieger 2000\"/><br/>[[Norse mythology]] ||[[Sigmund]] || || {{yan}} || || ||\n|-\n| [[Sigurd]]<br/>(Sigmund's son) || || || {{yan}}<br/>[[Fafnir]] || (is murdered) ||\n|-\n| [[Greek mythology]]<ref name=\"West 2013\"/> ||[[Oedipus]] || {{yan}}<br/>kills father || {{yan}}<br/>marries mother || || || {{yan}}\n|}\n\n=== A woman in wartime ===\n{{anchor|Niënor}}\n\nAccording to the biographer [[Charles Moseley (writer)|Charles Moseley]], Niënor and Túrin are one of only four \"couples whose love gets much space\" in Tolkien's works; the others are [[Lúthien and Beren]]; [[Eärendil and Elwing]]<!--Moseley puts Celebrían here, woopsie-->; and [[Aragorn]] and [[Arwen]].<ref>{{cite book |author=Moseley |first=Charles |author-link=Charles Moseley (writer) |date=1997 |title=Writers and their Work: J. R. R. Tolkien |location=Plymouth |publisher=Northcote House |page=64}}</ref> West described the story of Niënor's family as tragic.<ref>{{cite book |last=West |first=Richard C. |title=[[Tolkien's Legendarium: Essays on The History of Middle-earth]] |publisher=[[Greenwood Press]] |year=2000 |editor1=[[Verlyn Flieger]] |location=Westport, Connecticut |pages=233–245 |chapter=Túrin's Ofermod |author-link=Richard C. West |editor2=[[Carl F. Hostetter]]}}</ref> Elizabeth A. Whittingham wrote in ''[[A Companion to J. R. R. Tolkien]]'' that the story had grown darker with time, commenting that \"no tale of Middle-earth is as dark as that\", and stating that in its rendition in ''[[The Silmarillion]]'' as published in 1977 with the end omitted, contrary to the author's original intent, \"all glimmer of hope has been extinguished\".<ref name=\"Whittingham 2014\">{{cite book |last=Whittingham |first=Elizabeth A. |title=[[A Companion to J. R. R. Tolkien]] |date=2014 |publisher=[[John Wiley & Sons]] |isbn=978-0-470-65982-3 |editor-last=Lee |editor-first=Stuart D. |editor-link=Stuart D. Lee |pages=150, 154, 158–159 |chapter=''Unfinished Tales'' and the History of Middle-earth |chapter-url=https://books.google.com/books?id=vsPXDwAAQBAJ&pg=PA150}}</ref> The scholar of literature Victoria Holtz-Wodzak calls Niënor a \"study of the lives of women during wartime. She is, for all practical purposes, a war orphan\". Holtz-Wodzak sees the war-time fate of the women in Tolkien's life as well as his own experiences as inspiration for the character and its sympathetic treatment by the author. Holtz-Wodzak also compares his situation to that of Brandír, who as a non-combatant loses the struggle with Turambar for both the respect of his people and the love of Níniel. The scholar even sees an echo of Tolkien's sentiments about not being able to be active in [[World War II]] due to age in \"Niennor's desperate wish either to keep the man she loves from danger or to die with him\".<ref name=\"TS\">{{cite journal |last=Holtz-Wodzak |first=Victoria |title=Tolkien Sidelined: Constructing the Non-Combatant in ''The Children of Hurin'' |journal=[[Mythlore]] |publisher=[[Mythopoeic Society]] |volume=33 |issue=2 |date=2015-04-15 |pages=93–109 |url=https://dc.swosu.edu/mythlore/vol33/iss2/9/ }}</ref>\n\n== References ==\n\n=== Primary ===\n\n{{reflist|group=T|28em}}\n\n=== Secondary ===\n{{reflist|28em}}\n\n=== Sources ===\n\n* {{ME-ref|Letters}} <!--Carpenter-->\n* {{ME-ref|Silm}}\n<!--* {{ME-ref|UT|\"Narn i Hîn Húrin\"}}-->\n* {{ME-ref|BoLT2}}\n* {{ME-ref|SOME}}\n<!--* {{ME-ref|LROW}}-->\n* {{ME-ref|MR}}\n* {{ME-ref|WotJ}} <!--1994-->\n<!--* {{ME-ref|POME}}-->\n* {{ME-ref|Children of Hurin}}\n\n{{Middle-earth}}\n\n{{DEFAULTSORT:Turin Turambar}}\n[[Category:Middle-earth Edain]]\n[[Category:The Silmarillion characters]]\n[[Category:The Children of Húrin characters]]\n[[Category:Fictional suicides]]\n[[Category:Fictional swordfighters in literature]]\n[[Category:Literary characters introduced in 1917]]\n[[Category:Fictional characters involved in incest]]\n[[Category:Fictional outlaws]]\n[[Category:Fictional dragonslayers]]",
+  "redirect_chain": [],
+  "revision_id": 1337583995,
+  "revision_timestamp": "2026-02-10T09:30:59Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: table",
+      "structure_type": "table"
+    },
+    {
+      "heading_path": [
+        "Publication history"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Publication history"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: table",
+      "structure_type": "table"
+    },
+    {
+      "heading_path": [
+        "Narrative",
+        "Dor-lómin"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Narrative",
+        "Dor-lómin"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Narrative",
+        "Doriath"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Narrative",
+        "Doriath"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Narrative",
+        "Amon Rûdh"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Narrative",
+        "Fate after death"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Narrative",
+        "Fate after death"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Narrative",
+        "Line of Túrin and Niënor"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Mythological parallels"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Mythological parallels"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Mythological parallels"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Mythological parallels"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Mythological parallels"
+      ],
+      "paragraph_ordinal": 7,
+      "reason": "excluded by extractor policy: table",
+      "structure_type": "table"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "A woman in wartime"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "A woman in wartime"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

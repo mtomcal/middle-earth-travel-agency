@@ -1,0 +1,292 @@
+{
+  "article_artifact_id": "article_5f8964df88a9421fde5303c229a0b85822ac001a2be874169a886541e5c0e714",
+  "canonical_title": "Merry Brandybuck",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_5f8964df88a9421fde5303c229a0b85822ac001a2be874169a886541e5c0e714",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Commentators have noted that his and Pippin's actions serve to throw light on the characters of the good and bad lords Théoden and Denethor, Steward of Gondor, while their simple humour acts as a foil for the higher romance involving kings and the heroic Aragorn.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_a2b5de9718af3c322a1d126ce737a6c3646eead5b83a00d2490630ad01bb05fb",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_5f8964df88a9421fde5303c229a0b85822ac001a2be874169a886541e5c0e714",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Merry appeared in Ralph Bakshi's animated film Lord of the Rings, the animated version of The Return of the King by Rankin/Bass, and in the live action film series by Peter Jackson.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_187a3d1595e157a8cc9187b4f42f797f7c716a358c0f8dbfbf3f85f33b13f7d9",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_5f8964df88a9421fde5303c229a0b85822ac001a2be874169a886541e5c0e714",
+      "heading_path": [
+        "Fictional history"
+      ],
+      "normalized_text": "thumb|upright=2.25|Sketch map of the Shire. Merry came from Buckland, on the right of the map between the Brandywine River and the Old Forest.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_7164a599f853f9f39e15df832006d8f3a377da318fd472b02a7e5e1f85088b46",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_5f8964df88a9421fde5303c229a0b85822ac001a2be874169a886541e5c0e714",
+      "heading_path": [
+        "Analysis",
+        "Foils for high romance"
+      ],
+      "normalized_text": "thumb|left|Merry (right) and Pippin in Ralph Bakshi's animated 1978 version of The Lord of the Rings",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_d1fa9e4a2a84154860426ac0f5f062dbd39a8cdbc03e3c1e3433cd1fdb4f2dd9",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_5f8964df88a9421fde5303c229a0b85822ac001a2be874169a886541e5c0e714",
+      "heading_path": [
+        "Analysis",
+        "Foils for high romance"
+      ],
+      "normalized_text": "thumb|Merry as voiced by Casey Kasem in the 1980 Rankin/Bass animated version of The Return of the King",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_45ce947fcd38932127fb63fae68a452c24b9386ff1122f535b50c07e2474984f",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_5f8964df88a9421fde5303c229a0b85822ac001a2be874169a886541e5c0e714",
+      "heading_path": [
+        "Analysis",
+        "Agent of providence"
+      ],
+      "normalized_text": "thumb|upright|Dominic Monaghan as Merry in Peter Jackson's 2003 The Lord of the Rings: The Return of the King",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_d40625f4aecdd6521b0da7e7c40ac5512910972fb0f634410c98a268c3e31d0b",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Merry_Brandybuck&action=history",
+  "namespace": 0,
+  "page_id": 21920404,
+  "parent_revision_id": 1361168907,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1361189172",
+  "raw_wikitext": "{{short description|Fictional character in The Lord of the Rings by J. R. R. Tolkien}}\n{{good article}}\n{{pp-vandalism|small=yes}}\n{{Infobox character\n| name        = Meriadoc Brandybuck\n| series      =\n| alias       = Merry,<br/>Master of [[Buckland (Middle-earth)|Buckland]]\n| race        = [[Hobbit]]\n| lbl24       = Book(s)\n| data24      = ''[[The Lord of the Rings]]''\n| affiliation = [[Company of the Ring]]\n| spouse      = Estella Bolger \n}}\n'''Meriadoc Brandybuck''' ([[Westron]]: ''Kalimac Brandagamba''; usually called '''Merry''') is a [[Hobbit]], a fictional character from [[J. R. R. Tolkien]]'s [[Middle-earth]] [[legendarium]], featured throughout his most famous work, ''[[The Lord of the Rings]]''.\nMerry is described as one of the closest friends of [[Frodo Baggins]], the main protagonist. Merry and his friend and cousin, [[Peregrin Took|Pippin]], are members of the [[Company of the Ring]]. They [[Interlacing in The Lord of the Rings|become separated]] from the rest of the group and spend much of ''[[The Two Towers]]'' making their own decisions. By the time of ''[[The Return of the King]]'', Merry has enlisted in the army of [[Rohan (Middle-earth)|Rohan]] as an esquire to King [[Théoden]], in whose service he fights during the [[War of the Ring]]. After the war, he returns home, where he and Pippin lead [[the Scouring of the Shire]], ridding it of [[Saruman]]'s influence.\n\nCommentators have noted that his and Pippin's actions serve to throw light on the characters of the good and bad lords [[Théoden]] and [[Denethor]], [[Steward of Gondor]], while their simple humour acts as a foil for the [[Tolkien and the medieval#Heroic romance|higher romance]] involving kings and the [[Heroism in The Lord of the Rings|heroic]] [[Aragorn]].\n\nMerry appeared in [[Ralph Bakshi]]'s animated film ''[[The Lord of the Rings (1978 film)|Lord of the Rings]]'', the animated version of ''[[The Return of the King (1980 film)|The Return of the King]]'' by [[Rankin/Bass]], and in the live action [[The Lord of the Rings (film series)|film series]] by [[Peter Jackson]].\n\n==Fictional history==\n\n{{anchor|Family}}\n \n[[File:Sketch Map of The Shire.svg|thumb|upright=2.25|Sketch map of the Shire. Merry came from Buckland, on the right of the map between the Brandywine River and the [[Old Forest]].]]\n\nMeriadoc, a [[hobbit]], known as Merry, was the only child of Saradoc Brandybuck, a Master of [[Buckland (Middle-earth)|Buckland]], and Esmeralda (née Took), the younger sister of Paladin Took II, making him a cousin to Paladin's son, his friend [[Pippin Took|Pippin]].<ref name=\"Family Trees\" group=T>{{harvnb|Tolkien|1955|loc=Appendix C, \"Family Trees\"}}</ref> His grandfather Rorimac Brandybuck's sister Primula was the mother of Frodo Baggins, the main protagonist of the book. Merry and Frodo were thus first cousins once removed.<ref name=\"Family Trees\" group=T/> Hobbits of [[the Shire]] saw Bucklanders as \"peculiar, half foreigners as it were\"; the Bucklanders were the only hobbits comfortable with boats; and living next to the [[Old Forest]], protected from it only by a high hedge, they locked their doors after dark, unlike hobbits in the Shire.<ref name=\"Conspiracy Unmasked\" group=T/>\n\nMerry learned of the [[One Ring]] and its power of invisibility before [[Bilbo Baggins]] left [[the Shire]]. He guarded [[Bag End]] after Bilbo's party, protecting Frodo from unwanted guests.<ref group=T>{{harvnb|Tolkien|1954a|loc=book 1, ch. 1 \"A Long-expected Party\"}}</ref> Merry was a force behind \"the Conspiracy\" of [[Samwise Gamgee|Sam]], [[Peregrin Took|Pippin]], Fredegar Bolger and himself to help Frodo.<ref name=\"Conspiracy Unmasked\" group=T>{{harvnb|Tolkien|1954a|loc=book 1, ch. 5 \"A Conspiracy Unmasked\"}}</ref> He assembled the company's packs and brought ponies.<ref group=T>{{harvnb|Tolkien|1954a|loc=book 1, ch. 4 \"A Short Cut to Mushrooms\"}}</ref> His shortcut through the [[Old Forest]] distanced them from the Black Riders, the [[Nazgûl]], for a time.<ref group=T>{{harvnb|Tolkien|1954a|loc=book 1, ch. 6 \"The Old Forest\"}}</ref> In the [[Barrow-downs (Middle-earth)|Barrow-downs]], he is given his sword, a dagger forged in the kingdom of Arthedain.<ref group=T>{{harvnb|Tolkien|1954a|loc=book 1, ch. 8 \"Fog on the Barrow-downs\"}}</ref> Arriving at [[Bree (Middle-earth)|Bree]], Merry was not celebrating in the ''[[Prancing Pony]]'' when Frodo put on the Ring; he was outside taking a solitary walk, and was nearly overcome by a [[Nazgûl]].{{sfn|Croft|2006|pp=419–420}}<ref group=T>{{harvnb|Tolkien|1954a|loc=book 1, ch. 10 \"Strider\"}}</ref> At [[Rivendell]], he was seen studying maps and plotting their path. [[Elrond]] reluctantly admitted him and Pippin to the [[Company of the Ring]].<ref group=T>{{harvnb|Tolkien|1954a|loc=book 2, ch. 3 \"The Ring goes South\"}}</ref>\n\nHalted at the entrance to [[Moria (Middle-earth)|Moria]], Merry asked [[Gandalf]] the meaning of the door inscription \"Speak, friend, and enter\". When Gandalf, having unsuccessfully tried many door-opening spells, discovered the true interpretation, he said \"Merry, of all people, was on the right track\".<ref group=T>{{harvnb|Tolkien|1954a|loc=book 2, ch. 4 \"A Journey in the Dark\"}}</ref>\nAt [[Amon Hen]], the Hill of Seeing, the Company hesitated in confusion, and scattered. Merry and Pippin were captured by a band of [[Saruman]]'s [[Uruk-hai]], despite [[Boromir]]'s defence.<ref group=T>{{harvnb|Tolkien|1954|loc=book 3, ch. 3 \"The Uruk-hai\"}}</ref> Escaping with Pippin into [[Fangorn]] forest, they were rescued by the leader of the [[Ent]]s, [[Treebeard]], and given an Ent-draught to drink: it made them both grow unnaturally tall for hobbits.<ref group=T>{{harvnb|Tolkien|1954|loc=book 3, ch. 4 \"Treebeard\"}}</ref> Accompanying Treebeard to the [[Entmoot]] and later to the wizard [[Saruman]]'s fortress of [[Isengard]], which the Ents destroyed, they took up residence in a gate-house, meeting [[Théoden|King Théoden]] of [[Rohan (Middle-earth)|Rohan]], and were reunited with the Fellowship.<ref group=T>{{harvnb|Tolkien|1954|loc=book 3, ch. 8 \"The Road to Isengard\"}}</ref>{{sfn|Croft|2006|pp=511–512}}\nMerry swore allegiance to Théoden and became his esquire.<ref name=\"hall\" group=T>{{harvnb|Tolkien|1954|loc=book 5, ch. 2 \"The Passing of the Grey Company\"}}</ref> Against Théoden's orders, he rode to [[Gondor]] with the King's niece [[Éowyn]], who disguised herself as a common soldier.<ref name=\"muster\" group=T>{{harvnb|Tolkien|1954a|loc=book 5, ch. 3 \"The Muster of Rohan\"}}</ref> In the [[Battle of the Pelennor Fields]], while the [[Witch-king of Angmar|leader of the Nazgûl]] was preoccupied with Éowyn, Merry stabbed him behind his knee. The Black Captain stumbled, enabling Éowyn to kill him. This fulfilled the prophecy that [[Shakespeare's influence on Tolkien#Macbeth|he would not be killed \"by the hand of man\"]], as it was a hobbit and a woman that ended his life.<ref name=\"pelennor\" group=T>{{harvnb|Tolkien|1954a|loc=book 5, ch. 6 \"The Battle of the Pelennor Fields\"}}</ref> [[Éomer]] made Meriadoc a Knight of the Mark for his bravery,{{sfn|Croft|2006|pp=419–420}} and gave him the name Holdwine.<ref group=T>{{harvnb|Tolkien|1954a|loc=book 6, ch. 6 \"Many Partings\"}}</ref>\n\nAfter the War of the Ring, Merry and Pippin returned home as the tallest of hobbits, only to find that Saruman had taken over the Shire. Merry and Pippin roused the hobbits to revolt. During the resulting [[Scouring of the Shire]], Merry commanded the hobbit forces, and killed the leader of Saruman's \"ruffians\" at the Battle of Bywater.{{sfn|Croft|2006|pp=419–420}}<ref group=T>{{harvnb|Tolkien|1954a|loc=book 6 ch. 8 \"[[The Scouring of the Shire]]\"}}</ref> Sometime afterwards, Merry married Estella Bolger.<ref group=T>{{harvnb|Tolkien|1955|loc=Appendix C, \"Bolger of Budgeford\"}}</ref> Merry inherited the title Master of Buckland at the start of the [[Fourth Age]]. He became a historian of the Shire.<ref group=T>{{harvnb|Tolkien|1954a|loc=Prologue, \"Note on the Shire Records\"}}</ref><ref group=T>{{harvnb|Tolkien|1954|loc=book 3, ch. 9 \"Flotsam and Jetsam\"}}</ref> At the age of 102, Merry returned to Rohan and Gondor with Pippin; they died in Gondor, and were laid to rest among the Kings of Gondor in Rath Dínen, the street of tombs, then moved to lie next to [[Aragorn]]. His son succeeded him as Master of Buckland.<ref group=T>{{harvnb|Tolkien|1955|loc=Appendix B, \"Later Events Concerning the Members of the Fellowship of the Ring\", entry for 1484}}</ref>\n\n== Development ==\n\n{{see also|Tolkien and the Celtic}}\n\nWhen Merry first appeared in Tolkien's early drafts, his name was Drogo Took. He was later renamed Vigo, and the name Drogo reassigned to [[Frodo Baggins|Frodo]]'s father. After that, he was renamed Marmaduke, and finally Meriadoc Brandybuck.<ref group=T>{{harvnb|Tolkien|1988|loc=\"The First Phase\", I. \"A Long-expected Party\", (iii) \"The Third Version\"}}</ref>\n\nThe name ''Meriadoc'' has sometimes been seen as an allusion to the nobleman [[Conan Meriadoc]], legendary founder of the medieval [[House of Rohan]] in [[Brittany]],<ref>{{cite book |last=Koch |first=John T. |title=Celtic Culture: A Historical Encyclopedia |publisher=ABC-CLIO |year=2006 |isbn=1-85109-440-7 |page=474}}</ref> since Tolkien's Meriadoc is closely associated with his fictional kingdom of Rohan. Tolkien denied that the Breton name had any connection with his fictional kingdom.<ref group=T>{{harvnb|Carpenter|2023|loc=#297 to Mr. Rang, draft, August 1967 }}</ref> The name Meriadoc is [[Brittonic languages|Brittonic]] (for example, Welsh); Tolkien stated that he had given characters from Bree and Buckland names with a \"Celtic cast\", so that they appear different from plainly English names in the Shire.<ref group=T>{{harvnb|Tolkien|1996|loc=\"The Appendix on Languages\"}}</ref>\n\nIn the prefaces and appendices to ''The Lord of the Rings'', Tolkien employed the [[Conceit#Other uses|conceit]] that [[Pseudotranslation in The Lord of the Rings|he was the modern translator]] of a unique manuscript, the ''[[Red Book of Westmarch]]'', and that his stories of Middle-earth derived from that.<ref group=T>{{harvnb|Tolkien|1954a|loc=book 6, ch. 9 \"The Grey Havens\"}}</ref> In this guise of translator, he maintained that the character's real name was not ''Meriadoc Brandybuck'', but rather ''Kalimac Brandagamba''. This was said to be an actual phonetic transcription of the name in Tolkien's [[fictional language|invented language]] of [[Westron]], which Tolkien pretended that he was transliterating to English. The nickname \"Merry\" then represented his actual nickname ''Kali'', meaning \"handsome, happy\", and \"Meriadoc\" served as a plausible name from which a nickname meaning \"happy\" could be derived.<ref group=T>{{harvnb|Tolkien|1955|loc=Appendix F, \"On Translation\"}}</ref> The name given to Merry in [[Languages constructed by J. R. R. Tolkien#Rohirric|the language of Rohan]], ''Holdwine'', is based on the [[Old English]] for \"faithful friend\".{{sfn|Hammond|Scull|2005|p=644}}\n\n== Analysis ==\n\n=== Foils for high romance ===\n\n[[File:BakshiMerryPippin.JPG|thumb|left|Merry (right) and Pippin in [[Ralph Bakshi]]'s animated 1978 version of ''[[The Lord of the Rings (1978 film)|The Lord of the Rings]]'']]\n\nThe Tolkien scholar [[Jane Chance]] discusses the role of Merry and his friend Pippin in illuminating the contrast between the \"good and bad Germanic lords [[Théoden]] and [[Denethor]]\". She writes that [[Feudal allegiance in The Lord of the Rings|both leaders receive the allegiance]] of a hobbit, but very differently: Théoden, King of Rohan, treats Merry with love, which is reciprocated, whereas Denethor, Steward of Gondor, undervalues Pippin because he is small, and binds him with a harsh formal oath.{{sfn|Nitzsche|1980|pp=119–122}}\n\n[[File:RotK1980 Merry.jpg|thumb|Merry as voiced by [[Casey Kasem]] in the 1980 [[Rankin/Bass]] animated version of ''[[The Return of the King (1980 film)|The Return of the King]]'']]\n\nThe Tolkien scholar [[Tom Shippey]] notes that Tolkien uses the two hobbits and their low simple humour as foils for the much higher romance to which he was aspiring with the more heroic and kingly figures of Théoden, Denethor, and Aragorn: an unfamiliar and old-fashioned writing style that might otherwise, Shippey writes, have lost his readers entirely.{{sfn|Shippey|2005|pp=238–240}} He notes that Merry and Pippin serve, too, as guides to introduce the reader to seeing the various non-human characters, letting the reader know that an [[ent]] looks like an old tree stump or \"almost like the figure of some gnarled old man\".{{sfn|Shippey|2005|p=151}} The two apparently minor hobbits have another role, Shippey writes: it is to remain of good courage when strong men start to doubt whether victory is possible, as when Merry encourages Théoden when even he seems to be succumbing to \"horror and doubt\".{{sfn|Shippey|2005|p=180}}\n\n=== Agent of providence ===\n\n{{further|Christianity in Middle-earth#Providence}}\n\nAnother purpose, writes the Tolkien critic [[Paul H. Kocher|Paul Kocher]], is given by Tolkien himself, in the words of the wizard [[Gandalf]]: \"the young hobbits ... were brought to Fangorn, and their coming was like the falling of small stones that starts an avalanche in the mountains.\"{{sfn|Kocher|1974|pp=44–45}} Kocher observes that Tolkien is describing Merry and Pippin's role in the same terms as he spells out [[Gollum]]'s purpose and [[Gandalf]]'s \"reincarnation\"; in Kocher's words, the \"finger of Providence\"{{sfn|Kocher|1974|pp=44–45}} can be glimpsed: \"All are filling roles written for them by the same great playwright.\"{{sfn|Kocher|1974|pp=44–45}}\n\n[[File:Meriadoc Brandybuck screenshot.jpg|thumb|upright|[[Dominic Monaghan]] as Merry in [[Peter Jackson]]'s 2003 ''[[The Lord of the Rings: The Return of the King]]'']]\n\n=== Shakespearean prophecy ===\n\n{{further|Shakespeare's influence on Tolkien}}\n\nJulaire Andelin, in the ''[[J.R.R. Tolkien Encyclopedia]]'', writes that [[Prophecy in The Lord of the Rings|prophecy in Middle-earth]] depended on characters' understanding of the [[Music of the Ainur]], the divine plan for [[Arda (Middle-earth)|Arda]], and was often ambiguous. Thus, Glorfindel's prophecy \"not by the hand of man will [the Lord of the Nazgûl] fall\" did not lead the Lord of the Nazgûl to suppose that he would die at the hands of a woman and a hobbit (Merry).<ref name=\"Gondor and the heirs of Anarion\" group=T>{{harvnb|Tolkien|1954a|loc=Appendix A, I, iv \"Gondor and the heirs of Anarion\"}}</ref><ref>{{cite encyclopedia |last=Andelin |first=Julaire |title=Prophecy |editor-last=Drout |editor-first=Michael D. C. |editor-link=Michael D. C. Drout |encyclopedia=[[J.R.R. Tolkien Encyclopedia]] |year=2013 |orig-year=2007 |publisher=[[Routledge]] |isbn=978-0-415-86511-1 |pages=544–545}}</ref>\nShippey states that the prophecy, and the Witch-king's surprise at finding Dernhelm to be a woman, parallel the witches' statement to [[Macbeth]] that he may \"laugh to scorn / The power of man, for none of woman born / Shall harm Macbeth\" (Act 4, scene 1), and Macbeth's shock at learning that Macduff \"was from his mother's womb / Untimely ripp'd\" (as Macduff was born by [[Caesarean section]]: Act 5, scene 8). Thus, Shippey notes, despite Tolkien's stated dislike of [[Shakespeare]]'s treatment of myth, [[Shakespeare's influence on Tolkien|he read ''Macbeth'' closely]].<ref name=\"Shippey 2005 p205\">{{harvnb|Shippey|2005|pages=205–206}}</ref>\n\n==Adaptations==\n\nIn [[Ralph Bakshi]]'s 1978 [[The Lord of the Rings (1978 film)|animated version]] of ''The Lord of the Rings'', Merry was voiced by [[Simon Chandler]].<ref>{{cite news |last=Canby |first=Vincent |author-link=Vincent Canby |title=The Lord of the Rings |year=1978 |newspaper=[[The New York Times]] |url=https://movies.nytimes.com/movie/review?res=9B02E7DF1731E432A25756C1A9679D946990D6CF}}</ref> \nIn the 1980 [[Rankin/Bass]] animated version of ''[[The Return of the King (1980 film)|The Return of the King]]'', made for television, the character was voiced by the radio personality [[Casey Kasem]].<ref name=lat20140616>{{cite news |last=Day |first=Patrick Kevin |title=Shaggy, Merry and more: Casey Kasem's greatest cartoon voices |work=[[Los Angeles Times]] |date=16 June 2014 |access-date=25 May 2020 |url=http://www.latimes.com/entertainment/tv/showtracker/la-et-st-casey-kasem-cartoon-voices-20140606-story.html}}</ref> \nIn the 1981 [[BBC]] radio [[The Lord of the Rings (1981 radio series)|serial of ''The Lord of the Rings'']], Merry was played by [[Richard O'Callaghan]].<ref>{{cite web |title=Riel Radio Theatre — The Lord of the Rings, Episode 2 |url=https://radioriel.org/content/daily-programme/riel-radio-theatre-the-lord-of-the-rings-episode-2/ |publisher=Radioriel |date=15 January 2009 |access-date=25 May 2020 |archive-date=15 January 2020 |archive-url=https://web.archive.org/web/20200115144511/https://www.radioriel.org/content/daily-programme/riel-radio-theatre-the-lord-of-the-rings-episode-2/ |url-status=dead }}</ref> \nHe was portrayed by Sergey Shelgunov in the 1991 Russian [[television play]] ''[[Khraniteli]]'',<ref name=\"5 TV 2021\">{{cite web |last1=Vasilieva |first1=Anna |title=\"Хранители\" и \"Властелин Колец\": кто исполнил роли в культовых экранизациях РФ и США |trans-title=\"Keepers\" and \"The Lord of the Rings\": who played the roles in the cult film adaptations of the Russian Federation and the USA |url=https://www.5-tv.ru/news/337679/hraniteli-ivlastelin-kolec-kto-ispolnil-roli-vkultovyh-ekranizaciah-rfissa/ |publisher=[[5TV (Russian TV channel)|5TV]] |access-date=6 April 2021 |language=Russian |date=31 March 2021}}</ref> and by [[Jarmo Hyttinen]] in the 1993 Finnish [[miniseries]] ''[[Hobitit]]''.<ref name=\"RobbSimpson2013\">{{cite book |last1=Robb |first1=Brian J. |last2=Simpson |first2=Paul |title=Middle-earth Envisioned: The Hobbit and The Lord of the Rings: On Screen, On Stage, and Beyond |url=https://books.google.com/books?id=Nds_AQAAQBAJ&pg=PA4066 |year=2013 |publisher=[[Race Point Publishing]] |isbn=978-1-937994-27-3 |page=66}}</ref>\nIn [[Peter Jackson]]'s 2001–2003 [[The Lord of the Rings (film series)|film trilogy]] adaptation of the books, Merry was portrayed by [[Dominic Monaghan]] as a cheerful prankster full of fun and practical jokes.<ref name=\"Ebert2004\">{{cite book |last=Ebert |first=Roger |author-link=Roger Ebert |title=Roger Ebert's Movie Yearbook 2005 |url=https://books.google.com/books?id=2V34EMJkaAIC&pg=PA395 |year=2004 |publisher=Andrews McMeel Publishing |isbn=978-0-7407-4742-7 |page=395}}</ref>\n<!--\n    Please do not add anything here without citing a reliable source, it will be removed.\n-->\n\n== References ==\n\n=== Primary ===\n\n{{reflist|group=T|28em}}\n\n=== Secondary ===\n{{reflist|28em}}\n\n=== Sources ===\n\n* {{cite encyclopedia |last=Croft |first=Janet Brennan |author-link=Janet Brennan Croft |title=Merry |encyclopedia=[[J.R.R. Tolkien Encyclopedia|J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment]] |year=2006 |publisher=[[Routledge]] |isbn=1-135-88034-4 |pages=419–420}}\n* {{ME-ref|RC}}\n* {{ME-ref|Letters}}\n* {{cite book |last=Kocher |first=Paul |author-link=Paul H. Kocher |title=Master of Middle-earth: The Achievement of J.R.R. Tolkien |title-link=Master of Middle-earth |date=1974 |orig-year=1972 |publisher=[[Penguin Books]] |isbn=0140038779}}\n* {{cite book |last=Nitzsche |first=Jane Chance |author-link=Jane Chance |title=[[Tolkien's Art: 'A Mythology for England'|Tolkien's Art]] |date=1980 |orig-year=1979 |publisher=Papermac |isbn=0-333-29034-8}}\n* {{cite book |last=Shippey |first=Tom |author-link=Tom Shippey |title=[[The Road to Middle-Earth]] |date=2005 |edition=Third |orig-year=1982 |publisher=Grafton ([[HarperCollins]]) |isbn=978-0261102750}}\n* {{ME-ref|FOTR}}\n* {{ME-ref|TT}}\n* {{ME-ref|ROTK}}\n* {{ME-ref|ROTS}}      <!--Tolkien 1988-->\n* {{ME-ref|Peoples}}   <!--Tolkien 1996-->\n\n==External links==\n\n{{Lotr}}\n\n{{DEFAULTSORT:Brandybuck, Meriadoc}}\n[[Category:Male characters in literature]]\n[[Category:Male characters in film]]\n[[Category:Middle-earth Hobbits]]\n[[Category:The Lord of the Rings characters]]\n[[Category:Literary characters introduced in 1954]]\n[[Category:Television characters introduced in 1980]]\n\n[[de:Figuren in Tolkiens Welt#Meriadoc Brandybock]]",
+  "redirect_chain": [],
+  "revision_id": 1361189172,
+  "revision_timestamp": "2026-06-26T07:15:04Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Development"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Development"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Development"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Development"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Foils for high romance"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Foils for high romance"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Agent of providence"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Agent of providence"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Shakespearean prophecy"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Shakespearean prophecy"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "External links"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "External links"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "External links"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

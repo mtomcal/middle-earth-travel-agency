@@ -1,0 +1,363 @@
+{
+  "article_artifact_id": "article_0b2ad81288babde258e064242571ef82350bffd5e33d1fca37afaac1ecf86741",
+  "canonical_title": "Elrond",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_0b2ad81288babde258e064242571ef82350bffd5e33d1fca37afaac1ecf86741",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "He is introduced in The Hobbit, where he plays a supporting role, as he does in The Lord of the Rings and The Silmarillion. Scholars have commented on Elrond's archaic style of speech, noting that this uses genuinely archaic grammar, not just a sprinkling of old words. The effect is to make his speech distinctive, befitting his age and status, while remaining clear, and avoiding quaintness. He has been called a guide or wisdom figure, a wise person able to provide useful counsel to the protagonists. Just as Elrond prevented his daughter Arwen from marrying until conditions were met, so Tolkien's guardian, Father Francis Xavier Morgan, prevented Tolkien from becoming engaged or marrying until he came of age.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_64649028cd5b10a563ca7d3f0acdf4fbb97ccc9e2ed8d2d69ee422c40caf2677",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0b2ad81288babde258e064242571ef82350bffd5e33d1fca37afaac1ecf86741",
+      "heading_path": [
+        "Adaptations"
+      ],
+      "normalized_text": "left|thumb|Elrond in Ralph Bakshi's animated version of The Lord of the Rings",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_6627d7ef34a481c6885472a48453a572c013803a6af673a596259c3050ab7aba",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0b2ad81288babde258e064242571ef82350bffd5e33d1fca37afaac1ecf86741",
+      "heading_path": [
+        "Adaptations"
+      ],
+      "normalized_text": "thumb|upright=0.6|Hugo Weaving as Elrond in Peter Jackson's The Lord of the Rings: The Fellowship of the Ring",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_f1e5bd1fbb0032b79bb382cb9e6c7670c99e00118618370ab8af1baa27a72d46",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Elrond&action=history",
+  "namespace": 0,
+  "page_id": 23139753,
+  "parent_revision_id": 1361188980,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1361735157",
+  "raw_wikitext": "{{short description|Fictional elf from Tolkien's legendarium}}\n{{good article}}\n{{Use British English|date=March 2022}}\n{{Infobox character\n| name              = Elrond\n| series            = [[J. R. R. Tolkien|Tolkien]]\n| race              = [[Half-elven]], choosing the fate of [[Elf (Middle-earth)|Elves]]\n| children          = *Elladan\n*Elrohir\n*[[Arwen Evenstar]]\n| lbl24             = Book(s)\n| data24            = ''[[The Hobbit]]'' (1937)<br/>''[[The Fellowship of the Ring]]'' (1954)<br/>''[[The Return of the King]]'' (1955)<br/>''[[The Silmarillion]]'' (1977)<br/>''[[Unfinished Tales]]'' (1980)\n}}\n'''Elrond Half-elven''' is a fictional character in [[J. R. R. Tolkien]]'s [[Middle-earth]] [[legendarium]]. Both of his parents, [[Eärendil and Elwing]], were [[half-elven]], having both [[Men (Middle-earth)|Men]] and [[Elves (Middle-Earth)|Elves]] as ancestors. He is the bearer of the elven-ring [[Vilya (Middle-earth)|Vilya]], the Ring of Air, and master of [[Rivendell]], where he has lived for thousands of years through the [[Second Age|Second and Third Ages]] of Middle-earth. He was the Elf-king [[Gil-galad]]'s herald at the end of the Second Age, saw [[Gil-galad]] and king [[Elendil]] fight the Dark Lord [[Sauron]] for the [[One Ring]], and saw Elendil's son [[Isildur]] take it rather than destroy it.\n\nHe is introduced in ''[[The Hobbit]]'', where he plays a supporting role, as he does in ''[[The Lord of the Rings]]'' and ''[[The Silmarillion]]''. Scholars have commented on Elrond's archaic style of speech, noting that this uses genuinely archaic grammar, not just a sprinkling of old words. The effect is to make his speech distinctive, befitting his age and status, while remaining clear, and avoiding quaintness.<ref name=\"Kullmann 2009\"/><ref name=\"Shippey 2001\"/> He has been called a guide or wisdom figure, a wise person able to provide useful counsel to the protagonists.<ref name=\"Nelson 2002\"/> Just as Elrond prevented his daughter [[Arwen]] from marrying until conditions were met, so Tolkien's guardian, Father [[Francis Xavier Morgan]], prevented Tolkien from becoming engaged or marrying until he came of age.<ref name=\"Rosebury 2003\"/>\n\n== Fictional biography ==\n\n=== First Age ===\n\nElrond was born in the [[First Age]] at the refuge of the [[Mouths of Sirion]] in [[Beleriand]], the son of the [[Half-elf|half-elven]] mariner [[Eärendil and Elwing]] his wife, and a great-grandson of [[Beren and Lúthien]]. Not long afterwards, the havens were destroyed by the [[sons of Fëanor]], who captured Elrond and his brother Elros. Their parents feared that they would be killed; instead, they were befriended by Fëanor's sons [[Maedhros]] and Maglor.<ref name=\"Of the Voyage of Eärendil\" group=T>{{harvnb|Tolkien|1977}}, ch. 24 \"Of the Voyage of Eärendil and the War of Wrath\"</ref> Like his parents but unlike his brother, Elrond chose to be counted among the [[Elf (Middle-earth)|Elves]] when the choice of kindreds was given to him. When Beleriand was destroyed at the end of the First Age, Elrond went to Lindon with the household of [[Gil-galad]], the last High King of the [[Noldor]].<ref name=\"Of the Voyage of Eärendil\" group=T/>\n\n=== Second Age ===\n\nDuring the War of the Elves and the Dark Lord [[Sauron]] in the [[Second Age]], the king Gil-galad sent Elrond to the defence of [[Eregion]] against the Dark Lord. Sauron destroyed Eregion and surrounded Elrond's army, but the dwarf-king [[Durin#Durin|Durin]] and the elf-king of Lórien, Amroth, attacked Sauron's rearguard. Sauron turned to fight them, and drove them back to [[Moria (Middle-earth)|Moria]]. Elrond was able to retreat north to a secluded valley, where he established the refuge of [[Imladris]], later called Rivendell; he lived there through the Second and Third Ages.<ref group=T>{{harvnb|Tolkien|1955}}, Appendix B, \"The Tale of Years\", \"The Second Age\"</ref><ref name=\"Of the Rings of Power\" group=T/>\n\nNear the end of the Second Age, the [[Last Alliance of Elves and Men]] was formed, and the army departed from Imladris to [[Mordor]], led by [[Elendil]] and Gil-galad. Sauron killed both of them at the end of the siege of [[Barad-dûr]]. Elrond saw Elendil's son [[Isildur]] destroy Sauron's physical body and take the [[One Ring]] for himself; Elrond and [[Círdan]] urged Isildur to destroy it, but he refused. Elrond served as Gil-galad's herald, and he and [[Círdan]] were entrusted with the two Elven Rings that Gil-galad held. Elrond and Círdan were the only ones to stand with Gil-galad when he fell.<ref name=\"Of the Rings of Power\" group=T>{{harvnb|Tolkien|1977}}, \"Of the Rings of Power and the Third Age\"</ref>\n\n=== Third Age ===\n\nElrond married Celebrían, daughter of Celeborn and [[Galadriel]], early in the [[Third Age]].<ref name=\"AppB Third Age\" group=T/> The place and date of Celebrían's birth are not specified.<ref group=T>{{harvnb|Tolkien|1980}}, p. 234</ref> In the version of their history that describes Galadriel and Celeborn as rulers of Eregion in the [[Second Age]], Galadriel and Celebrían left Eregion for [[Lothlórien|Lórinand]] as [[Sauron]]'s influence over Eregion grew.<ref group=T>{{harvnb|Tolkien|1980}}, p. 237.</ref> According to one account, Celebrían and her parents later lived for many years in Rivendell ([[Imladris]]).<ref group=T>{{harvnb|Tolkien|1980}}, p. 240.</ref> Celebrían and Elrond had three children: the twins Elladan and Elrohir,<ref name=\"AppB Third Age\" group=T>{{harvnb|Tolkien|1955}}, Appendix B \"The Tale of Years\", \"The Third Age\"</ref> and Arwen Undómiel (Evenstar).<ref name=\"AppB Third Age\" group=T/>\n\nOn a trip from Rivendell to Lórien, Celebrían was waylaid by [[Orc (Middle-earth)|Orcs]] in the Redhorn Pass on [[Caradhras]] in the [[Misty Mountains]].<ref name=\"AppB Third Age\" group=T/> She was captured and tormented and received a poisoned wound. She was rescued by her sons and healed by Elrond, but \"after fear and torment\"<ref group=T>{{harvnb|Tolkien|1996}}, pp. 235–236</ref> she could no longer find joy in [[Middle-earth]], so she passed to the Grey Havens and over the Sea to [[Valinor]] in the following year.<ref name=\"AppB Third Age\" group=T/>\n\nElrond was an ally of the North-Kingdom of Arnor. Following its fall, Elrond harboured the [[Chieftains of the Dúnedain]] (the descendants of the Kings of Arnor) and the Sceptre of Annúminas, Arnor's symbol of royal authority. When [[Aragorn]]'s father Arathorn was killed a few years after Aragorn's birth, Elrond raised Aragorn in his own household and became a surrogate father to him. Aware of his daughter [[Arwen]]'s feelings for Aragorn, Elrond would permit their marriage only if Aragorn could unite Arnor and [[Gondor]] as High King.<ref name=\"Aragorn and Arwen\" group=T>{{harvnb|Tolkien|1955}}, Appendix A, 1, v, [[The Tale of Aragorn and Arwen]]</ref>\n\nIn ''[[The Hobbit]]'', Elrond gave shelter to [[Thorin Oakenshield]] and his [[List of The Hobbit characters#Thorin's company|company]] during their [[quest]] to retake [[Erebor]] from the [[Dragons (Middle-earth)|Dragon]] [[Smaug]]. Elrond befriended the [[Hobbit]] [[Bilbo Baggins]], the company's \"burglar\", and received him as a permanent guest some 60 years later.<ref name=\"Hobbit\" group=T>{{harvnb|Tolkien|1937}}, ch. 3 \"A Short Rest\"</ref>\n\n{{Quote box|\n |quote  = Now at this last we must take a hard road, a road unforeseen. There lies our hope, if hope it be. To walk into peril--to Mordor. We must send the Ring to the Fire. – Elrond\n |author = [[J. R. R. Tolkien]]\n |source = ''[[The Fellowship of the Ring]]''\n |width  = 30%\n |align  = right\n}}\n\nElrond headed the [[Council of Elrond]], at which it was decided that the [[One Ring]] should be destroyed where it was forged, in [[Mount Doom]] in Mordor. He agreed that [[Frodo Baggins]], Bilbo's nephew and heir, should bear the Ring during the journey, aided by eight others, reasoning that [[Company of the Ring|a company of nine]] in the service of Middle-earth would counteract the nine [[Nazgûl]], Sauron's most fearsome servants, who sought to help their master conquer it.<ref name=\"Council of Elrond\" group=T>{{harvnb|Tolkien|1954a}}, book 2, ch. 2 \"[[The Council of Elrond]]\"</ref>\n\nWhen Arwen chose mortality in order to be with Aragorn, Elrond reluctantly accepted her decision as the greater good, as she would help to renew the declining lineage of the [[Dúnedain]].<ref name=\"Aragorn and Arwen\" group=T/> When the Grey Company found Aragorn and the [[Rohirrim]] during their journey to Gondor, Elrond's son Elrohir told Aragorn, \"I bring word to you from my father: The days are short. If thou art in haste, remember the [[Paths of the Dead]].\" Aragorn took Elrond's advice, using the Paths of the Dead to reach Gondor in time to come to its aid.<ref group=T>{{harvnb|Tolkien|1955}}, book 5, ch. 2 ''The Passing of the Grey Company''</ref>\n\nElrond remained in Rivendell until the destruction of both the Ring and Sauron in the [[War of the Ring]]. He then travelled to [[Minas Tirith]] for the marriage of Arwen and Aragorn, now King of the Reunited Kingdom of Arnor and Gondor. Three years later, at the approximate age of 6,520, Elrond left Middle-earth to go over [[Belegaer|the Sea]] with Gandalf, Galadriel, Frodo, and Bilbo, [[Death and immortality in Middle-earth#Men and Elves|never to return]]. Tolkien said that \"after the destruction of the [[One Ring|Ruling Ring]] the [[Three Rings]] of the Eldar lost their virtue. Then Elrond prepared at last to depart from Middle-earth and follow Celebrían.\"<ref group=T>{{harvnb|Tolkien|1996}}, p. 243.</ref> Elrond and Celebrían were thus finally reunited, but separated forever from their daughter Arwen.<ref>{{cite book |last=Tyler |first=J. E. A. |author-link=Tony Tyler |title=The Complete Tolkien Companion |year=2002 |publisher=[[Pan Books]] |location=London, England |page=195 |isbn=978-0-330-41165-3}}</ref>\n\n== Analysis ==\n\n=== Role and responsibility ===\n\nT<!--British usage-->he Tolkien scholar [[Richard C. West]] writes that there is a familiar [[Trope (literature)|trope]] in stories for a harsh, disapproving father to set difficult and possibly fatal obstacles in the path of his daughter's unwelcome suitors. He gives as example King [[Thingol]]'s demand that the hero [[Beren]] must bring a [[Silmarils|Silmaril]] from the iron crown of the Dark Lord [[Morgoth]]. But, he writes, Elrond is a caring father with no trace of cruelty. The demand that Arwen \"shall not be the bride of any Man less than the King of both Gondor and Arnor\" is in his view just \"giving his foster son incentive to achieve what it is his hereditary duty to attempt anyway\", as well as doing the best for his daughter: \"Elrond loves them both\".<ref name=\"West 2011\">{{cite book |last=West |first=Richard C. |author-link=Richard C. West |chapter=Neither the Shadow nor the Twilight: The Love Story of Aragorn and Arwen in Literature and Film |editor1-last=Bogstad |editor1-first=Janice M. |editor2-last=Kaveny |editor2-first=Philip E. |title=[[Picturing Tolkien]] |publisher=[[McFarland & Company]] |location=Jefferson, North Carolina |year=2011 |pages=227–237 |isbn=978-0786446360}}</ref>\n\nThe [[humanities]] scholar [[Brian Rosebury]] writes that Tolkien contrasts Elrond's paternal love for Arwen with the distant, painful relationship of [[Denethor]], the despairing and ultimately suicidal [[Steward of Gondor]], and his son [[Faramir]]. He notes that this was a major theme in [[Tolkien's legendarium]], with father-son pairs like [[Húrin]] and [[Túrin Turambar|Túrin]], or the Dark Elf Eöl betrayed by his power-hungry son, Maeglin. Rosebury comments that Elrond's forbidding Arwen to marry has an analogue with Tolkien's own youth, when his guardian [[J. R. R. Tolkien#Childhood|Father Francis Morgan]] took responsibility for Tolkien's moral wellbeing after his mother [[Mabel Tolkien|Mabel]]'s death, blocking his relationship with [[Edith Tolkien|Edith Bratt]], whom he eventually married.<ref name=\"Rosebury 2003\">{{cite book |last=Rosebury |first=Brian |title=[[Tolkien: A Cultural Phenomenon]] |date=2003 |orig-year=1992 |publisher=[[Palgrave Macmillan]] |location=London, England |isbn=978-1403-91263-3 |pages=106, 138}}</ref>{{efn|Tolkien's engagement to Edith was delayed four years until he was 21.<ref>{{Cite web |last=Doughan |first=David |year=2002 |title=War, Lost Tales and Academia |url=http://www.tolkiensociety.org/tolkien/biography.html#2 |url-status=live |archive-url=https://web.archive.org/web/20060303050751/http://www.tolkiensociety.org/tolkien/biography.html |archive-date=3 March 2006 |website=J. R. R. Tolkien: A Biographical Sketch}}</ref>}}\n\nCharles W. Nelson, writing in ''[[Journal of the Fantastic in the Arts]]'', describes Elrond as a guide or wisdom figure, a wise person able to provide useful counsel to the protagonists. He is seen in ''The Hobbit'' as one with knowledge of the ancient runes and the ability to read moon letters, as well as giving advice on the best route. In ''The Lord of the Rings'', he is seen to have extensive knowledge of the history of Middle-earth, including of the One Ring, and provides wise assistance on planning the necessary action to destroy the Ring. That said, he also shows that he knows the limits of his knowledge, as the capabilities of Hobbits, in his words \"the Shire-folk\", are outside his experience. Such, Nelson concludes, is the function of a guide, and Elrond fulfils it \"admirably\" and to the best of his ability, just as in their different ways do Aragorn, Galadriel, [[Faramir]], and [[Tom Bombadil]].<ref name=\"Nelson 2002\">{{cite journal |last=Nelson |first=Charles W. |title=From Gollum to Gandalf: The Guide Figures in J. R. R. Tolkien's ''Lord of the Rings'' |journal=[[Journal of the Fantastic in the Arts]] |publisher=Central Michigan University |location=Mount Pleasant, Michigan |volume=13 |issue=1 (49) |year=2002 |pages=47–61 |jstor=43308562}}</ref>\n\nChristine Larsen, in the ''[[Journal of Tolkien Research]]'', analysed why Tolkien wrote \"Master\" Elrond, only once calling him \"Lord of Rivendell\" and never writing \"Lord Elrond\", in contrast for instance to \"Lady Galadriel\", \"Lord [[Celeborn]]\", and \"the Elven-king Gil-galad\". She notes that Elrond is certainly important, being \"the thread that ties together all three of the great tales of the legendarium: ''[[Beren and Lúthien]]'', ''[[The Fall of Gondolin]]'', and ''[[The Children of Húrin]]''.\" She notes too that the usage was clearly intentional, and that Tolkien was \"excruciating[ly]\" careful on such matters. She notes that he called [[Tom Bombadil]] \"Master of wood, water, and hill\", but denied that the term implied ownership. Further, \"master\" is used as a term of respect, as by [[Barliman Butterbur]] to the hobbits in Bree. Finally, she writes, mastery implies the skill of an authority or revered artist: the [[Dwarf (Middle-earth)|Dwarves]] are described as \"masters of stone\", as the [[Rohirrim]] are \"masters of horses\" and the Wizard [[Radagast]] is a \"master of shapes and changes of hue\". Applied to Elrond, he is a \"master of healing\", but more centrally he is the \"greatest of lore-masters\", a master of ancient wisdom and knowledge. She notes that among the Elves, the lore-masters were the Noldor: indeed that was the meaning of their name.<ref>{{cite journal |last=Larsen |first=Kristine |year=2019 |title=A Journey Down the Rabbit Hole of the OED in Search of the Meaning of 'Master' Elrond |journal=Journal of Tolkien Research |publisher=[[Valparaiso University]] |location=Valparaiso, Indiana |volume=7 |issue=1 |url=https://scholar.valpo.edu/journaloftolkienresearch/vol7/iss1/9}}</ref>\n\n=== Style of speech ===\n\n{{Quote box|\n |quote  = 'Alas, no', said Elrond. 'We cannot use the Ruling Ring. That we now know too\nwell. It belongs to Sauron and was made by him alone, and is altogether evil. Its\nstrength, Boromir, is too great for anyone to wield at will, save only those who have\nalready a great power of their own. But for them it holds an even deadlier peril. The\nvery desire of it corrupts the heart. Consider Saruman. If any of the Wise should\nwield this Ring to overthrow the Lord of Mordor, using his own arts, he would set\nhimself on Sauron's throne, and yet another Dark Lord would appear. And that is\nanother reason why the Ring should be destroyed: as long as it is in the world it will\nbe a danger even to the Wise. For nothing is evil in the beginning. Even Sauron was\nnot so. I fear to take the Ring to hide it. I will not take the Ring to wield it.' – Elrond\n |author = [[J. R. R. Tolkien]]\n |source = ''[[The Fellowship of the Ring]]''\n |width  = 30%\n |align  = right\n}}\n\n{{further|Council of Elrond}}\n\nThomas Kullmann, in the ''[[Nordic Journal of English Studies]]'', describes Elrond's language as \"archaic and stilted\", marked out by formal speeches with the tripartite structure of [[rhetoric]]: \"proposition, argumentation, and conclusion\". Elrond, he writes, uses archaic conjunctions like \"save\" (meaning \"except\"), and literary phrases like \"to wield at will\", along with old-fashioned inversions of word order, like \"That we now know too well\". He notes however that Elrond uses simple short sentences, like \"We cannot use the Ruling Ring.\"<ref name=\"Kullmann 2009\">{{cite journal |last=Kullmann |first=Thomas |title=Intertextual Patterns in JRR Tolkien's The Hobbit and The Lord of the Rings |journal=[[Nordic Journal of English Studies]] |publisher=[[Oslo University]] |location=Oslo, Norway |volume=8 |issue=2 |year=2009 |pages=37–56 |doi=10.35360/njes.190 |url=https://ojs.ub.gu.se/index.php/njes/article/download/338/335 |archive-url=https://web.archive.org/web/20220217100019/https://ojs.ub.gu.se/index.php/njes/article/download/338/335 |url-status=dead |archive-date=February 17, 2022 |doi-access=free }}</ref>\n\nThe Tolkien scholar [[Tom Shippey]] writes that Tolkien, professionally interested in words and language, reveals character through styles of speech. Elrond is seen to use an archaic but clear style in the Council of Elrond. Shippey states that his use of grammatical inversions is now rare, but still colloquial, as in common phrases like \"Down came the rain. Up went the umbrellas.\" He writes that the old rule was that [[V2 word order|the verb had to come second in the sentence]], so if something other than a noun phrase began a sentence, then the noun had to go after the verb. In this way, Shippey writes, Tolkien gives Elrond a consistently archaic style, using not just old words \"(the first resort of the amateur medievalist)\" but more importantly through grammar. The effect is to make his speech distinctive, suiting his immense age, while remaining clear, and never merely quaint. Importantly, his way of speaking links him with Isildur, who becomes a key figure later in the chapter.<ref name=\"Shippey 2001\">{{cite book |last=Shippey |first=Tom |url=https://books.google.com/books?id=jkwiaKVchoUC |title=J. R. R. Tolkien: Author of the Century |date=2001 |publisher=[[HarperCollins]] |location=New York City |isbn=978-0261-10401-3 |author-link=Tom Shippey |pages=68–70}}</ref>\n\n== Adaptations ==\n\n[[File:Elrond78.jpg|left|thumb|Elrond in [[Ralph Bakshi]]'s animated version of ''[[The Lord of the Rings (1978 film)|The Lord of the Rings]]'']]\n\n[[Cyril Ritchard]] voiced Elrond in the 1977 [[Rankin/Bass]] animated film adaptation of ''[[The Hobbit (1977 film)|The Hobbit]]''.<ref>{{cite web |title=Cyril Ritchard |url=https://www.behindthevoiceactors.com/Cyril-Ritchard/ |website=Behind the Voice Actors |access-date=18 July 2020}}</ref> In [[Ralph Bakshi]]'s [[The Lord of the Rings (1978 film)|1978 animated adaptation]] of ''[[The Lord of the Rings]]'', Elrond was voiced by [[André Morell]].<ref name=\"Beck2005\">{{cite book |last=Beck |first=Jerry |title=The Animated Movie Guide |url=https://books.google.com/books?id=fTI1yeZd-tkC&pg=PA154 |year=2005 |publisher=[[Chicago Review Press]] |location=Chicago, Illinois |isbn=978-1-56976-222-6 |page=154}}</ref> When Rankin/Bass attempted to finish the story (left incomplete by Bakshi and his financial backers) with ''[[The Return of the King (1980 film)|The Return of the King]]'' in 1980, actor [[Paul Frees]] voiced Elrond, Ritchard having died shortly after voicing the character in the previous film.<ref>{{cite web |title=Elrond |url=https://www.behindthevoiceactors.com/movies/The-Return-of-the-King/Elrond/ |website=Behind the Voice Actors |access-date=18 July 2020}}</ref>\n\nCarl Hague portrayed Elrond in [[National Public Radio]]'s 1979 radio production of ''[[The Lord of the Rings (1979 radio series)|The Lord of the Rings]]''. Hugh Dickson portrayed Elrond in [[BBC Radio]]'s 1981 serialisation of ''[[The Lord of the Rings (1981 radio series)|The Lord of the Rings]]''.<ref>{{cite web |title=Riel Radio Theatre — The Lord of the Rings, Episode 2 |url=https://radioriel.org/content/daily-programme/riel-radio-theatre-the-lord-of-the-rings-episode-2/ |publisher=Radioriel |access-date=18 May 2020 |date=15 January 2009 |archive-date=15 January 2020 |archive-url=https://web.archive.org/web/20200115144511/https://www.radioriel.org/content/daily-programme/riel-radio-theatre-the-lord-of-the-rings-episode-2/ |url-status=dead }}</ref> In the 1993 Finnish television [[miniseries]] ''[[Hobitit]]'', Elrond is played by [[Leif Wager]]. In the 2006 Toronto [[musical theatre|musical]] adaptation of ''[[The Lord of the Rings (musical)|The Lord of the Rings]]'', Elrond was portrayed by Victor A. Young.<ref>{{cite web |url=http://www.playbill.com/news/article/94185-Precious-News-Tony-Award-Winner-Will-Play-Gandalf-in-Lord-of-the-Rings-Musical-Cast-Announced |archive-url=https://archive.today/20130131174658/http://www.playbill.com/news/article/94185-Precious-News-Tony-Award-Winner-Will-Play-Gandalf-in-Lord-of-the-Rings-Musical-Cast-Announced |url-status=dead |archive-date=31 January 2013 |title=Precious News! Tony Award Winner Will Play Gandalf in Lord of the Rings Musical; Cast Announced |publisher=[[Playbill]] |work=playbill.com |date=25 July 2005 |access-date=6 October 2012 }}</ref>\n\n[[File:elrond11.jpg|thumb|upright=0.6|[[Hugo Weaving]] as Elrond in [[Peter Jackson]]'s ''[[The Lord of the Rings: The Fellowship of the Ring]]'']]\n\nIn [[The Lord of the Rings (film series)|''The Lord of the Rings'' film trilogy]] and [[The Hobbit (film series)|''The Hobbit'' trilogy]] directed by [[Peter Jackson]], Elrond is portrayed by [[Hugo Weaving]].<ref>{{cite web |last=Froggatt |first=Emma |title=Hugo Weaving's top 10 on-screen moments – in pictures |url=https://www.theguardian.com/film/gallery/2015/jul/31/hugo-weavings-top-10-on-screen-moments-in-pictures |work=[[The Guardian]] |date=31 July 2015}}</ref> In ''[[The Lord of the Rings: The Fellowship of the Ring]]'' Elrond holds Men in lesser regard after witnessing [[Isildur]]'s failure to destroy the One Ring. Unlike in the book, he is skeptical of Aragorn both in terms of his ability to lead the Men of the West and the courtship of his daughter. As shown in the flashback scene in ''[[The Lord of the Rings: The Two Towers]]'', he forces Aragorn to end his engagement to Arwen so that she can leave to the Undying Lands, although she eventually makes the decision to stay with Aragorn in Middle-Earth. Later, he sends a \"surprisingly well-drilled army\"<ref name=\"Shippey 2005 p418\"/> to the [[Battle of Helm's Deep]], an act the Tolkien scholar [[Tom Shippey]] writes was made to fit a 21st century view of political and military expectations.<ref name=\"Shippey 2005 p418\">{{cite book |last=Shippey |first=Tom |author-link=Tom Shippey |title=[[The Road to Middle-Earth]] |date=2005 |edition=Third |orig-year=1982 |publisher=[[HarperCollins]] |location=New York City |isbn=978-0261102750 |pages=418–419}}</ref>\n\n<!--[[File:Robert Aramayo LotR-TRoP Asia Premiere 2022.jpg||thumb|upright|Robert Aramayo]] --- sorry but there just isn't space for this here\n-->\nIn the 2022 television series ''[[The Lord of the Rings: The Rings of Power]]'', a younger Elrond is played by [[Robert Aramayo]].<ref>{{cite news |date=26 August 2022 |title=Elijah who? The amazing new stars of The Lord of the Rings |url=https://www.theguardian.com/tv-and-radio/2022/aug/26/elijah-who-the-amazing-new-stars-of-the-lord-of-the-rings-the-rings-of-power |access-date=2 September 2022 |work=[[The Guardian]]}}</ref>\n\nWeaving reprised his role as both Elrond and the narrator in video games ''[[The Lord of the Rings: The Battle for Middle-earth II]]'' (2006)<ref>{{cite web |title=The Lord of the Rings: The Battle for Middle Earth II |url=https://www.behindthevoiceactors.com/video-games/The-Lord-of-the-Rings-The-Battle-for-Middle-Earth-II/ |website=Behind the Voice Actors |access-date=18 July 2020}}</ref> and ''[[The Lord of the Rings: Conquest]]'' (2009).<ref>{{cite web |title=The Lord of the Rings: Conquest |url=https://www.behindthevoiceactors.com/video-games/The-Lord-of-the-Rings-Conquest/ |website=Behind the Voice Actors |access-date=18 July 2020}}</ref>\n\nIn the 2002 [[The Lord of the Rings: The Fellowship of the Ring (video game)|video game adaptation of ''The Fellowship of the Ring'']], Elrond is voiced by [[Jim Piddock]], who later reprised the role for ''[[The Lord of the Rings: Aragorn's Quest]]'' (2010) and ''[[The Lord of the Rings: War in the North]]'' (2011).  Elrond is one of the major characters in ''[[The Lord of the Rings Online]]'' (2007).<ref>{{cite web |title=Jim Piddock |url=https://www.behindthevoiceactors.com/Jim-Piddock/ |website=Behind the Voice Actors |access-date=18 July 2020}}</ref>\n<!--\n    Please do not add anything here without citing a reliable source, it will be removed.\n-->\n\n== Genealogy ==\n{{Half-elven family tree}}\n\n== Notes ==\n{{notelist}}\n\n== References ==\n\n=== Primary ===\n\n{{reflist|group=T|28em}}\n\n=== Secondary ===\n{{reflist|28em}}\n\n=== Sources ===\n\n* {{ME-ref|TH}}\n* {{ME-ref|FOTR}}\n* {{ME-ref|ROTK}}\n* {{ME-ref|Silm}}\n* {{ME-ref|UT}}\n* {{ME-ref|PoME}}\n\n{{Hobbit}}\n{{Lotr}}\n{{Middle-earth}}\n{{Elves}}\n\n[[Category:Middle-earth Half-elven]]\n[[Category:Fictional twins]]\n[[Category:The Hobbit characters]]\n[[Category:The Lord of the Rings characters]]\n[[Category:Middle-earth rulers]]\n[[Category:The Silmarillion characters]]\n[[Category:Literary characters introduced in 1937]]\n[[Category:Ring-bearers]]\n[[Category:Television characters introduced in 1977]]\n\n[[de:Figuren in Tolkiens Welt#Elrond]]\n[[simple:Middle-earth characters#Elrond]]",
+  "redirect_chain": [],
+  "revision_id": 1361735157,
+  "revision_timestamp": "2026-06-29T19:23:26Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: list",
+      "structure_type": "list"
+    },
+    {
+      "heading_path": [
+        "Fictional biography",
+        "First Age"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography",
+        "Second Age"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography",
+        "Second Age"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography",
+        "Third Age"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography",
+        "Third Age"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography",
+        "Third Age"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography",
+        "Third Age"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography",
+        "Third Age"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography",
+        "Third Age"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography",
+        "Third Age"
+      ],
+      "paragraph_ordinal": 7,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography",
+        "Third Age"
+      ],
+      "paragraph_ordinal": 8,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Role and responsibility"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Role and responsibility"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Role and responsibility"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Role and responsibility"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Style of speech"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Style of speech"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Style of speech"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Style of speech"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 7,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 8,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Genealogy"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Notes"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

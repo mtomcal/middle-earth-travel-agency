@@ -1,0 +1,852 @@
+{
+  "article_artifact_id": "article_07fcfc6ba904346775aefcd6de6e7c88d834755f94e7a0af7d834980ddc78534",
+  "canonical_title": "The Lord of the Rings",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_07fcfc6ba904346775aefcd6de6e7c88d834755f94e7a0af7d834980ddc78534",
+      "heading_path": [
+        "Plot",
+        "The Fellowship of the Ring"
+      ],
+      "normalized_text": "thumb|upright=0.6|Gandalf proves that Frodo's Ring is the One Ring by throwing it into Frodo's fireplace, revealing the hidden text of the Rhyme of the Rings.|alt=A three-dimensional rendering of a gold ring. The inside and outside of the band blaze with Tengwar.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_165a43c58931a20d56e5b2dbf3d0c44b45d5c8347a730d3366599fa39298117e",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_07fcfc6ba904346775aefcd6de6e7c88d834755f94e7a0af7d834980ddc78534",
+      "heading_path": [
+        "Plot",
+        "The Fellowship of the Ring"
+      ],
+      "normalized_text": "Bilbo Baggins celebrates his birthday and leaves the Ring to Frodo, his cousin and adopted heir. Gandalf (a wizard) suspects it is a Ring of Power; seventeen years later, he confirms it is the One Ring, lost by the Dark Lord Sauron, and counsels Frodo to take it away from the Shire. Gandalf leaves, promising to return, but fails to do so. Frodo sets out on foot with his cousin Pippin Took and gardener Sam Gamgee. They are pursued by Black Riders, but meet some Elves, whose singing to Elbereth wards off the Riders. The Hobbits take an evasive shortcut to Bucklebury Ferry, where they meet their friend Merry Brandybuck. Merry and Pippin reveal they know about the Ring and insist on joining Frodo on his journey. They try to shake off the Black Riders by cutting through the Old Forest. Merry and Pippin are trapped by the malign Old Man Willow, but are rescued by Tom Bombadil. Leaving Tom's house, they are caught by a barrow-wight. Frodo, awakening from the barrow-wight's spell, calls Tom Bombadil, who frees them and gives them ancient swords from the wight's hoard. The Hobbits reach the village of Bree, where they meet Strider, a Ranger. The innkeeper gives Frodo an old letter from Gandalf, which identifies Strider as a friend. Knowing the Black Riders will attempt to seize the Ring, Strider guides the group toward the Elvish sanctuary of Rivendell. At Weathertop, they are attacked by five Black Riders. Their leader wounds Frodo with a cursed blade. Strider fights them off and treats Frodo with the herb athelas. They are joined by the Elf Glorfindel, who rides with Frodo, now deathly ill, towards Rivendell. The Black Riders pursue Frodo into the Ford of Bruinen, where they are swept away by flood waters summoned by Elrond.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_bd46f5f28720ff716720a871290e77af1a154972c92e64829fe6226bca86b99c",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_07fcfc6ba904346775aefcd6de6e7c88d834755f94e7a0af7d834980ddc78534",
+      "heading_path": [
+        "Plot",
+        "The Two Towers"
+      ],
+      "normalized_text": "A party of Orcs sent by Saruman and Sauron attack the Fellowship. Boromir tries to protect Merry and Pippin from the Orcs, but they kill him and capture the two Hobbits. Aragorn, Gimli and Legolas decide to pursue the Orcs. The Orcs are killed by Riders of Rohan, led by Éomer. The Hobbits escape into Fangorn Forest, where they are befriended by the Ent Treebeard. Aragorn, Gimli, and Legolas track the hobbits to Fangorn, where they meet Gandalf: he explains that he killed the Balrog; he too was killed in the fight, but was sent back to Middle-earth. He is now Gandalf the White, replacing Saruman as chief of the wizards. They ride to Edoras, capital of Rohan. Gandalf frees King Théoden from the influence of Saruman's spy Gríma Wormtongue. Théoden musters his army and rides to the fortress of Helm's Deep; Gandalf departs to seek help from Treebeard. The Ents destroy Isengard, Saruman's stronghold, and flood it, trapping the wizard in the tower of Orthanc. Gandalf convinces Treebeard to send an army of Huorns to Théoden's aid. He brings an army of Riders of Rohan to Helm's Deep. They defeat the Orcs, who flee into the forest of Huorns and are destroyed. Gandalf, Théoden, Aragorn, Legolas, and Gimli ride to Isengard, where they find Merry and Pippin relaxing amidst the ruins. Gandalf offers Saruman a chance to turn away from evil. When Saruman refuses, Gandalf strips him of his rank and most of his powers. Wormtongue throws down a hard round object to try to kill Gandalf. Pippin picks it up; Gandalf swiftly takes it, but Pippin steals it in the night. It is a palantír, a seeing-stone that Saruman used to speak with Sauron, becoming ensnared. Sauron sees Pippin, but misunderstands the circumstances. Gandalf rides for Minas Tirith, chief city of Gondor, taking Pippin with him.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_5d5611ac4cc47b67875a5ae1522efea2b16968bb03a32ed6438a06af7db7cdfd",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_07fcfc6ba904346775aefcd6de6e7c88d834755f94e7a0af7d834980ddc78534",
+      "heading_path": [
+        "Plot",
+        "The Two Towers"
+      ],
+      "normalized_text": "Frodo and Sam struggle through the barren hills of the Emyn Muil. They realize they are being tracked; on a moonlit night they capture Gollum, who has followed them from Moria. Frodo makes Gollum swear to serve him, as Ringbearer, and asks him to guide them to Mordor. Gollum leads them across the Dead Marshes. Sam overhears Gollum debating with his alter ego, Sméagol, whether to steal the Ring. The Black Gate of Mordor is too well guarded, so they travel south through Ithilien to a secret pass that Gollum knows. They are captured by rangers led by Faramir, Boromir's brother, and brought to the secret fastness of Henneth Annûn. Faramir resists the temptation to seize the Ring and, disobeying orders to arrest strangers, releases them. Gollum guides the hobbits to the pass, but leads them into the lair of the great spider Shelob in the tunnels of Cirith Ungol. Frodo holds up his gift, the Phial of Galadriel, which holds the light of Eärendil's star: it drives Shelob back. Frodo cuts through a giant web using his sword Sting. Shelob attacks again, and Frodo falls to her venom. Sam picks up Sting and the Phial. He wounds the monster. Believing Frodo to be dead, a devastated Sam takes the Ring to continue the quest alone. Orcs take Frodo; Sam overhears them saying that Frodo is still alive, and sets out to rescue him.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_66f47c3977f8a5e07b338c424d416273f5d2ccfcad5ec226733936940d968f82",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_07fcfc6ba904346775aefcd6de6e7c88d834755f94e7a0af7d834980ddc78534",
+      "heading_path": [
+        "Plot",
+        "The Return of the King"
+      ],
+      "normalized_text": "Sauron sends a great army against Gondor. Gandalf arrives at Minas Tirith to warn Denethor of the attack, while Théoden musters the Riders of Rohan to go to Gondor's aid. Minas Tirith is besieged; the Lord of the Nazgûl uses a spell-wound battering ram to destroy the city's gates. Denethor, deceived by Sauron, falls into despair. He burns himself alive on a pyre; Pippin and Gandalf rescue his son Faramir from the same fate. Aragorn, accompanied by Legolas, Gimli, and the Rangers of the North, takes the Paths of the Dead to recruit the Dead Men of Dunharrow, oathbreakers who will have no rest until they fight for the King of Gondor. Aragorn unleashes the Army of the Dead on the Corsairs of Umbar invading southern Gondor. He and men of southern Gondor sail in the Corsairs' ships up the Anduin, reaching Minas Tirith just in time to turn the tide of battle. Théoden's niece Éowyn, who joined the army in disguise, kills the Lord of the Nazgûl with help from Merry; both are wounded. Gondor and Rohan defeat Sauron's army in the Battle of the Pelennor Fields, but Théoden is killed. Aragorn enters Minas Tirith and heals the sick. He leads an army through Ithilien to the Black Gate to distract Sauron from his true danger. At the Battle of the Morannon, his army is vastly outnumbered.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_3499790ef96a20dd0fd69e0446fa9a27c0721d0e71dd5163452a9bf910938b80",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_07fcfc6ba904346775aefcd6de6e7c88d834755f94e7a0af7d834980ddc78534",
+      "heading_path": [
+        "Plot",
+        "The Return of the King"
+      ],
+      "normalized_text": "Sam rescues Frodo from the tower of Cirith Ungol. They set out across Mordor. When they reach the edge of the Cracks of Doom, Frodo cannot resist the Ring any longer: he claims it for himself and puts it on. Gollum reappears. He bites off Frodo's Ring finger. Celebrating wildly, Gollum loses his footing and falls into the Fire, taking the Ring with him. When the Ring is destroyed, Sauron loses his power. All he created collapses, the Nazgûl perish, Aragorn wins the battle of the Morannon, and the Eagles rescue Frodo and Sam from the ruin of Mount Doom. Aragorn is crowned King, and weds Arwen, Elrond's daughter. Théoden is buried; Éomer is crowned King of Rohan. His sister Éowyn is engaged to Faramir, now Steward of Gondor and Prince of Ithilien. Galadriel, Celeborn, and Gandalf say farewell to Treebeard, and to Aragorn. The four hobbits travel home, only to find it has been taken over by Saruman's men. Merry raises a rebellion and scours the Shire. Saruman reveals crimes that Wormtongue has done, causing Wormtongue to turn on Saruman and kill him in front of Bag End, Frodo's home. Wormtongue then is killed by hobbit archers. Merry and Pippin are celebrated as heroes. Sam marries Rosie Cotton and uses his gifts to heal the Shire. Frodo, broken by the quest, leaves a few years later, sailing from the Grey Havens over the Sea to find peace.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_e73e33dd168089b1a9a7e2e8feacc4285ca95da4914166c5835a75de8e62dcbd",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_07fcfc6ba904346775aefcd6de6e7c88d834755f94e7a0af7d834980ddc78534",
+      "heading_path": [
+        "Concept and creation",
+        "Writing"
+      ],
+      "normalized_text": "Persuaded by his publishers, he started \"a new Hobbit\" in December 1937. After several false starts, the story of the One Ring emerged. The idea for the first chapter (\"A Long-Expected Party\") arrived fully formed, although the reasons behind Bilbo's disappearance, the significance of the Ring, and the title The Lord of the Rings did not come until the spring of 1938. Originally, he planned to write a story in which Bilbo had used up all his treasure and was looking for another adventure to gain more; however, he remembered the Ring and its powers and thought that would be a better focus for the new work. As the story progressed, he brought in elements from The Silmarillion mythology.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_ad53967da53fc6f022937d779fe4eeef93d3054fc881c1b36e83ef83fb7960d5",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_07fcfc6ba904346775aefcd6de6e7c88d834755f94e7a0af7d834980ddc78534",
+      "heading_path": [
+        "Concept and creation",
+        "Illustrations"
+      ],
+      "normalized_text": "thumb|right|upright=1.5|Tolkien's calligraphy of the Ring Verse was one of the few illustrations in the first edition. It is written in the Black Speech of Mordor using the Tengwar script.|alt=Two rows of Tengwar written in black on a white background.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_17765e6e3eb4bec6c47438df9d9cae3f281a01da7296878233dd4b86791a14c3",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_07fcfc6ba904346775aefcd6de6e7c88d834755f94e7a0af7d834980ddc78534",
+      "heading_path": [
+        "Adaptations"
+      ],
+      "normalized_text": "The Lord of the Rings has been adapted into various media, including radio, stage, motion pictures, and videogames.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_d530071eebf15cb53d6441a77a73f52aee13e80bcd2e76a33f55a63bb4c7ce48",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_07fcfc6ba904346775aefcd6de6e7c88d834755f94e7a0af7d834980ddc78534",
+      "heading_path": [
+        "Legacy",
+        "Music"
+      ],
+      "normalized_text": "This is not a list of examples; there is a whole article on \"Music of Middle-earth\". Please do not add more examples here: there are way too many to list here, thanks -->",
+      "paragraph_ordinal": 5,
+      "passage_id": "passage_1cd87e1a8958645bc3ea95e59dd27320faff3e1aa5540f106b9a35d8c0213f89",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_07fcfc6ba904346775aefcd6de6e7c88d834755f94e7a0af7d834980ddc78534",
+      "heading_path": [
+        "Legacy",
+        "Impact on popular culture"
+      ],
+      "normalized_text": "thumb|\"Welcome to Hobbiton\" sign in Matamata, New Zealand, where Peter Jackson's film version was shot|alt=A freestanding green sign reading \"Welcome to Hobbiton\" in large gold calligraphic letters, with \"Matamata New Zealand\" appearing under it in smaller letters. In front of the sign is a statue of a grotesque on a pedestal. A lawn, road, and shops are visible in the background.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_59d02339491a6602e11fd767981d92ef1d0867680509349f886fcf02aa7a5af8",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=The_Lord_of_the_Rings&action=history",
+  "namespace": 0,
+  "page_id": 29798,
+  "parent_revision_id": 1362374571,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1362374706",
+  "raw_wikitext": "{{Short description|1954–1955 fantasy novel by J. R. R. Tolkien}}\n{{About|the novel|other uses}}\n{{Redirect|War of the Ring}}\n{{Redirect|LOTR|Leave outside the Immigration Rules|Leave to enter#Leave outside the Immigration Rules}}\n{{Good article}}\n{{Use dmy dates|date=November 2024}}\n{{Use Oxford spelling|date=November 2024}}<!-- This article uses British English with Oxford Spelling. Please use this when editing the article. -->\n{{Infobox book\n| name              = ''The Lord of the Rings''\n| image             = First_Single_Volume_Edition_of_The_Lord_of_the_Rings.gif\n| caption           = Cover to the first single-volume edition (1968)<br>by [[Pauline Baynes]]\n| alt               = A book cover displaying the title in orange letters, positioned in a clearing of trees and looking out at the horizon.\n| author            = [[J. R. R. Tolkien]]\n| country           = United Kingdom\n| language          = English\n| genre             = {{Plainlist|class=nowrap|<!--keep list format from wrap-fragmenting into a total mess-->\n* [[High fantasy]]\n* [[Adventure novel|Adventure]]}}\n| set_in            = [[Middle-earth]]\n| publisher         = [[Allen & Unwin]]\n| pub_date          = {{Plainlist|class=nowrap|<!--keep list format from wrap-fragmenting into a total mess-->\n* 29 July 1954 (''[[The Fellowship of the Ring]]'')\n* 11 November 1954 (''[[The Two Towers]]'')\n* 20 October 1955 (''[[The Return of the King]]'')}}\n| pages             = 1077 (first single-volume edition)\n| media_type        = Print (hardback and paperback)\n| oclc              = 1487587\n| preceded_by       = [[The Hobbit]]\n| followed_by       = [[The Adventures of Tom Bombadil]]\n}}\n\n'''''The Lord of the Rings''''' is an [[Epic (genre)|epic]]<ref>{{cite book |chapter=The Lord of the Rings: Tolkien's Epic |title=Tolkien's Art: A Mythology for England |last=Chance |first=Jane <!--Nitzsche, at that time--> |author-link=Jane Chance |publisher=Macmillan |year=1980 |orig-year=1979 |isbn=0-333-29034-8 |pages=97–127}}</ref> [[high fantasy]] novel{{efn|[[J. R. R. Tolkien]] disliked having the word \"[[novel]]\" applied to his works, preferring the phrase \"heroic [[Chivalric romance|romance]]\", but \"novel\" is commonly applied.<ref group=T>{{harvnb|Carpenter|2023|loc=letter #329 to Peter Szabo Szentmihalyi, October 1971 }}</ref>}} written by the English author and scholar [[J. R. R. Tolkien]]. Set in [[Middle-earth]], the story began as a sequel to Tolkien's 1937 children's book ''[[The Hobbit]]'' but eventually developed into a much larger work. [[Constructing The Lord of the Rings|Written in stages between 1937 and 1949]], ''The Lord of the Rings'' is one of the [[List of best-selling books|best-selling books ever written]]<!--See Talk Page-there is no definitive list of best-sellers-->, with over 150<!--yes, we know, this figure is surely an underestimate, but it is reliably cited: to replace it, you MUST add a new, reliable source--> million copies sold.<ref name=\"thestar\">{{cite web |last=Wagner |first=Vit |url=https://www.thestar.com/entertainment/article/203389 |title=Tolkien proves he's still the king |work=[[Toronto Star]] |date=16 April 2007 |access-date=8 March 2011|url-status=dead |archive-url=https://web.archive.org/web/20110309035210/http://www.thestar.com/entertainment/article/203389 |archive-date=9 March 2011}}</ref>\n\nThe title refers to the story's main [[antagonist]],{{efn|Tolkien has the wizard Gandalf say to the hobbit Frodo \"the Black Riders are the Ringwraiths, the Nine Servants of the Lord of the Rings.\"<ref group=T>{{ME-ref|FOTR}} book 2, ch. 1 \"Many Meetings\"</ref>}} the [[Dark Lord]] [[Sauron]], who [[History of Arda#Second Age|in an earlier age]] created the [[One Ring]], allowing him to rule the other [[Rings of Power]] given to [[Men in Middle-earth|men]], [[Dwarves in Middle-earth|dwarves]], and [[Elves in Middle-earth|elves]], in his campaign to conquer all of Middle-<!--already linked!-->earth. From homely beginnings in [[the Shire]], a [[hobbit]] land reminiscent of the English countryside, the story ranges across Middle-earth, following [[Quests in Middle-earth|the quest]] to destroy the One Ring, seen mainly through the eyes of the hobbits [[Frodo Baggins|Frodo]], [[Samwise Gamgee|Sam]], [[Meriadoc Brandybuck|Merry]], and [[Peregrin Took|Pippin]]. Aiding the hobbits are the wizard [[Gandalf]], the men [[Aragorn]] and [[Boromir]], the elf [[Legolas]], and the dwarf [[Gimli (Middle-earth)|Gimli]], who unite as the [[Company of the Ring]] to rally the Free Peoples of Middle-earth against Sauron's armies and give Frodo a chance to destroy the One Ring in the fires of [[Mount Doom]].\n\nTolkien drew inspiration from [[Tolkien's influences|various influences]] for the story, including [[philology]], mythology, [[Christianity in Middle-earth|Christianity]], [[Tolkien's modern sources|earlier fantasy works]], and [[J. R. R. Tolkien#First World War|his own experiences in the First World War]]. Although the work is often called a trilogy, Tolkien intended it to be a single volume in a two-volume set, along with ''[[The Silmarillion]]''.<ref name=\"tale\">{{cite web |last=Reynolds |first=Pat |url=http://www.tolkiensociety.org/wp-content/uploads/2014/03/LOTR-The-Tale-of-a-Text.pdf |title=The Lord of the Rings: The Tale of a Text |publisher=[[The Tolkien Society]] |access-date=24 October 2015 |url-status=dead |archive-url=https://web.archive.org/web/20160303231904/http://www.tolkiensociety.org/wp-content/uploads/2014/03/LOTR-The-Tale-of-a-Text.pdf |archive-date=3 March 2016}}</ref><ref group=T>{{harvnb|Carpenter|2023|loc=letter #126 to Milton Waldman (draft), 10 March 1950 }}</ref> For economic reasons, it was first published over the course of a year, from 29 July 1954 to 20 October 1955, [[three-volume novel|in three volumes]] rather than one,<ref name=\"tale\"/><ref>{{cite web |url=https://www.bbc.co.uk/dna/h2g2/A672022 |title=The Life and Works for JRR Tolkien |publisher=[[BBC]] |date=7 February 2002 |access-date=4 December 2010 |url-status=dead |archive-url=https://web.archive.org/web/20101101074147/http://www.bbc.co.uk/dna/h2g2/A672022 |archive-date=1 November 2010}}</ref> under the titles ''[[The Fellowship of the Ring]]'', ''[[The Two Towers]]'', and ''[[The Return of the King]]''; ''The Silmarillion'' appeared only after Tolkien's death. The work is divided internally into six books, two per volume, with several appendices of chronologies, genealogies, and linguistic information.{{efn|'''Volume I:''' Prologue, ''The Ring Sets Out'', ''The Ring Goes South''; '''Volume II:''' ''The Treason of Isengard'', ''The Ring Goes East''; '''Volume III:''' ''The War of the Ring'', ''The End of the Third Age'', Appendices A–F.}} These three volumes were later published as a [[Box set|boxed set]] in 1957, and finally as a single volume in 1968, following Tolkien's original intent. \n\nAfter an initial mixed [[Reception of J. R. R. Tolkien|reception]] by the literary establishment, ''The Lord of the Rings'' has been the subject of [[Themes of The Lord of the Rings|extensive analysis of its themes]], [[Literary devices in The Lord of the Rings|literary devices]], and origins. It is considered one of the most influential fantasy books ever written, and has helped to create and shape the modern fantasy genre. Since release, it has been reprinted many times and [[translations of The Lord of the Rings|translated into at least 38 languages]].{{efn|name=languages|At least 38 languages are listed at the [https://web.archive.org/web/20070530043707/http://www.tolkien.co.uk/faq3.aspx FAQ]. This number is a very conservative estimate; some 56 translations are listed at [[translations of The Lord of the Rings|translations of ''The Lord of the Rings'']], and 57 languages <!--70 including translations of ''The Hobbit''--> are listed at [http://www.elrondslibrary.fr/ Elrond's Library].}} Its enduring popularity has led to numerous references in popular culture, the founding of many societies by [[Tolkien fandom|fans of Tolkien's works]],<ref>{{cite news |last=Gilsdorf |first=Ethan |url=http://travel.nytimes.com/2007/03/23/travel/escapes/23Ahead.html |title=Elvish Impersonators |newspaper=[[The New York Times]] |date=23 March 2007 |access-date=3 April 2007 |url-status=live |archive-url=https://web.archive.org/web/20071205101604/http://travel.nytimes.com/2007/03/23/travel/escapes/23Ahead.html |archive-date=5 December 2007}}</ref> and the publication of many books about Tolkien and his works. It has [[Works inspired by J. R. R. Tolkien|inspired many derivative works]], including paintings, music, [[Middle-earth in film|films]], television, [[Middle-earth in video games|video games]], and board games. Award-winning [[Adaptations of The Lord of the Rings|adaptations of ''The Lord of the Rings'']] have been made for [[The Lord of the Rings (1981 radio series)|radio]], [[The Lord of the Rings (musical)|theatre]], and [[The Lord of the Rings (film series)|film]]. It was named Britain's best-loved novel of all time in a 2003 poll by the [[British Broadcasting Corporation|BBC]] called [[The Big Read]].\n{{TOC limit|3}}\n\n== Plot ==\n\n{{anchor|Plot summary}}<!--This is shared! Please don't change without discussion-->\n\n=== ''The Fellowship of the Ring'' ===\n\n{{further|The Fellowship of the Ring#Contents}}\n\n[[File:One Ring Blender Render.png|thumb|upright=0.6|[[Gandalf]] proves that [[Frodo Baggins|Frodo]]'s Ring is the [[One Ring]] by throwing it into Frodo's fireplace, revealing the hidden text of the [[Rhyme of the Rings]].|alt=A three-dimensional rendering of a gold ring. The inside and outside of the band blaze with Tengwar.]]\n\n[[Bilbo Baggins]] celebrates his birthday and leaves the Ring to [[Frodo Baggins|Frodo]], his cousin<!--whom he called his \"nephew\": actually both first and second cousin--> and adopted heir.<!--1.1--> [[Gandalf]] (a [[Wizard (Middle-earth)|wizard]]) suspects it is a [[Rings of Power|Ring of Power]]; seventeen years later, he confirms it is the One Ring, lost by the Dark Lord [[Sauron]], and counsels Frodo to take it away from the Shire.<!--1.2--> Gandalf leaves, promising to return, but fails to do so. Frodo sets out on foot with his cousin [[Pippin Took]] and gardener [[Sam Gamgee]]. They are pursued by [[Nazgûl|Black Riders]], but meet some [[Elves (Middle-Earth)|Elves]], whose singing to [[Elbereth]] wards off the Riders. The Hobbits<!--1.3--> take an evasive shortcut to Bucklebury Ferry, where they meet their friend [[Merry Brandybuck]].<!--1.4--> Merry and Pippin reveal they know about the Ring and insist on joining Frodo on his journey.<!--1.5--> They try to shake off the Black Riders by cutting through the [[Old Forest]]. Merry and Pippin are trapped by the malign [[Old Man Willow]], but are rescued by [[Tom Bombadil]].<!--1.6, 1.7--> Leaving Tom's house, they are caught by a [[barrow-wight]]. Frodo, awakening from the barrow-wight's spell, calls Tom Bombadil, who frees them and gives them ancient swords from the wight's hoard.<!--1.8--> \nThe Hobbits reach the village of [[Bree (Middle-earth)|Bree]], where they meet [[Aragorn|Strider]], a [[Dunedain#Rangers of the North|Ranger]].<!--1.9--> The innkeeper gives Frodo an old letter from Gandalf, which identifies Strider as a friend. Knowing the Black Riders will attempt to seize the Ring, Strider guides the group toward the [[Elf (Middle-earth)|Elvish]] sanctuary of [[Rivendell]].<!--1.10--> At [[Weathertop]], they are attacked by five Black Riders. Their leader wounds Frodo with a cursed blade.<!--1.11--> Strider fights them off and treats Frodo with the herb ''athelas''. They are joined by the Elf [[Glorfindel]], who rides with Frodo, now deathly ill, towards Rivendell. The Black Riders pursue Frodo into the Ford of Bruinen, where they are swept away by flood waters summoned by [[Elrond]].<!--1.12-->\n\n<!--Book II: The Ring Goes South-->\n{{anchor|Company of the Ring|Fellowship of the Ring|The Council of Elrond}}\nFrodo recovers in Rivendell under Elrond's care.<!--2.1--> Gandalf informs Frodo that the Black Riders are the [[Nazgûl]], Men enslaved by Rings of Power to serve Sauron. [[The Council of Elrond]] discusses what to do with the Ring. Strider is revealed to be Aragorn, the heir of [[Isildur]] who had cut the Ring from Sauron's hand in the Second Age, but claimed it for himself. The Ring was lost when Isildur was killed; it passed to [[Gollum]] and then to Bilbo. Gandalf reports that the chief wizard, [[Saruman]], is a traitor.\n{{anchor|Members}} \nThe Council decides that the Ring must be destroyed in the fire of [[Mount Doom]] in [[Mordor]], where it was forged. Frodo takes this task upon himself.<!--2.2--> Elrond chooses companions for him: Sam, Merry, and Pippin; Gandalf; the Men Aragorn and [[Boromir]], son of the [[Stewards of Gondor|Steward of Gondor]]; the Elf [[Legolas]]; and the [[Dwarf (Middle-earth)|Dwarf]] [[Gimli (Middle-earth)|Gimli]], representing the Free Peoples of the West.<!--2.3-->\nAfter a failed attempt to cross the [[Misty Mountains]], the Fellowship risk the path through the [[Moria (Middle-earth)|Mines of Moria]]. They learn that [[Balin (Middle-earth)|Balin]] and his Dwarves, who had attempted to regain possession of Moria, were killed by [[Orc (Middle-earth)|Orcs]].<!--2.4--> They are attacked by Orcs and a [[Balrog]], a fire demon. Gandalf confronts the Balrog: both fall into an abyss.<!--2.5--> The others escape to the [[Time in The Lord of the Rings|Elvish forest]] of [[Lothlórien]],<!--2.6--> where the Lady [[Galadriel]] tests their loyalty, and gives them magical gifts. She allows Frodo and Sam to look into her vision-giving fountain, the Mirror of Galadriel. Frodo offers her the Ring: she refuses, knowing that it would master her.<!--2.7--><!--2.7-->\nGaladriel's husband Celeborn gives the Fellowship boats, cloaks, and waybread. They travel down the [[River Anduin]].<!--2.8, 2.9--> At Amon Hen, Boromir tries to take the Ring, but Frodo puts on the Ring and disappears. Frodo chooses to cross the river and go alone to Mordor, but Sam, guessing what he intends, intercepts and joins him.<!--2.10-->\n\n=== ''The Two Towers'' ===\n\n{{further|The Two Towers#Contents}}\n\n<!--=== Book III: The Treason of Isengard ===-->\nA party of Orcs sent by [[Saruman]] and [[Sauron]] attack the Fellowship. Boromir tries to protect Merry and Pippin from the Orcs, but they kill him and capture the two Hobbits.<!--3.1--> Aragorn, Gimli and Legolas decide to pursue the Orcs.<!--3.3--> The Orcs are killed by [[Rohan (Middle-earth)#People|Riders of Rohan]], led by [[Éomer]].<!--3.2--> The Hobbits escape into [[Fangorn]] Forest, where they are befriended by the [[Ent]] [[Treebeard]].<!--3.4--> Aragorn, Gimli, and Legolas track the hobbits to Fangorn, where they meet Gandalf:<!--3.5--> he explains that he killed the Balrog; he too was killed in the fight, but was sent back to Middle-earth. He is now Gandalf the White, replacing Saruman as chief of the wizards.<!--3.5--> They ride to [[Edoras]], capital of Rohan. Gandalf frees King [[Théoden]] from the influence of Saruman's spy [[Gríma Wormtongue]]. Théoden musters his army and rides to the fortress of [[Helm's Deep]]; Gandalf departs to seek help from Treebeard.<!--3.6--> The Ents destroy [[Isengard]], Saruman's stronghold, and flood it, trapping the wizard in the tower of [[Orthanc]].<!--3.9--> Gandalf convinces Treebeard to send an army of [[Huorn]]s to Théoden's aid. He brings an army of Riders of Rohan to Helm's Deep. They defeat the Orcs, who flee into the forest of Huorns and are destroyed.<!--3.7--> Gandalf, Théoden, Aragorn, Legolas, and Gimli ride to Isengard, where they find Merry and Pippin relaxing amidst the ruins.<!--3.8--> Gandalf offers Saruman a chance to turn away from evil. When Saruman refuses, Gandalf strips him of his rank and most of his powers.<!--3.10--> Wormtongue throws down a hard round object to try to kill Gandalf. Pippin picks it up; Gandalf swiftly takes it, but Pippin steals it in the night. It is a ''[[palantír]]'', a seeing-stone that Saruman used to speak with Sauron, becoming ensnared. Sauron sees Pippin, but misunderstands the circumstances. Gandalf rides for [[Minas Tirith]], chief city of [[Gondor]], taking Pippin with him.<!--3.11-->\n\n<!--=== Book IV: The Ring Goes East ===--->\nFrodo and Sam struggle through the barren hills of the [[Emyn Muil]]. They realize they are being tracked; on a moonlit night they capture Gollum, who has followed them from Moria. Frodo makes Gollum swear to serve him, as Ringbearer, and asks him to guide them to Mordor.<!--4.1--> Gollum leads them across the [[Dead Marshes]]. Sam overhears Gollum debating with his alter ego, Sméagol, whether to steal the Ring.<!--4.2-->\nThe [[Black Gate (Middle-earth)|Black Gate]] of Mordor is too well guarded, so they travel south through [[Ithilien]] to a secret pass that Gollum knows.<!--4.3, 4.4--> They are captured by rangers led by [[Faramir]], Boromir's brother, and brought to the secret fastness of [[Henneth Annûn]]. Faramir resists the temptation to seize the Ring and, disobeying orders to arrest strangers, releases them.<!--4.5--> Gollum guides the hobbits to the pass,<!--4.6, 4.7--> but leads them into the lair of the great spider [[Shelob]] in the tunnels of [[Cirith Ungol]].<!--4.8, (4.9)--> Frodo holds up his gift, the [[Phial of Galadriel]], which holds the [[Christianity in Middle-earth#Light|light]] of [[Eärendil]]'s star: it drives Shelob back. Frodo cuts through a giant web using his sword [[Sting (sword)|Sting]]. Shelob attacks again, and Frodo falls to her venom.<!--4.9--> Sam picks up Sting and the [[The Phial of Galadriel|Phial]]. He wounds the monster. Believing Frodo to be dead, a devastated Sam takes the Ring to continue the quest alone. Orcs take Frodo; Sam overhears them saying that Frodo is still alive, and sets out to rescue him.<!--4.10-->\n\n=== ''The Return of the King'' ===\n\n{{further|The Return of the King#Contents}}\n\n<!--=== Book V: The War of the Ring ===-->\nSauron sends a great army against [[Gondor]]. Gandalf arrives at [[Minas Tirith]] to warn [[Denethor]] of the attack,<!--5.1--> while Théoden musters the Riders of Rohan to go to Gondor's aid.<!--5.3--> Minas Tirith is besieged; the Lord of the Nazgûl uses a spell-wound [[battering ram]] to destroy the city's gates.<!--5.4--> Denethor, deceived by Sauron, falls into despair. He burns himself alive on a pyre; Pippin and Gandalf rescue his son Faramir from the same fate.<!--5.7--> Aragorn, accompanied by Legolas, Gimli, and the [[Rangers of the North]], takes the [[Paths of the Dead]] to recruit the Dead Men of Dunharrow, oathbreakers who will have no rest until they fight for the King of Gondor.<!--5.2--> Aragorn unleashes the Army of the Dead on the [[Corsairs of Umbar]] invading southern Gondor. He and men of southern Gondor sail in the Corsairs' ships up the [[Geography of Middle-earth#Rhovanion|Anduin]],<!--5.9--> reaching Minas Tirith just in time to turn the tide of battle.<!--5.5--> Théoden's niece [[Éowyn]], who joined the army in disguise,<!--5.3--> kills the Lord of the Nazgûl with help from Merry; both are wounded. Gondor and Rohan defeat Sauron's army in the [[Battle of the Pelennor Fields]], but Théoden is killed.<!--5.6--> Aragorn enters Minas Tirith and heals the sick.<!--5.8--> He leads an army through Ithilien to the Black Gate to distract Sauron from his true danger.<!--5.9--> At the [[Battle of the Morannon]], his army is vastly outnumbered.<!--5.10-->\n\n<!--=== Book VI: The End of the Third Age ===-->\nSam rescues Frodo from the tower of Cirith Ungol.<!--6.1--> They set out across Mordor.<!--6.2--> When they reach the edge of the [[Cracks of Doom]], Frodo cannot resist the Ring any longer: he claims it for himself and puts it on.<!--6.3--> Gollum reappears. He bites off Frodo's Ring finger. Celebrating wildly, Gollum loses his footing and falls into the Fire, taking the Ring with him.<!--6.3--> When the Ring is destroyed, Sauron loses his power. All he created collapses, the Nazgûl perish, Aragorn wins the battle of the Morannon, and the [[Eagles in Middle-earth|Eagles]] rescue Frodo and Sam from the ruin of Mount Doom.<!--6.4--> Aragorn is crowned King, and weds [[Arwen]], Elrond's daughter.<!--6.5--> Théoden is buried; Éomer is crowned King of Rohan. His sister Éowyn is engaged to Faramir, now Steward of Gondor and Prince of Ithilien. Galadriel, Celeborn, and Gandalf say farewell to Treebeard, and to Aragorn.<!--6.6--> The four hobbits travel home,<!--6.7--> only to find it has been taken over by Saruman's men. Merry raises a rebellion and [[The Scouring of the Shire|scours the Shire]]. Saruman reveals crimes that Wormtongue has done, causing Wormtongue to turn on Saruman and kill him in front of [[Bag End]], Frodo's home. Wormtongue then is killed by hobbit archers.<!--6.8--> Merry and Pippin are celebrated as heroes. Sam marries Rosie Cotton and uses his gifts to heal the Shire. Frodo, broken by the quest, leaves a few years later, sailing from the [[Grey Havens]] over the Sea to find peace.<!--6.9-->\n\nExtensive appendices outline more details of the history, cultures, [[Tolkien's Middle-earth family trees|genealogies]], and [[Languages constructed by Tolkien|languages]] that Tolkien imagined for the peoples of Middle-earth. [[Tolkien and antiquarianism|In antiquarian style]],<ref name=\"Groom 2020\">{{cite book |last=Groom |first=Nick |author-link=Nick Groom |chapter=The English Literary Tradition: Shakespeare to the Gothic |chapter-url=https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118517468.ch20 |editor-last=Lee |editor-first=Stuart D. |editor-link=Stuart D. Lee |title=A Companion to J. R. R. Tolkien |date=2020 |orig-year=2014 |publisher=[[Wiley Blackwell]] |isbn=978-1119656029 |oclc=1183854105 |pages=286–302 |doi=10.1002/9781118517468.ch20 }}</ref> they provide background details for the narrative, with much detail for Tolkien fans who want to know more about the stories.\n\n=== Frame story ===\n\n{{further|Tolkien's frame stories}}\n\nTolkien presents ''The Lord of the Rings'' within a fictional [[frame story]] where he is not the original author, but merely the translator of part of an ancient document, the ''[[Red Book of Westmarch]]''.<ref name=\"Hooker\">{{cite book |last=Hooker |first=Mark T. |chapter=The Feigned-manuscript Topos |title=A Tolkienian Mathomium: a collection of articles on J. R. R. Tolkien and his legendarium |publisher=Llyfrawr |year=2006 |pages=176–177 |isbn=978-1-4382-4631-4}}</ref> That book is modelled on the real ''[[Red Book of Hergest]]'', which similarly presents an older mythology. Various details of the frame story appear in the Prologue, its \"Note on [[The Shire|Shire]] Records\", and in the Appendices, notably Appendix F. In this frame story, the ''Red Book'' is the purported source of Tolkien's other works relating to [[Middle-earth]]: ''[[The Hobbit]]'', ''[[The Silmarillion]]'', and ''[[The Adventures of Tom Bombadil]]''.<ref name=\"Bowman 2006\">{{cite journal |last=Bowman |first=Mary R. |title=The Story Was Already Written: Narrative Theory in \"The Lord of the Rings\" |journal=Narrative |date=October 2006 |volume=14 |issue=3 |pages=272–293 |jstor=20107391 |quote=the frame of the Red Book of Westmarch, which becomes one of the major structural devices Tolkien uses to invite meta-fictional reflection... He claims, in essence, that the story ''was'' already written... |doi=10.1353/nar.2006.0010|s2cid=162244172  | issn=1063-3685 }}</ref>\n\n== Concept and creation ==\n\n=== Background ===\n\n{{further|Tolkien's legendarium}}\n\nAlthough a major work in itself, ''The Lord of the Rings'' was only the last movement of a much older set of narratives Tolkien had worked on since 1917 encompassing ''The Silmarillion'',<ref name=\"Doughan 2006\">{{cite web |last=Doughan |first=David |url=http://www.tolkiensociety.org/tolkien/biography.html |title=J. R. R. Tolkien: A Biographical Sketch |publisher=TolkienSociety.org |access-date=16 June 2006|url-status=live |archive-url=https://web.archive.org/web/20060303050751/http://www.tolkiensociety.org/tolkien/biography.html |archive-date=3 March 2006}}</ref> in a process he described as ''[[mythopoeia]]''.{{refn|Tolkien created the word to define a different view of myth from C. S. Lewis's \"lies breathed through silver\", writing the poem \"[[Mythopoeia (poem)|Mythopoeia]]\" to present his argument; it was first published in ''[[Tree and Leaf]]'' in 1988.<ref name=HammondScull620>{{cite book |last1=Hammond |first1=Wayne G. |author-link=Wayne G. Hammond |last2=Scull |first2=Christina |author2-link=Christina Scull |year=2006 |title=The J. R. R. Tolkien Companion and Guide: II. Reader's Guide |title-link=The J. R. R. Tolkien Companion and Guide |publisher=[[HarperCollins]] |pages=620–622 |isbn=978-0-00-821453-1}}</ref>|group=lower-alpha}}\n\n''The Lord of the Rings'' started as a sequel to Tolkien's work ''[[The Hobbit]]'', published in 1937.<ref name=\"genesis\">{{harvnb|Carpenter|1977|pp=187–208}}</ref> The popularity of ''The Hobbit'' led George Allen & Unwin, the publishers, to request a sequel. Tolkien warned them that he wrote quite slowly, and responded with several stories he had already developed. Having rejected his contemporary drafts for ''[[The Silmarillion]]'', putting ''[[Roverandom]]'' on hold, and accepting ''[[Farmer Giles of Ham]]'', Allen & Unwin continued to ask for more stories about [[hobbit]]s.{{sfn|Carpenter|1977|p=195}}\n\n=== Writing ===\n\n{{main|Constructing The Lord of the Rings}}\n\n{{Tolkien's legendarium|upright=1.55|caption=Navigable diagram of [[Tolkien's legendarium]]. ''The Lord of the Rings'' began as a sequel to ''The Hobbit'' but gradually took in elements of the legendarium, the mythology summarized in ''[[The Silmarillion]]''.}}\n\nPersuaded by his publishers, he started \"a new Hobbit\" in December 1937.<ref name=\"genesis\"/> After several false starts, the story of the One Ring emerged. The idea for the first chapter (\"A Long-Expected Party\") arrived fully formed, although the reasons behind Bilbo's disappearance, the significance of the Ring, and the title ''The Lord of the Rings'' did not come until the spring of 1938.<ref name=\"genesis\"/> Originally, he planned to write a story in which Bilbo had used up all his treasure and was looking for another adventure to gain more; however, he remembered the Ring and its powers and thought that would be a better focus for the new work.<ref name=\"genesis\"/> As the story progressed, he brought in elements from ''[[The Silmarillion]]'' mythology<!-- such as \"Sam Gamgee's allusions to the Silmaril and the Iron Crown\" [of Morgoth]-->.<ref name=\"Shippey 2005 critics\"/>\n\nWriting was slow because Tolkien had a full-time academic position, marked exams to bring in a little extra income, and wrote many drafts.<ref name=\"genesis\"/><ref group=T>{{harvnb|Carpenter|2023|loc=letter #17 to [[Stanley Unwin (publisher)|Stanley Unwin]], 15 October 1937 }}</ref> Tolkien abandoned ''The Lord of the Rings'' during most of 1943 and only restarted it in April 1944,<ref name=\"genesis\"/> as a serial for his son [[Christopher Tolkien]], who was sent chapters as they were written while he was serving in South Africa with the [[Royal Air Force]]. Tolkien made another major effort in 1946 and showed the manuscript to his publishers in 1947.<ref name=\"genesis\" /> The story was effectively finished the next year, but Tolkien did not complete the revision of earlier parts of the work until 1949.<ref name=\"genesis\"/> The original manuscripts, which total 9,250 pages, now reside in the J. R. R. Tolkien Collection at [[Marquette University]].<ref>{{cite web |url=http://www.marquette.edu/library/archives/tolkien.shtml#original |title=J. R. R. Tolkien Collection: Marquette Archives |publisher=Raynor Memorial Libraries {{!}} Marquette University |url-status=live |archive-url=https://web.archive.org/web/20131219041430/http://www.marquette.edu/library/archives/tolkien.shtml#original |archive-date=19 December 2013 }}</ref>\n\n=== Poetry ===\n\n{{Main|Poetry in The Lord of the Rings|l1=Poetry in ''The Lord of the Rings''}}\n\nUnusually for 20th century novels, the prose narrative is supplemented throughout by [[Poetry in The Lord of the Rings|over 60 pieces of poetry]]. These include verse and songs of many genres: for wandering, [[Marching song|marching to war]], [[Drinking song|drinking]], and having a bath; narrating ancient myths, [[riddle]]s, [[Prophecy|prophecies]], and magical incantations; and of praise and lament ([[elegy]]).<ref name=\"Kullmann 2013\"/> Some, such as riddles, charms, elegies, and narrating heroic actions are found in [[Old English]] [[Old_English_literature#Poetry|poetry]].<ref name=\"Kullmann 2013\">{{cite journal |last=Kullmann |first=Thomas |title=Poetic Insertions in Tolkien's The Lord of the Rings |journal=[[Connotations: A Journal for Critical Debate]] |date=2013 |volume=23 |issue=2 |pages=283–309 |url=https://www.connotations.de/article/thomas-kullmann-poetic-insertions-in-tolkiens-the-lord-of-the-rings/ |access-date=15 May 2020 |archive-url=https://web.archive.org/web/20181108030807/http://www.connotations.de/article/thomas-kullmann-poetic-insertions-in-tolkiens-the-lord-of-the-rings/ |archive-date=8 November 2018 |url-status=live }}</ref> Scholars have stated that the poetry is essential for the fiction to work aesthetically and thematically, as it adds information not given in the prose, and it brings out characters and their backgrounds.<ref name=\"Higgins 2014\">{{cite journal |last=Higgins |first=Andrew |year=2014 |title=Tolkien's Poetry (2013), edited by Julian Eilmann and Allan Turner |journal=Journal of Tolkien Research |volume=1 |issue=1 |at=Article 4 |url=http://scholar.valpo.edu/journaloftolkienresearch/vol1/iss1/4 |access-date=15 May 2020 |archive-url=https://web.archive.org/web/20190801054309/https://scholar.valpo.edu/journaloftolkienresearch/vol1/iss1/4/ |archive-date=1 August 2019 |url-status=live }}</ref><ref name=\"Straubhaar 2005\">{{cite journal |last=Straubhaar |first=Sandra Ballif |author-link=Sandra Ballif Straubhaar |title=Gilraen's Linnod : Function, Genre, Prototypes |journal=Journal of Tolkien Studies |volume=2 |issue=1 |year=2005 |pages=235–244 |issn=1547-3163 |doi=10.1353/tks.2005.0032|s2cid=170378314 }}</ref> The poetry has been judged to be of high technical skill, reflected in Tolkien's prose; for instance, he wrote much of [[Tom Bombadil]]'s speech in metre.<ref name=\"Zimmer 1993\">{{cite journal |last=Zimmer |first=Paul Edwin |author-link=Paul Edwin Zimmer |year=1993 |title=Another Opinion of 'The Verse of J. R. R. Tolkien' |journal=[[Mythlore]] |volume=19 |issue=2 |at=Article 2 |url=https://dc.swosu.edu/mythlore/vol19/iss2/2}}</ref>\n\n=== Illustrations ===\n\n{{main|Non-narrative elements in The Lord of the Rings}}\n\n[[File:One Ring inscription.svg|thumb|right|upright=1.5|Tolkien's [[calligraphy]] of the [[Ring Verse]] was one of the few illustrations in the first edition. It is written in the [[Black Speech]] of [[Mordor]] using the [[Tengwar]] script.|alt=Two rows of Tengwar written in black on a white background.]]\n\nTolkien worked on the text using [[Tolkien's maps|his maps of Middle-earth]] as a guide, to ensure the elements of the story fitted together in time and space.<ref name=\"Letters Languages\" group=T>{{harvnb|Carpenter|2023|loc=letter #144 to [[Naomi Mitchison]], 25 April 1954 }}</ref> He prepared a variety of types of illustration – maps, calligraphy, drawings, cover designs, even a facsimile painting of the [[Book of Mazarbul]] – but only the maps, the inscription on the Ring, and a drawing of the [[Doors of Durin]] and the inscription on Balin's tomb were included in the first edition.<ref>{{cite encyclopedia |last=Holmes |first=John R. |editor-last=Drout |editor-first=Michael D. C. |editor-link=Michael D. C. Drout |title=Art and Illustrations by Tolkien |encyclopedia=[[The J. R. R. Tolkien Encyclopedia]] |year=2013 |orig-year=2007 |publisher=[[Routledge]] |isbn=978-0-415-86511-1 |pages=27–32}}</ref><ref name=\"Letter #141\" group=T>{{harvnb|Carpenter|2023|loc=letter #141 to Allen & Unwin, 9 October 1953 }}</ref>\n\nThe hardback editions sometimes had cover illustrations by Tolkien,{{efn|See the lead images in the articles on the three separate volumes, e.g. ''[[The Fellowship of the Ring]]''.}} sometimes by other artists. According to ''[[The New York Times]]'', [[Barbara Remington]]'s cover designs for [[Ballantine Books|Ballantine]]'s paperback editions \"achieved mass-cult status in the 1960s, particularly on college campuses\" across America.<ref name=\"Carmel 2020\">{{cite news |last=Carmel |first=Julia |title=Barbara Remington, Illustrator of Tolkien Book Covers, Dies at 90 |url=https://www.nytimes.com/2020/02/15/books/barbara-remington-dead.html |access-date=4 September 2020 |work=[[The New York Times]] |date=15 February 2020}}</ref>\n\n=== Influences ===\n{{Main|Influences on Tolkien}}\n[[File:Beowulf eotenas ylfe orcneas.jpg|thumb|upright=1.5|right|''[[Beowulf]]''{{'}}s {{lang|ang|eotenas ond<!--was [ond], indicating expansion of abbreviation with a handwritten symbol--> ylfe ond orcneas}}, \"ogres and elves and devil-corpses\" helped to inspire Tolkien to create the [[Orc]]s and [[Elf (Middle-earth)|Elves]] of [[Middle-earth]].<ref name=\"Shippey 2005 Beowulf\"/>|alt=Two lines of a weathered manuscript in Old English]]\n\nTolkien drew on [[J. R. R. Tolkien's influences|a wide array of influences]] including language,<ref group=T>{{harvnb|Tolkien|1997|pp=162–197 \"English and Welsh\"}}</ref> Christianity,<ref name=\"letters\" group=T>{{harvnb|Carpenter|2023|loc=letter #142 to Robert Murray, S. J., 2 December 1953 }}</ref> [[mythology]] and [[Germanic heroic legend]] including the Norse ''[[Völsunga saga]]'',<ref name=\"Lee Solopova 2005\">{{cite book |last1=Lee |first1=Stuart D. |author1-link=Stuart D. Lee |last2=Solopova |first2=Elizabeth |author2-link=Elizabeth Solopova |title=The Keys of Middle-earth: Discovering Medieval Literature Through the Fiction of J. R. R. Tolkien |title-link=The Keys of Middle-earth |date=2005 |publisher=Palgrave |isbn=978-1-4039-4671-3 |pages=124–125}}</ref> [[archaeology]], especially at the Temple of [[Nodens]],<ref name=\"Anger 2013\">{{cite encyclopedia |last=Anger |first=Don N. |editor-last=Drout |editor-first=Michael D. C. |editor-link=Michael D. C. Drout |title=Report on the Excavation of the Prehistoric, Roman and Post-Roman Site in Lydney Park, Gloucestershire |encyclopedia=[[The J. R. R. Tolkien Encyclopedia]] |year=2013 |orig-year=2007 |publisher=[[Routledge]] |isbn=978-0-415-86511-1 |pages=563–564}}</ref> ancient and modern literature, like Finnish 19th-century [[epic poetry]] ''[[Kalevala|The Kalevala]]'' by [[Elias Lönnrot]],<ref>{{cite book|author=Noble Smith|title=The Wisdom of the Shire: A Short Guide to a Long and Happy Life|chapter=Chapter 5: Dealing with \"the Big People\"|page=46|publisher=[[St. Martin's Press|St. Martin's Griffin]]|year=2013|isbn=978-1250038296}}</ref> and personal experience. He was inspired primarily by his profession, [[philology]];<ref group=T>{{harvnb|Carpenter|2023|loc=letter #165 to [[Houghton Mifflin]], 30 June 1955 }}</ref> his work centred on the study of [[Old English]] literature, especially ''[[Beowulf]]'', and he acknowledged [[Beowulf in Middle-earth|its importance to his writings]].<ref name=\"Shippey 2005 Beowulf\">{{cite book |last=Shippey |first=Tom |author-link=Tom Shippey |title=The Road to Middle-earth |date=2005 |edition=Third |orig-year=1982 |publisher=HarperCollins |isbn=978-0-261-10275-0 |pages=74, 169–170 and passim}}</ref>\nHe was a gifted linguist, influenced by Celtic,<ref name=\"Burns 2005\">{{cite book |last=Burns |first=Marjorie |author-link=Marjorie Burns |title=Perilous Realms: Celtic and Norse in Tolkien's Middle-earth |title-link=Perilous Realms |year=2005 |publisher=[[University of Toronto Press]] |isbn=978-0-8020-3806-7 |pages=13–29 and passim}}</ref><ref name=\"Lee Solopova 2005\"/> Finnish,<ref name=Kalevala>{{cite news |first=Brian |last=Handwerk |title=''Lord of the Rings'' Inspired by an Ancient Epic |url=http://news.nationalgeographic.com/news/2001/12/1219_tolkienroots.html |work=National Geographic News |publisher=[[National Geographic Society]] |pages=1–2 |date=1 March 2004 |access-date=4 October 2006 |url-status=dead |archive-url=https://web.archive.org/web/20060316192124/http://news.nationalgeographic.com/news/2001/12/1219_tolkienroots.html |archive-date=16 March 2006 }}</ref> Slavic,<ref>{{cite web |url=http://kuzmenko.org.ua/uk/tolkienslavic |first=Dmitry |last=Kuzmenko |title=Slavic echoes in the works of J. R. R. Tolkien |language=uk |access-date=6 November 2011 |url-status=dead |archive-url=https://web.archive.org/web/20120425143036/http://kuzmenko.org.ua/uk/tolkienslavic |archive-date=25 April 2012 }}</ref> and Greek language and mythology.<ref>{{Cite book |last=Stanton |first=Michael |title=Hobbits, Elves, and Wizards: Exploring the Wonders and Worlds of J. R. R. Tolkien's The Lord of the Rings |publisher=[[Palgrave Macmillan]] |year=2001 |page=18 |isbn=1-4039-6025-9}}</ref>\nCommentators have attempted to identify literary and topological antecedents for characters, places and events in Tolkien's writings; he acknowledged that he had enjoyed adventure stories by authors such as [[John Buchan]] and [[Rider Haggard]].<ref>{{Cite journal |last=Resnick |first=Henry |year=1967 |title=An Interview with Tolkien |journal=[[Niekas]] |pages=37–47}}</ref><ref name=\"Nelson 2013\">{{cite encyclopedia |last=Nelson |first=Dale |editor-last=Drout |editor-first=Michael D. C. |editor-link=Michael D. C. Drout |title=Literary Influences, Nineteenth and Twentieth Centuries |encyclopedia=[[The J. R. R. Tolkien Encyclopedia]] |year=2013 |orig-year=2007 |publisher=[[Routledge]] |isbn=978-0-415-86511-1 |pages=366–377}}</ref><ref name=\"Hooker 2011\">{{cite book |last=Hooker |first=Mark T. |editor-last=Fisher |editor-first=Jason |chapter=Reading John Buchan in Search of Tolkien |title=Tolkien and the Study of his Sources: Critical essays |publisher=[[McFarland & Company|McFarland]] |year=2011 |isbn=978-0-7864-6482-1 |oclc=731009810 |pages=162–192}}</ref> The [[Arts and Crafts]] polymath [[William Morris]] was a major influence,<ref group=T>{{harvnb|Carpenter|2023|loc=letter #19 to [[Stanley Unwin (publisher)|Stanley Unwin]], 31 December 1960 }}</ref> and Tolkien undoubtedly made use of some real place-names, such as Bag End, the name of his aunt's home.<ref>{{cite web |title=Lord of the Rings inspiration in the archives |url=https://www.explorethepast.co.uk/2013/05/lord-of-the-rings-inspiration-in-the-archives/ |website=Explore the Past (Worcestershire Historic Environment Record) |date=29 May 2013}}</ref>\nTolkien stated, too, that he had been influenced by his childhood experiences of the English countryside of [[Worcestershire]] near [[Sarehole Mill]], and its urbanization by the growth of [[Birmingham]],<ref group=T>{{harvnb|Carpenter|2023|loc=letter #178 to Allen & Unwin, 12 December 1955, and #303 to Nicholas Thomas, 6 May 1968 }}</ref> and his personal experience of [[Trench warfare|fighting in the trenches]] of the [[First World War]].<ref name=shellshocked>{{cite news |last=Livingston |first=Michael |title=The Shellshocked Hobbit: The First World War and Tolkien's Trauma of the Ring |url=http://www.thefreelibrary.com/The+shell-shocked+hobbit%3A+the+First+World+War+and+Tolkien's+trauma+of...-a0154698400 |work=[[Mythlore]] |publisher=Mythopoeic Society |pages=77–92 |year=2006 |access-date=3 June 2011 |archive-url=https://web.archive.org/web/20111223203526/http://www.thefreelibrary.com/The+shell-shocked+hobbit%3A+the+First+World+War+and+Tolkien%27s+trauma+of...-a0154698400 |archive-date=23 December 2011 |url-status=live }}</ref> Moreover, the militarization and industrialization inspired the character of Sauron and his forces. The Orcs represented the worst of it as workers that have been tortured and brutalized by the war and industry.<ref>{{Cite web|last=Ahmed|first=Ali Arslan|date=8 May 2020|title=How War Inspired JRR Tolkien To Write Lord Of The Rings|url=https://dankanator.com/62698/how-war-inspired-j-r-r-tolkien-write-lord-of-the-rings/|website=Dankanator}}</ref>\n\n=== Themes ===\n\n{{Main|Themes of The Lord of the Rings|l1=Themes of ''The Lord of the Rings''}}\n\nScholars and critics have identified [[Themes of The Lord of the Rings|many themes in the book]] with its [[Interlacing in The Lord of the Rings|complex interlaced narrative]], including a reversed [[quest]],<ref name=\"Campbell2010\">{{cite book |last=Campbell |first=Lori M. |title=Portals of Power: Magical Agency and Transformation in Literary Fantasy |url=https://books.google.com/books?id=rUl_kTyiTuAC&pg=PA161 |year=2010 |publisher=McFarland |isbn=978-0-7864-5655-0 |page=161}}</ref><ref name=\"Miller 1975\">{{cite book |last=West |first=Richard C. |author-link=Richard C. West |editor-last=Lobdell |editor-first=Jared |editor-link=Jared Lobdell |chapter=Narrative Pattern in 'The Fellowship of the Ring' |title=A Tolkien Compass |date=1975 |publisher=Open Court |isbn=978-0-87548-303-0 |page=96}}</ref> the struggle of [[good and evil]],<ref name=Flieger>{{cite book |last=Flieger |first=Verlyn |author-link=Verlyn Flieger |title=Splintered Light: Logos and Language in Tolkien's World |title-link=Splintered Light | edition=2nd |publisher=[[Kent State University Press]] |year=2002 | page=2 |isbn=978-0-87338-744-6}}</ref> [[The Tale of Aragorn and Arwen#Love and death|death and immortality]],<ref name=\"Hannon 2004\">{{cite journal |last=Hannon |first=Patrice |title=The Lord of the Rings as Elegy |journal=[[Mythlore]] |date=2004 |volume=24 |issue=2 |pages=36–42 |url=https://dc.swosu.edu/mythlore/vol24/iss2/4/}}</ref> fate and free will,<ref name=\"Understanding The Lord of the Rings\">{{cite book |last=Spacks |first=Patricia Meyer |chapter=[[Understanding The Lord of the Rings|Power and Meaning in 'The Lord of the Rings']] |editor1=Isaacs, Neil David |editor2=Zimbardo, Rose A. |editor2-link=Rose Zimbardo |title=Understanding The Lord of the Rings: The Best of Tolkien Criticism |year=2005 |publisher=[[Houghton Mifflin]] |isbn=978-0-618-42253-1 |pages=58–64}}</ref> [[Addiction to power in The Lord of the Rings|the addictive danger of power]],<ref>{{cite book |last1=Perkins |first1=Agnes |last2=Hill |first2=Helen |editor-last=Lobdell |editor-first=Jared |editor-link=Jared Lobdell |chapter=The Corruption of Power |title=A Tolkien Compass | title-link= A Tolkien Compass |date=1975 |publisher=Open Court |isbn=978-0-87548-303-0 |pages=57–68}}</ref> and various aspects of Christianity such as the presence of three Christ figures, for [[Threefold office|prophet, priest, and king]], as well as elements like hope and [[redemptive suffering]].<ref name=\"Kreeft 2005\">{{cite web |last=Kreeft |first=Peter J. |author-link=Peter Kreeft |url=http://www.ignatiusinsight.com/features2005/pkreeft_christlotr_nov05.asp |title=The Presence of Christ in The Lord of the Rings |work=Ignatius Insight |date=November 2005 |access-date=2 August 2020 |archive-date=24 November 2005 |archive-url=https://web.archive.org/web/20051124173906/http://www.ignatiusinsight.com/features2005/pkreeft_christlotr_nov05.asp |url-status=dead }}</ref><ref>{{cite book |url=https://books.google.com/books?id=32FODDQdKLIC&q=Tolkien+Frodo+Christ&pg=PA33 |title=The Ring and the Cross: Christianity and the Lord of the Rings |editor-first=Paul E. |editor-last=Kerry |first=Paul E. |last=Kerry |pages=32–34 |publisher=Fairleigh Dickinson |year=2010 |isbn=978-1-61147-065-9}}</ref><ref>{{cite web |last1=Schultz |first1=Forrest W. |title=Christian Typologies in The Lord of the Rings |url=https://chalcedon.edu/magazine/christian-typologies-in-the-lord-of-the-rings |publisher=Chalcedon |access-date=26 March 2020 |date=1 December 2002}}</ref><ref>{{cite web |last=Williams |first=Stan |title=20 Ways 'The Lord of the Rings' Is Both Christian and Catholic |website=Catholic Education Resource Center |url=http://www.catholiceducation.org/articles/arts/al0160.html |access-date=20 December 2013 |url-status=dead |archive-url=https://web.archive.org/web/20131220231901/http://www.catholiceducation.org/articles/arts/al0160.html |archive-date=20 December 2013}}</ref>\nThere is a common theme throughout the work of [[Languages constructed by J. R. R. Tolkien#The Lord of the Rings|language]], [[Sound and language in Middle-earth|its sound]], and its relationship to peoples and places, along with hints of [[divine providence|providence]] in descriptions of weather and landscape.<ref>{{cite book |last=Shippey |first=Tom |author-link=Tom Shippey |title=The Road to Middle-earth |date=2005 |edition=Third |orig-year=1982 |publisher=HarperCollins |isbn=978-0-261-10275-0 |pages=129–133, 245–247}}</ref> Out of these, Tolkien stated that the central theme is death and immortality.<ref group=T>{{harvnb|Carpenter|2023|loc=letter #211 to Rhona Beare, 14 October 1958 }}</ref> To those who supposed that the book was an [[allegory]] of events in the 20th century, Tolkien replied in the foreword to the Second Edition that it was not, saying he preferred \"history, true or feigned, with its varied applicability to the thought and experience of readers.\"\n\nSome commentators have criticized the book for being a story about men for boys, with no significant women; for its setting in a purely rural world with no bearing on modern life in cities; for containing no sign of religion; or for racism. Other commentators have responded by noting that there are three [[Women in The Lord of the Rings|powerful women in the book]], Galadriel, Éowyn, and Arwen; that life, even in rural Hobbiton, is not idealized; that [[Christianity in Middle-earth|Christianity is a pervasive theme]]; and that [[Tolkien and race|Tolkien was sharply anti-racist]] both in peacetime and during the Second World War, while Middle-earth is evidently polycultural.<ref name=\"Wood 2003\">{{cite book |last=Wood |first=Ralph C. |author-link=Ralph C. Wood |title=The Gospel According to Tolkien |url=https://archive.org/details/gospelaccordingt00wood |url-access=registration |year=2003 |publisher=Westminster John Knox Press |isbn=978-0-664-23466-9 |pages=[https://archive.org/details/gospelaccordingt00wood/page/2 2]-4}}</ref><ref name=\"Rearick 2004\">{{cite journal |last=Rearick |first=Anderson |title=Why is the Only Good Orc a Dead Orc? The Dark Face of Racism Examined in Tolkien's World |journal=Modern Fiction Studies |date=2004 |volume=50 |issue=4 |pages=866–867 |doi=10.1353/mfs.2005.0008 |s2cid=162647975 }}</ref><ref name=\"Straubhaar 2004\">{{cite book |last=Straubhaar |first=Sandra Ballif |author-link=Sandra Ballif Straubhaar | editor-last=Chance | editor-first=Jane |editor-link=Jane Chance | chapter=Myth, Late Roman History, and Multiculturalism in Tolkien's Middle-earth |title=Tolkien and the Invention of Myth: A reader |title-link=Tolkien and the Invention of Myth |publisher=[[University Press of Kentucky]] |year=2004 |isbn=978-0-8131-2301-1 |pages=112–115}}</ref> Others have discussed the apparent or implicit [[sexuality in The Lord of the Rings|sexuality]] in the book.<ref>{{cite journal |last=Craig |first=David M. |title='Queer Lodgings': Gender and Sexuality in ''The Lord of the Rings'' |journal=[[Mallorn (journal)|Mallorn]] |issue=38 |date=2001 |pages=11–18 |jstor=45321703 }}</ref><ref>{{cite journal |last1=LaFontaine |first1=David |title=Sex and Subtext in Tolkien's World |journal=The Gay and Lesbian Review |issue=November–December 2015 |date=2015 |pages=14–17 |url=https://glreview.org/wp-content/uploads/Nov-Dec%20Digital%20Edition/files/assets/common/downloads/page0014.pdf}}</ref><ref>{{cite journal |last=Mendro |first=Hannah |title='Wondered at this Change': Queer Potential and Telling Silence in the Relationship of Legolas and Gimli |journal=[[Journal of Tolkien Research]] |date=2023 |volume=18 |issue=2 |page=Article 8 |url=https://scholar.valpo.edu/cgi/viewcontent.cgi?article=1374&context=journaloftolkienresearch}}</ref>\n\n== Publication history ==\n\nA dispute with his publisher, [[Allen & Unwin]], led Tolkien to offer the work to [[William Collins, Sons|William Collins]] in 1950. Tolkien intended ''[[The Silmarillion]]'' (itself largely unrevised at this point) to be published along with ''The Lord of the Rings,'' but [[Allen & Unwin]] was unwilling to do this. After [[Milton Waldman]], his contact at Collins, expressed the belief that ''The Lord of the Rings'' itself \"urgently wanted cutting\", Tolkien eventually demanded that they publish the book in 1952.{{sfn|Carpenter|1977|pp=211 ff.}} Collins did not; and so Tolkien wrote to [[Allen & Unwin]], telling that he would have gladly considered the publication of any part of the stuff, fearing his work would never see the light of day.<ref name=\"genesis\"/>\n\nFor publication, the work was [[Three-volume novel|divided into three volumes]] to minimize any potential financial loss due to the high cost of type-setting and modest anticipated sales: ''[[The Fellowship of the Ring]]'' (Books I and II), ''[[The Two Towers]]'' (Books III and IV), and ''[[The Return of the King]]'' (Books V and VI, and six appendices).<ref>{{cite book |last=Unwin |first=Rayner |author-link=Rayner Unwin |title=George Allen & Unwin: A Remembrancer |publisher=Merlin Unwin Books |year=1999 |pages=97–99 |isbn=1-873674-37-6}}</ref> Delays in producing appendices, [[Tolkien's maps|maps]] and especially an index led to the volumes being published later than originally hoped – on 29 July 1954, on 11 November 1954 and on 20 October 1955 respectively in the United Kingdom.{{sfn|Carpenter|1977|pp=220–221}} In the United States, [[Houghton Mifflin Harcourt|Houghton Mifflin]] published ''The Fellowship of the Ring'' on 21 October 1954, ''The Two Towers'' on 21 April 1955, and ''The Return of the King'' on 5 January 1956.<ref>The Fellowship of the Ring: Being the First Part of The Lord of the Rings (publication history) {{Cite book |url=https://books.google.com/books?id=aWZzLPhY4o0C&q=1954;+an+American+edition+followed+on+21+October+of+the+same+year,+of+Boston&pg=PT4 |title=The Fellowship of the Ring: Being the First Part of the Lord of the Rings |isbn=978-054795201-7 |access-date=16 September 2017 |archive-date=15 November 2017 |archive-url=https://web.archive.org/web/20171115130014/https://books.google.com/books?id=aWZzLPhY4o0C&pg=PT4&dq=1954;+an+American+edition+followed+on+21+October+of+the+same+year,+of+Boston&hl=no&sa=X&ved=0ahUKEwi7yN_4uMPUAhWkYZoKHYvsBRMQ6AEIJjAA |url-status=live |last1=Tolkien |first1=J. R. R. |date=15 February 2012 |publisher=HarperCollins }}</ref>\n\n''The Return of the King'' was especially delayed as Tolkien revised the ending and prepared appendices (some of which had to be left out because of space constraints). Tolkien did not like the title ''The Return of the King'', believing it gave away too much of the storyline, but deferred to his publisher's preference.<ref>\"From Book to Script\"'', The Lord of the Rings: The Fellowship of the Ring Appendices'' (DVD). [[New Line Cinema]]. 2002.</ref> Tolkien wrote that the title ''The Two Towers'' \"can be left ambiguous\",<ref name=\"TheLetters1981\" group=T>{{harvnb|Carpenter|2023|loc=letter #140 to [[Rayner Unwin]], 17 August 1953 }}</ref> but considered naming the two as [[Isengard#Orthanc tower|Orthanc]] and [[Barad-dûr]], [[Minas Tirith]] and Barad-dûr, or Orthanc and the [[Minor places in Middle-earth#Tower of Cirith Ungol|Tower of Cirith Ungol]].<ref group=T>{{harvnb|Carpenter|2023|loc=letter #143 to [[Rayner Unwin]], 22 January 1954 }}</ref> However, a month later he wrote a note published at the end of ''The Fellowship of the Ring'' and later drew a cover illustration, both of which identified the pair as [[Minas Morgul]] and Orthanc.<ref>{{harvnb|Tolkien|1954|loc=Book 2, ch. 10 \"The Breaking of the Fellowship\". Note at end: \"The second part is called ''The Two Towers'', since the events recounted in it are dominated by Orthanc, ..., and the fortress of Minas Morgul...\"}}</ref><ref>{{Cite web |url=http://images.harpercollins.co.uk/hcwebimages/hccovers/032800/032878-fc170.jpg |title=Tolkien's own cover design for ''The Two Towers'' |access-date=22 January 2020 |archive-url=https://web.archive.org/web/20160304065943/http://images.harpercollins.co.uk/hcwebimages/hccovers/032800/032878-fc170.jpg |archive-date=4 March 2016 |url-status=live}}</ref>\n\nTolkien was initially opposed to titles being given to each two-book volume, preferring instead the use of book titles: e.g. ''The Lord of the Rings'': Vol. 1, ''The Ring Sets Out'' and ''The Ring Goes South''; Vol. 2, ''The Treason of Isengard'' and ''The Ring Goes East''; Vol. 3, ''The War of the Ring'' and ''The End of the Third Age''. However, these individual book titles were dropped, and after pressure from his publishers, Tolkien suggested the volume titles: Vol. 1, ''The Shadow Grows''; Vol. 2, ''The Ring in the Shadow''; Vol. 3, ''The War of the Ring'' or ''The Return of the King''.<ref>{{harvnb|Carpenter|2023|loc=letter #137, #140, #143 all to [[Rayner Unwin]], his publisher, in 1953-4 }}</ref><ref>{{cite book |last=Tolkien |first=Christopher |author-link=Christopher Tolkien |title=The War of the Ring: The History of The Lord of the Rings |isbn=0-618-08359-6 |year=2000 |publisher=Houghton Mifflin}}</ref>\n\nBecause the three-volume binding was so widely distributed, the work is often referred to as the ''Lord of the Rings'' \"trilogy\". In a letter to the poet [[W. H. Auden]], who famously reviewed the final volume in 1956,<ref name=audenNYT>{{cite news |url=https://www.nytimes.com/1956/01/26/movies/LOTR-RETURN.html |title=At the End of the Quest, Victory: Book Review, \"The Return of the King\" |first=W. H. |last=Auden |author-link=W. H. Auden |date=26 January 1956 |newspaper=[[The New York Times]] |access-date=21 February 2020 |archive-url=https://web.archive.org/web/20160130224036/http://www.nytimes.com/1956/01/26/movies/LOTR-RETURN.html |archive-date=30 January 2016 |url-status=live }}</ref> Tolkien himself made use of the term \"trilogy\" for the work<ref group=T>{{harvnb|Carpenter|2023|loc=letter #163 to [[W. H. Auden]], 7 June 1955 }}</ref> though he did at other times consider this incorrect, as it was written and conceived as a single book.<ref group=T>{{harvnb|Carpenter|2023|loc=letter #149 to [[Rayner Unwin]], 9 September 1954 }}</ref> It is often called a novel; however, Tolkien objected to this term as he viewed it as a [[heroic romance]].<ref name=\"Letter 329\" group=T>{{harvnb|Carpenter|2023|loc=letter #239 to Peter Szabo Szentmihalyi, draft, October 1971 }}</ref>\n\nThe books were published under a profit-sharing arrangement, whereby Tolkien would not receive an advance or royalties until the books had broken even, after which he would take a large share of the profits.<ref>{{cite encyclopedia |last=Sturgis |first=Amy H. |author-link=Amy H. Sturgis |editor-last=Drout |editor-first=Michael D. C. |title=Publication History |encyclopedia=The J. R. R. Tolkien Encyclopedia |url=https://books.google.com/books?id=B0loOBA3ejIC&pg=PA385 |publisher=[[Routledge]] |year=2013 |orig-year=2007 |isbn=978-0-415-86511-1 |pages=385–390}}</ref> It has ultimately become one of the best-selling novels ever written<!--See Talk Page-there is no definitive list of best-selling novels-->, with at least 50 million copies sold by 2003<ref>{{cite news |last=Pate |first=Nancy |title=Lord of the Rings Films Work Magic on Tolkien Book Sales |url=https://www.sun-sentinel.com/news/fl-xpm-2003-08-20-0308190249-story.html |access-date=20 November 2018 |work=SunSentinel |date=20 August 2003 |archive-url=https://web.archive.org/web/20181120221205/https://www.sun-sentinel.com/news/fl-xpm-2003-08-20-0308190249-story.html |archive-date=20 November 2018 |url-status=live }}</ref> and over 150 million copies sold by 2007.<ref name=\"thestar\"/> The work was published in the UK by Allen & Unwin until 1990, when the publisher and its assets were acquired by [[HarperCollins]].<ref>{{cite news |title=Rayner Unwin |url=https://www.theguardian.com/news/2000/nov/27/guardianobituaries.books |newspaper=[[The Guardian]] |access-date=12 June 2010 |first=Anthony |last=Smith |date=27 November 2000 |archive-url=https://web.archive.org/web/20140508224252/http://www.theguardian.com/news/2000/nov/27/guardianobituaries.books |archive-date=8 May 2014 |url-status=live }}</ref><ref>{{cite book |last=Unwin |first=Rayner |author-link=Rayner Unwin |title=George Allen & Unwin: A Remembrancer |publisher=Merlin Unwin Books |year=1999 |pages=288 |isbn=1-873674-37-6}}</ref>\n\n=== Editions and revisions ===\n{{anchor|Ballantine}}\n\n[[File:Remington_Covers_for_Ballantine_Lord_of_the_Rings_1960s.jpg|thumb|upright=1.2|[[Barbara Remington]]'s cover illustrations for the [[Ballantine Books|Ballantine]] paperback version \"achieved mass-cult status\" on American college campuses in the 1960s.<ref name=\"Carmel 2020\"/> They were parodied by [[Michael K. Frith]]'s cover design for the 1969 ''[[Bored of the Rings]]''.<ref>{{cite web |url=http://ringlord.com/people/walrus/lotr/botr.html |title=Bored of the Rings |author=The World Wide Walrus |access-date=10 August 2011}}</ref><ref>{{cite web |url=http://www.isfdb.org/cgi-bin/title.cgi?528637 |title=Bibliography: Cover: Bored of the Rings |work=The Internet Speculative Fiction Database |access-date=10 August 2011}}</ref><!--Further discussion is in the 'Illustrations' section above; if you're moving this image, please move the {{anchor|Ballantine}} with it as well-->]]\n\nIn the early 1960s [[Donald A. Wollheim]], science fiction editor of the paperback publisher [[Ace Books]], claimed that ''The Lord of the Rings'' was not protected in the United States under [[Copyright law of the United States|American copyright law]] because Houghton Mifflin, the US hardcover publisher, had neglected to copyright the work in the United States.<ref>{{cite web |url=http://www.locusmag.com/2006/Issues/06Wollheim.html |title=Betsy Wollheim: The Family Trade |work=[[Locus Online]] |date=June 2006 |access-date=22 January 2011 |url-status=live |archive-url=https://web.archive.org/web/20110131234722/http://www.locusmag.com/2006/Issues/06Wollheim.html |archive-date=31 January 2011}}</ref><ref name=\"silver\">{{cite book |last=Silverberg |first=Robert |title=Reflections & Refractions: Thoughts on Science Fiction, Science, and Other Matters |publisher=Underwood |year=1997 |pages=253–256] |isbn=1-887424-22-9 |url=https://archive.org/details/reflectionsrefra00silv/page/253}}</ref> Then, in 1965, Ace Books proceeded to publish an edition, unauthorized by Tolkien and without paying [[royalties]] to him. Tolkien took issue with this and quickly notified his fans of this objection.<ref name=Ripp>{{cite web |title=Middle America Meets Middle-earth: American Publication and Discussion of J. R. R. Tolkien's Lord of the Rings |last=Ripp |first=Joseph |url=http://ils.unc.edu/MSpapers/2908.pdf |page=38 |url-status=live |archive-url=https://web.archive.org/web/20151105143951/http://ils.unc.edu/MSpapers/2908.pdf |archive-date=5 November 2015}}</ref> [[Grass-roots]] pressure from these fans became so great that Ace Books withdrew their edition and made a nominal payment to Tolkien.<ref name=reynolds>{{cite web |last=Reynolds |first=Pat |title=The Lord of the Rings: The Tale of a Text |publisher=[[The Tolkien Society]] |url=http://www.tolkiensociety.com/tolkien/tale.html |url-status=dead |archive-url=https://web.archive.org/web/20060908022929/http://www.tolkiensociety.com/tolkien/tale.html |archive-date=8 September 2006}}</ref><ref group=T>{{harvnb|Carpenter|2023|loc=letters #270, #273 and #277 }}</ref>\n\nAuthorized editions followed from [[Ballantine Books]] and [[Houghton Mifflin]] to tremendous commercial success. Tolkien undertook various textual revisions to produce a version of the book that would be published with his consent and establish an unquestioned US copyright. This text became the Second Edition of ''The Lord of the Rings'', published in 1965.<ref name=reynolds/> The first Ballantine paperback edition was printed in October that year, selling a quarter of a million copies within ten months. On 4 September 1966, the novel debuted on ''[[The New York Times]]''{{'}}s Paperback Bestsellers list as number three, and was number one by 4 December, a position it held for eight weeks.<ref>{{cite book |last=Bishop |first=Chris |title=Medievalist Comics and the American Century |date=25 August 2016 |url=https://books.google.com/books?id=01UDDQAAQBAJ&pg=PT98 |publisher=[[University Press of Mississippi]] |page=PT98 |isbn=978-1-4968-0851-6 |archive-url=https://web.archive.org/web/20171115130014/https://books.google.com/books?id=01UDDQAAQBAJ&pg=PT98 |url-status=dead |archive-date=15 November 2017}}</ref> Houghton Mifflin editions after 1994 consolidate variant revisions by Tolkien, and corrections supervised by [[Christopher Tolkien]], which resulted, after some initial glitches, in a computer-based unified text.<ref>\"Notes on the text\" pp. xi–xiii, [[Douglas A. Anderson]], in the 1994 HarperCollins edition of ''The Fellowship of the Ring.''</ref>\n\nIn 2004, for the 50th Anniversary Edition, [[Wayne G. Hammond]] and [[Christina Scull]], under supervision from Christopher Tolkien, studied and revised the text to eliminate as many errors and inconsistencies as possible, some of which had been introduced by well-meaning compositors of the first printing in 1954, and never been corrected.{{sfn|Hammond|Scull|2005|pp=xl–xliv}} The 2005 edition of the book contained further corrections noticed by the editors and submitted by readers. Yet more corrections were made in the 60th Anniversary Edition in 2014.<ref>{{cite web | url=https://wayneandchristina.wordpress.com/2014/12/21/lord-of-the-rings-comparison-2/ | title=Lord of the Rings Comparison | date=21 December 2014 | url-status=live | archive-url=https://web.archive.org/web/20171007220421/https://wayneandchristina.wordpress.com/2014/12/21/lord-of-the-rings-comparison-2/ | archive-date=7 October 2017 | df=dmy-all }}</ref> Several editions, including the 50th Anniversary Edition, print the whole work in one volume, with the result that pagination varies widely over the various editions.<ref name=\"50th Anniversary Edition\" group=T>{{cite book | last=Tolkien | first=J. R. R. | title=The Lord of the Rings 50th Anniversary Edition | publisher=HarperCollins | year=2004 | isbn=978-0-261-10320-7 }}</ref>\n\n===Posthumous publication of drafts===\n\nFrom 1988 to 1992 Christopher Tolkien published the surviving drafts of ''The Lord of the Rings'', chronicling and illuminating with commentary the stages of the text's development, in volumes 6–9 of his ''[[The History of Middle-earth|History of Middle-earth]]'' series. The four volumes carry the titles ''[[The Return of the Shadow]]'', ''[[The Treason of Isengard]]'', ''[[The War of the Ring]]'', and ''[[Sauron Defeated]]''.<ref>{{cite book |last=Tolkien |first=Christopher |author-link=Christopher Tolkien | title=[[The History of the Lord of the Rings]]: Box Set (The History of Middle-earth) | publisher=[[HarperCollins]] | year=2002 | orig-year=1988–1992 | isbn=978-0-261-10370-2 | oclc=43216229}}</ref>\n\n=== Translations ===\n\n{{further|Translating The Lord of the Rings|l1=Translating ''The Lord of the Rings''}}\n{{see also|List of translations of The Lord of the Rings|l1=List of translations of ''The Lord of the Rings''}}\n\nThe work has been translated, with varying degrees of success, into at least 38,{{efn|name=languages}} and reportedly at least 70, languages.<ref>{{cite web |url=http://www.elrondslibrary.fr/ |title=Elrond's Library – Translations of Tolkien all over the world |website=www.elrondslibrary.fr |access-date=28 September 2020 |archive-url=https://web.archive.org/web/20171201042343/http://www.elrondslibrary.fr/ |archive-date=1 December 2017 |url-status=live |quote=I have gathered in my library editions of these books in 70 languages}}</ref> Tolkien, an expert in [[philology]], examined many of these translations, and made comments on each that reflect both the translation process and his work. As he was unhappy with some choices made by early translators, such as the [[Translation of The Lord of the Rings into Swedish|Swedish translation]] by [[Åke Ohlmarks]],<ref group=T>{{harvnb|Carpenter|2023|loc=letters #228 and #229 to Allen & Unwin, 24 January 1961 and 23 February 1961 }}</ref> Tolkien wrote a \"[[Guide to the Names in The Lord of the Rings]]\" (1967). Because ''The Lord of the Rings'' purports to be a translation of the fictitious ''[[Red Book of Westmarch]]'', using the English language to represent the [[Westron]] of the \"original\", Tolkien suggested that translators attempt to capture the interplay between English and the invented nomenclature of the English work, and gave several examples along with general guidance.<ref>{{cite book |chapter=[[Guide to the Names in The Lord of the Rings]] |last=Lobdell |first=Jared |author-link=Jared Lobdell |title=[[A Tolkien Compass]] |date=1975 |publisher=[[Open Court Publishing Company|Open Court]] |isbn=978-0-87548-303-0 |pages=153–201}}</ref>{{sfn|Hammond|Scull|2005|pages=750-782}}\n\n== Reception ==\n\n{{Main|Literary reception of The Lord of the Rings|l1=Literary reception of ''The Lord of the Rings''}}\n\n=== 1950s ===\n\nEarly [[Reception of J. R. R. Tolkien|reviews of the work were mixed]]. The initial review in the ''[[Sunday Telegraph]]'' described it as \"among the greatest works of imaginative fiction of the twentieth century\".<ref name=Box>{{cite web |url=http://search.barnesandnoble.com/The-Lord-of-the-Rings-Boxed-Set/J-R-R-Tolkien/e/9780618260584#TABS |title=The Lord of the Rings Boxed Set (Lord of the Rings Trilogy Series) section: Editorial reviews |access-date=4 December 2010 |url-status=dead |archive-url=https://web.archive.org/web/20101210071507/http://search.barnesandnoble.com/The-Lord-of-the-Rings-Boxed-Set/J-R-R-Tolkien/e/9780618260584/#TABS |archive-date=10 December 2010 }}</ref> The ''[[The Sunday Times (UK)|Sunday Times]]'' echoed this sentiment, stating that \"the English-speaking world is divided into those who have read ''The Lord of the Rings'' and ''The Hobbit'' and those who are going to read them.\"<ref name=Box/> The ''[[New York Herald Tribune]]'' appeared to predict the books' popularity, writing in its review that they were \"destined to outlast our time\".<ref>{{cite web |url=http://search.barnesandnoble.com/booksearch/isbninquiry.asp?z=y&ean=9780345339706&displayonly=REV |title=From the Critics |access-date=30 May 2006 |url-status=dead |archive-url=https://web.archive.org/web/20070929155414/http://search.barnesandnoble.com/booksearch/isbninquiry.asp?z=y&ean=9780345339706&displayonly=REV |archive-date=29 September 2007}}</ref> [[W. H. Auden]], a former pupil of Tolkien's and an admirer of his writings, regarded ''The Lord of the Rings'' as a \"masterpiece\", further stating that in some cases it outdid the achievement of [[John Milton]]'s ''[[Paradise Lost]]''.<ref>{{cite news |url=https://www.nytimes.com/1956/01/22/books/tolkien-king.html |last=Auden |first=W. H. |author-link=W. H. Auden |title=At the End of the Quest, Victory |work=[[The New York Times]] |date=22 January 1956 |access-date=4 December 2010|url-status=live |archive-url=https://web.archive.org/web/20110220002634/http://www.nytimes.com/1956/01/22/books/tolkien-king.html |archive-date=20 February 2011}}</ref> Kenneth F. Slater wrote in [[Nebula Science Fiction]], April 1955, \"... if you don't read it, you have missed one of the finest books of its type ever to appear\".<ref>{{cite web |url=http://fancyclopedia.org/ken-slater |access-date=19 November 2019 |title=Ken Slater |archive-url=https://web.archive.org/web/20191030144502/http://fancyclopedia.org/ken-slater |archive-date=30 October 2019 |url-status=live }}</ref><ref>{{cite web |url=http://www.geocities.ws/linwood/SF/Nebula/KFS12.htm |access-date=19 November 2019 |title=Something to Read NSF 12}}</ref> On the other hand, in 1955, the Scottish poet [[Edwin Muir]] attacked ''[[The Return of the King]]'', writing that \"All the characters are boys masquerading as adult heroes ... and will never come to puberty ... Hardly one of them knows anything about women\", causing Tolkien to complain angrily to his publisher.<ref name=\"Lobdell 2013 in Drout\">{{Cite encyclopedia |year=2013 |title=Criticism of Tolkien, Twentieth Century |encyclopedia=[[J. R. R. Tolkien Encyclopedia]] |publisher=[[Routledge]] |last=Lobdell |first=Jared |author-link=Jared Lobdell |orig-year=2007 |editor-last=Drout |editor-first=Michael D. C. |pages=109–110 |isbn=978-0-415-96942-0}}</ref> In 1956, the [[literary critic]] [[Edmund Wilson]] wrote a review entitled \"Oo, Those Awful Orcs!\", calling Tolkien's work \"juvenile trash\", and saying \"Dr. Tolkien has little skill at narrative and no instinct for literary form.\"<ref name=\"Wilson 1956\">{{Cite web |last=Wilson |first=Edmund |author-link=Edmund Wilson |date=14 April 1956 |title=Oo, Those Awful Orcs! A review of The Fellowship of the Ring |work=[[The Nation]] |url=http://jrrvf.com/sda/critiques/The_Nation.html |access-date=1 September 2012}}</ref>\n\nWithin Tolkien's literary group, [[The Inklings]], the work had a mixed reception. [[Hugo Dyson]] complained loudly at its readings,<ref>{{cite video |people=Derek Bailey (Director) and [[Judi Dench]] (Narrator) |title=A Film Portrait of J. R. R. Tolkien |medium=Television documentary |publisher=Visual Corporation |year=1992}}</ref>{{efn|Dyson's actual comment, [[bowdlerized]] in the TV version, was \"Not another fucking Elf!\" {{cite web |last=Grovier |first=Kelly |url=https://www.theguardian.com/books/2007/apr/29/jrrtolkien.fiction |title=In the Name of the Father |work=[[The Observer]] |date=29 April 2007 |access-date=4 December 2010 |url-status=live |archive-url=https://web.archive.org/web/20131002212305/http://www.theguardian.com/books/2007/apr/29/jrrtolkien.fiction |archive-date=2 October 2013}} }} whereas [[C. S. Lewis]] had very different feelings, writing, \"here are beauties which pierce like swords or burn like cold iron. Here is a book which will break your heart.\"<ref name=\"Doughan 2006\"/> Lewis observed that the writing is rich, in that some of the 'good' characters have darker sides, and likewise some of the villains have \"good impulses\".<ref>C. S. Lewis, quoted in [[Christina Scull]] & [[Wayne G. Hammond|Wayne Hammond]] (2006), ''[[The J. R. R. Tolkien Companion and Guide]]'', HarperCollins, article 'The Lord of the Rings', § Reviews, p. 549; {{ISBN|978-0-618-39113-4}}</ref> Despite the mixed reviews and the lack of a paperback until the 1960s, ''The Lord of the Rings'' initially sold well in hardback.<ref name=\"Doughan 2006\"/>\n\n=== Later ===\n\n{{further|Tolkien's prose style|Literary hostility to J. R. R. Tolkien}}\n\nJudith Shulevitz, writing in ''[[The New York Times]]'', criticized the \"pedantry\" of [[Tolkien's style|Tolkien's literary style]], saying that he \"formulated a high-minded belief in the importance of his mission as a literary preservationist, which turns out to be death to literature itself\".<ref>{{cite news |last=Shulevitz |first=Judith |url=https://www.nytimes.com/books/01/04/22/bookend/bookend.html |title=Hobbits in Hollywood |work=[[The New York Times]] |date=22 April 2001 |access-date=13 May 2006 |url-status=live |archive-url=https://web.archive.org/web/20090409163022/http://www.nytimes.com/books/01/04/22/bookend/bookend.html |archive-date=9 April 2009}}</ref> The critic Richard Jenkyns, writing in ''[[The New Republic]]'', criticized the work for a lack of psychological depth. Both the characters and the work itself were, according to Jenkyns, \"anemic, and lacking in fibre\".<ref>{{cite magazine |last=Jenkyns |first=Richard |title=Bored of the Rings |magazine=[[The New Republic]] |date=28 January 2002 |url=http://www.tnr.com/article/bored-the-rings |access-date=13 February 2011}}</ref> The science fiction author [[David Brin]] interprets the work as holding unquestioning devotion to a traditional hierarchical social structure.<ref>{{cite web |last=Brin |first=David |url=http://www.davidbrin.com/tolkienarticle1.html |title=We Hobbits are a Merry Folk: an incautious and heretical re-appraisal of J. R. R. Tolkien |magazine=[[Salon Magazine]] |date=December 2002 |access-date=9 January 2006 |url-status=dead |archive-url=https://web.archive.org/web/20050226085336/http://www.davidbrin.com/tolkienarticle1.html |archive-date=26 February 2005}}</ref> In his essay \"[[Epic Pooh]]\", fantasy author [[Michael Moorcock]] critiques the world-view displayed by the book as deeply conservative, in both the \"[[paternalism]]\" of the narrative voice and the [[power structure]]s in the narrative.<ref>{{cite web |last=Moorcock |first=Michael |author-link=Michael Moorcock |url=http://www.revolutionsf.com/article.php?id=953 |title=Epic Pooh |access-date=27 January 2006 |url-status=live |archive-url=https://web.archive.org/web/20080324100956/http://www.revolutionsf.com/article.php?id=953 |archive-date=24 March 2008}}</ref> [[Tom Shippey]], like Tolkien an English philologist, notes the wide gulf between Tolkien's supporters, both popular and academic, and his literary detractors, and attempts to explain in detail both why the literary establishment disliked ''The Lord of the Rings'', and the work's subtlety, themes, and merits, including the [[Impression of depth in The Lord of the Rings|impression of depth]] that it conveys.<ref name=\"Shippey 2005 critics\">{{cite book |last=Shippey |first=Tom |author-link=Tom Shippey |title=The Road to Middle-earth |date=2005 |edition=Third |orig-year=1982 |publisher=HarperCollins |isbn=978-0-261-10275-0 |pages=1–6, 260–261, and passim}}</ref> The scholar of humanities [[Brian Rosebury]] analysed Tolkien's prose style in detail, showing that it was generally quite plain, varying to suit the voices of the different characters, and rising to a heroic register for special moments.<ref name=\"Rosebury 2003\">{{cite book |last=Rosebury |first=Brian |author-link=Brian Rosebury |title=[[Tolkien: A Cultural Phenomenon]] |date=2003 |orig-year=1992 |publisher=Palgrave |isbn=978-1403-91263-3 |pages=71–88}}</ref> The critic [[Patrick Curry]] cited the work's first publisher, [[Rayner Unwin]]'s \"pithy and accurate\" assessment of the novel: \"a very great book in its own curious way\".<ref name=\"Curry 2020\">{{cite book |last=Curry |first=Patrick |author-link=Patrick Curry |chapter=The Critical Response to Tolkien's Fiction |editor-last=Lee |editor-first=Stuart D. |editor-link=Stuart D. Lee |title=A Companion to J. R. R. Tolkien |date=2020 |orig-date=2014 |publisher=[[Wiley Blackwell]] |isbn=978-1-11965-602-9 |pages=369–388 |url=http://www.patrickcurry.co.uk/papers/THE%20CRITICAL%20RESPONSE%20TO%20TOLKIEN.pdf<!--author's own page-->}}</ref>\n\n=== Awards ===\n\nIn 1957, ''The Lord of the Rings'' was awarded the [[International Fantasy Award]]. Despite its numerous detractors, the publication of the [[Ace Books]] and [[Ballantine Books|Ballantine]] paperbacks helped ''The Lord of the Rings'' become immensely popular in the United States in the 1960s. The book has remained so ever since, ranking as the<!--Walker lists 5 different surveys, same result each time, top<ref name=\"Walker 2009\"/>--> most popular works of fiction of the twentieth century, judged by all of three different measures: sales, library borrowings, and reader surveys.<ref>{{cite news |last=Seiler |first=Andy |date=16 December 2003 |url=https://www.usatoday.com/life/movies/news/2003-12-12-lotr-main_x.htm |title='Rings' comes full circle |newspaper=USA Today |access-date=12 March 2006 |url-status=live |archive-url=https://web.archive.org/web/20060212081213/http://www.usatoday.com/life/movies/news/2003-12-12-lotr-main_x.htm |archive-date=12 February 2006 }}</ref><ref name=\"Walker 2009\">{{cite book |last=Walker |first=Steve |title=The Power of Tolkien's Prose: Middle-Earth's Magical Style |publisher=[[Palgrave Macmillan]] |publication-place=New York |year=2009 |isbn=978-0-230-61992-0 |page=1}}</ref> In the 2003 \"[[Big Read]]\" survey conducted in Britain by the BBC, ''The Lord of the Rings'' was found to be the \"Nation's best-loved book\". In similar 2004 polls both Germany<ref>{{cite web |last=Diver |first=Krysia |date=5 October 2004 |url=https://www.smh.com.au/articles/2004/10/04/1096871805007.html?from=storyrhs |title=A lord for Germany |work=The Sydney Morning Herald |access-date=12 March 2006|url-status=live |archive-url=https://web.archive.org/web/20060328084516/http://www.smh.com.au/articles/2004/10/04/1096871805007.html?from=storyrhs |archive-date=28 March 2006 }}</ref> and Australia<ref>{{cite web |date=6 December 2004 |url=https://www.abc.net.au/news/2004-12-06/australians-pick-lord-of-the-rings-as-top-book/597612 |title=Australians pick 'Lord of the Rings' as top book |work=ABC News Online |access-date=16 March 2025 |url-status=live |archive-url=https://web.archive.org/web/20161027185624/https://www.abc.net.au/news/2004-12-06/australians-pick-lord-of-the-rings-as-top-book/597612 |archive-date=27 October 2016}}</ref> chose ''The Lord of the Rings'' as their favourite book. In a 1999 poll of [[Amazon.com]] customers, ''The Lord of the Rings'' was judged to be their favourite \"book of the millennium\".<ref>{{cite web |last=O'Hehir |first=Andrew |date=4 June 2001 |url=http://www.salon.com/books/feature/2001/06/04/tolkien/ |title=The book of the century |work=[[Salon.com|Salon]] |access-date=12 March 2006 |url-status=live |archive-url=https://web.archive.org/web/20060213000712/http://www.salon.com/books/feature/2001/06/04/tolkien/ |archive-date=13 February 2006 }}</ref> In 2019, the [[BBC News]] listed ''The Lord of the Rings'' on its [[BBC's 100 Most Inspiring Novels|list of the \"100 most inspiring novels\"]].<ref name=Bbc2019-11-05>{{cite news |url=https://www.bbc.com/news/entertainment-arts-50302788 |title=100 'most inspiring' novels revealed by BBC Arts |publisher=[[BBC News]] |date=5 November 2019 |archive-url=https://web.archive.org/web/20191108030557/https://www.bbc.com/news/entertainment-arts-50302788 |archive-date=8 November 2019 |access-date=10 November 2019 |url-status=live |quote=The reveal kickstarts the BBC's year-long celebration of literature. }}</ref>\n\n== Adaptations ==\n\n{{Main|Adaptations of The Lord of the Rings|l1=Adaptations of ''The Lord of the Rings''}}\n\n''The Lord of the Rings'' has been adapted into various media, including radio, stage, motion pictures, and videogames.\n\n=== Radio ===\n\nThe book has been adapted for radio four times. In 1955 and 1956, the [[BBC]] broadcast ''[[The Lord of the Rings (1955 radio series)|The Lord of the Rings]]'', a 13-part radio adaptation of the story. In the 1960s radio station [[WBAI]] produced a short [[Adaptations of The Lord of the Rings#Audio|radio adaptation]]. A 1979 dramatization of ''[[The Lord of the Rings (1979 radio series)|The Lord of the Rings]]'' was broadcast in the United States and subsequently issued on tape and CD. In 1981, the BBC broadcast ''[[The Lord of the Rings (1981 radio series)|The Lord of the Rings]]'', a new dramatization in 26 half-hour instal<!--yes, British English has just one -l- here-->ments.<ref>{{cite web |title=Riel Radio Theatre — The Lord of the Rings, Episode 2 |url=https://radioriel.org/content/daily-programme/riel-radio-theatre-the-lord-of-the-rings-episode-2/ |publisher=Radioriel |access-date=18 May 2020 |date=15 January 2009 |archive-date=15 January 2020 |archive-url=https://web.archive.org/web/20200115144511/https://www.radioriel.org/content/daily-programme/riel-radio-theatre-the-lord-of-the-rings-episode-2/ |url-status=dead }}</ref><ref>{{cite web |title=Genome BETA Radio Times 1923 – 2009 |url=https://genome.ch.bbc.co.uk/schedules/radio4/fm/1981-03-08#at-12.00 |publisher=[[BBC]] |access-date=24 August 2020 |date=1981 |quote=12.00: The Lord of the Rings: 1: The Long Awaited Party by J. R. R. Tolkien prepared for radio in 26 episodes by Brian Sibley Starring Ian Holm as Frodo and Michael Hordern as Gandalf}}</ref>\n\n=== Motion pictures ===\n\n{{Main|Middle-earth in motion pictures|Peter Jackson's interpretation of The Lord of the Rings|l2=Peter Jackson's interpretation of ''The Lord of the Rings''}}\n\nA variety of filmmakers considered adapting Tolkien's book, among them [[Stanley Kubrick]], who thought it [[unfilmable]],<ref name=\"TolkienEncyl2006_15\">{{harvnb|Drout|2006|p=15}}</ref><ref>See also interview in \"Show\" magazine vol. 1, Number 1 1970</ref> [[Michelangelo Antonioni]],<ref>{{cite book |last=Bramwell |first=Tony |title=Magical Mystery Tours: My Life with the Beatles |publisher=Pavilion Books |year=2014 |isbn=978-1-910232-16-3 |page=70}}</ref> [[Jim Henson]],<ref>{{cite book |last=Jones |first=Brian Jay |title=Jim Henson: The Biography |location=New York |publisher=Ballantine |year=2013 |page=304 |isbn=978-0-345-52611-3}}</ref> [[Heinz Edelmann]],<ref>{{cite news |date=28 March 2002 |title=Beatles plan for Rings film |work=CNN |url=http://edition.cnn.com/2002/SHOWBIZ/Movies/03/28/rings.beatles/index.html|url-status=live |archive-url=https://web.archive.org/web/20020409143012/http://edition.cnn.com/2002/SHOWBIZ/Movies/03/28/rings.beatles/index.html |archive-date=9 April 2002}}</ref> and [[John Boorman]].<ref>Taylor, Patrick (19 January 2014). {{usurped|1=[https://web.archive.org/web/20181216210924/https://oneroomwithaview.com/2014/01/19/best-films-never-made-8-john-boormans-the-lord-of-the-rings/ Best Films Never Made #8: John Boorman's The Lord of the Rings.\"]}} ''OneRoomWithaView.com''. Retrieved 16 December 2018.</ref> A Swedish live action television film, ''[[Sagan om ringen (1971 film)|Sagan om ringen]]'', was broadcast in 1971.<ref>''K-Special'', \"[http://www.svtplay.se/video/4364349/i-trollkarlens-hatt/i-trollkarlens-hatt-avsnitt-1 I trollkarlens hatt] {{Webarchive|url=https://web.archive.org/web/20151027005737/http://www.svtplay.se/video/4364349/i-trollkarlens-hatt/i-trollkarlens-hatt-avsnitt-1 |date=2015-10-27 }}\" (at 24m30s), [[Sveriges television]], 23 October 2015. Retrieved 26 October 2015.</ref> In 1978, [[Ralph Bakshi]] made an animated [[The Lord of the Rings (1978 film)|film version]] covering ''The Fellowship of the Ring'' and part of ''The Two Towers'', to mixed reviews.<ref>{{cite web |last=Gaslin |first=Glenn |date=21 November 2001 |title=Ralph Bakshi's unfairly maligned Lord of the Rings |work=[[Slate (magazine)|Slate]] |url=http://www.slate.com/articles/arts/culturebox/2001/11/hobbits_on_film.html}}</ref> In 1980, [[Rankin/Bass Productions|Rankin/Bass]] released [[The Return of the King (1980 film)|an animated TV special]] based on the closing chapters of ''The Return of the King'', gaining mixed reviews.<ref>{{cite web |last=Cassady |first=Charles |title=The Return of the King (1980) |url=https://www.commonsensemedia.org/movie-reviews/the-return-of-the-king-1980 |website=Common Sense Media |date=9 July 2010 |access-date=2 August 2020}}</ref><ref>{{cite web |last=Greydanus |first=Stephen |title=The Return of the King (1980) |url=http://decentfilms.com/reviews/returnoftheking1980 |website=Decent Films |access-date=2 August 2020}}</ref> \nThe 1991 Soviet Union live-action adaptation of ''The Fellowship of the Ring'', ''[[Khraniteli]]'', was aired once and thought lost,<ref>{{cite web |last=Romain |first=Lindsey |title=Russian 'Lord of the Rings' Adaptation Makes Its Way Online |url=https://nerdist.com/article/russian-lord-of-the-rings-lost-adaptation-youtube/ |website=Nerdist |date=2 April 2021 |access-date=4 April 2021}}</ref><ref>{{cite web |last1=Selcke |first1=Dan |title=Watch a lost Soviet adaptation of The Lord of the Rings |url=https://winteriscoming.net/2021/04/02/watch-soviet-era-russian-adaptation-lord-rings/ |website=Winter is Coming |access-date=4 April 2021 |date=2 April 2021}}</ref> but was rediscovered and republished on the Web. It includes [[Tom Bombadil]] and the [[Barrow-wight]], omitted from Jackson's version.<ref name=\"Roth 2021\">{{cite news |last=Roth |first=Andrew |title=Soviet TV version of Lord of the Rings rediscovered after 30 years |url=https://www.theguardian.com/world/2021/apr/05/soviet-tv-version-lord-of-the-rings-rediscovered-after-30-years |access-date=5 April 2021 |work=[[The Guardian]] |date=5 April 2021}}</ref>\nIn Finland, a live action television miniseries, ''[[Hobitit]]'', was broadcast in 1993 based on ''The Lord of the Rings'', with a flashback to Bilbo's encounter with Gollum in ''The Hobbit''.<ref>{{cite news |title=Yle teettää oman sovituksen Taru sormusten herrasta-sadusta |trans-title=Yle to produce its own version of the tale of ''The Lord of the Rings'' |work=[[Helsingin Sanomat]] |date=18 June 1991 |language=fi}}</ref><ref>{{cite news|last=Kajava |first=Jukka |title=Tolkienin taruista on tehty tv-sarja: Hobitien ilme syntyi jo Ryhmäteatterin Suomenlinnan tulkinnassa |trans-title=Tolkien's tales have been turned into a TV series: The Hobbits have been brought to live in the Ryhmäteatteri theatre | work=[[Helsingin Sanomat]] |language=fi |date=29 March 1993 |url=http://www.hs.fi/paivanlehti/arkisto/?haku=Klonkku&ref=arkisto%2F&page=4}} {{Subscription required}}</ref>\n\nA far more successful adaptation was [[Peter Jackson]]'s live action [[The Lord of the Rings (film series)|''The Lord of the Rings'' film trilogy]], produced by [[New Line Cinema]] and released in three instalments as ''[[The Lord of the Rings: The Fellowship of the Ring]]'' (2001), ''[[The Lord of the Rings: The Two Towers]]'' (2002), and ''[[The Lord of the Rings: The Return of the King]]'' (2003). All three parts won multiple [[Academy Awards]], including consecutive [[Academy Award for Best Picture|Best Picture]] nominations. The final instalment of this trilogy was the second film to break the one-billion-dollar barrier and won a total of 11 [[Academy Awards|Oscars]] (something only two other films in history, ''[[Ben-Hur (1959 film)|Ben-Hur]]'' and ''[[Titanic (1997 film)|Titanic]]'', have accomplished), including [[Academy Award for Best Picture|Best Picture]], [[Academy Award for Best Director|Best Director]] and [[Academy Award for Best Adapted Screenplay|Best Adapted Screenplay]].<ref>{{cite web |first=Adam |last=Rosenberg |archive-url=https://web.archive.org/web/20190512095324/http://mashable.com/2016/01/14/star-wars-oscars-numbers/ |url=http://mashable.com/2016/01/14/star-wars-oscars-numbers/ |title='Star Wars' ties 'Lord of the Rings' with 30 Oscar nominations, the most for any series |website=[[Mashable]] |date=14 January 2016 |archive-date=12 May 2019 |access-date=1 July 2019}}</ref><ref>''The Return of the King'' peak positions\n* U.S. and Canada: {{cite web |title=All Time Domestic Box Office |website=[[Box Office Mojo]] |url=https://www.boxofficemojo.com/alltime/domestic/ |archive-url=https://web.archive.org/web/20040604193553/https://www.boxofficemojo.com/alltime/domestic.htm |archive-date=4 June 2004}}\n* Worldwide: {{cite web |title=All Time Worldwide Box Office |website=[[Box Office Mojo]] |url=https://www.boxofficemojo.com/alltime/world/ |archive-url=https://web.archive.org/web/20040605104640/http://www.boxofficemojo.com/alltime/world/ |archive-date=5 June 2004}}</ref> Commentators including Tolkien scholars, literary critics and film critics are divided on [[The Lord of the Rings: film versus book|how faithfully Jackson adapted Tolkien's work, or whether a film version is inevitably different]], and if so the reasons for any changes, and the effectiveness of the result.<ref name=\"Bogstad Kaveny 2011\">{{cite book |last1=Bogstad |first1=Janice M. |last2=Kaveny |first2=Philip E. |chapter=Introduction | editor1= Janice M. Bogstad | editor2= Philip E. Kaveny |title=Picturing Tolkien: Essays on Peter Jackson's The Lord of the Rings Film Trilogy |chapter-url=https://books.google.com/books?id=jNjKrXRP0G8C&pg=PA5 |year=2011 |publisher=McFarland |isbn=978-0-7864-8473-7 |pages=5–23}}</ref>\n\n''[[The Hunt for Gollum]]'', a 2009 film by [[Chris Bouchard]],<ref>{{cite news |last=Masters |first=Tim |title=Making Middle-earth on a shoestring |url=http://news.bbc.co.uk/2/hi/entertainment/8022623.stm |work=BBC News |publisher=[[BBC]] |date=30 April 2009 |access-date=1 May 2009 |url-status=live |archive-url=https://web.archive.org/web/20090503050355/http://news.bbc.co.uk/2/hi/entertainment/8022623.stm |archive-date=3 May 2009}}</ref><ref>{{cite news |first=Laura |last=Sydell |author-link=Laura Sydell |title=High-Def 'Hunt For Gollum' New Lord of the Fanvids |url=https://www.npr.org/templates/story/story.php?storyId=103673352 |work=[[All Things Considered]] |publisher=[[NPR]] |date=30 April 2009 |access-date=1 May 2009 |url-status=live |archive-url=https://web.archive.org/web/20090503012438/http://www.npr.org/templates/story/story.php?storyId=103673352 |archive-date=3 May 2009}}</ref> and the 2009 ''[[Born of Hope]]'', written by Paula DiSante and directed by [[Kate Madison]], are [[fan film]]s based on details in the appendices of ''The Lord of the Rings''.<ref>{{Cite web |last=Lamont |first=Tom |url=https://www.theguardian.com/film/2010/mar/07/born-of-hope-lord-rings |title=Born of Hope – and a lot of charity |work=[[The Guardian]] |date=7 March 2010 |access-date=5 January 2015 |url-status=live |archive-url=https://web.archive.org/web/20150105134218/http://www.theguardian.com/film/2010/mar/07/born-of-hope-lord-rings |archive-date=5 January 2015 }}</ref>\n\nFrom September 2022, [[Amazon (company)|Amazon]] has been presenting a multi-season television series of stories, ''[[The Lord of the Rings: The Rings of Power]]''. It is set at the beginning of the [[Second Age]], long before the time of ''The Lord of the Rings'', based on materials in the novel's appendices.<ref>{{cite web |title=Amazon will run a multi-season Lord of the Rings prequel TV series |url=https://arstechnica.com/gaming/2017/11/amazon-will-run-a-multi-season-lord-of-the-rings-prequel-tv-series/ |last=Axon |first=Samuel |date=13 November 2017 |website=[[Ars Technica]] |url-status=live |archive-url=https://web.archive.org/web/20171114012646/https://arstechnica.com/gaming/2017/11/amazon-will-run-a-multi-season-lord-of-the-rings-prequel-tv-series/ |archive-date=14 November 2017}}</ref><ref>{{Cite tweet |user=LOTRonPrime|number=1103656946509344768 |title=Welcome to the Second Age:https://amazon.com/lotronprime |date=7 March 2019|access-date=24 March 2020 |archive-url=https://web.archive.org/web/20200210204627/https://twitter.com/LOTRonPrime/status/1103656946509344768 |archive-date=10 February 2020}}</ref><ref>{{cite web |last=White |first=Peter |title=Amazon Prime Video Reveals 'The Lord Of The Rings' Series Title & Teases Second Age Tales |url=https://deadline.com/2022/01/amazon-prime-video-reveals-the-lord-of-the-rings-series-title-1234915012/ |website=Deadline Hollywood |access-date=19 January 2022 |date=19 January 2022}}</ref>\n\nIn 2023, [[Warner Bros. Discovery]] began making a series of films set in Middle-earth, produced along with [[New Line Cinema]] and Freemode.<ref>{{cite web |last=Ronald |first=Issy |date=24 February 2023 |title=New 'Lord of the Rings' movie series in the works at Warner Bros. |url=https://www.cnn.com/2023/02/24/entertainment/lord-of-the-rings-warner-bros-movies-intl-scli/index.html |access-date=9 March 2023 |website=CNN}}</ref> The first was ''[[The Lord of the Rings: The War of the Rohirrim]]'', an [[anime]] written by Jeffrey Addiss, Will Matthews and [[Philippa Boyens]], directed by [[Kenji Kamiyama]] and released in December 2024. It was based on the story of the legendary Rohan king [[Helm Hammerhand]].<ref>{{cite web |last=D'Alessandro |first=Anthony |date=10 June 2021 |title='The Lord Of The Rings' Goes On: Anime Film 'The War Of The Rohirrim' In Works At New Line |url=https://deadline.com/2021/06/lord-of-the-rings-anime-film-the-war-of-the-rohirrim-new-line-1234773024/ |access-date=29 April 2025 |website=Deadline}}</ref><ref>{{cite web |last=Senzatimore |first=Renee |date=5 December 2024 |title='It Was Magnificent': Lord of the Rings' Peter Jackson Praises War of the Rohirrim as 'Essential Lore' |url=https://www.cbr.com/lord-of-the-rings-peter-jackson-war-of-the-rohirrim-praise/ |access-date=29 April 2025 |website=CBR}}</ref><ref>{{Cite web |title=The Lord of The Rings: The War of The Rohirrim |url=https://www.lotrthewaroftherohirrim.com/synopsis/ |access-date=29 April 2025 |website=The Lord of The Rings: The War of The Rohirrim}}</ref>\n<!--\n      Please do not add details of films here: this is just a summary. There is a separate article for them, [[Middle-earth in motion pictures]]. Note that any addition will need to [[WP:CITE|cite]] a [[WP:RS|Reliable Source]].\n-->\n\n=== Audiobooks ===\n\nIn 1990, [[Recorded Books]] published an [[audiobook|audio version]] of ''The Lord of the Rings'',<ref>{{cite AV media |last=Inglis |first=Rob (narrator) |title=The Lord of the Rings |publisher=Recorded Books |year=1990 |isbn=1-4025-1627-4}}</ref> read by the British actor [[Rob Inglis]]. A large-scale musical theatre adaptation, ''[[The Lord of the Rings (musical)|The Lord of the Rings]]'', was first staged in [[Toronto|Toronto, Ontario, Canada]] in 2006 and opened in London in June 2007; it was a commercial failure.<ref>{{cite news |url=https://www.theguardian.com/stage/gallery/2014/feb/25/the-fastest-west-end-flops-in-pictures |title=The fastest West End flops – in pictures |newspaper=[[The Guardian]] |access-date=29 April 2017}}</ref>\n\nIn 2013, the artist Phil Dragash recorded the whole of the book, using the score from Peter Jackson's movies.<ref>{{cite web |title=Phil Dragash |url=https://www.phildragash.com/index.html |website=Phil Dragash |access-date=11 March 2022}}</ref><ref>{{cite web |title=Root & Twig |url=https://soundcloud.com/rootntwig |website=SoundCloud |access-date=11 March 2022 }}</ref><ref>{{cite web |title=Lord of The Rings: The Fellowship of the Ring – Soundscape by Phil Dragash |url=https://archive.org/details/the-fellowship-of-the-ring_soundscape-by-phil-dragash |website=archive.org |access-date=11 March 2022 |date=2013}}</ref>\n\nDuring the [[COVID-19 lockdown]], [[Andy Serkis]] read the entire book of ''[[The Hobbit]]'' online to raise money for charity.<ref>{{Cite news|url=https://www.bbc.co.uk/news/entertainment-arts-52568497|title=Coronavirus: Andy Serkis reads entire Hobbit live online for charity|work=BBC News|date=9 May 2020}}</ref> He then recorded the work again as an audiobook.<ref>{{Cite book |url=https://www.audible.com/pd/The-Hobbit-Audiobook/1705009050 |title=The Hobbit |via=www.audible.com}}</ref> The cover art was done by [[Alan Lee (illustrator)|Alan Lee]]. In 2021, Serkis recorded ''The Lord of the Rings'' novels.<ref>{{Cite web |title=Andy Serkis records Lord of the Rings audiobooks for HarperCollins |url=https://www.thebookseller.com/news/andy-serkis-records-lord-rings-audiobooks-harpercollins-1267526 |access-date=7 September 2021 |website=The Bookseller}}</ref>\n\n== Legacy ==\n\n{{further|Works inspired by J. R. R. Tolkien}}\n\n=== Influence on fantasy ===\n\n{{main|Tolkien's impact on fantasy}}\n\nThe enormous popularity of Tolkien's work expanded the demand for fantasy. Largely thanks to ''The Lord of the Rings'', the genre flowered throughout the 1960s and enjoys popularity to the present day.<ref>{{cite book |last=Fimi |first=Dimitra |author-link=Dimitra Fimi |chapter=Later Fantasy Fiction: Tolkien's Legacy |editor-last=Lee |editor-first=Stuart D. |editor-link=Stuart D. Lee |title=A Companion to J. R. R. Tolkien |date=2020 |orig-year=2014 |publisher=[[Wiley Blackwell]] |isbn=978-1119656029 |pages=335–349}}</ref> The opus has spawned many imitations, such as ''[[The Sword of Shannara]]'', which [[Lin Carter]] called \"the single most cold-blooded, complete rip-off of another book that I have ever read,\"<ref name=carter>{{cite book |first=Lin |last=Carter |author-link=Lin Carter |title=The Year's Best Fantasy Stories: 4 |publisher=[[DAW Books]] |year=1978 |pages=207–208| title-link=The Year's Best Fantasy Stories: 4}}</ref> as well as alternate interpretations of the story, such as ''[[The Last Ringbearer]]''.\n''[[The Legend of Zelda]]'', which popularized the [[action-adventure game]] genre in the 1980s, was inspired by ''The Lord of the Rings'' among other fantasy books.<ref>{{cite magazine |magazine=[[Club Nintendo]] |volume=1996 |issue=2 |title=Classic: Zelda und Link |trans-title=Classic: Zelda and Link |language=de |date=April 1996 |page=72 |publisher=[[Nintendo of Europe]] |quote=[The two program designers Shigeru Miyamoto and Takashi Tezuka were responsible for the game, who set themselves the goal of developing a fairytale adventure game with action elements... ...Takashi Tezuka, a great lover of fantasy novels such as Tolkien's Lord of the Rings, wrote the script for the first two games in the Zelda series].}}</ref><ref>{{cite journal |date=March 2003 |title=Shigeru Miyamoto Interview |journal=Super PLAY |publisher=Medströms Dataförlag AB |language=sv |issue=4/03 |url=http://www.miyamotoshrine.com/theman/interviews/230403.shtml |access-date=24 September 2006 |url-status=dead |archive-url=https://web.archive.org/web/20060907074051/http://www.miyamotoshrine.com/theman/interviews/230403.shtml |archive-date=7 September 2006 |quote=Shigeru Miyamoto: All ideas for The legend of Zelda were mine and Takashi Tezukas...Books, movies and our own lives. Legend of Zelda was based on my childhood}}</ref> ''[[Dungeons & Dragons]]'', which popularized the [[role-playing game]] genre in the 1970s, features several races from ''The Lord of the Rings,'' including [[halfling]]s (hobbits), elves, dwarves, [[Half-elven|half-elves]], orcs, and dragons. However, [[Gary Gygax]], the lead designer of the game, stated that he included these elements as a marketing move to draw on the popularity the work enjoyed at the time he was developing the game.<ref>{{cite web |first=Gary |last=Gygax |url=http://www.theonering.net/features/interviews/gary_gygax.html |title=Gary Gygax&nbsp;– Creator of Dungeons & Dragons |publisher=The One Ring.net |access-date=28 May 2006 |url-status=live |archive-url=https://web.archive.org/web/20060627200615/http://www.theonering.net/features/interviews/gary_gygax.html |archive-date=27 June 2006}}</ref>\nBecause Dungeons & Dragons has gone on to [[Middle-earth in video games|influence many popular games]], especially [[role-playing video games]], the influence of ''The Lord of the Rings'' extends to many of them, with titles such as ''[[Dragon Quest]]'',<ref>{{cite web |url=https://www.gamedeveloper.com/game-platforms/the-gamasutra-quantum-leap-awards-role-playing-games |title=The Gamasutra Quantum Leap Awards: Role-Playing Games |access-date=28 March 2011 |publisher=[[Gamasutra]] |date=6 October 2006 |work=Honorable Mention: Dragon Warrior |url-status=live |archive-url=https://web.archive.org/web/20110313052025/http://www.gamasutra.com/view/feature/1809/the_gamasutra_quantum_leap_awards_.php |archive-date=13 March 2011}}</ref><ref name=kurt>{{cite web |first=Kurt |last=Kalata |url=https://www.gamedeveloper.com/game-platforms/the-history-of-dragon-quest |title=The History of Dragon Quest |website=[[Gamasutra]] |access-date=29 September 2009|url-status=live |archive-url=https://web.archive.org/web/20150722102055/http://www.gamasutra.com/view/feature/3520/the_history_of_dragon_quest.php?print=1 |archive-date=22 July 2015}}</ref> ''[[EverQuest]]'', the ''[[Warcraft]]'' series, and ''[[The Elder Scrolls]]'' series of games<ref>{{cite web |first=Perry |last=Douglass |url=https://uk.ign.com/articles/2006/05/18/the-influence-of-literature-and-myth-in-videogames |title=The Influence of Literature and Myth in Videogames |work=[[IGN]] |publisher=[[News Corporation (1980–2013)|News Corp]] |date=17 May 2006 |access-date=4 January 2012 |url-status=live |archive-url=https://web.archive.org/web/20160118052856/http://uk.ign.com/articles/2006/05/18/the-influence-of-literature-and-myth-in-videogames |archive-date=18 January 2016}}</ref> as well as [[Middle-earth in video games|video games set in Middle-earth]] itself.\n\n=== Music ===\n\n{{main|Music of Middle-earth}}\n\nIn 1965, the composer and songwriter [[Donald Swann]], best known for his collaboration with [[Michael Flanders]] as [[Flanders & Swann]], set six poems from ''The Lord of the Rings'' and one from ''[[The Adventures of Tom Bombadil]]'' (\"Errantry\") to music. When Swann met with Tolkien to play the songs for his approval, Tolkien suggested for \"[[Namárië]]\" (Galadriel's lament) a setting reminiscent of [[plain chant]], which Swann accepted.<ref>Tolkien had recorded a version of his theme on a friend's tape recorder in 1952. This was later issued by [[Caedmon Records]] in 1975 as part of ''J. R. R. Tolkien reads and sings The Lord of the Rings'' (LP recording TC1478).</ref> The songs were published in 1967 as ''[[The Road Goes Ever On|The Road Goes Ever On: A Song Cycle]]'',<ref>{{cite book |first1=J. R. R. |last1=Tolkien |first2=Donald |last2=Swann |author2-link=Donald Swann |title=''The Road Goes Ever On: A Song Cycle'' |publisher=[[Ballantine Books]] |year=1967 |title-link=The Road Goes Ever On}}</ref> and a recording of the songs performed by singer William Elvin with Swann on piano was issued that same year by [[Caedmon Records]] as ''Poems and Songs of Middle Earth''.<ref>{{cite AV media |first1=J. R. R. |last1=Tolkien |first2=Donald |last2=Swann |author2-link=Donald Swann |title=[[Poems and Songs of Middle Earth]] |publisher=Caedmon Records |year=1967 |type=LP recording |id=TC1231/TC91231}}</ref>\n\nRock bands of the 1970s were musically and lyrically inspired by the fantasy-embracing counter-culture of the time. The British rock band [[Led Zeppelin]] recorded several songs that contain explicit references to ''The Lord of the Rings'', such as mentioning Gollum and Mordor in \"[[Ramble On]]\", the [[Misty Mountains]] in \"[[Misty Mountain Hop]]\", and Ringwraiths in \"[[The Battle of Evermore]]\". In 1970, the Swedish musician [[Bo Hansson]] released an [[instrumental]] [[concept album]] entitled ''Sagan om ringen'' (\"The Saga of the Ring\", the title of the Swedish translation at the time).<ref name=\"Snider\">{{cite book |last=Snider |first=Charles |pages=120–121 |year=2008 |title=The Strawberry Bricks Guide to Progressive Rock |publisher=Strawberry Bricks |isbn=978-0-615-17566-9}}</ref> The album was subsequently released internationally as ''[[Music Inspired by Lord of the Rings (Bo Hansson album)|Music Inspired by Lord of the Rings]]'' in 1972.<ref name=\"Snider\"/> From the 1980s onwards, many heavy metal acts have been influenced by Tolkien.<ref>{{cite magazine |last=Greene |first=Andy |url=https://www.rollingstone.com/music/news/ramble-on-rockers-who-love-the-lord-of-the-rings-20121213 |title=Ramble On: Rockers Who Love 'The Lord of the Rings' |magazine=[[Rolling Stone]] |date=16 August 2017 |url-status=live |archive-url=https://web.archive.org/web/20170816094012/http://www.rollingstone.com/music/news/ramble-on-rockers-who-love-the-lord-of-the-rings-20121213 |archive-date=16 August 2017}}</ref>\n\nIn 1988, the Dutch composer and trombonist [[Johan de Meij]] completed his ''[[Symphony No. 1 \"The Lord of the Rings\"]]''. It had 5 movements, titled \"Gandalf\", \"Lothlórien\", \"Gollum\", \"Journey in the Dark\", and \"Hobbits\".<ref>{{cite web |title=The Lord of the Rings Der Herr der Ringe Symphony No. 1 Sinfonie Nr. 1 |url=https://www.rundel.de/en/artikel/the_lord_of_the_rings/AM06 |publisher=Rundel |access-date=2 August 2020}}</ref> The 1991 album ''[[Shepherd Moons]]'' by the Irish musician [[Enya]] contains an instrumental titled \"Lothlórien\", in reference to [[Lothlórien|the home of the wood-elves]].<ref name=OnlyTimeLPsleeve>{{Cite AV media notes |first=Roma |last=Ryan |title=Only Time — The Collection |others=Enya |year=2002 |type=Booklet notes, pages 15, 16, 19, 21 |publisher=[[Warner Music Group|Warner Music]] |id=0927 49211-2}}</ref><!--\n\n     This is not a list of examples; there is a whole article on \"Music of Middle-earth\". \n     Please do not add more examples here: there are way too many to list here, thanks\n-->\n\n=== Impact on popular culture ===\n\n{{further|Impact of Tolkien's mythology}}\n\n[[File:Matamata sign.jpg|thumb|\"Welcome to Hobbiton\" sign in [[Matamata, New Zealand]], where [[Peter Jackson]]'s film version was shot|alt=A freestanding green sign reading \"Welcome to Hobbiton\" in large gold calligraphic letters, with \"Matamata New Zealand\" appearing under it in smaller letters. In front of the sign is a statue of a grotesque on a pedestal. A lawn, road, and shops are visible in the background.]]\n\n''The Lord of the Rings'' has had a profound and wide-ranging impact on popular culture, beginning with its publication in the 1950s, but especially during the 1960s and 1970s, when young people embraced it as a [[counterculture|countercultural]] saga.<ref>{{cite book |first=Raymond |last=Feist |title=Meditations on Middle-earth |year=2001 |publisher=[[St. Martin's Press]] |isbn=0-312-30290-8}}</ref> \"[[Frodo Lives!]]\" and \"Gandalf for President\" were two phrases popular among United States [[Tolkien fandom|Tolkien fans]] during this time.<ref>{{cite book |first=Humphrey |last=Carpenter |author-link=Humphrey Carpenter |title=''J. R. R. Tolkien: A Biography'' |publisher=[[Houghton Mifflin Harcourt]] |isbn=0-618-05702-1 |year=2000}}</ref> Its impact is such that the words \"Tolkienian\" and \"Tolkienesque\" have entered the ''[[Oxford English Dictionary]]'', and many of his fantasy terms, formerly little-known in English, such as \"[[Orc]]\" and \"[[Warg]]\", have become widespread in that domain.<ref>{{cite book |last=Gilliver |first=Peter |author-link=Peter Gilliver |title=The Ring of Words: Tolkien and the Oxford English Dictionary |isbn=0-19-861069-6 |year=2006 |publisher=Oxford University Press |url=https://archive.org/details/ringofwordstolki00gill |pages=174, 201–206}}</ref>\nAmong its effects are numerous [[Parody|parodies]], especially ''[[Harvard Lampoon]]''{{'s}} ''[[Bored of the Rings]]'', which has had the distinction of remaining continuously in print from its publication in 1969, and of being translated into at least 11 languages.<ref>{{cite encyclopedia |last=Bratman |first=David |author-link=David Bratman |editor-last=Drout |editor-first=Michael D. C. |editor-link=Michael D. C. Drout |title=Parodies |encyclopedia=[[The J. R. R. Tolkien Encyclopedia]] |year=2013 |orig-year=2007 |publisher=[[Routledge]] |isbn=978-0-415-86511-1 |pages=503–504}}</ref>\n\nIn 1969, Tolkien sold the merchandising rights to ''The Lord of the Rings'' and ''The Hobbit'' to [[United Artists]] under an agreement stipulating a lump sum payment of £10,000<ref>{{cite news |title=Tolkien sold film rights for £10,000 |url=https://www.standard.co.uk/hp/front/tolkien-sold-film-rights-for-ps10-000-6335205.html |newspaper=[[London Evening Standard]] |date=12 July 2001 |access-date=20 November 2011}}</ref> ({{Inflation|index=UK|value=10,000|start_year=1969|r=-3|fmt=eq|cursign=£}}) plus a 7.5% royalty after costs,<ref>{{cite news |last=Pulley |first=Brett |title='Hobbit' Heirs Seek $220 Million for 'Rings' Rights (Update1) |url=https://www.bloomberg.com/apps/news?pid=newsarchive&sid=aiAEIATGLREU |publisher=[[Bloomberg L.P.|Bloomberg]] |date=15 July 2009 |access-date=20 November 2011 |url-status=live |archive-url=https://web.archive.org/web/20120802173616/http://www.bloomberg.com/apps/news?pid=newsarchive&sid=aiAEIATGLREU |archive-date=2 August 2012}}</ref> payable to Allen & Unwin and the author.<ref>{{cite news |last=Harlow |first=John |title=Hobbit movies meet dire foe in son of Tolkien |url= https://www.thetimes.com/uk/law/article/hobbit-movies-meet-dire-foe-in-son-of-tolkien-lxnpmnsd2rp |work=[[The Times]] |date=28 May 2008 |access-date=19 January 2022 |archive-url=https://web.archive.org/web/20110615224143/http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/film/article3999008.ece |archive-date=15 June 2011 |url-status=live }}</ref> In 1976, three years after the author's death, United Artists sold the rights to [[Saul Zaentz]] Company, who now trade as [[Tolkien Enterprises]]. Since then all \"authorised\" merchandise has been signed off by Tolkien Enterprises, although the [[intellectual property|intellectual property rights]] of the specific likenesses of characters and other imagery from various adaptations is generally held by the adaptors.<ref>{{cite book |last=Mathijs |first=Ernest |title=The Lord of the Rings: Popular Culture in Global Context |publisher=[[Wallflower Press]] |year=2006 |isbn=978-1-904764-82-3 |page=25}}</ref>\n\nOutside commercial exploitation from adaptations, from the late 1960s onwards there has been an increasing variety of original licensed merchandise, with posters and calendars created by illustrators such as [[Barbara Remington]].<ref>{{cite news |first=Julia |last=Carmel |title=Barbara Remington, Illustrator of Tolkien Book Covers, Dies at 90 |url=https://www.nytimes.com/2020/02/15/books/barbara-remington-dead.html |work=The New York Times |date=15 February 2020 |access-date=18 July 2020}}</ref>\n\nThe work was named Britain's best novel of all time in the BBC's [[The Big Read]].<ref>{{cite news |last=Ezard |first=John |title=Tolkien runs rings round Big Read rivals |url=https://www.theguardian.com/media/2003/dec/15/bbc.books |access-date=3 August 2020 |work=[[The Guardian]] |date=15 December 2003}}</ref> In 2015, the BBC ranked ''The Lord of the Rings'' 26th on its list of the 100 greatest British novels.<ref>{{cite web |last=Ciabattari |first=Jane |url=http://www.bbc.com/culture/story/20151204-the-100-greatest-british-novels |work=[[BBC]] |title=The 100 greatest British novels |date=7 December 2015 |access-date=8 December 2015 |archive-url=https://web.archive.org/web/20151208170427/http://www.bbc.com/culture/story/20151204-the-100-greatest-british-novels |archive-date=8 December 2015 |url-status=live}}</ref> It was included in ''[[Le Monde]]''{{'}}s list of \"[[Le Monde's 100 Books of the Century|100 Books of the Century]]\".<ref>{{cite news|url=http://www.lemonde.fr/cgi-bin/ACHATS/acheter.cgi?offre=ARCHIVES&type_item=ART_ARCH_30J&objet_id=46796 |title=Écrivains et choix sentimentaux |trans-title=Authors and sentimental choices |first=Josyane |last=Savigneau |author-link=Josyane Savigneau |newspaper=Le Monde |language=fr |date=15 October 1999 }}</ref>\n\n==Notes==\n\n{{notelist}}\n\n== References ==\n\n=== Primary ===\n\n{{reflist|group=T}}\n\n=== Secondary ===\n\n{{reflist}}\n\n== Sources ==\n\n* {{ME-ref|Biography}}\n* {{ME-ref|Letters}}\n* {{cite book |last=Drout |first=Michael D. C. |title=The J. R. R. Tolkien Encyclopedia |year=2006 |publisher=Routledge |isbn=978-0-415-96942-0 |author-link=Michael Drout|title-link=The J. R. R. Tolkien Encyclopedia}}\n* {{cite book |last1=Hammond |first1=Wayne G. |author-link=Wayne G. Hammond |last2=Scull |first2=Christina |author2-link=Christina Scull |title=The Lord of the Rings: A Reader's Companion |year=2005 |publisher=Houghton Mifflin Co. |isbn=978-0-00-720907-1 |title-link=The Lord of the Rings: A Reader's Companion}}\n* [[Christopher Tolkien|Tolkien, Christopher]] (ed.) (1988–1992). ''[[The History of The Lord of the Rings]]'', 4 vols.\n* {{cite book |last=Tolkien |first=J. R. R. |author-link=J. R. R. Tolkien |title=[[The Monsters and the Critics, and Other Essays]] |date=1997 |publisher=HarperCollins |isbn=978-0-261-10263-7}}\n\n== External links ==\n{{commons category|The Lord of the Rings}}\n{{Wikiquote}}\n{{Wikivoyage|The Lord of the Rings tourism}}\n\n* [https://www.goodreads.com/book/show/33.The_Lord_of_the_Rings Lord of the Rings] at [[Goodreads]]\n* [http://www.tolkien.co.uk Tolkien website of Harper Collins] (the British publisher)\n\n{{Lord of the Rings}}\n{{Middle-earth}}\n{{J. R. R. Tolkien}}\n{{Völsung}}\n{{Kalevala}}\n{{BILBY Older Readers Award}}\n{{Authority control}}\n{{DEFAULTSORT:Lord Of The Rings, The}}\n[[Category:The Lord of the Rings| ]]\n[[Category:1954 British novels]]\n[[Category:1954 English-language novels]]\n[[Category:1954 fantasy novels]]\n[[Category:Adventure novels adapted into films]]\n[[Category:Allen & Unwin books]]\n[[Category:BILBY Award–winning works]]\n[[Category:British adventure novels]]\n[[Category:1950s adventure novels]]\n[[Category:British novels adapted for radio]]\n[[Category:British novels adapted into films]]\n[[Category:Epic novels]]\n[[Category:Fantasy adventure novels]]\n[[Category:Fantasy novels adapted into films]]\n[[Category:Novels about talking trees]]\n[[Category:Novels set in fictional countries]]\n[[Category:Sequel novels]]\n[[Category:Three-volume novels]]\n[[Category:Works based on the Kalevala]]\n<!--if a Tolkien category is not here, it is probably a Parent or Grandparent of one of these categories: do not add it!-->",
+  "redirect_chain": [
+    {
+      "source_title": "Attack on Amon Hen",
+      "target_title": "The Lord of the Rings"
+    }
+  ],
+  "revision_id": 1362374706,
+  "revision_timestamp": "2026-07-03T14:55:15Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: list",
+      "structure_type": "list"
+    },
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Plot"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Plot",
+        "The Fellowship of the Ring"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Plot",
+        "The Fellowship of the Ring"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Plot",
+        "The Two Towers"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Plot",
+        "The Return of the King"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Plot",
+        "The Return of the King"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Plot",
+        "Frame story"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Plot",
+        "Frame story"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Concept and creation",
+        "Background"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Concept and creation",
+        "Background"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Concept and creation",
+        "Background"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Concept and creation",
+        "Writing"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Concept and creation",
+        "Writing"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Concept and creation",
+        "Writing"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Concept and creation",
+        "Poetry"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Concept and creation",
+        "Poetry"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Concept and creation",
+        "Illustrations"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Concept and creation",
+        "Illustrations"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Concept and creation",
+        "Illustrations"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Concept and creation",
+        "Influences"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Concept and creation",
+        "Influences"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Concept and creation",
+        "Themes"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Concept and creation",
+        "Themes"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Concept and creation",
+        "Themes"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Publication history"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Publication history"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Publication history"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Publication history"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Publication history"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Publication history"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Publication history",
+        "Editions and revisions"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Publication history",
+        "Editions and revisions"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Publication history",
+        "Editions and revisions"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Publication history",
+        "Editions and revisions"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Publication history",
+        "Editions and revisions"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Publication history",
+        "Posthumous publication of drafts"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Publication history",
+        "Translations"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Publication history",
+        "Translations"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Reception"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Reception",
+        "1950s"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Reception",
+        "1950s"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Reception",
+        "Later"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Reception",
+        "Later"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Reception",
+        "Awards"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Radio"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Motion pictures"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Motion pictures"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Motion pictures"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: list",
+      "structure_type": "list"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Motion pictures"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Motion pictures"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Motion pictures"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Audiobooks"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Audiobooks"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Audiobooks"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Legacy"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Legacy",
+        "Influence on fantasy"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Legacy",
+        "Influence on fantasy"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Legacy",
+        "Music"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Legacy",
+        "Music"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Legacy",
+        "Music"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Legacy",
+        "Music"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Legacy",
+        "Impact on popular culture"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Legacy",
+        "Impact on popular culture"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Legacy",
+        "Impact on popular culture"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Legacy",
+        "Impact on popular culture"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Legacy",
+        "Impact on popular culture"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Notes"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "External links"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "External links"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "External links"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

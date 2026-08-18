@@ -1,0 +1,389 @@
+{
+  "article_artifact_id": "article_09eb0763336ec388c3bf410f25f65b3fdfcece450be9e40c1cfc22ee3e54f4b6",
+  "canonical_title": "Beleriand",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_09eb0763336ec388c3bf410f25f65b3fdfcece450be9e40c1cfc22ee3e54f4b6",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "In Tolkien's early writing, he coined many prospective names for the region. Among them were Broceliand, the name of an enchanted forest in medieval romance, and Ingolondë—a play on the name England—when he hoped to root a mythology for England in the region. The scholar Gergely Nagy looked at the prose of the Silmarillion and found what may be evidence of the structure and syntax of Beleriand's poetry.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_eed6758c42b59db1b88bf79cc2273da7d5471ab40a9bd61bdec97bd911e1ba2f",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_09eb0763336ec388c3bf410f25f65b3fdfcece450be9e40c1cfc22ee3e54f4b6",
+      "heading_path": [
+        "Fictional geography"
+      ],
+      "normalized_text": "thumb|center|upright=3|Sketch map of Beleriand. The Ered Luin on the right of the map are on extreme left of the map of Middle-earth, marking the part of Beleriand not destroyed at the end of the First Age.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_5d9b7998ed6068b2bef00c1d1dad10627c516b719f16b947e959d44cc0e6ece7",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_09eb0763336ec388c3bf410f25f65b3fdfcece450be9e40c1cfc22ee3e54f4b6",
+      "heading_path": [
+        "Fictional geography"
+      ],
+      "normalized_text": "Beleriand is a region in the far northwest of Middle-earth, bordering the great sea, Belegaer. It is bounded to the north by the Ered Engrin, the Iron Mountains, and to the east by the Ered Luin, the Blue Mountains.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_d91d6846f0c8a1d13ecd4b976353a249a74ad413949aa130d20e9b9e1bc5e8ae",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_09eb0763336ec388c3bf410f25f65b3fdfcece450be9e40c1cfc22ee3e54f4b6",
+      "heading_path": [
+        "Analysis",
+        "Naming"
+      ],
+      "normalized_text": "thumb|upright|Tolkien borrowed the Arthurian place-name Brocéliande, an enchanted forest, for an early version of Beleriand. Detail of 1868 illustration by Gustave Doré",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_0b23c795f9d458b4a32a6006e522dcc5181858853ecf03b50e041b606aadd352",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_09eb0763336ec388c3bf410f25f65b3fdfcece450be9e40c1cfc22ee3e54f4b6",
+      "heading_path": [
+        "Analysis",
+        "\"Lost\" poetry"
+      ],
+      "normalized_text": "This applies to the Ainulindalë, Tolkien's account of the godlike Ainur:",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_854e12b7db37fa7ba784858085d9d859fadfb2b2936a980cce581a58d697dc00",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_09eb0763336ec388c3bf410f25f65b3fdfcece450be9e40c1cfc22ee3e54f4b6",
+      "heading_path": [
+        "Analysis",
+        "\"Lost\" poetry"
+      ],
+      "normalized_text": "It applies, too, to the narrative of Elves and Men in the Beleriand landscape, in the Quenta Silmarillion:",
+      "paragraph_ordinal": 5,
+      "passage_id": "passage_47c36c58f2acf549b7aeb7c972dd239c4603861384ae0a0a5ad0441f61e58826",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_09eb0763336ec388c3bf410f25f65b3fdfcece450be9e40c1cfc22ee3e54f4b6",
+      "heading_path": [
+        "Analysis",
+        "\"Lost\" poetry"
+      ],
+      "normalized_text": "In a few places, it is possible to relate the adapted verse in the prose to actual verse in Tolkien's legendarium. This can be done, for instance, in parts of the story of Túrin. Here, he realizes he has just killed his friend Beleg:",
+      "paragraph_ordinal": 7,
+      "passage_id": "passage_452655bffe917553ec746f01cd5f93cc6605e54e3f5b12dc97503c0246269a9c",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Beleriand&action=history",
+  "namespace": 0,
+  "page_id": 67008,
+  "parent_revision_id": 1341205943,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353943837",
+  "raw_wikitext": "{{Short description|Fictional Western region in Tolkien's legendarium}}\n{{Good article}}\n{{Use British English|date=May 2022}}\n{{Infobox fictional location\n| name         = Beleriand\n| series       = [[J. R. R. Tolkien]]'s [[Tolkien's legendarium|legendarium]]\n| type         = large region\n| blank_label  = Position\n| blank_data   = northwestern [[Middle-earth]] \n| locations    =  Arvernien, Doriath, Falas, Nargothrond, Nevrast, Ossiriand, Taur-im-Duinath\n| blank_label1 = Period\n| blank_data1  = Start of [[Years of the Trees]] to end of [[First Age]]\n| blank_label2 = Founder\n}}\n\nIn [[J. R. R. Tolkien]]'s fictional [[Tolkien's legendarium|legendarium]], '''Beleriand''' ({{IPA|sjn|bɛˈlɛ.ri.and}}) was a region in northwestern [[Middle-earth]] during the [[First Age]]. Events in Beleriand are described chiefly in his work ''[[The Silmarillion]]'': It tells the story of the early Ages of Middle-earth, in a style similar to that of the epics of Nordic literature—stories pervaded by a tone of impending doom. Beleriand also appears in the works ''[[The Book of Lost Tales]]'', ''[[The Children of Húrin]]'', and ''[[The Lays of Beleriand]]''.\n\nIn Tolkien's early writing, he coined many prospective names for the region. Among them were ''[[Brocéliande|Broceliand]]'', the name of an enchanted forest in medieval romance, and ''Ingolondë''—a play on the name ''England''—when he hoped to root [[a mythology for England]] in the region. The scholar [[Gergely Nagy (scholar)|Gergely Nagy]] looked at the prose of the ''Silmarillion'' and found what may be evidence of the structure and syntax of Beleriand's poetry.\n\n== Fictional history ==\n\n[[File:Downfall of Númenor.svg|thumb|upright=1.5|Beleriand was lost beneath the sea at the end of the [[First Age]].<ref name=\"Shippey 2005 p324\">{{harvnb|Shippey|2005|pp=324–328}}</ref> The outlines of the continents are purely schematic.]]\n\n{{further|Quenta Silmarillion}}\n\nEvents in Beleriand are described chiefly in the second half of the ''[[Quenta Silmarillion]]'',<ref group=T>{{harvnb|Tolkien|1977|loc=chs. 13–24}}</ref> which tells the story of the early ages of Middle-earth in a style similar to the epic hero tales of [[Norse mythology]].<ref>{{cite news |last=Gardner |first=John |title=Book Review: ''The Silmarillion'', ''The World of Tolkien'' |work=[[The New York Times]] |url=https://www.nytimes.com/1977/10/23/archives/the-world-of-tolkien-tolkien.html |date=23 October 1977}}</ref> Beleriand also appears in the works ''[[The Book of Lost Tales]]'',<ref>{{cite news |last=Tritel |first=Barbara |title=Book Review: ''The Book of Lost Tales'', Language and Prehistory of the Elves |work=[[The New York Times]] |url=https://www.nytimes.com/1984/05/27/books/language-and-prehistory-of-the-elves.html |date=24 May 1984}}</ref> ''[[The Children of Húrin]]'',<ref>{{cite news |last=Crace |first=John |author-link=John Crace (writer) |work=[[The Guardian]] |title=Book Review: ''The Children of Húrin'' by JRR Tolkien |url=https://www.theguardian.com/books/2007/apr/28/jrrtolkien.fiction |date=4 April 2007}}</ref> and in the epic poems of ''[[The Lays of Beleriand]]''.<ref name=\"Tolkien 1985\" group=T>{{harvnb|Tolkien|1985|loc=Preface}}</ref>\n\nThe land is occupied by [[Teleri]] [[Elves (Middle-Earth)|Elves]] of King [[Thingol]] from the east, who founded the city of {{Visible anchor|Menegroth}} in the [[Trees and forests in Middle-earth|forest realm]] of Doriath. Other Elves, the [[Vanyar]] and [[Noldor]], cross the [[Belegaer]] sea to [[Valinor]]. Some of the Noldor return to Beleriand to retrieve the [[Silmarils]] from the evil [[Valar|Vala]] [[Morgoth]], but they are resented by the Teleri. Later, [[Men (Middle-earth)|Men]] arrive from the east.{{sfn|Shippey|2005|p=268}} Morgoth gathers an army of [[Orc]]s, [[Balrog]]s and [[Tolkien's monsters|other monsters]] in his fortress of {{visible anchor|Angband}} beneath the {{Visible anchor|Thangorodrim}} mountains in the north of Beleriand, and attacks the Elves repeatedly. Despite the threat, Thingol refuses to fight alongside the Noldor. One by one, the realm of Doriath as well as the Noldor kingdoms Nargothrond and Gondolin fall to assaults, assisted by betrayals and disputes among Elves, Men, and [[Dwarves (Middle-earth)|Dwarves]].{{sfn|Shippey|2005|pp=287–296}} Finally, Eärendil crosses the Belegaer Sea to ask the Valar to stop Morgoth. They send an army to overcome Morgoth in the [[War of Wrath]]. This ends the  [[First Age]] of Middle-earth: Angband is destroyed, and Morgoth is banished to the void. Beleriand's inhabitants flee, and much of Beleriand sinks into the sea.<ref name=\"Voyage\" group=T>{{harvnb|Tolkien|1977|loc=ch. 24 Of the Voyage of Earendil and the War of Wrath}}</ref> Only a small section of the eastern edge of Beleriand survives, including part of the [[Ered Luin]] (Blue Mountain) range and the land of [[Lindon (Middle-earth)|Lindon]], which became part of the far northwestern shore of Middle-earth.<ref name=\"Foreword\" group=T/>\n\n== Fictional geography ==\n\n{{further|Geography of Middle-earth}}\n\n[[File:Sketch Map of Beleriand.svg|thumb|center|upright=3|Sketch map of Beleriand. The [[Ered Luin]] on the right of the map are on extreme left of the [[Geography of Middle-earth|map of Middle-earth]], marking the part of Beleriand not destroyed at the end of the [[First Age]].]]\n\nBeleriand is a region in the far northwest of [[Middle-earth]], bordering the great sea, [[Belegaer]]. It is bounded to the north by the Ered Engrin, the Iron Mountains, and to the east by the Ered Luin, the Blue Mountains.<ref name=\"Beleriand and its Realms\" group=T/>\n\n{| class=\"wikitable\" style=\"margin: 1em auto;\"\n|+ Places in Beleriand\n|-\n! scope=\"col\" style=\"width: 200px;\" | Place\n! scope=\"col\" style=\"width: 600px;\" | Description\n|-\n| Arvernien || The southernmost region of Beleriand, bordered on the east by the {{Visible anchor|Mouths of Sirion|text=Mouths of [[River Sirion|Sirion]]}}. It contained the [[birch]] forest of Nimbrethil, mentioned in the poem \"[[Song of Eärendil]]\", which [[Frodo Baggins|Frodo]] hears in [[Rivendell]]: \"Eärendil was a mariner / that tarried in Arvernien; / he built a boat of timber felled / in Nimbrethil to journey in; ...\"<ref name=\"Many Meetings\" group=T>{{harvnb|Tolkien|1954a|loc=book 2, ch. 1 \"Many Meetings\"}}</ref><ref group=T>{{harvnb|Tolkien|1977|loc=\"Index of Names\", \"Arvernien\"}}</ref>\n|-\n| {{Visible anchor|Dor Daedeloth}} (\"Land of the Shadow of Dread\") || Far to the north, the area around Morgoth's fortress of Angband under the peaks of Thangorodrim, and the Ered Engrin, the Iron Mountains.<ref name=\"Beleriand and its Realms\" group=T/>\n|-\n| {{Visible anchor|Doriath}} (\"Land of the fence\", i.e. the Girdle of [[Melian (Tolkien)|Melian]]) || The realm of the [[Sindar]], the Grey Elves of King [[Thingol]].<ref name=\"Beleriand and its Realms\" group=T/><ref group=T>{{harvnb|Tolkien|1977|loc=\"Index of Names\", \"Doriath\"}}</ref>\n|-\n| The {{Visible anchor|Falas}} (\"shore\") || The realm of [[Círdan]] the Shipwright and his Sindar Elves in the years of Starlight and the First Age of the Sun. They lived in two havens, {{Visible anchor|Eglarest}} at the mouth of the River Nenning, and {{Visible anchor|Brithombar}} at the mouth of the River Brithon. The Havens were besieged during the [[First Battle of Beleriand]]. When the Havens were destroyed, Círdan's people fled to the Mouths of Sirion and the Isle of Balar.<ref name=\"Sindar\" group=T>{{harvnb|Tolkien|1977|loc=ch. 10 \"Of the Sindar\"}}</ref>\n|-\n| [[Gondolin]] (\"hidden rock\") || A hidden city of Elves in the north of Beleriand, founded by [[Turgon of Gondolin|Turgon]], and hidden from [[Morgoth]] by mountains.<ref group=T>{{harvnb|Tolkien|1977|loc=\"Index of Names\", \"Gondolin\"}}</ref> \n|-\n| Hithlum (\"mist-shadow\") || The region north of Beleriand near the icy Helcaraxë. It contains Mithrim, where the High Kings of the [[Noldor]] had their halls, and Dor-lómin, later a fief of Men of the [[Húrin#Hador|House of Hador]]. Hithlum was cold and rainy, but fertile.<ref name=\"Beleriand and its Realms\" group=T/> It is bordered by mountains; to the east and south by the {{Visible anchor|Ered Wethrin}}, and to the west by the {{Visible anchor|Ered Lómin}}.<ref name=\"Map of Beleriand\" group=T>{{harvnb|Tolkien|1977|loc=Map of Beleriand and the lands to the north}}</ref>\n|-\n| {{Visible anchor|Lammoth}} || Shoreline west of the Ered Lómin. Named from [[Morgoth]]'s great cry while fighting [[Ungoliant]], the echoes of which ever lingered there.<ref name=\"Flight of the Noldor\" group=T>{{harvnb|Tolkien|1977|loc=ch. 9 \"Of the Flight of the Noldor\"}}</ref>\n|-\n| March of Maedhros || The northeastern border region of Beleriand. A great fortress was built on the hill of {{Visible anchor|Himring}}, the chief stronghold of [[Maedhros]], from which he guarded the area.<ref name=\"Beleriand and its Realms\" group=T>{{harvnb|Tolkien|1977|loc=ch. 14 \"Of Beleriand and its Realms\"}}</ref> It was the only fortress to survive the [[Dagor Bragollach]], the Battle of Sudden Flame; the forces of Angband captured it in the [[Nirnaeth Arnoediad]], the Battle of Unnumbered Tears.<ref group=T>{{harvnb|Tolkien|1994}}, \"The Grey Annals\", p. 77</ref> After the Drowning of Beleriand, the peak of Himring remained above the waves as an island.<ref group=T>See ''[[The Treason of Isengard]]'', p. 124 and note 18, and ''[[Unfinished Tales]]'', note on map in Introduction.</ref> The gap in the mountains to the south of this area was known as {{Visible anchor|Maglor's Gap}}.<ref name=\"Beleriand and its Realms\" group=T />\n|-\n| Nargothrond (\"underground fortress on the river Narog\") || Built by Finrod Felagund, delved into the banks of the river Narog in Beleriand.<ref name=\"Return of the Noldor\" group=T>{{harvnb|Tolkien|1977}}, ch. 13 \"Of the Return of the Noldor\"</ref>\n|-\n| Nevrast (\"hither shore\", as opposed to [[Aman (Middle-earth)|Aman]]) || A coastal region in the north of Beleriand; its city is Vinyamar.<ref name=\"Beleriand and its Realms\" group=T/> It was the centre of Turgon's Elven kingdom until people left for Gondolin.<ref name=\"Garth 2020\">{{harvnb|Garth|2020|p=65}}</ref>\n|-\n| {{visible anchor|Ossiriand}} (\"land of seven rivers\") || The most easterly region of Beleriand during the [[First Age]], between the Ered Luin and the river {{visible anchor|Gelion}}. It is a green and forested land.<ref name=\"Beleriand and its Realms\" group=T/> The rivers are the Gelion, and its six tributaries: {{visible anchor|Ascar}}, {{visible anchor|Thalos}}, {{visible anchor|Legolin}}, {{visible anchor|Brilthor}}, {{visible anchor|Duilwen}} and {{visible anchor|Adurant}}.<ref name=\"Map of Beleriand\" group=T />\n|}\n\n== Analysis ==\n\n=== Naming ===\n\n[[File:Idylls of the King 18 (detail).jpg|thumb|upright|Tolkien borrowed the [[Arthurian legend|Arthurian]] place-name [[Brocéliande]], an enchanted forest, for an early version of Beleriand.<ref name=\"Fimi 2007\"/> Detail of 1868 illustration by [[Gustave Doré]] ]]\n\n{{further|England in Middle-earth}}\n\nBeleriand had many different names in Tolkien's early writings, including [[Brocéliande|Broceliand]], the name of an enchanted forest in medieval romance,<ref name=\"Fimi 2007\">{{cite journal |last=Fimi |first=Dimitra |author-link=Dimitra Fimi  |title=Tolkien's 'Celtic type of legends': Merging Traditions |journal=[[Tolkien Studies]] |volume=4 |year=2007 |pages=53–72 |doi=10.1353/tks.2007.0015|s2cid=170176739 }}</ref> Golodhinand, Noldórinan (\"valley of the Noldor\"), Geleriand, Bladorinand, Belaurien, Arsiriand, Lassiriand, and Ossiriand (later used for the easternmost part of Beleriand).<ref group=T>{{Harvnb|Tolkien|1986|loc=\"Commentary on Canto I\"}}</ref>\n\nOne of Beleriand's early names was Ingolondë, a play on \"England\", part of Tolkien's long-held but ultimately unsuccessful aim to create what Shippey calls \"a mighty patron for his country, a foundation-myth more far-reaching than [[Hengist and Horsa|Hengest and Horsa]], one to which he could graft his own stories.\"{{sfn|Shippey|2005|pp=349–351}} Tolkien's aim had been to root his [[England in Middle-earth|mythology for England]] in the scraps of names and myths that had survived, and to situate it in a land in the northwest of the continent, by the sea.{{sfn|Shippey|2005|pp=349–351}}\n\n=== A sense of doom ===\n\n[[File:D. di Francesco - De verdrijving uit het paradijs (fragment) - NK1848 - Cultural Heritage Agency of the Netherlands Art Collection.jpg|thumb|upright=0.6|Men flee into Beleriand from the East: perhaps, Shippey writes, they were expelled from [[Garden of Eden|Eden]].{{sfn|Shippey|2005|p=268}} Painting by [[Domenico di Michelino|D. di Michelino]], c. 1460 ]]\n\nShippey writes that the ''Quenta Silmarillion'' has a tightly-woven plot, each part leading ultimately to tragedy. There are three Hidden Elvish Kingdoms in Beleriand, founded by relatives, and they are each betrayed and destroyed. The Kingdoms are each penetrated by a mortal Man, again all related to each other; and the sense of doom, which Shippey glosses as \"future disaster\", hangs heavy over all of the characters in the tale.{{sfn|Shippey|2005|pp=287–296}}\n\n{| class=\"wikitable\" style=\"margin: 1em auto;\"\n|+ [[Tom Shippey]]'s analysis of the Hidden Kingdoms of Beleriand{{sfn|Shippey|2005|pp=287–296}}\n|-\n! Hidden<br/>Kingdom \n! [[Elves in Middle-earth|Elvish]] Kings<br/>(all relatives) \n! Man who penetrates<br/>the Kingdom\n! Result \n|-\n| Nargothrond || [[Finrod]] || [[Túrin Turambar|Túrin]] \n| rowspan=3 | City destroyed\n|-\n| Doriath || [[Thingol]] || [[Lúthien and Beren|Beren]] <!--rowspan-->\n|-\n| [[Gondolin]] || [[Turgon of Gondolin|Turgon]] || [[Tuor and Idril|Tuor]] <!--rowspan-->\n|}\n\n{{Chart top|3 related Kings and 3 related intruders into their Hidden Kingdoms<ref name=\"Temp Silm\" group=T>{{harvnb|Tolkien|1977|loc=\"Of the Rings of Power and the Third Age\": Family Trees I and II: \"The house of Finwë and the Noldorin descent of Elrond and Elros\", and \"The descendants of Olwë and Elwë\"}}</ref><ref name=\"Temp RotK\" group=T>{{harvnb|Tolkien|1955|loc=Appendix A: Annals of the Kings and Rulers, I The Númenórean Kings}}</ref>|collapsed=no}}\n{{Tree chart/start}}\n{{Tree chart |MEL |y|THI | |BEO | | | |HAL | |HAD | |FIN |y|IND | |FIN=[[Finwë]]<br/>of&nbsp;the&nbsp;[[Noldor]]|IND=Indis<br/>of&nbsp;the&nbsp;[[Vanyar]]|HAD='''''House<br/>of Hador'''''|HAL='''''House<br/>of Haleth'''''|BEO='''''House<br/>of Bëor'''''|THI=[[File:Icon crown.png|20px]]<br/>'''[[Thingol|THINGOL]]'''<br/>of&nbsp;the&nbsp;[[Teleri]]<br/>(Doriath)|MEL=[[Melian (Middle-earth)|Melian]]<br/>the [[Maia_(Middle-earth)|Maia]]\n|boxstyle_FIN = background-color: #b8e186\n|boxstyle_IND = background-color: #b8e186\n|boxstyle_HAD = background-color: #fff\n|boxstyle_HAL = background-color: #fff\n|boxstyle_BEO = background-color: #fff\n|boxstyle_THI = background-color: #b8e186\n|boxstyle_MEL = background-color: #f1b6da\n}}\n{{Tree chart | | | |!| | | |F|~|A|~|7| | | |:| | | |:| | | |,|-|^|-|.|}}\n{{Tree chart | | | |!| | |BAR | |BEL | |HAR |y|GAL | |FIN | |FIA |  | |FIN=[[Fingolfin]]|FIA=Finarfin|GAL=Galdor|HAR=Hareth|BAR=Barahir|BEL=Belegund\n|boxstyle_FIN = background-color: #b8e186\n|boxstyle_FIA = background-color: #b8e186\n|boxstyle_GAL = background-color: #fff\n|boxstyle_HAR = background-color: #fff\n|boxstyle_BAR = background-color: #fff\n|boxstyle_BEL = background-color: #fff\n}}\n{{Tree chart | | | |!| | | |!| | | |!| | | |,|-|^|-|.| | | |!| | | |!|}}\n{{Tree chart | | |LUT|~|BER | |RIA |y|HUO | |HUR | |TUR | |FRD| | |TUR=[[File:Icon crown.png|20px]]<br/>'''[[Turgon of Gondolin|TURGON]]'''<br/>([[Gondolin]])|FRD=[[File:Icon crown.png|20px]]<br/>'''[[Finrod|FINROD]]'''<br/>(Nargothrond)|HUO=Huor|HUR=[[Húrin]]|BER=[[File:Sword arm.png|18px]]<br/>'''[[Beren|BEREN]]'''|LUT=[[Lúthien]]|RIA=Rían\n|boxstyle_TUR = background-color: #b8e186\n|boxstyle_ELE = background-color: #b8e186\n|boxstyle_HUO = background-color: #fff\n|boxstyle_HUR = background-color: #fff\n|boxstyle_FRD = background-color: #b8e186\n|boxstyle_BER = background-color: #fff\n|boxstyle_RIA = background-color: #fff\n|boxstyle_LUT = background-color: #b8e186\n}}\n{{Tree chart | | | | | | | | | | | | | |!| | | | | |!| | | |!|}}\n{{Tree chart | | | | | | | | | | | | | |!| | | | |TUR | | |!| |TUR=[[File:Sword arm.png|18px]]<br/>'''[[Túrin Turambar|TÚRIN]]'''}}\n\n{{Tree chart | | | | | | | | | | | | | |!| | | | | | | | | |!|}}\n{{Tree chart | | | | | | | | | | | | |TUO |~|~|~|~|~|~|~|IDR | | | | IDR=[[Idril Celebrindal|Idril]]|TUO=[[File:Sword arm.png|18px]]<br/>'''[[Tuor|TUOR]]'''|NIM=Nimloth|DIO=Dior\n|boxstyle_IDR = background-color: #b8e186\n|boxstyle_TUO = background-color: #fff\n}}\n{{Tree chart/end}}\n\n{| class=\"wikitable\"\n|-\n|+ Key:\n|-\n! scope=\"row\" | {{color box|#b8e186}}\n| style=\"text-align:left\" | [[Elf (Middle-earth)|Elves]] || [[File:Icon crown.png|20px]] || King<br/>(Realm)\n|-\n! scope=\"row\" | {{color box|#fff}}\n| style=\"text-align:left\" | [[Man (Middle-earth)|Men]] || [[File:Sword arm.png|18px]] || Intruder\n|-\n! scope=\"row\" | {{color box|#f1b6da}}\n| style=\"text-align:left\" | [[Maia (Middle-earth)|Maiar]] ||   || \n|}\n{{Chart bottom}}\n\nShippey writes that the human race seen in Beleriand in the [[First Age]] did not \"originate 'on stage' in Beleriand, but drifts into it, already sundered in speech, from the East [the main part of Middle-earth]. There something terrible has happened to them of which they will not speak: 'A darkness lies behind us... and we have turned our backs upon it'\".{{sfn|Shippey|2005|p=268}} He comments that the reader is free to [[Christianity in Middle-earth|assume the Christian interpretation]] that the Satanic [[Morgoth]] has carried out the [[Satan|Biblical serpent]]'s temptation of [[Adam and Eve]], and that \"the incoming [[Edain]] and [[Easterling (Middle-earth)|Easterlings]] are all descendants of Adam flying from [[Garden of Eden|Eden]] and subject to the curse of [[Tower of Babel|Babel]].\"{{sfn|Shippey|2005|p=268}}\n\n{{anchor|Lost poetry}}\n\n=== \"Lost\" poetry ===\n\n{{see also|Tolkien's poetry|The Lays of Beleriand}}<!--2017-->\n\nThe Tolkien scholar [[Gergely Nagy (scholar)|Gergely Nagy]], writing in 2004, notes that ''The Silmarillion'' does not contain explicitly embedded samples of Beleriand's poetry in its prose<!--written by CJRT as much as by JRRT, see [[The Silmarillion#Editorial intervention]]-->, as Tolkien had done with his many [[Poetry in The Lord of the Rings|poems in ''The Lord of the Rings'']]. Instead, the prose of ''The Silmarillion'' hints repeatedly at the structure and syntax of its \"lost\" poetry. Nagy notes [[David Bratman]]'s description of the book as containing prose styles that he classifies as \"the Annalistic, [the] Antique, and the Appendical\". The implication of the range of styles is that ''The Silmarillion'' is meant to represent, in [[Christopher Tolkien]]'s words, \"a compilation, a compendious narrative, made long afterwards from sources of great diversity (poems, and annals, and oral tales)\".<ref name=\"Nagy 2004\"/><ref name=\"Foreword\" group=T>{{harvnb|Tolkien|1977|loc=Foreword}}</ref> Nagy infers from verse-like fragments of text in ''The Silmarillion'' that the poetry of Beleriand used [[alliteration]], [[rhyme]], and [[Metre (poetry)|rhythm]] including possibly [[Iambic pentameter|iambic]]s.<ref name=\"Nagy 2004\">{{cite journal |last=Nagy |first=Gergely |author-link=Gergely Nagy (scholar) |title=The Adapted Text: The Lost Poetry of Beleriand |journal=[[Tolkien Studies]] |volume=1 |issue=1 |year=2004 |doi=10.1353/tks.2004.0012 |pages=21–41 |s2cid=170087216 |doi-access=free }}</ref>\n\nThis applies to the [[Ainulindalë]], Tolkien's account of the godlike [[Ainur in Middle-earth|Ainur]]:\n\n{| class=\"wikitable\" style=\"margin: 1em auto;\"\n|+ [[Gergely Nagy (scholar)|Gergely Nagy]]'s analysis of poem-like prose in the [[Ainulindalë]]<ref name=\"Nagy 2004\"/>\n|-\n! scope=\"col\" style=\"width: 350px;\" | Ainulindalë,<ref name=\"Ainulindalë\" group=T>{{harvnb|Tolkien|1977|loc=[[Ainulindalë]]}}</ref> with Nagy's emphasis\n! scope=\"col\" style=\"width: 250px;\" | Nagy's commentary\n|-\n| style=\"vertical-align: top;\" |<poem>'''and''' they built lands '''and''' ''Melkor destroyed them'';\nvalleys they delved '''and''''' Melkor raised them up'';\nmountains they carved '''and''' ''Melkor threw them down'';\nseas they hollowed '''and''' ''Melkor spilled them'';</poem> \n| Prose adapted from poetry, with \"rhetorics\" and \"stricter syntactic patterns\"; [[parataxis]] and balanced clauses \"bearing a structural and thematic similarity\"\n|}\n\nIt applies, too, to the narrative of Elves and Men in the Beleriand landscape, in the ''Quenta Silmarillion'':\n\n{| class=\"wikitable\" style=\"margin: 1em auto;\"\n|+ Nagy's analysis of poem-like prose in the ''[[Quenta Silmarillion]]''<ref name=\"Nagy 2004\"/>\n|-\n! scope=\"col\" style=\"width: 350px;\" | Poem-like prose<ref name=\"Noldor in Beleriand\" group=T>{{harvnb|Tolkien|1977|loc=ch. 15 Of the Noldor in Beleriand}}</ref> with Nagy's emphasis\n! scope=\"col\" style=\"width: 250px;\" | Nagy's commentary\n|-\n| style=\"vertical-align: top;\" |<poem>But there was a '''d'''eep '''w'''ay under the mountains\n'''d'''elved in the '''d'''arkness of the '''w'''orld\nby the '''w'''aters that flowed out\nto join the '''s'''treams of '''S'''irion.</poem> \n| style=\"vertical-align: top;\" | \"[[Alliteration]] and rhythm are beautifully seen together\"\n|}\n\nIn a few places, it is possible to relate the adapted verse in the prose to actual verse in [[Tolkien's legendarium]]. This can be done, for instance, in parts of the story of [[Túrin Turambar|Túrin]]. Here, he realizes he has just killed his friend [[Beleg]]:<ref name=\"Nagy 2004\"/>\n\n{| class=\"wikitable\" style=\"margin: 1em auto;\"\n|+ Nagy's analysis of adapted verse lines in the ''[[Quenta Silmarillion]]''<ref name=\"Nagy 2004\"/>\n|-\n! scope=\"col\" style=\"width: 400px;\" | \"Adapted verse lines\"<ref name=\"Túrin Turambar\" group=T>{{harvnb|Tolkien|1977|loc=ch. 21 Of Túrin Turambar}}</ref> with Nagy's emphasis\n! scope=\"col\" style=\"width: 350px;\" | [[The Lay of the Children of Húrin|The verse ''Túrin'']] (1273–1274)\n! scope=\"col\" style=\"width: 350px;\" | Nagy's commentary\n|-\n| style=\"vertical-align: top;\" |<poem>Then Túrin '''st'''ood '''st'''one '''st'''ill and '''s'''ilent, '''st'''aring\non that '''dr'''eadful '''d'''eath, knowing what he had '''d'''one.</poem> \n| style=\"vertical-align: top;\" | <poem>'''st'''one-faced he '''st'''ood &nbsp; &nbsp; '''st'''anding frozen\non that '''dr'''eadful '''d'''eath &nbsp; &nbsp; his '''d'''eed knowing</poem> \n| \"Nearly all the alliterating words, together with the alliteration pattern itself, doubtless derive from the poem; the imagery and to some extent the very phrasing of this very moving central scene ... [are] virtually unchanged.\"\n|}\n\n== See also ==\n\n* [[Belerion]]\n\n== References ==\n\n=== Primary ===\n\n{{reflist|group=T|28em}}\n\n=== Secondary ===\n{{reflist|28em}}\n\n== Sources ==\n\n* {{cite book |last=Garth |first=John |author-link=John Garth (author) |title=The Worlds of J. R. R. Tolkien: The Places that Inspired Middle-earth |title-link=The Worlds of J. R. R. Tolkien |publisher=[[Frances Lincoln]] |location=London |year=2020 |isbn=978-0-7112-4127-5 |oclc=1181910875}}\n* {{ME-ref|ROAD}}         <!--Shippey 2005-->\n* {{ME-ref|FOTR}}         <!--1954a-->\n* {{ME-ref|ROTK}}         <!--1955-->\n* {{ME-ref|Silmarillion}} <!--1977-->\n<!--* {{ME-ref|UT}}    --><!--1980-->\n* {{ME-ref|Lays}}         <!--1985-->\n* {{ME-ref|Shaping}}      <!--1986-->\n* {{ME-ref|WotJ}}         <!--1994-->\n\n== External links ==\n\n* [https://web.archive.org/web/20060512052308/http://www.ebookbroadcast.com/ebooks/parma_endorion.pdf Parma Endorion: Essays on Middle-earth] (3rd edition) by [[Michael Martinez (Tolkien scholar)|Michael Martinez]]\n\n{{Middle-earth}}\n{{Authority control}}\n\n[[Category:Fictional story elements introduced in 1977]]\n[[Category:Middle-earth regions]]\n\n[[de:Regionen und Orte in Tolkiens Welt#Beleriand]]\n[[simple:Middle-earth locations#Beleriand]]",
+  "redirect_chain": [
+    {
+      "source_title": "Falas",
+      "target_title": "Beleriand"
+    }
+  ],
+  "revision_id": 1353943837,
+  "revision_timestamp": "2026-05-13T09:18:53Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional geography"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional geography"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: table",
+      "structure_type": "table"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Naming"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Naming"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Naming"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "A sense of doom"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "A sense of doom"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "A sense of doom"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: table",
+      "structure_type": "table"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "A sense of doom"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: table",
+      "structure_type": "table"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "A sense of doom"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: table",
+      "structure_type": "table"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "A sense of doom"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: table",
+      "structure_type": "table"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "A sense of doom"
+      ],
+      "paragraph_ordinal": 7,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "A sense of doom"
+      ],
+      "paragraph_ordinal": 8,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "\"Lost\" poetry"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "\"Lost\" poetry"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "\"Lost\" poetry"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: table",
+      "structure_type": "table"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "\"Lost\" poetry"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: table",
+      "structure_type": "table"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "\"Lost\" poetry"
+      ],
+      "paragraph_ordinal": 8,
+      "reason": "excluded by extractor policy: table",
+      "structure_type": "table"
+    },
+    {
+      "heading_path": [
+        "See also"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: list",
+      "structure_type": "list"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "External links"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "External links"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "External links"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "External links"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

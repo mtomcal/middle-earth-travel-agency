@@ -1,0 +1,1063 @@
+{
+  "articles": [
+    {
+      "article_artifact_id": "article_04bca56fb73e830f1908e048ad6671216e2af97892b5d91480dca8ee46842352",
+      "artifact_sha256": "f136ed0c625c2f69a20362b219e85587015e33777e630bf44804af38193dd991",
+      "canonical_title": "Aragorn",
+      "lore_passage_ids": [
+        "passage_2848f46126ff06c152afd2669d8b27292ade954769215e0afe8bad0d0aec5602",
+        "passage_7c381bb62dbd2dcbd2e7225d0cef6ba2f0aa702509f3116b25e53f6964f8e998",
+        "passage_c68771dcd35568e587283d7cb7f5e18e60a04771618c14da22f2232cda20867f",
+        "passage_8f619d058054fdaf9c8df922940dfda795453d0efde3273acb74ff8067c78221",
+        "passage_20586c51a31c42e7c704caaaeb4836695f7959b2437b9e337036b9f899d5f23d"
+      ],
+      "page_id": 23139489,
+      "revision_id": 1361189261,
+      "revision_timestamp": "2026-06-26T07:16:20Z"
+    },
+    {
+      "article_artifact_id": "article_09fbe31cc1da4059ac96a29f55a6b74fd1299706052dfdc35d2c58ce55b16c9b",
+      "artifact_sha256": "73db1186ca06d9bc25a4a43d1c8a08585fc7a3a79e6e04373ff4d94876f4986e",
+      "canonical_title": "Arwen",
+      "lore_passage_ids": [
+        "passage_6331f6105d7337d1bd779231dbd674502d4d8f26529a542b69dc7b5ce5ece856"
+      ],
+      "page_id": 63463,
+      "revision_id": 1338449195,
+      "revision_timestamp": "2026-02-15T06:07:36Z"
+    },
+    {
+      "article_artifact_id": "article_69857afd74eca65b65a4fc492c5daa241d25ddcafab5b1658e589e86571012c6",
+      "artifact_sha256": "57354c3825118102e0c327ac5fa916e910f8e14dbbd1265546928a53b88de3b5",
+      "canonical_title": "Bard the Bowman",
+      "lore_passage_ids": [
+        "passage_1360311e0a2b6989100d0fffd77a269215cce78b63a061219528ae26cc1cd607"
+      ],
+      "page_id": 58100,
+      "revision_id": 1362034163,
+      "revision_timestamp": "2026-07-01T15:24:44Z"
+    },
+    {
+      "article_artifact_id": "article_84af469d83ad008ea560e957ba3394bd91fddf09a479aeffd8588c82dd5a51f9",
+      "artifact_sha256": "0a0a24e7c9ae902712b922226fe6a4a09b7188c36a977213283f063d08db5604",
+      "canonical_title": "Battle of Helm's Deep",
+      "lore_passage_ids": [
+        "passage_ddca3cb589233714470d6e1fa3628614a460aec19b81a286ad1319b7d62ad4f6",
+        "passage_f432cca5eb39d1e1f8050cf4f56810b47bcaf069d5ffc8c9664e774acb5e71bf",
+        "passage_f277b8eb4046c303ffa2fda56a3d8d8cd32d12dcb55e2288006db671e519ecbd",
+        "passage_1e4067a9580322f1cb2fa54465fdc7fc8dbeddaf5e4231075c556c865fb0164e",
+        "passage_48e8b7ae968d7c8b74f4e850ef39c72af12a8892a4967148cec77c004c9387cb",
+        "passage_8a411d95d78a08b6023d2e63063873cd2043fca4a8c00c21b21ebb35d6e76ff0",
+        "passage_a890975d0f8955c5c22505e8f71b721402ae00d4e3f2f50b587e08bfb8aea019"
+      ],
+      "page_id": 173616,
+      "revision_id": 1358526773,
+      "revision_timestamp": "2026-06-09T07:07:07Z"
+    },
+    {
+      "article_artifact_id": "article_dccc324d71ed3416548bb2705aaebc3368321662f36e1e05ae7f94abbba53a20",
+      "artifact_sha256": "d04d52c7050b25af7e3d800d2bc9e8a44292ad5bd56be056f3da1fba54152d79",
+      "canonical_title": "Battle of the Morannon",
+      "lore_passage_ids": [
+        "passage_3fea78609a806739436fadb90d91a59394464e93d13d14ec885f809aeb7ba1d5",
+        "passage_1205c02c7ae9b75cd7b8253ea217d7cd531acc146566b57ebe4c999d6d25c18c",
+        "passage_82a46cde1a4c325dcac046840c0fecb276a0a7cb8e6bac0424839f4c6182d279"
+      ],
+      "page_id": 766996,
+      "revision_id": 1338302567,
+      "revision_timestamp": "2026-02-14T09:36:26Z"
+    },
+    {
+      "article_artifact_id": "article_ec39be3c90baad658d38e764ef48bc24322d4fdeece78f5a4800889157b296a2",
+      "artifact_sha256": "be7e26cf4701600fdabc0c2f71a574c0d9aecf6b6b7f5473c93aa734bdc1013b",
+      "canonical_title": "Battle of the Pelennor Fields",
+      "lore_passage_ids": [
+        "passage_fe5e1ef03ecd0ea0f426ea745cd25eb2dacecedf67d30241f51179aa7a779e53",
+        "passage_005033b4446c3e372fd9cf38e78bcff459ef171e2230cee11c6995aa46230634",
+        "passage_df7ca625e65b5fdbe46d116cb3fba7acf7cd75a9821daf95ec95045c2244cc4d",
+        "passage_464b301a0b822f177bcadcb56c8ff6913ef5419f9a6ffb150af03ef4930a54b5",
+        "passage_bac1edca70491adbea6ebd60d8bfe3cd9dfef5231cb9f2b951a68009d31ca878",
+        "passage_e2f25ce5188a7d76407225471da1033dfa6c4eb984f83cd6d2b7846780ca9560"
+      ],
+      "page_id": 338940,
+      "revision_id": 1362362459,
+      "revision_timestamp": "2026-07-03T12:59:20Z"
+    },
+    {
+      "article_artifact_id": "article_09eb0763336ec388c3bf410f25f65b3fdfcece450be9e40c1cfc22ee3e54f4b6",
+      "artifact_sha256": "d735a72b1022bdeaca21e0409f37b2b7be4a9338d6458da155932c20b8262b42",
+      "canonical_title": "Beleriand",
+      "lore_passage_ids": [
+        "passage_d91d6846f0c8a1d13ecd4b976353a249a74ad413949aa130d20e9b9e1bc5e8ae"
+      ],
+      "page_id": 67008,
+      "revision_id": 1353943837,
+      "revision_timestamp": "2026-05-13T09:18:53Z"
+    },
+    {
+      "article_artifact_id": "article_22b83953edf338ca87211ae59463a952361021ed52ec2e41bef58444e5b64022",
+      "artifact_sha256": "c38272650d73377d421be87449fa7826a189985e2098b476d3798f4836f0158d",
+      "canonical_title": "Beorn",
+      "lore_passage_ids": [
+        "passage_caa6bcda94862c350630fe596660b46ef32b9a877cbe736458b2a88718ea5250",
+        "passage_4c8d1c66b58d6c75913827d065a42638e2d03cc4b5043be97176256df5640f2a",
+        "passage_e7550212c6b209b53fd93b29e62c8d715d4f8ddaca5e81b11385c5b852a5f2c9"
+      ],
+      "page_id": 58102,
+      "revision_id": 1361188915,
+      "revision_timestamp": "2026-06-26T07:11:16Z"
+    },
+    {
+      "article_artifact_id": "article_012cdf52afa640e9c6b34d03562341d7dd8ccf94cdd269fcd77a8bb67183197a",
+      "artifact_sha256": "f191b47fc9d52bf2563197e6ee3d5e386a06ffce4bc07d539714f9342c183433",
+      "canonical_title": "Boromir",
+      "lore_passage_ids": [
+        "passage_1cbc40ac40853d82cf2b93735ee4bc165e456fd095bd8d8b7fe6a905eceeff49",
+        "passage_5c71e29b06a77d5eb40fef15b26f69c284072df8694a39030bea33270194fa3c",
+        "passage_9709fe8f54b6d7b80b0939729d3d6b25793fdb843cdc7b6f040c63163065aa31"
+      ],
+      "page_id": 61599,
+      "revision_id": 1361189206,
+      "revision_timestamp": "2026-06-26T07:15:35Z"
+    },
+    {
+      "article_artifact_id": "article_0293027aa33d62a9a3371134802625722baeb3c950f0c1fbf53991855875d4d7",
+      "artifact_sha256": "5a67abfd507367ff057cc870bf930cd418eca98ca51a29dd52c01af10226f83e",
+      "canonical_title": "Denethor",
+      "lore_passage_ids": [
+        "passage_9b1aa84909139eec31b0fa35944fcbede350bc51a521f80b4f2cd1915e1e217b"
+      ],
+      "page_id": 61597,
+      "revision_id": 1361188900,
+      "revision_timestamp": "2026-06-26T07:11:03Z"
+    },
+    {
+      "article_artifact_id": "article_95c35c113188301ebc45b546e29910022281acf437e3682f57d1f111d9acb113",
+      "artifact_sha256": "a4f5ff6b72ae55da7a246a80bfda84cf835cf4f6d22d4c5a224cbe148d1618b0",
+      "canonical_title": "Drúedain",
+      "lore_passage_ids": [
+        "passage_1638ad72ea02e66707e8e89bee447c1a64c0c09f44aefb4792c1669d3ff04342",
+        "passage_b35db3e13f302f6b643988abf4b7dbc9a6342c34b8535a210376c13ac7dd8565",
+        "passage_a8ce7924c29d1324c3e89091e5bda036b1bc48d483e31a8f10a719707fb58e4b",
+        "passage_77bad8c8dea4e84ac63d8611052da25084454b022efe233ca09c7b2c79d87769"
+      ],
+      "page_id": 421278,
+      "revision_id": 1358629339,
+      "revision_timestamp": "2026-06-09T23:06:57Z"
+    },
+    {
+      "article_artifact_id": "article_4304f9be5d316eaaf553759e9a99ca3ed99bcccfcc98b441ca1c02014aaf58b0",
+      "artifact_sha256": "87d9e8f98eb6b46f1308b0c1636b2925ebbe82d499a145e6de1db4add167b16f",
+      "canonical_title": "Elendil",
+      "lore_passage_ids": [
+        "passage_875df56d3f617c61fab632f5aac972eaf6318db0fa67d1574becf213cd044aa1"
+      ],
+      "page_id": 145662,
+      "revision_id": 1361189010,
+      "revision_timestamp": "2026-06-26T07:12:30Z"
+    },
+    {
+      "article_artifact_id": "article_bcc463933eeb9601fe085cdc07b42678573f22933e4ebde61d5f9d2c51a1280f",
+      "artifact_sha256": "ad89b47dd86789440eb808b41b112e390df029ad0852eab86c1ee747e65b754f",
+      "canonical_title": "Ent",
+      "lore_passage_ids": [
+        "passage_7846d3bc8262e7364f09c1e5072e8d21ab5de9851bee2906ae4ed4d24477b7b7",
+        "passage_092cc59b3701dd6aa026af20de7dff3a2f4f6a1fa71fab83f60c81e56d0d3782",
+        "passage_6ff8607e724c3314cae1d576300e38dd6db8190ae3c7c21de98611768a5f3b02",
+        "passage_934eab9364bac60f28f787870cdbde140a484ce75c0c5a35df54902d456a8d0e",
+        "passage_b0abbd98e0c62dbedd93baed28777365638ef719f266ca7ccf141db6f3b5338b",
+        "passage_d925e05efe3e346b1a04bb2c110e376f28f95ece6a2496986fec9ff8f9b105f9"
+      ],
+      "page_id": 2403435,
+      "revision_id": 1358629405,
+      "revision_timestamp": "2026-06-09T23:07:38Z"
+    },
+    {
+      "article_artifact_id": "article_bcd026b0b9c3daa0cae4c8a16ca614acf2c1ee6b4f08b43439deb97886aeca13",
+      "artifact_sha256": "387989137eab690a62408a30e58872b285acecc2267723872e938bf0cb3f0bb9",
+      "canonical_title": "Faramir",
+      "lore_passage_ids": [
+        "passage_4c498d797a56c77c67a8f4447c578475bddc13d51cdf567bcd1166e3d1979c8b",
+        "passage_d5eea4307f4128837bf0a409af379ad89247b9ae44f27e9fce5d9506fde41a0f",
+        "passage_78ffcf0bf8d83af3dec8930a0b74113910e29f4b51c8bc3c9ae4bccb0d3b275e"
+      ],
+      "page_id": 21786170,
+      "revision_id": 1361188887,
+      "revision_timestamp": "2026-06-26T07:10:47Z"
+    },
+    {
+      "article_artifact_id": "article_e9393aaa5201a97325da65cc3a1e46a812fc36a02ac715db5d493153af1a5ce2",
+      "artifact_sha256": "7006225738f1026700ae063ee4cd54e271d606449938bb06df36a44f1ace7399",
+      "canonical_title": "Forests in Middle-earth",
+      "lore_passage_ids": [
+        "passage_81287dcd080c8660b3a9e9b156e18503f9e1375295b7658355a9b62adb0183b3"
+      ],
+      "page_id": 63967265,
+      "revision_id": 1358629633,
+      "revision_timestamp": "2026-06-09T23:09:44Z"
+    },
+    {
+      "article_artifact_id": "article_aeb4e655ca41e804ce6b6ed486e6207af6c202f490f8df317dd553b2bf9e0b72",
+      "artifact_sha256": "0fa371b02855e4c5b641fc2fdaf856f5623225a65b3b7b74375b37ebf8f39734",
+      "canonical_title": "Frodo Baggins",
+      "lore_passage_ids": [
+        "passage_c78e3c3787f981be8dc87fa7a1f540d746402b6254446fff09f6647f9606d494"
+      ],
+      "page_id": 23140032,
+      "revision_id": 1361189291,
+      "revision_timestamp": "2026-06-26T07:16:37Z"
+    },
+    {
+      "article_artifact_id": "article_85a418125432303c34dd874f82115294edd03dae1a7ea9492172430b04a720ad",
+      "artifact_sha256": "19fc9716ff69db1d7e426bdda7cff23cf1779c5a54e81c510b05f1d6a7a09981",
+      "canonical_title": "Galadriel",
+      "lore_passage_ids": [
+        "passage_96fd341cc648f221ecd4807655b5c6ee8dfda058546e40b1746b4750930ed7e0",
+        "passage_bc8edbf221ea2f992330041d713faecb2e623f647beae3ce853af73ab68d61b6",
+        "passage_bb60e78c45dd90a929d10733229828806f4512d8fa9b8e31e7da57111e9889f6",
+        "passage_315419bf5d2d667971246f71a0e0eafaa40a845814c10ed0c557ea3bcc1e6974"
+      ],
+      "page_id": 23140073,
+      "revision_id": 1361188994,
+      "revision_timestamp": "2026-06-26T07:12:19Z"
+    },
+    {
+      "article_artifact_id": "article_bb9397290f2b89f4dabf7c8107f6e3c8ee2d953a5e3bf869f2241f208b35405a",
+      "artifact_sha256": "46f5ab62251ff0321274e4acc6990437160d5b3e7404a8177e7bfee1e0c00014",
+      "canonical_title": "Gandalf",
+      "lore_passage_ids": [
+        "passage_bba07911c34a1728db61175bfa3c0a22743596fb0d0f9353508515f1cdfa60a0",
+        "passage_d88d7906a08083aaf73c8365fbfe84acf6b23c35ad361b4af565d5cd6c17cc26",
+        "passage_0bb40d1150b41f5bb2968525c177293033fd61a3ff22a135e6d71b2c9d87df7a",
+        "passage_7189303bcc3e157e75999332dd8224263a46998c51e7dcc51b92ede51b5cbd9b",
+        "passage_819b273339af9ed34c9f6059408b1414f2c8aa9463ddc68ee3c0a598fbaeb4ab",
+        "passage_45fa854e52db61e282bffc257e0273d7d655f91aebcfe64423006f36ffd1a7d9",
+        "passage_a2958e34ca22bee3549d1ed595f6e879a670ff6fde8af2a87eb42b25b3363c64",
+        "passage_36f048bb016299e64927410eb21967f178e0c5098d962758741423d1af9899ef",
+        "passage_3398ad6b1e3c11cf3967b83522a49de8de9f3d5e101462134193109d2770e312",
+        "passage_51693706ebffacc147aba828ce782be46d68f61c7925d5ed26b6540891f70c9c",
+        "passage_f9526d0d1a46af88a3fcca0521dae5dc607634aa083c0484fdf8bfd124101ab6"
+      ],
+      "page_id": 53221,
+      "revision_id": 1362034182,
+      "revision_timestamp": "2026-07-01T15:24:46Z"
+    },
+    {
+      "article_artifact_id": "article_3c60963ca86aed72921c8a1512c405a616ce126e4374746dc4c91ac7bfd61eee",
+      "artifact_sha256": "9022c7e48f2801ed7a9fe89e6daa524a3c5a0a79b45344861b7b8f4a802bbc11",
+      "canonical_title": "Glorfindel",
+      "lore_passage_ids": [
+        "passage_bf71529b826b59c43718f7da415b1b74ba4f92bf40b4cfee3f1d065f684c665d",
+        "passage_a0f170df51817138773191c7ca5d5a2ed32d6cc16b83f30007df67bfd9a92921",
+        "passage_c23e4bb10cf250ef3fbed93c1e0927c6d74e9908eee7adf61af83649f843ac85",
+        "passage_004c40e872fb857530386b98a7f3cd9637fceea6768fd2eb2a32dc3fcd00e12f"
+      ],
+      "page_id": 63943,
+      "revision_id": 1359044140,
+      "revision_timestamp": "2026-06-12T18:18:56Z"
+    },
+    {
+      "article_artifact_id": "article_d85eb0311318dc58825f3de10e460bc2762303fe527a42412ccd172e9fcbe27f",
+      "artifact_sha256": "5744f654871b2c36483af754239784a956dfb6536662599205506e3b93347b77",
+      "canonical_title": "Gollum",
+      "lore_passage_ids": [
+        "passage_cdc09b8014fa1ffd0058c794f48d2f99d6d84de22ad51ded75bb42799a17c540",
+        "passage_c58e69661b32d6ea297404b6994c9ce33b5f632ccd9a1982183ff6971d2ab20f",
+        "passage_b32552e1364b617d303b7dfcfbfd555608f536285574f0ccd9856b05829d13a1",
+        "passage_b6bee6416a8958ef7d36257bec7b2591ecac0db17e6e640bb238275a2d65d170",
+        "passage_90a77f6810fcb76e47365157acea42bfd89095f4192d9e03f5ee679664d35b31",
+        "passage_93946ed184b1be493e965b440b6530b2ef64599d98140d6fc9ffcf2765ce252c",
+        "passage_d1e9baae69d5afda628cc4c9835ae4af90c26b11e216daf7638c78bcd8da9319",
+        "passage_da267ce0ac13e537fb600a7c876fdccd2dc7df216a46d5836eda7fc80fb63f62"
+      ],
+      "page_id": 18600328,
+      "revision_id": 1361322556,
+      "revision_timestamp": "2026-06-27T05:02:34Z"
+    },
+    {
+      "article_artifact_id": "article_dac75c7f55142e6cebbe5a1ca08c32cf6a93ce4de491f770df8d9727a3afe658",
+      "artifact_sha256": "d71ce7051b2dd8325a80a483e3f45c3fb397f4d2d4c1fde98d99015cd147cdcf",
+      "canonical_title": "Gondolin",
+      "lore_passage_ids": [
+        "passage_4f744bc60e61aa72bc7b75c7eba1f8fd9f3f83dca2963bed65b543fb8320ce73"
+      ],
+      "page_id": 214616,
+      "revision_id": 1337576954,
+      "revision_timestamp": "2026-02-10T08:09:17Z"
+    },
+    {
+      "article_artifact_id": "article_1facac05614f6c4a02bc7599979608013f8b855d810a5c83fc3bdefcf94ed59f",
+      "artifact_sha256": "777041dc8575da246ba60a3a5ebb61ec452641a49ba5912e55ec5deebe53b531",
+      "canonical_title": "Gondor",
+      "lore_passage_ids": [
+        "passage_69630156e4b6c34cdbcf0ed7f2f8bfc242055b948534467f0695f70322d25ff7",
+        "passage_a640c3e134b3bb0aa40bab53bbcb477e6ce0ed9d1530eb41c2b7511d9fdbe14c",
+        "passage_73ba1c2179b477667935bc63afd9f7f2c83c3e46d07be5b6634b52f50dde1eab"
+      ],
+      "page_id": 61603,
+      "revision_id": 1362362351,
+      "revision_timestamp": "2026-07-03T12:58:31Z"
+    },
+    {
+      "article_artifact_id": "article_0141556bc156931ea2b4d975980b3a00013fbd3bd979cbaebdcc08f63fe6f7f7",
+      "artifact_sha256": "e4cd40157618849c1b734aa950f9b9467557e05474942e67c3d7de5bb97cac5d",
+      "canonical_title": "History of Arda",
+      "lore_passage_ids": [
+        "passage_e961744d284c8ab45d239954c68a1caa0c9b3f5c8573785354a840f3199a6121",
+        "passage_8f0492a6768f90937a3a8493ef537a8158002ca2691ec5396925104a452a7660",
+        "passage_1e1b9219a105b0f10b9ea1f5e8ffe06d446ae62d1b1acf3eb03e891872d21008",
+        "passage_07058eb6239df086feb34f84b9a6ec1b07695a06822c314e0c7a8a0596368267",
+        "passage_b650797b90f31457ab1ddc59a53ee52610387f5330bfad8eccdfea4c5c3fc326",
+        "passage_2f3d4f6b4936b65ea4378ff2b685cc08acf4a4302efc8a6014068d07e4e708c1",
+        "passage_039470affe9dc665c38734b224857dd3babfeb6b078006adebf317b0bc912b0e",
+        "passage_0e39706c45f9b4d43647d85549519ec791b69809d6a81295af93a7e5e35d5bfa",
+        "passage_7d3f4589e91e3a44a24c965da7576e00b7c85ef90d3ff90239c31a57a74e176f"
+      ],
+      "page_id": 802893,
+      "revision_id": 1341285607,
+      "revision_timestamp": "2026-03-02T09:37:07Z"
+    },
+    {
+      "article_artifact_id": "article_253fd344fd05aeba1d5e179986eeac93371a5aeb284a43f77cc3f8e1bc5dcf3b",
+      "artifact_sha256": "6a60fcbdf311c00405822f3f97e9db0394884ecbd4cc511f81068d5a8a3487d9",
+      "canonical_title": "Húrin",
+      "lore_passage_ids": [
+        "passage_7b82385cd7b23114edcb94fc45a3e626bf6a1587b8e37f43add5270e7d07a55f"
+      ],
+      "page_id": 444355,
+      "revision_id": 1357831819,
+      "revision_timestamp": "2026-06-04T22:59:04Z"
+    },
+    {
+      "article_artifact_id": "article_f12df31a00f3219ad491b4ac18ad8fca2a1666428c4c334b14a20f69b909b7d6",
+      "artifact_sha256": "daa7298cc1cb917b38fd95af99f3099690bd676c47c333f232fdf42809f606b8",
+      "canonical_title": "Isengard",
+      "lore_passage_ids": [
+        "passage_42e06d8c76bf5944cd1aa20ce0efecd7105e709d0067e934a9ac9d98cb53caaa",
+        "passage_6e8bde82b21da41e966c74dafefd37227ca41093a066bdac1c1e44935a8cffe1",
+        "passage_99db18f9691981ac61a8ae0194c4bc3c3a5f4f20eb60520c70bf280e1daf7de9"
+      ],
+      "page_id": 199002,
+      "revision_id": 1339122922,
+      "revision_timestamp": "2026-02-19T01:33:17Z"
+    },
+    {
+      "article_artifact_id": "article_4e0e518e5f94d56950a48cd263b1d8a6a74d52fa8cb8657918303014da395b3d",
+      "artifact_sha256": "225e3fc4fb936c7fc27d9e6d036356e09025895603521d478e291d3ce1dd1fe2",
+      "canonical_title": "Isildur",
+      "lore_passage_ids": [
+        "passage_957cc5c440a918a595df8ad1a33fc438db016967f3d0f17bd892c3f6ecb683ec",
+        "passage_2abf11d17ce00002d12d79504a3441ec51a8eac221eda92116e9b15d3c88fd5c",
+        "passage_2c36fc95f45bd23ebe6091f5cb3beb37842130f5bfc44a96ddd337c50d3727f4",
+        "passage_77803ba5c5d7e231752e29a510b0598c7436470aaea6e815b65b1178bf1cbac0"
+      ],
+      "page_id": 23140236,
+      "revision_id": 1358629519,
+      "revision_timestamp": "2026-06-09T23:08:49Z"
+    },
+    {
+      "article_artifact_id": "article_49dae9fe15d7fd35606c777e5fcf849e5ab466662f0048091c067362c7b346b6",
+      "artifact_sha256": "e02a306cac4cd5c54cf1a5e8c94de57291961456eca7e1bf55e041168918fdf7",
+      "canonical_title": "List of original characters in The Lord of the Rings film series",
+      "lore_passage_ids": [
+        "passage_e68637fa19244da50b66bd0ecd439a3cca2e52ec9424f1c0d866ee59a643586b",
+        "passage_ea731d74feca1bd863e06d769ebff4f873de04a184aca7b4783b5822130d793d",
+        "passage_4210cad7e4a8ff7a71c70d42ae1cd8fdf783bf340fca17f586f1c6c7b8724f47",
+        "passage_17affd8b5323f2ddb62d697a3b54caad20f00096c9bafc4d9fb3f0d4b8c34093",
+        "passage_77956cae9eff112fd814c1332788406d34c85441113222ea16c1cbc08b67e7fb"
+      ],
+      "page_id": 3901680,
+      "revision_id": 1328976770,
+      "revision_timestamp": "2025-12-22T22:37:17Z"
+    },
+    {
+      "article_artifact_id": "article_ecb132266bc9f5caae9057dfb173fa2a840e720809585bd4c5aca0f8282ce846",
+      "artifact_sha256": "c25550ba106a7b4dd917c003f5a167f80163d11204204aa95516128b61a3562b",
+      "canonical_title": "Lothlórien",
+      "lore_passage_ids": [
+        "passage_cd951a6124c61d767a60ef128cca6b70dda0f4c89c0ee105e19c2419c07392f5",
+        "passage_6947e6b29fe09503e5c1f74c12a67618ca32091d92d42739664a32878ecb7628"
+      ],
+      "page_id": 64039,
+      "revision_id": 1358629234,
+      "revision_timestamp": "2026-06-09T23:06:12Z"
+    },
+    {
+      "article_artifact_id": "article_cb6866213908b656a742679da535d67a62432d90bfa16ad2db124cb97d6ef09e",
+      "artifact_sha256": "3b6fd86d88ea41538873b8c520a10e418d457eda57e4f109cdb668b09b13eade",
+      "canonical_title": "Melian (Middle-earth)",
+      "lore_passage_ids": [
+        "passage_04292cc6c7b00a6ab3e40be15e48b12ec0cf7ab14a1109fbed820e7b15eb5c8b"
+      ],
+      "page_id": 63511247,
+      "revision_id": 1357834120,
+      "revision_timestamp": "2026-06-04T23:18:06Z"
+    },
+    {
+      "article_artifact_id": "article_a62ed76add6134820e29f3809cc39f3728a6e81a71c4810d666048b5b66cef08",
+      "artifact_sha256": "a97ba1679eb7bf1baec13255e9458ee3933cb709c31ed977a170aa37512c6689",
+      "canonical_title": "Middle-earth",
+      "lore_passage_ids": [
+        "passage_dda7d608106412b43758dc0d6adc4eb0a1b3a1b2f2116f4e1fd43c59172b6cb4",
+        "passage_bdf8db2ce216d18b066cb9944aa260a5a0425e1cc8b913d6bd2e431abf24f520"
+      ],
+      "page_id": 23139208,
+      "revision_id": 1361377780,
+      "revision_timestamp": "2026-06-27T15:48:14Z"
+    },
+    {
+      "article_artifact_id": "article_3ffbf4c126088107e1b84d72eea47bf86111aabfc981f36f02657af307a819c4",
+      "artifact_sha256": "111d6678cef780f7aa8ce1c9235e06fc2d5aedbdf0f59abf955e184ad379c59b",
+      "canonical_title": "Mirkwood",
+      "lore_passage_ids": [
+        "passage_cb6d8df4c47b0e5c7c7e9dd2802eaaa8f889d284e930d0dbfeeb1fb84a51794a",
+        "passage_810b8294a63d2ebb3dc867f4ca566b668b7b394e3026b238b1a5671857d33b8c"
+      ],
+      "page_id": 22041438,
+      "revision_id": 1358629497,
+      "revision_timestamp": "2026-06-09T23:08:33Z"
+    },
+    {
+      "article_artifact_id": "article_98d34dbc159f1f3c602e1f6b48c7da1ef1316fa20757a5ff98bb351f62f847f9",
+      "artifact_sha256": "38e07d72e351f5c5a1147c4f9109dbafa3c0308c2ced6b7cef2c4978db8181e8",
+      "canonical_title": "Mordor",
+      "lore_passage_ids": [
+        "passage_0bf7f25dc1869288347af9fd5418cec74e0ecdbb26826c2302aab38d394a310b",
+        "passage_4847ec4b4a39e0b6bf53c2af85e23fe1f985166a5626b2c8beff45533b6bbb77",
+        "passage_65add9250e4f00f62ebef82a97022309aa39573e675f9c729e0804a6b7f86765"
+      ],
+      "page_id": 23140545,
+      "revision_id": 1361884146,
+      "revision_timestamp": "2026-06-30T17:15:54Z"
+    },
+    {
+      "article_artifact_id": "article_8a79b6a8e8475877ec3f89b974b798ea354abc5fcba9c0fcd54a31956d4c6766",
+      "artifact_sha256": "c01ffdf3fd1648abcba1d6c6501f2ad4a505e320a2473fdf8b9d8d09cbce9af1",
+      "canonical_title": "Morgoth",
+      "lore_passage_ids": [
+        "passage_180759223a393de304b2b399c297aae108a0d62a05487f68aa587ecbccfbd67a",
+        "passage_8c6bf4f2b92527e90ac1d77cc7ce2080be6d856a144841fc493798d2b7356345",
+        "passage_a47719ac2cc19e2f12d3766227ba88ae362e8b870ad711f7b467ee599632d5fe",
+        "passage_89a28ac3d183d376cbdad30a3350d8c99578e97ef1e617d83e5a16a0ef8f1db2"
+      ],
+      "page_id": 23140595,
+      "revision_id": 1362486987,
+      "revision_timestamp": "2026-07-04T07:33:13Z"
+    },
+    {
+      "article_artifact_id": "article_7f120525bdd9fac66ff97984ddfbc8ffbe975295ceb4495a5b295792be4e13d4",
+      "artifact_sha256": "8eb24935dc0c360d7eb3da1192480f2f8b00b21562762713d275165d515906d4",
+      "canonical_title": "Nazgûl",
+      "lore_passage_ids": [
+        "passage_69350b8fecadfaaaf08d7c4835a3938c3e9f8276f9f88017917aa38d3bc800d3"
+      ],
+      "page_id": 58644,
+      "revision_id": 1361189091,
+      "revision_timestamp": "2026-06-26T07:13:53Z"
+    },
+    {
+      "article_artifact_id": "article_98eaaac6ad8b92723607015ee752e4e2747d2d6c01f8f03327343b415042088e",
+      "artifact_sha256": "48aea4961e6ea6e6bcf8c62f80bb53aa55be4491c48cb4a21bdb597d652951b3",
+      "canonical_title": "Númenor",
+      "lore_passage_ids": [
+        "passage_1f1f12f8301c92113b38e745199a50126671ee03bead3419a213adb38aa3d52c",
+        "passage_c0c4595940722780f39a3ef27560e5d273f1b7f5aa3e7ee4617e92e9df14ed98"
+      ],
+      "page_id": 21920512,
+      "revision_id": 1359350591,
+      "revision_timestamp": "2026-06-14T19:26:27Z"
+    },
+    {
+      "article_artifact_id": "article_dd2387c06618371c53bd4fabbff50cf928d2c97156ab4010410dcbd06b552171",
+      "artifact_sha256": "40d1fcb84d4c9c1022ee302de230fd3a587e910e01d3c5dd2c97b64d19b81b08",
+      "canonical_title": "Old Forest",
+      "lore_passage_ids": [
+        "passage_866222b216a5ccce1d7d1187731b72cca84612b04098b2bd94975407d8d42492",
+        "passage_08a2888d62d183508ae3f330a82589608599e43da073ae8285c9f279447fe4ec",
+        "passage_1c60e1883c58447d59caa4352c6f1308a9cd8e815715aff80381ed4b143a773f",
+        "passage_1d7c9c2f20f264aa8d65ca65585f27572f83da1cf1484dde7c8b76dd141f7691",
+        "passage_46b8148183e5df30160d13f565c69d233ffdf8aeee1dd230640ee7026a17e7b5"
+      ],
+      "page_id": 484947,
+      "revision_id": 1339123110,
+      "revision_timestamp": "2026-02-19T01:34:28Z"
+    },
+    {
+      "article_artifact_id": "article_f8560cac478f1ed8c7daaaf929981d8edc8f30d4a3e44176ef6a8f94244f749c",
+      "artifact_sha256": "5c6c429d8cad3b90c4f9a82740afeba1b047ab617dfc630dc992c64a91119c3b",
+      "canonical_title": "Rohan, Middle-earth",
+      "lore_passage_ids": [
+        "passage_2af373b717f4c8d51a4765f5e94585aefc713d01d94bc351cde339c06033b8d4",
+        "passage_56b4f2588a99ab0640aa99b556c25743964b597cb27d0eb8b319d1578ef8998a",
+        "passage_e177148aa1e943b53ebc7b6479241c82ab99aaa56977e5b24f22346d12ac32e8",
+        "passage_5102bade8044e8fd2e7b67bfcf593b3ff2f4d8dc500c2cfe1489d8fc5681a22d"
+      ],
+      "page_id": 63469,
+      "revision_id": 1358629215,
+      "revision_timestamp": "2026-06-09T23:06:02Z"
+    },
+    {
+      "article_artifact_id": "article_ad89124b7b630560330e3b6da3063476821a778ed43b513f18cfefdbf57dc2db",
+      "artifact_sha256": "da448f749a67000ba58271c98c93f47b730a6c2f1c73dc9b87bdf662306926a7",
+      "canonical_title": "Samwise Gamgee",
+      "lore_passage_ids": [
+        "passage_c56cad4e13455956c1b0143087b882758f13b9ac9640e3e6d17cc2c599656d0e",
+        "passage_6cf22d6818f77bd9f60454af948f2ca4f11d8c03cf13aa1a268d4f731ee8d0a7"
+      ],
+      "page_id": 62320,
+      "revision_id": 1361266253,
+      "revision_timestamp": "2026-06-26T20:20:00Z"
+    },
+    {
+      "article_artifact_id": "article_08ca9386f57a0eb9600c6c1e459a762bb6e08b7ae93011e23ad54ef223f14208",
+      "artifact_sha256": "afae917bf02bb78367242aaaed1fdddcc2b5f3ba15a2d0059ee9c7d7a4f6bdf6",
+      "canonical_title": "Saruman",
+      "lore_passage_ids": [
+        "passage_838d76a5ded7f264a17a6489ac7a8de53d1a52d79faae645a688d5a8f4d494ee"
+      ],
+      "page_id": 18618607,
+      "revision_id": 1361919850,
+      "revision_timestamp": "2026-06-30T21:15:21Z"
+    },
+    {
+      "article_artifact_id": "article_e9d2d64c54f731fd9737097757003af580edc09f50e1e49fa7d6a48bb03ce857",
+      "artifact_sha256": "4e9cc415bcec2f8745f877f7a652d9f48d932327de4d844b215d1cdd11f0ade8",
+      "canonical_title": "Shelob",
+      "lore_passage_ids": [
+        "passage_311f523906e7eab4831009c614262c347db9f4b7e274dbb94e9737128bed276a",
+        "passage_61b36ab0308d24de5ddbf55d86e2c9404372f0a4324c830a7431ad1ece67c28b"
+      ],
+      "page_id": 62634,
+      "revision_id": 1329325969,
+      "revision_timestamp": "2025-12-25T09:40:56Z"
+    },
+    {
+      "article_artifact_id": "article_ee1b38edbbc45391a53eb4397e62d572c03d49b8ded244b60faeec8be46f0e34",
+      "artifact_sha256": "c74f0ab5813755c3a246fec9e6274cddca7b18f46f11c91681e1cfa649ab0eb8",
+      "canonical_title": "Smaug",
+      "lore_passage_ids": [
+        "passage_43e06c582f937453eb00bd65837239ce46ca831cf41fc45dbc95d7e5ec887f71",
+        "passage_2de1dcaaecc65dc054596e77d721db5413af0e1ab4264a22d9b968d6a50cca93",
+        "passage_b47d7aef580cd8f56ebc8d35082a77ffa199c6b4e76da66da03582ab2b3545e7"
+      ],
+      "page_id": 58101,
+      "revision_id": 1362034190,
+      "revision_timestamp": "2026-07-01T15:24:48Z"
+    },
+    {
+      "article_artifact_id": "article_04848f9e5cee1de4ed2178a7c331651663ddbd202c11af79d05d018d4adef5cd",
+      "artifact_sha256": "cc307b424f49f7601c156c72439e3161159e358bd477bbf1e3402dcdedd699de",
+      "canonical_title": "The Hobbit",
+      "lore_passage_ids": [
+        "passage_b0e71cf6abfd41b50a1881cc4c313921b7325b0694c819c81595d1201de1246c",
+        "passage_ad30d8911695a5e9cb1e1847132569eb758c15e352c1d444053dddaf0d204346",
+        "passage_250e73944f58316003ff1267d838a55d69479385f1d82eb5ea1fc61f732f1a67",
+        "passage_048d67273fe50993e847f5e9f99e034db64ab65f92cf792d5e4c0fab1e42f04a",
+        "passage_a89f5541914fd514799a93b12b5b325e214732a00224f73cea954041e3ce1e45",
+        "passage_ef1a2c8aabd4406174789c94f25226e8ace02469c13e2b3c12e120b158474cda"
+      ],
+      "page_id": 30292,
+      "revision_id": 1359752133,
+      "revision_timestamp": "2026-06-17T00:36:24Z"
+    },
+    {
+      "article_artifact_id": "article_07fcfc6ba904346775aefcd6de6e7c88d834755f94e7a0af7d834980ddc78534",
+      "artifact_sha256": "d152c321b9acf3b15632cf454dcae90ce6f65726c5a0d69fb4a8fe1596d879ab",
+      "canonical_title": "The Lord of the Rings",
+      "lore_passage_ids": [
+        "passage_bd46f5f28720ff716720a871290e77af1a154972c92e64829fe6226bca86b99c",
+        "passage_5d5611ac4cc47b67875a5ae1522efea2b16968bb03a32ed6438a06af7db7cdfd",
+        "passage_66f47c3977f8a5e07b338c424d416273f5d2ccfcad5ec226733936940d968f82",
+        "passage_3499790ef96a20dd0fd69e0446fa9a27c0721d0e71dd5163452a9bf910938b80",
+        "passage_e73e33dd168089b1a9a7e2e8feacc4285ca95da4914166c5835a75de8e62dcbd"
+      ],
+      "page_id": 29798,
+      "revision_id": 1362374706,
+      "revision_timestamp": "2026-07-03T14:55:15Z"
+    },
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "artifact_sha256": "28c98956b18fb460c43ff4f5d43ca7a89dd6883fbae587537ca1bb4ee83fb79d",
+      "canonical_title": "The Lord of the Rings: The Return of the King",
+      "lore_passage_ids": [
+        "passage_ae8f4563930fcf06dced048ea2f64c5fa39364c4709e96ea3731a11a6cdb17bb",
+        "passage_e6be913482533fe425948233d4c1cfae33511078bc6397021f66a642c4eac16f",
+        "passage_910f3602c64024b357d76bdcb9ab2411945b7cdb31b5681e6dc86532f41660b1",
+        "passage_375b7300d5194eacc6e8f319893f40bf1305eed6551f9e8806c38111e6ee41f1",
+        "passage_b65dbca97ade2c0dcfcff9e3af6dbda8ea4cf4625d0361c522045add05617b08",
+        "passage_c20bbbc4344eb24b1ab3d3ae0ad314f328a74a1f75faee2588d9ad81f284592f",
+        "passage_7a66dd611cb8ec928b9d4c9e17240ec6068a7ce262f5d86428babff5d56a0909",
+        "passage_9681f2e6ac036dd41fd7dab1d41a3950b66946e0cf57fe41de3778f13d4634c8",
+        "passage_e65516e15c55b9ab8f2cbe1652726c44238355d78a3ffdf8932e3b416bf55de4",
+        "passage_ce3d7213709e906097927ed2c41819edb29a316127ad4860966403ca512440a9",
+        "passage_cb4a47dcb010c197950a1f806cde608a500ca154cd37b52835eb10d122872629"
+      ],
+      "page_id": 174251,
+      "revision_id": 1361415609,
+      "revision_timestamp": "2026-06-27T20:21:02Z"
+    },
+    {
+      "article_artifact_id": "article_929ca69e72f6bb16f6b55d36a668a896819e4713f0ab93688d7919e3006e4df8",
+      "artifact_sha256": "be7dd1588185b74e478b20a53b1c92f927c287b2d2a85d09761fbe7702e64f91",
+      "canonical_title": "Thingol",
+      "lore_passage_ids": [
+        "passage_7ddd7524459d0684307c37f57044665674656b47b2bfeea05f7e5031647db479"
+      ],
+      "page_id": 160604,
+      "revision_id": 1357859417,
+      "revision_timestamp": "2026-06-05T02:48:39Z"
+    },
+    {
+      "article_artifact_id": "article_c58463d9d2f3bf8f7cf535fcd444931a3129e8c4c5662f79618600c19228d060",
+      "artifact_sha256": "548821b0474b05d32e78c8cba3f2fac9014c383fdf5158b4dc702e66e54df99f",
+      "canonical_title": "Thorin Oakenshield",
+      "lore_passage_ids": [
+        "passage_488d3e646cb1b84316f7f0e92bed967d4d3df63b3e3325d3c6913d912edbe6e5",
+        "passage_77a2127ce12534646c5109a1c23908091ce2c591102b786446eb3cbfeac1aa6e",
+        "passage_dfab928e65912149ac386c5dd92365ffd3494ece70203fc3f1ec9426bce24ea7",
+        "passage_fd98283db06b7873d732dde80ce58fb156bbabc7f7b41025d96f4e52061d4875"
+      ],
+      "page_id": 58143,
+      "revision_id": 1362034184,
+      "revision_timestamp": "2026-07-01T15:24:48Z"
+    },
+    {
+      "article_artifact_id": "article_33853557b2b7a2c51bf19ea051e950e6d71c8aec5c4cae950e8cbd5cc4c2cc3c",
+      "artifact_sha256": "64fe1e0aa995a9e899b4c8b8c2b6dc8b71914949a2c02f393a78fe487de25c1a",
+      "canonical_title": "Treebeard",
+      "lore_passage_ids": [
+        "passage_c7c2f36f5ec5ec753fd132c97e43a5dc70cc832e74cf43528e97a17c2390d1ee",
+        "passage_9dce239f61af09d3e2fd443bbf69e89a091dc11be202a1b9bcd8cac41e4ab352",
+        "passage_e9e7ae0c11ad8105234f1a7a00a2661a1b907f79df9976a6b7ab4f5dfbb83640",
+        "passage_c1c6694de7e1b7663750457b4bae47c5332848afb1b96dc660429895bccfbe0f",
+        "passage_865402b607ac14888c8a98cf655300f333e0b22a38293cec7459a7f040ef21c8",
+        "passage_b0ab7b8d44be514e115fe5bcedb7ed3ebf1b80e5998c052f874f6e5cba2eab8a",
+        "passage_ccf5ec7f23a6f349a2d848becd54cc8010fefaa71f3daa73c419e5bd093980a2",
+        "passage_15ecd6eab08e1722f072ca3b110af8c0c4fab39f2871ba1901bf5e9c711e6e40"
+      ],
+      "page_id": 63433,
+      "revision_id": 1361188933,
+      "revision_timestamp": "2026-06-26T07:11:28Z"
+    },
+    {
+      "article_artifact_id": "article_0ebf5d2e9cc03aa09419372c6172b7cb6f10990af3ba321aca81a7deae29e942",
+      "artifact_sha256": "9e5eedd6da0a5832db0409d0158be9c1ce52cf2963f69728c081cd7a9bf7ebce",
+      "canonical_title": "Túrin Turambar",
+      "lore_passage_ids": [
+        "passage_5bfb6b8ddcb2564fd63eab3e2f74935096fe8961bb8ed886532747e67c7f7ef1",
+        "passage_c2f01ce44f075053e1c3cf35229d30ab39ba51d08de0889af02de50a07ca7e4e",
+        "passage_1af1e604f95a62f3e3427789b4c2d524a905c4d10de2f4908570c854eb1fe7e9",
+        "passage_5180e5c173eb6fe4c94472f62df10463f2bf0ec98d5ca97278dec7ba789a4151",
+        "passage_f56ab921a05b4229b0ce70b79061cb0ca2b7621ab61ea94294f1bf6c01945338",
+        "passage_98db6b3fbe70c5953b6d1e6107d6d024cc56fc1272cbb7670f2fe55f45b9dc40",
+        "passage_55cbfd76dd410dfed02d02827775e80b21963022ba5560ba480504fd4bbeeca1"
+      ],
+      "page_id": 248420,
+      "revision_id": 1337583995,
+      "revision_timestamp": "2026-02-10T09:30:59Z"
+    },
+    {
+      "article_artifact_id": "article_0a02fddd39683d94fa45031d0ff90f6c7c8f7950d6675eba9b1bc1c0d43aa854",
+      "artifact_sha256": "d006695e41b9364f39316b6020809560b8354a055d2b88c51bb9c272831b3af5",
+      "canonical_title": "Valinor",
+      "lore_passage_ids": [
+        "passage_3ced6bf6edc872b664c154ddec78e7689470e38498cf9afdf16ea5acdefa7fc6"
+      ],
+      "page_id": 65282,
+      "revision_id": 1356688820,
+      "revision_timestamp": "2026-05-29T06:22:29Z"
+    },
+    {
+      "article_artifact_id": "article_6b2f1a4ca3218b1a5b0974355f527171c9cb9812a2a8a5b6bd98c3f6dadf1fad",
+      "artifact_sha256": "e385ee50d14b0163ffe3d0da71301cccaf4aad320c73fe5ace3b692a71487ddb",
+      "canonical_title": "Éomer",
+      "lore_passage_ids": [
+        "passage_4f54a07939caf62e136c0187bc0511193268fd0f830288ccce3e63e9539bc14a",
+        "passage_3941847c3bf21d81e156f66c6877f8433b4ee9b943bcc98b0b43b4f111b910a8",
+        "passage_ba1d9e64496d6103c7a782f4f91497a8ec4632b9af3c1689fccb8bb60191a366",
+        "passage_abee6388e36d615eb94deccf4ba779d9e0c1b64183165b954bfc38c6a61a2a37"
+      ],
+      "page_id": 62761,
+      "revision_id": 1361188868,
+      "revision_timestamp": "2026-06-26T07:10:32Z"
+    },
+    {
+      "article_artifact_id": "article_825c00be281004a3d07799a7c856dc06a37fe665d2c608345f9106cf82420a2e",
+      "artifact_sha256": "f65de620453fcf2dc6cf055f7bd46040be3aeeb6f928d709dc4c5842b11cd729",
+      "canonical_title": "Éowyn",
+      "lore_passage_ids": [
+        "passage_30aff7227743b6df24b4a29214deed3906b8b0bb9e42098a0bc86a42da3b2ec6"
+      ],
+      "page_id": 62760,
+      "revision_id": 1362034337,
+      "revision_timestamp": "2026-07-01T15:25:59Z"
+    }
+  ],
+  "corpus_articles": [
+    {
+      "article_artifact_id": "article_012cdf52afa640e9c6b34d03562341d7dd8ccf94cdd269fcd77a8bb67183197a",
+      "artifact_filename": "article_012cdf52afa640e9c6b34d03562341d7dd8ccf94cdd269fcd77a8bb67183197a.json",
+      "artifact_sha256": "f191b47fc9d52bf2563197e6ee3d5e386a06ffce4bc07d539714f9342c183433"
+    },
+    {
+      "article_artifact_id": "article_0141556bc156931ea2b4d975980b3a00013fbd3bd979cbaebdcc08f63fe6f7f7",
+      "artifact_filename": "article_0141556bc156931ea2b4d975980b3a00013fbd3bd979cbaebdcc08f63fe6f7f7.json",
+      "artifact_sha256": "e4cd40157618849c1b734aa950f9b9467557e05474942e67c3d7de5bb97cac5d"
+    },
+    {
+      "article_artifact_id": "article_0293027aa33d62a9a3371134802625722baeb3c950f0c1fbf53991855875d4d7",
+      "artifact_filename": "article_0293027aa33d62a9a3371134802625722baeb3c950f0c1fbf53991855875d4d7.json",
+      "artifact_sha256": "5a67abfd507367ff057cc870bf930cd418eca98ca51a29dd52c01af10226f83e"
+    },
+    {
+      "article_artifact_id": "article_04848f9e5cee1de4ed2178a7c331651663ddbd202c11af79d05d018d4adef5cd",
+      "artifact_filename": "article_04848f9e5cee1de4ed2178a7c331651663ddbd202c11af79d05d018d4adef5cd.json",
+      "artifact_sha256": "cc307b424f49f7601c156c72439e3161159e358bd477bbf1e3402dcdedd699de"
+    },
+    {
+      "article_artifact_id": "article_04bca56fb73e830f1908e048ad6671216e2af97892b5d91480dca8ee46842352",
+      "artifact_filename": "article_04bca56fb73e830f1908e048ad6671216e2af97892b5d91480dca8ee46842352.json",
+      "artifact_sha256": "f136ed0c625c2f69a20362b219e85587015e33777e630bf44804af38193dd991"
+    },
+    {
+      "article_artifact_id": "article_07fcfc6ba904346775aefcd6de6e7c88d834755f94e7a0af7d834980ddc78534",
+      "artifact_filename": "article_07fcfc6ba904346775aefcd6de6e7c88d834755f94e7a0af7d834980ddc78534.json",
+      "artifact_sha256": "d152c321b9acf3b15632cf454dcae90ce6f65726c5a0d69fb4a8fe1596d879ab"
+    },
+    {
+      "article_artifact_id": "article_08ca9386f57a0eb9600c6c1e459a762bb6e08b7ae93011e23ad54ef223f14208",
+      "artifact_filename": "article_08ca9386f57a0eb9600c6c1e459a762bb6e08b7ae93011e23ad54ef223f14208.json",
+      "artifact_sha256": "afae917bf02bb78367242aaaed1fdddcc2b5f3ba15a2d0059ee9c7d7a4f6bdf6"
+    },
+    {
+      "article_artifact_id": "article_09eb0763336ec388c3bf410f25f65b3fdfcece450be9e40c1cfc22ee3e54f4b6",
+      "artifact_filename": "article_09eb0763336ec388c3bf410f25f65b3fdfcece450be9e40c1cfc22ee3e54f4b6.json",
+      "artifact_sha256": "d735a72b1022bdeaca21e0409f37b2b7be4a9338d6458da155932c20b8262b42"
+    },
+    {
+      "article_artifact_id": "article_09fbe31cc1da4059ac96a29f55a6b74fd1299706052dfdc35d2c58ce55b16c9b",
+      "artifact_filename": "article_09fbe31cc1da4059ac96a29f55a6b74fd1299706052dfdc35d2c58ce55b16c9b.json",
+      "artifact_sha256": "73db1186ca06d9bc25a4a43d1c8a08585fc7a3a79e6e04373ff4d94876f4986e"
+    },
+    {
+      "article_artifact_id": "article_0a02fddd39683d94fa45031d0ff90f6c7c8f7950d6675eba9b1bc1c0d43aa854",
+      "artifact_filename": "article_0a02fddd39683d94fa45031d0ff90f6c7c8f7950d6675eba9b1bc1c0d43aa854.json",
+      "artifact_sha256": "d006695e41b9364f39316b6020809560b8354a055d2b88c51bb9c272831b3af5"
+    },
+    {
+      "article_artifact_id": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36",
+      "artifact_filename": "article_0a95fb070af65a22bb787114543055cc9aa095052a779783cb068b2976cefe36.json",
+      "artifact_sha256": "28c98956b18fb460c43ff4f5d43ca7a89dd6883fbae587537ca1bb4ee83fb79d"
+    },
+    {
+      "article_artifact_id": "article_0b2ad81288babde258e064242571ef82350bffd5e33d1fca37afaac1ecf86741",
+      "artifact_filename": "article_0b2ad81288babde258e064242571ef82350bffd5e33d1fca37afaac1ecf86741.json",
+      "artifact_sha256": "4c60f7be9d43846daaab2e4da22b8e24b8f21590c80080791cea44113bec7445"
+    },
+    {
+      "article_artifact_id": "article_0ebf5d2e9cc03aa09419372c6172b7cb6f10990af3ba321aca81a7deae29e942",
+      "artifact_filename": "article_0ebf5d2e9cc03aa09419372c6172b7cb6f10990af3ba321aca81a7deae29e942.json",
+      "artifact_sha256": "9e5eedd6da0a5832db0409d0158be9c1ce52cf2963f69728c081cd7a9bf7ebce"
+    },
+    {
+      "article_artifact_id": "article_1d61f8c2dfc7d1a2feb7f5cbf08bc9e836af996262639a3e6090c4d2238abb6e",
+      "artifact_filename": "article_1d61f8c2dfc7d1a2feb7f5cbf08bc9e836af996262639a3e6090c4d2238abb6e.json",
+      "artifact_sha256": "20f2b5debb3d56c59d31f479512465754a2b34df01d8c08dc0ab47a4778e5d86"
+    },
+    {
+      "article_artifact_id": "article_1facac05614f6c4a02bc7599979608013f8b855d810a5c83fc3bdefcf94ed59f",
+      "artifact_filename": "article_1facac05614f6c4a02bc7599979608013f8b855d810a5c83fc3bdefcf94ed59f.json",
+      "artifact_sha256": "777041dc8575da246ba60a3a5ebb61ec452641a49ba5912e55ec5deebe53b531"
+    },
+    {
+      "article_artifact_id": "article_22b83953edf338ca87211ae59463a952361021ed52ec2e41bef58444e5b64022",
+      "artifact_filename": "article_22b83953edf338ca87211ae59463a952361021ed52ec2e41bef58444e5b64022.json",
+      "artifact_sha256": "c38272650d73377d421be87449fa7826a189985e2098b476d3798f4836f0158d"
+    },
+    {
+      "article_artifact_id": "article_253fd344fd05aeba1d5e179986eeac93371a5aeb284a43f77cc3f8e1bc5dcf3b",
+      "artifact_filename": "article_253fd344fd05aeba1d5e179986eeac93371a5aeb284a43f77cc3f8e1bc5dcf3b.json",
+      "artifact_sha256": "6a60fcbdf311c00405822f3f97e9db0394884ecbd4cc511f81068d5a8a3487d9"
+    },
+    {
+      "article_artifact_id": "article_33853557b2b7a2c51bf19ea051e950e6d71c8aec5c4cae950e8cbd5cc4c2cc3c",
+      "artifact_filename": "article_33853557b2b7a2c51bf19ea051e950e6d71c8aec5c4cae950e8cbd5cc4c2cc3c.json",
+      "artifact_sha256": "64fe1e0aa995a9e899b4c8b8c2b6dc8b71914949a2c02f393a78fe487de25c1a"
+    },
+    {
+      "article_artifact_id": "article_3c60963ca86aed72921c8a1512c405a616ce126e4374746dc4c91ac7bfd61eee",
+      "artifact_filename": "article_3c60963ca86aed72921c8a1512c405a616ce126e4374746dc4c91ac7bfd61eee.json",
+      "artifact_sha256": "9022c7e48f2801ed7a9fe89e6daa524a3c5a0a79b45344861b7b8f4a802bbc11"
+    },
+    {
+      "article_artifact_id": "article_3ffbf4c126088107e1b84d72eea47bf86111aabfc981f36f02657af307a819c4",
+      "artifact_filename": "article_3ffbf4c126088107e1b84d72eea47bf86111aabfc981f36f02657af307a819c4.json",
+      "artifact_sha256": "111d6678cef780f7aa8ce1c9235e06fc2d5aedbdf0f59abf955e184ad379c59b"
+    },
+    {
+      "article_artifact_id": "article_420f63a142abb384016e3426b1f05fdd5cdf076c3f126f0fd205d335c89c67bc",
+      "artifact_filename": "article_420f63a142abb384016e3426b1f05fdd5cdf076c3f126f0fd205d335c89c67bc.json",
+      "artifact_sha256": "ff61e28c7981cd0dfb72fd6b6129d55f27c6d8c4d6d8942466177fcf4ff77101"
+    },
+    {
+      "article_artifact_id": "article_4224fc6b9e4e2963665c8c43f27ee05cc5cd935b970ecba9dd82b044b874f65d",
+      "artifact_filename": "article_4224fc6b9e4e2963665c8c43f27ee05cc5cd935b970ecba9dd82b044b874f65d.json",
+      "artifact_sha256": "ff62a150024bbd2798b1d32db7e10870e1e6236ca94662aba16156c13a495029"
+    },
+    {
+      "article_artifact_id": "article_4304f9be5d316eaaf553759e9a99ca3ed99bcccfcc98b441ca1c02014aaf58b0",
+      "artifact_filename": "article_4304f9be5d316eaaf553759e9a99ca3ed99bcccfcc98b441ca1c02014aaf58b0.json",
+      "artifact_sha256": "87d9e8f98eb6b46f1308b0c1636b2925ebbe82d499a145e6de1db4add167b16f"
+    },
+    {
+      "article_artifact_id": "article_49dae9fe15d7fd35606c777e5fcf849e5ab466662f0048091c067362c7b346b6",
+      "artifact_filename": "article_49dae9fe15d7fd35606c777e5fcf849e5ab466662f0048091c067362c7b346b6.json",
+      "artifact_sha256": "e02a306cac4cd5c54cf1a5e8c94de57291961456eca7e1bf55e041168918fdf7"
+    },
+    {
+      "article_artifact_id": "article_4e0e518e5f94d56950a48cd263b1d8a6a74d52fa8cb8657918303014da395b3d",
+      "artifact_filename": "article_4e0e518e5f94d56950a48cd263b1d8a6a74d52fa8cb8657918303014da395b3d.json",
+      "artifact_sha256": "225e3fc4fb936c7fc27d9e6d036356e09025895603521d478e291d3ce1dd1fe2"
+    },
+    {
+      "article_artifact_id": "article_5f8964df88a9421fde5303c229a0b85822ac001a2be874169a886541e5c0e714",
+      "artifact_filename": "article_5f8964df88a9421fde5303c229a0b85822ac001a2be874169a886541e5c0e714.json",
+      "artifact_sha256": "23dac804d68ebbf103ae1cd4cae4ed1c3fa67bb4051a7b810cb2112b456a46ba"
+    },
+    {
+      "article_artifact_id": "article_5fc4341f1945cb1b6a5478e0fa1153b443e16964d5b6ced5f6c30bdeb3f72b76",
+      "artifact_filename": "article_5fc4341f1945cb1b6a5478e0fa1153b443e16964d5b6ced5f6c30bdeb3f72b76.json",
+      "artifact_sha256": "a11ed55758fa577ead7ef0465cfd065982cc04840d9f6bf5e5ebc8f787128598"
+    },
+    {
+      "article_artifact_id": "article_69857afd74eca65b65a4fc492c5daa241d25ddcafab5b1658e589e86571012c6",
+      "artifact_filename": "article_69857afd74eca65b65a4fc492c5daa241d25ddcafab5b1658e589e86571012c6.json",
+      "artifact_sha256": "57354c3825118102e0c327ac5fa916e910f8e14dbbd1265546928a53b88de3b5"
+    },
+    {
+      "article_artifact_id": "article_6b053abd57b94979e31f2f4dce5b4c15b7a86e77dd368fe92b18cc79623d5862",
+      "artifact_filename": "article_6b053abd57b94979e31f2f4dce5b4c15b7a86e77dd368fe92b18cc79623d5862.json",
+      "artifact_sha256": "8fde26ec2e85f77ad28333f6f73c4ee5ec07938fa7698004c91e33cd1d3d3f82"
+    },
+    {
+      "article_artifact_id": "article_6b2f1a4ca3218b1a5b0974355f527171c9cb9812a2a8a5b6bd98c3f6dadf1fad",
+      "artifact_filename": "article_6b2f1a4ca3218b1a5b0974355f527171c9cb9812a2a8a5b6bd98c3f6dadf1fad.json",
+      "artifact_sha256": "e385ee50d14b0163ffe3d0da71301cccaf4aad320c73fe5ace3b692a71487ddb"
+    },
+    {
+      "article_artifact_id": "article_6b9405ebaeb795c20aedb0b1ce9041bbe360510997d22b2a9bb88e6aa679b2eb",
+      "artifact_filename": "article_6b9405ebaeb795c20aedb0b1ce9041bbe360510997d22b2a9bb88e6aa679b2eb.json",
+      "artifact_sha256": "fa380082ef835b132e47576fc5e33af86d3c54092cc8bdf46f1aaa97b06fa631"
+    },
+    {
+      "article_artifact_id": "article_751a612076021ab3f284dd15f872323cd40ed2cd19564a9bd26527b51b9602bb",
+      "artifact_filename": "article_751a612076021ab3f284dd15f872323cd40ed2cd19564a9bd26527b51b9602bb.json",
+      "artifact_sha256": "a32d2f4dbd256d46d37cca1b7bae4c17f0987007881f215ae3b3abe0ab0fc137"
+    },
+    {
+      "article_artifact_id": "article_7f120525bdd9fac66ff97984ddfbc8ffbe975295ceb4495a5b295792be4e13d4",
+      "artifact_filename": "article_7f120525bdd9fac66ff97984ddfbc8ffbe975295ceb4495a5b295792be4e13d4.json",
+      "artifact_sha256": "8eb24935dc0c360d7eb3da1192480f2f8b00b21562762713d275165d515906d4"
+    },
+    {
+      "article_artifact_id": "article_825c00be281004a3d07799a7c856dc06a37fe665d2c608345f9106cf82420a2e",
+      "artifact_filename": "article_825c00be281004a3d07799a7c856dc06a37fe665d2c608345f9106cf82420a2e.json",
+      "artifact_sha256": "f65de620453fcf2dc6cf055f7bd46040be3aeeb6f928d709dc4c5842b11cd729"
+    },
+    {
+      "article_artifact_id": "article_83e7d5a7851a4a1209d7375d5709ad6d6733abbc2cbf20b21f67e55dc0b85d50",
+      "artifact_filename": "article_83e7d5a7851a4a1209d7375d5709ad6d6733abbc2cbf20b21f67e55dc0b85d50.json",
+      "artifact_sha256": "2b1246611c129648a3c2540c412d1de54fb7ecb46d813a56f5e0224ac53784ca"
+    },
+    {
+      "article_artifact_id": "article_84af469d83ad008ea560e957ba3394bd91fddf09a479aeffd8588c82dd5a51f9",
+      "artifact_filename": "article_84af469d83ad008ea560e957ba3394bd91fddf09a479aeffd8588c82dd5a51f9.json",
+      "artifact_sha256": "0a0a24e7c9ae902712b922226fe6a4a09b7188c36a977213283f063d08db5604"
+    },
+    {
+      "article_artifact_id": "article_85a418125432303c34dd874f82115294edd03dae1a7ea9492172430b04a720ad",
+      "artifact_filename": "article_85a418125432303c34dd874f82115294edd03dae1a7ea9492172430b04a720ad.json",
+      "artifact_sha256": "19fc9716ff69db1d7e426bdda7cff23cf1779c5a54e81c510b05f1d6a7a09981"
+    },
+    {
+      "article_artifact_id": "article_8a79b6a8e8475877ec3f89b974b798ea354abc5fcba9c0fcd54a31956d4c6766",
+      "artifact_filename": "article_8a79b6a8e8475877ec3f89b974b798ea354abc5fcba9c0fcd54a31956d4c6766.json",
+      "artifact_sha256": "c01ffdf3fd1648abcba1d6c6501f2ad4a505e320a2473fdf8b9d8d09cbce9af1"
+    },
+    {
+      "article_artifact_id": "article_929ca69e72f6bb16f6b55d36a668a896819e4713f0ab93688d7919e3006e4df8",
+      "artifact_filename": "article_929ca69e72f6bb16f6b55d36a668a896819e4713f0ab93688d7919e3006e4df8.json",
+      "artifact_sha256": "be7dd1588185b74e478b20a53b1c92f927c287b2d2a85d09761fbe7702e64f91"
+    },
+    {
+      "article_artifact_id": "article_948a36e23e13d03c8e1c474e5aa13fec7218fb3505c2279bbf03b78bc577b284",
+      "artifact_filename": "article_948a36e23e13d03c8e1c474e5aa13fec7218fb3505c2279bbf03b78bc577b284.json",
+      "artifact_sha256": "ebe5dc7a5d4f745553649da0b50ea063b88904bdaed20ace6c4b5364c42458eb"
+    },
+    {
+      "article_artifact_id": "article_95c35c113188301ebc45b546e29910022281acf437e3682f57d1f111d9acb113",
+      "artifact_filename": "article_95c35c113188301ebc45b546e29910022281acf437e3682f57d1f111d9acb113.json",
+      "artifact_sha256": "a4f5ff6b72ae55da7a246a80bfda84cf835cf4f6d22d4c5a224cbe148d1618b0"
+    },
+    {
+      "article_artifact_id": "article_98d34dbc159f1f3c602e1f6b48c7da1ef1316fa20757a5ff98bb351f62f847f9",
+      "artifact_filename": "article_98d34dbc159f1f3c602e1f6b48c7da1ef1316fa20757a5ff98bb351f62f847f9.json",
+      "artifact_sha256": "38e07d72e351f5c5a1147c4f9109dbafa3c0308c2ced6b7cef2c4978db8181e8"
+    },
+    {
+      "article_artifact_id": "article_98eaaac6ad8b92723607015ee752e4e2747d2d6c01f8f03327343b415042088e",
+      "artifact_filename": "article_98eaaac6ad8b92723607015ee752e4e2747d2d6c01f8f03327343b415042088e.json",
+      "artifact_sha256": "48aea4961e6ea6e6bcf8c62f80bb53aa55be4491c48cb4a21bdb597d652951b3"
+    },
+    {
+      "article_artifact_id": "article_a62ed76add6134820e29f3809cc39f3728a6e81a71c4810d666048b5b66cef08",
+      "artifact_filename": "article_a62ed76add6134820e29f3809cc39f3728a6e81a71c4810d666048b5b66cef08.json",
+      "artifact_sha256": "a97ba1679eb7bf1baec13255e9458ee3933cb709c31ed977a170aa37512c6689"
+    },
+    {
+      "article_artifact_id": "article_ad89124b7b630560330e3b6da3063476821a778ed43b513f18cfefdbf57dc2db",
+      "artifact_filename": "article_ad89124b7b630560330e3b6da3063476821a778ed43b513f18cfefdbf57dc2db.json",
+      "artifact_sha256": "da448f749a67000ba58271c98c93f47b730a6c2f1c73dc9b87bdf662306926a7"
+    },
+    {
+      "article_artifact_id": "article_aeb4e655ca41e804ce6b6ed486e6207af6c202f490f8df317dd553b2bf9e0b72",
+      "artifact_filename": "article_aeb4e655ca41e804ce6b6ed486e6207af6c202f490f8df317dd553b2bf9e0b72.json",
+      "artifact_sha256": "0fa371b02855e4c5b641fc2fdaf856f5623225a65b3b7b74375b37ebf8f39734"
+    },
+    {
+      "article_artifact_id": "article_bb9397290f2b89f4dabf7c8107f6e3c8ee2d953a5e3bf869f2241f208b35405a",
+      "artifact_filename": "article_bb9397290f2b89f4dabf7c8107f6e3c8ee2d953a5e3bf869f2241f208b35405a.json",
+      "artifact_sha256": "46f5ab62251ff0321274e4acc6990437160d5b3e7404a8177e7bfee1e0c00014"
+    },
+    {
+      "article_artifact_id": "article_bcc463933eeb9601fe085cdc07b42678573f22933e4ebde61d5f9d2c51a1280f",
+      "artifact_filename": "article_bcc463933eeb9601fe085cdc07b42678573f22933e4ebde61d5f9d2c51a1280f.json",
+      "artifact_sha256": "ad89b47dd86789440eb808b41b112e390df029ad0852eab86c1ee747e65b754f"
+    },
+    {
+      "article_artifact_id": "article_bcd026b0b9c3daa0cae4c8a16ca614acf2c1ee6b4f08b43439deb97886aeca13",
+      "artifact_filename": "article_bcd026b0b9c3daa0cae4c8a16ca614acf2c1ee6b4f08b43439deb97886aeca13.json",
+      "artifact_sha256": "387989137eab690a62408a30e58872b285acecc2267723872e938bf0cb3f0bb9"
+    },
+    {
+      "article_artifact_id": "article_c58463d9d2f3bf8f7cf535fcd444931a3129e8c4c5662f79618600c19228d060",
+      "artifact_filename": "article_c58463d9d2f3bf8f7cf535fcd444931a3129e8c4c5662f79618600c19228d060.json",
+      "artifact_sha256": "548821b0474b05d32e78c8cba3f2fac9014c383fdf5158b4dc702e66e54df99f"
+    },
+    {
+      "article_artifact_id": "article_cad265a909d9580649329267c25cd279518a88cddedda40bfad8fa40de29138a",
+      "artifact_filename": "article_cad265a909d9580649329267c25cd279518a88cddedda40bfad8fa40de29138a.json",
+      "artifact_sha256": "20c0995f7c5d9dbbfb299772dbcdfcac27ed1afccb39614252709cc401257067"
+    },
+    {
+      "article_artifact_id": "article_cb6866213908b656a742679da535d67a62432d90bfa16ad2db124cb97d6ef09e",
+      "artifact_filename": "article_cb6866213908b656a742679da535d67a62432d90bfa16ad2db124cb97d6ef09e.json",
+      "artifact_sha256": "3b6fd86d88ea41538873b8c520a10e418d457eda57e4f109cdb668b09b13eade"
+    },
+    {
+      "article_artifact_id": "article_d0f45335b4aebe3b09035c45b054a7c3e9c6b9f7686abf7e5eecfa87b2b56c25",
+      "artifact_filename": "article_d0f45335b4aebe3b09035c45b054a7c3e9c6b9f7686abf7e5eecfa87b2b56c25.json",
+      "artifact_sha256": "f5142350ad108cc978d04be548859cd1b5a5de4a1d4dcc3d0feeeea235f3d7cb"
+    },
+    {
+      "article_artifact_id": "article_d2a8ea4552b0a7b313ef4a1aa02d8cc6fdc16e43ff63e026a21790954b158335",
+      "artifact_filename": "article_d2a8ea4552b0a7b313ef4a1aa02d8cc6fdc16e43ff63e026a21790954b158335.json",
+      "artifact_sha256": "afea1b15f278b5833244a948cf7172f88761eecf3e5af622d63de7c69ff4cea8"
+    },
+    {
+      "article_artifact_id": "article_d85eb0311318dc58825f3de10e460bc2762303fe527a42412ccd172e9fcbe27f",
+      "artifact_filename": "article_d85eb0311318dc58825f3de10e460bc2762303fe527a42412ccd172e9fcbe27f.json",
+      "artifact_sha256": "5744f654871b2c36483af754239784a956dfb6536662599205506e3b93347b77"
+    },
+    {
+      "article_artifact_id": "article_dac75c7f55142e6cebbe5a1ca08c32cf6a93ce4de491f770df8d9727a3afe658",
+      "artifact_filename": "article_dac75c7f55142e6cebbe5a1ca08c32cf6a93ce4de491f770df8d9727a3afe658.json",
+      "artifact_sha256": "d71ce7051b2dd8325a80a483e3f45c3fb397f4d2d4c1fde98d99015cd147cdcf"
+    },
+    {
+      "article_artifact_id": "article_dccc324d71ed3416548bb2705aaebc3368321662f36e1e05ae7f94abbba53a20",
+      "artifact_filename": "article_dccc324d71ed3416548bb2705aaebc3368321662f36e1e05ae7f94abbba53a20.json",
+      "artifact_sha256": "d04d52c7050b25af7e3d800d2bc9e8a44292ad5bd56be056f3da1fba54152d79"
+    },
+    {
+      "article_artifact_id": "article_dd2387c06618371c53bd4fabbff50cf928d2c97156ab4010410dcbd06b552171",
+      "artifact_filename": "article_dd2387c06618371c53bd4fabbff50cf928d2c97156ab4010410dcbd06b552171.json",
+      "artifact_sha256": "40d1fcb84d4c9c1022ee302de230fd3a587e910e01d3c5dd2c97b64d19b81b08"
+    },
+    {
+      "article_artifact_id": "article_e9393aaa5201a97325da65cc3a1e46a812fc36a02ac715db5d493153af1a5ce2",
+      "artifact_filename": "article_e9393aaa5201a97325da65cc3a1e46a812fc36a02ac715db5d493153af1a5ce2.json",
+      "artifact_sha256": "7006225738f1026700ae063ee4cd54e271d606449938bb06df36a44f1ace7399"
+    },
+    {
+      "article_artifact_id": "article_e9d2d64c54f731fd9737097757003af580edc09f50e1e49fa7d6a48bb03ce857",
+      "artifact_filename": "article_e9d2d64c54f731fd9737097757003af580edc09f50e1e49fa7d6a48bb03ce857.json",
+      "artifact_sha256": "4e9cc415bcec2f8745f877f7a652d9f48d932327de4d844b215d1cdd11f0ade8"
+    },
+    {
+      "article_artifact_id": "article_eafb9483bccdc0d8cd9a1e023d9a9004f2ff3ca587d290274c008e25867fb8f5",
+      "artifact_filename": "article_eafb9483bccdc0d8cd9a1e023d9a9004f2ff3ca587d290274c008e25867fb8f5.json",
+      "artifact_sha256": "f9eb404278ab6feabc02c5215b98cdd41b915e9a10aa844d77e71aa15c6e11cb"
+    },
+    {
+      "article_artifact_id": "article_ec39be3c90baad658d38e764ef48bc24322d4fdeece78f5a4800889157b296a2",
+      "artifact_filename": "article_ec39be3c90baad658d38e764ef48bc24322d4fdeece78f5a4800889157b296a2.json",
+      "artifact_sha256": "be7e26cf4701600fdabc0c2f71a574c0d9aecf6b6b7f5473c93aa734bdc1013b"
+    },
+    {
+      "article_artifact_id": "article_ecb132266bc9f5caae9057dfb173fa2a840e720809585bd4c5aca0f8282ce846",
+      "artifact_filename": "article_ecb132266bc9f5caae9057dfb173fa2a840e720809585bd4c5aca0f8282ce846.json",
+      "artifact_sha256": "c25550ba106a7b4dd917c003f5a167f80163d11204204aa95516128b61a3562b"
+    },
+    {
+      "article_artifact_id": "article_ee1b38edbbc45391a53eb4397e62d572c03d49b8ded244b60faeec8be46f0e34",
+      "artifact_filename": "article_ee1b38edbbc45391a53eb4397e62d572c03d49b8ded244b60faeec8be46f0e34.json",
+      "artifact_sha256": "c74f0ab5813755c3a246fec9e6274cddca7b18f46f11c91681e1cfa649ab0eb8"
+    },
+    {
+      "article_artifact_id": "article_f12df31a00f3219ad491b4ac18ad8fca2a1666428c4c334b14a20f69b909b7d6",
+      "artifact_filename": "article_f12df31a00f3219ad491b4ac18ad8fca2a1666428c4c334b14a20f69b909b7d6.json",
+      "artifact_sha256": "daa7298cc1cb917b38fd95af99f3099690bd676c47c333f232fdf42809f606b8"
+    },
+    {
+      "article_artifact_id": "article_f1fd1576b0ffbec956267d7672703dd0072a8e45c35368469119c1a72f11990d",
+      "artifact_filename": "article_f1fd1576b0ffbec956267d7672703dd0072a8e45c35368469119c1a72f11990d.json",
+      "artifact_sha256": "3a5ecb3ae20108d6c06038c56b26314f7a30fb970f2ba3ea98cde676a737fd9b"
+    },
+    {
+      "article_artifact_id": "article_f3bdd73cce5d8530436ee23c79de93ac9eb6e66e3550139fe39ed9a8668ebfe4",
+      "artifact_filename": "article_f3bdd73cce5d8530436ee23c79de93ac9eb6e66e3550139fe39ed9a8668ebfe4.json",
+      "artifact_sha256": "c98489cd59d3373588632e9fee4cd5da00e42aca07f048b2733d5dd419288b2e"
+    },
+    {
+      "article_artifact_id": "article_f53794007130fdf887c95d5c177747c5f497be0f725aea511dd008ddbf94c34c",
+      "artifact_filename": "article_f53794007130fdf887c95d5c177747c5f497be0f725aea511dd008ddbf94c34c.json",
+      "artifact_sha256": "bc5e1faa6646396230535d6d18c4a4c1fc81b1a784468aae941229b0cac24064"
+    },
+    {
+      "article_artifact_id": "article_f8560cac478f1ed8c7daaaf929981d8edc8f30d4a3e44176ef6a8f94244f749c",
+      "artifact_filename": "article_f8560cac478f1ed8c7daaaf929981d8edc8f30d4a3e44176ef6a8f94244f749c.json",
+      "artifact_sha256": "5c6c429d8cad3b90c4f9a82740afeba1b047ab617dfc630dc992c64a91119c3b"
+    }
+  ],
+  "counts": {
+    "articles": 51,
+    "lore_passages": 182
+  },
+  "curation": {
+    "corpus_fingerprint": "d3d145e46deffda662303fe7f8e411e08a8fc2e07a6d3e61aba091f835eac525",
+    "rubric_id": "tolkien-corpus-rubric-v1",
+    "snapshot_sha256": "7e9a70cd25bde48aad2ff454ff2019995ea118b2a0d52467ae18a104c3d32383"
+  },
+  "release_id": "corpus-v1-rc1",
+  "schema_version": 2,
+  "selection_policy": "all lore-bearing articles",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  }
+}

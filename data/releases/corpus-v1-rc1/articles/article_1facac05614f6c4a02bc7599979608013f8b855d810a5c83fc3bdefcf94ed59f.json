@@ -1,0 +1,709 @@
+{
+  "article_artifact_id": "article_1facac05614f6c4a02bc7599979608013f8b855d810a5c83fc3bdefcf94ed59f",
+  "canonical_title": "Gondor",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_1facac05614f6c4a02bc7599979608013f8b855d810a5c83fc3bdefcf94ed59f",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Gondor was founded by the brothers Isildur and Anárion, exiles from the downfallen island kingdom of Númenor. Along with Arnor in the north, Gondor, the South-kingdom, served as a last stronghold of the Men of the West. After an early period of growth under the House of Elendil, Gondor gradually declined as the Third Age progressed, being continually weakened by internal strife and conflict with the allies of the Dark Lord Sauron. By the time of the War of the Ring, the throne of Gondor is empty, and its principalities and fiefdoms instead pay deference to the regency of the Stewards of Gondor. The kingdom's ascendancy is restored only with Sauron's final defeat and the crowning of Aragorn as king.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_69630156e4b6c34cdbcf0ed7f2f8bfc242055b948534467f0695f70322d25ff7",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_1facac05614f6c4a02bc7599979608013f8b855d810a5c83fc3bdefcf94ed59f",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Based upon early conceptions, the history and geography of Gondor were developed in stages as Tolkien extended his legendarium while writing The Lord of the Rings. Critics have noted the contrast between the cultured but lifeless Stewards of Gondor, and the simple but vigorous leaders of the Kingdom of Rohan, modelled on Tolkien's favoured Anglo-Saxons. Scholars have noted parallels between Gondor and the Normans, Ancient Rome, the Vikings, the Goths, the Langobards, and the Byzantine Empire.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_2bbe425fe272a8650dc16b9b68f6c1d5fbfab6416a4a225572a3c4a7a20e76ac",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_1facac05614f6c4a02bc7599979608013f8b855d810a5c83fc3bdefcf94ed59f",
+      "heading_path": [
+        "Literature",
+        "Fictional geography",
+        "Country"
+      ],
+      "normalized_text": "thumb|upright=2.5|Sketch map of Gondor in the Third Age, bordered by Rohan and Mordor",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_9aad55950b61b17c34594a0e2c6ece692a55344a3e5c00e32c0a3a538104861c",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_1facac05614f6c4a02bc7599979608013f8b855d810a5c83fc3bdefcf94ed59f",
+      "heading_path": [
+        "Literature",
+        "Fictional geography",
+        "Capital, Minas Tirith"
+      ],
+      "normalized_text": "thumb|The lifeless White Tree of Gondor has been compared to the Dry Tree of medieval legend. Medieval manuscript illustration of the Dry Tree (centre) with the Phoenix, flanked by the Trees of the Sun and the Moon. Both the Dry Tree and the Phoenix are symbols of resurrection and new life. Rouen 1444–1445",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_7ede73436e8e42ae76051cbb6c9ba73e8af0c5e2df0bfcb38ffec146af8823f4",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_1facac05614f6c4a02bc7599979608013f8b855d810a5c83fc3bdefcf94ed59f",
+      "heading_path": [
+        "Literature",
+        "Fictional geography",
+        "Dol Amroth"
+      ],
+      "normalized_text": "thumb|upright|Flag of the Prince of Dol Amroth",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_64cad9a11d136856994635b4edaa094bc2ea2315c6ffdd277ec181257934c5d2",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_1facac05614f6c4a02bc7599979608013f8b855d810a5c83fc3bdefcf94ed59f",
+      "heading_path": [
+        "Literature",
+        "Fictional history",
+        "Númenórean kingdom"
+      ],
+      "normalized_text": "Sauron survived the destruction of Númenor and secretly returned to his realm of Mordor, soon launching a war against the Númenórean kingdoms. He captured Minas Ithil, but Isildur escaped by ship to Arnor; meanwhile, Anárion was able to defend Osgiliath. Elendil and the Elven-king Gil-galad formed the Last Alliance of Elves and Men, and together with Isildur and Anárion, they besieged and defeated Mordor. Sauron was overthrown; but the One Ring that Isildur took from him was not destroyed, and thus Sauron continued to exist.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_a640c3e134b3bb0aa40bab53bbcb477e6ce0ed9d1530eb41c2b7511d9fdbe14c",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_1facac05614f6c4a02bc7599979608013f8b855d810a5c83fc3bdefcf94ed59f",
+      "heading_path": [
+        "Literature",
+        "Fictional history",
+        "Third Age, under the Stewards"
+      ],
+      "normalized_text": "thumb|upright=0.6|James Hamilton, 2nd Marquess of Hamilton holding the white staff of the Lord Steward of the King's Household, Scotland, the same symbol as that of the Stewards of Gondor. Portrait by unknown artist after Daniël Mijtens, 1622",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_e880368edacf5aadad4310e15148ebec129e07ae6830aaf7f5b97b501a31bb9d",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_1facac05614f6c4a02bc7599979608013f8b855d810a5c83fc3bdefcf94ed59f",
+      "heading_path": [
+        "Literature",
+        "Fictional history",
+        "War of the Ring and restoration"
+      ],
+      "normalized_text": "thumb|left|upright=1.25|Battle of the Pelennor Fields",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_37783158d34cb1de6c64dc9ed9f9c9b159a5b612eb1c5fae371e60d75c3fe7e0",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_1facac05614f6c4a02bc7599979608013f8b855d810a5c83fc3bdefcf94ed59f",
+      "heading_path": [
+        "Concept and creation",
+        "In-universe"
+      ],
+      "normalized_text": "According to an alternate account about the line of the Princes of Dol Amroth cited in Unfinished Tales, they were descendants of a family of the Faithful from Númenor who had ruled over the land of Belfalas since the Second Age, before Númenor was destroyed. This family of Númenóreans were akin to the Lords of Andúnië, and thus related to Elendil and descended from the House of Elros. After the Downfall of Númenor, they were created the \"Prince of Belfalas\" by Elendil. Unfinished Tales provides an account of \"Adrahil of Dol Amroth\" who fought under King Ondoher of Gondor against the Wainriders.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_73ba1c2179b477667935bc63afd9f7f2c83c3e46d07be5b6634b52f50dde1eab",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_1facac05614f6c4a02bc7599979608013f8b855d810a5c83fc3bdefcf94ed59f",
+      "heading_path": [
+        "Adaptations",
+        "Film"
+      ],
+      "normalized_text": "thumb|upright=1.35|Black-sailed dromund ships of the Corsairs of Umbar at Harlond, the port of Minas Tirith, as depicted with a domed building in Peter Jackson's The Lord of the Rings film trilogy",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_e6744cf126a0b433b08431c6be449629aa5589aaf94b3d40b3f3699b9d6235ab",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Gondor&action=history",
+  "namespace": 0,
+  "page_id": 61603,
+  "parent_revision_id": 1361812673,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1362362351",
+  "raw_wikitext": "{{short description|Fictional kingdom in Tolkien's Middle-earth}}\n{{distinguish|text=[[Gondar]] or [[Gondour]]}}\n{{good article}}\n{{Use British English|date=May 2021}}\n{{Infobox fictional location\n| name         = Gondor\n| series       = [[J. R. R. Tolkien]]'s [[Tolkien's legendarium|legendarium]]\n| image        = Escudo Real de Gondor.svg\n| image_size   = 150px \n| caption      = Coat of arms bearing the white tree,<br/>Nimloth the fair<ref name=\"UT Field of Cormallen\" group=T>{{harvnb|Tolkien|1955}} book 6, ch. 4 \"The Field of Cormallen\": \"a great standard was spread in the breeze, and there a white tree flowered upon a sable field beneath a shining crown and seven glittering stars\"</ref>\n| alt_name     = The South-kingdom\n| type         = Southern Númenórean realm in exile\n| blank_label  = Location\n| blank_data   = Northwest Middle-earth\n| blank_label1 = Capital\n| blank_data1  = Osgiliath, then Minas Tirith\n| blank_label2 = Lifespan\n| blank_label3 = Founder\n| blank_data3  = [[Isildur]] and Anárion\n| ruler        = Kings of Gondor; Stewards of Gondor\n| first        = ''[[The Lord of the Rings]]''\n}}\n'''Gondor''' is a fictional kingdom in [[J. R. R. Tolkien]]'s writings, described as the greatest realm of [[Man (Middle-earth)|Men]] in the west of [[Middle-earth]] at the end of the [[Third Age]]. The third volume of ''[[The Lord of the Rings]]'', ''[[The Return of the King]]'', is largely concerned with the events in Gondor during the [[War of the Ring]] and with the restoration of the realm afterward. The history of the kingdom is outlined in the appendices of the book.\n\nGondor was founded by the brothers [[Isildur]] and Anárion, exiles from the downfallen island kingdom of [[Númenor]]. Along with [[Arnor (Middle-earth)|Arnor]] in the north, Gondor, the South-kingdom, served as a last stronghold of the [[Dúnedain|Men of the West]]. After an early period of growth under the [[House of Elendil]], Gondor gradually declined as the Third Age progressed, being continually weakened by internal strife and conflict with the allies of the Dark Lord [[Sauron]]. By the time of the War of the Ring, the throne of Gondor is empty, and its principalities and fiefdoms instead pay deference to the [[regency]] of the Stewards of Gondor. The kingdom's ascendancy is restored only with Sauron's final defeat and the crowning of [[Aragorn]] as king.\n\nBased upon early conceptions, the history and geography of Gondor were developed in stages as Tolkien extended [[Tolkien's legendarium|his legendarium]] while writing ''The Lord of the Rings''. Critics have noted the contrast between the cultured but lifeless Stewards of Gondor, and the simple but vigorous leaders of the Kingdom of [[Rohan (Middle-earth)|Rohan]], modelled on Tolkien's favoured [[Anglo-Saxons]]. Scholars have noted parallels between Gondor and the [[Normans]], [[Ancient Rome]], the [[Vikings]], the [[Goths]], the [[Langobards]], and the [[Byzantine Empire]].\n\n== Literature ==\n\n=== In-fiction etymology ===\n\nTolkien intended the name ''Gondor'' to be [[Sindarin]] for \"Stone-land\".<ref name=\"AppF\" group=T>{{harvnb|Tolkien|1955}} Appendix F, \"Of Men\"</ref><ref name=\"Etym\" group=T>{{harvnb|Tolkien|1987}} entries GOND-, NDOR-</ref> This is echoed in the text of ''The Lord of the Rings'' by the name for Gondor among the [[Rohirrim]], Stoningland.<ref name=\"Battle of the Pelennor Fields\" group=T>{{harvnb|Tolkien|1955}} book 5 ch. 6 \"The Battle of the Pelennor Fields\"</ref> Tolkien's early writings suggest that this was a reference to the highly developed masonry of Gondorians in contrast to their rustic neighbours.<ref name=\"RS379-81\" group=T>{{harvnb|Tolkien|1988}} ch. 22 \"New Uncertainties and New Projections\"</ref> This view is supported by the [[Drúedain]] terms for Gondorians and [[Minas Tirith]]—Stonehouse-folk and Stone-city.<ref name=\"Ride of the Rohirrim\" group=T>{{harvnb|Tolkien|1955}} book 5 ch. 5 \"The Ride of the Rohirrim\"</ref> Tolkien denied that the name ''Gondor'' had been inspired by the ancient Ethiopian citadel of [[Gondar]], stating that the root ''Ond'' went back to an account he had read as a child mentioning ''ond'' (\"stone\") as one of only two words known of the [[pre-Celtic]] languages of Britain.<ref group=T>{{harvnb|Carpenter|2023|loc=#324 to Graham Tayar 4–5 June 1971 }}</ref> Gondor is also called the South-kingdom or Southern Realm, and together with Arnor as the Númenórean Realms in Exile. Researchers [[Wayne G. Hammond]] and [[Christina Scull]] have proposed a [[Quenya]] translation of ''Gondor'': ''Ondonórë''.<ref>{{harvnb|Hammond|Scull|2005|loc=\"The Great River\", p. 347}}</ref>\nThe Men of Gondor are nicknamed \"Tarks\" (from Quenya ''tarkil'' \"High Man\", Númenórean)<ref group=T>{{cite journal |last1=Tolkien |first1=J. R. R. |author-link=J. R. R. Tolkien |editor-last1=Gilson |editor-first1=Christopher |journal=[[Parma Eldalamberon]] |title=Words, Phrases and Passages in Various Tongues in The Lord of the Rings |issue=17 |url=http://www.eldalamberon.com/parma17.html |page=101}}</ref> by the [[Orc (Middle-Earth)|orc]]s of Mordor.<ref group=T>{{harvnb|Tolkien|1955}}, \"The Tower of Cirith Ungol\"</ref>\n\n{{anchor|Geography}}\n\n=== Fictional geography ===\n\n{{further|Geography of Middle-earth}}\n\n==== Country ====\n\n{{anchor|Anfalas|Belfalas|Pelargir|Ered Nimrais|Ithilien}}\n \t\n[[File:Gondor sketch map.svg|thumb|upright=2.5|Sketch map of Gondor in the Third Age, bordered by [[Rohan (Middle-earth)|Rohan]] and [[Mordor]]]]\n\nGondor's geography is illustrated in [[Middle-earth#Maps|the maps]] for ''The Lord of the Rings'' made by [[Christopher Tolkien]] on the basis of his father's sketches, and geographical accounts in ''The Rivers and Beacon-Hills of Gondor'', ''[[Cirion and Eorl]]'', and ''The Lord of the Rings''. Gondor lies in the west of [[Middle-earth]], on the northern shores of Anfalas<ref name=\"falas\" group=T>{{harvnb|Tolkien|1987}} entries ÁNAD-, PHÁLAS-, TOL<sup>2</sup>-</ref><ref name=\"Minas Tirith\" group=T/> and the Bay of Belfalas<ref name=\"UT-AN\" group=T>{{harvnb|Tolkien|1980}} part 2 ch. 4 \"History of Galadriel and Celeborn\": \"Amroth and Nimrodel\"</ref> with the great port of Pelargir near the river Anduin's delta in the fertile<ref name=\"Last Debate\" group=T>{{harvnb|Tolkien|1955}} book 5 ch. 9 \"The Last Debate\"</ref> and populous<ref name=\"Minas Tirith\" group=T/> region of Lebennin,<ref name=\"UT-map\" group=T/> stretching up to the White Mountains (Sindarin: ''Ered Nimrais'', \"Mountains of White Horns\"). Near the mouths of Anduin was the island of Tolfalas.<ref name=\"PM-TYSA\" group=T>{{harvnb|Tolkien|1996}} ch. 6 \"The Tale of Years of the Second Age\"</ref>\n\nTo the north-west of Gondor lies Arnor; to the north, Gondor is bordered by [[Rhovanion|Wilderland]] and [[Rohan (Middle-earth)|Rohan]]; to the north-east, by Rhûn; to the east, across the great river Anduin and the province of Ithilien, by [[Mordor]]; to the south, by the deserts of northern [[Harad]]. To the west lies the Great Sea.<ref>{{harvnb|Fonstad|1991|p=191}}</ref>\n\n{{anchor|Enedwaith}} The wide land to the west of Rohan was Enedwaith; in some of Tolkien's writings it is part of Gondor, in others not.<ref name=\"PM-DM\" group=T>{{harvnb|Tolkien|1996}} ch. 10 \"Of Dwarves and Men\", and notes 66, 76</ref><ref name=\"AppA\" group=T/><ref name=\"UT-HGCApp\" group=T>{{harvnb|Tolkien|1980}} part 2 ch. 4 \"History of Galadriel and Celeborn\"; Appendices C and D</ref><ref name=\"UT-BFI\" group=T/>\n{{anchor|South Gondor}}\nThe hot and dry region of South Gondor, or Harondor was by the time of the War of the Ring \"a debatable and desert land\", contested by the men of Harad.<ref name=\"UT-map\" group=T>{{harvnb|Tolkien|1980}} map of the West of Middle-earth</ref>\n\n{{anchor|Lamedon|Lossarnach|Morthond Vale|Ringló Vale|Erech}}\nThe region of Lamedon and the uplands of the prosperous Morthond, with the desolate Hill of Erech,<ref name=\"Passing of the Grey Company\" group=T>{{harvnb|Tolkien|1955}} book 1 ch. 2 \"The Passing of the Grey Company\"</ref> lay to the south of the White Mountains, while the populous<ref name=\"Battle of the Pelennor Fields\" group=T/> valleys of Lossarnach were just south of Minas Tirith. The city's port was also a few miles south at Harlond, where the great river [[Geography of Middle-earth#Rhovanion|Anduin]] made its closest approach to Minas Tirith. Ringló Vale lay between Lamedon and Lebennin.<ref name=\"Map of Gondor\" group=T>{{harvnb|Tolkien|1955}} map of Gondor</ref>\n\n{{anchor|Anórien|Calenardhon|Emyn Muil|Emyn Arnen|Parth Galen}}\nThe region of Calenardhon lay to the north of the White Mountains; it was granted independence as the kingdom of [[Rohan (Middle-earth)|Rohan]].<ref name=\"UT-BFI\" group=T>{{harvnb|Tolkien|1980}} \"The Battles of the Fords of Isen\", Appendix (ii)</ref> To the northeast, the river Anduin enters the hills of the Emyn Muil and passes the Sarn Gebir, dangerous straits, above a large river-lake, Nen Hithoel. Its entrance was once the northern border of Gondor, and is marked by the Gates of Argonath, an enormous pair of kingly statues, as a warning to trespassers. At the southern end of the lake are the hills of Amon Hen (the Hill of Seeing) and Amon Lhaw (the Hill of Hearing) on the west and east shores; below Amon Hen is the lawn of Parth Galen, where the Fellowship disembarked and was then broken, with the capture of Merry and Pippin, and the death of Boromir. Between the two hills is a rocky islet, Tol Brandir, which partly dams the river; just below it is an enormous waterfall, the Falls of Rauros, over which Boromir's funeral-boat is sent. Further down the river are the hills of Emyn Arnen.<ref group=T>{{harvnb|Fonstad|1991|pp=83–89}}</ref>\n\n{{anchor|Minas Tirith}}\n\n==== Capital, Minas Tirith ====\n\n{{main|Minas Tirith}}\n\n{{anchor|Dry Tree|White Tree}}\n\n[[File:Trees of Sun and Moon and Dry Tree Rouen 1444.jpg|thumb|The lifeless White Tree of Gondor has been compared to the [[Dry Tree]] of medieval legend.<ref name=\"Garth 2020\"/> Medieval manuscript illustration of the Dry Tree (centre) with the [[Phoenix (mythology)|Phoenix]], flanked by the [[Trees of Sun and Moon|Trees of the Sun and the Moon]]. Both the Dry Tree and the Phoenix are symbols of [[Resurrection of Jesus|resurrection]] and new life. [[Rouen]] 1444–1445<ref name=\"British Library 2020\"/>]]\n\nThe capital of Gondor at the end of the Third Age, Minas Tirith (Sindarin: \"Tower of Guard\"<ref>{{cite book |last=Noel |first=Ruth S. |title=The Languages of Tolkien's Middle-earth |year=1974 |publisher=[[Houghton Mifflin Harcourt|Houghton Mifflin]] |isbn=0-395-29129-1 |page=170}}</ref>), lay at the eastern end of the White Mountains, built around a shoulder of Mount Mindolluin.<ref name=\"Houses of Healing\" group=T>{{harvnb|Tolkien|1955}}, book 5 ch. 8 \"The Houses of Healing\"</ref> The city had seven walls: each held a gate, and each gate faced a different direction from the next.<ref name=\"Siege of Gondor\" group=T>{{harvnb|Tolkien|1955}}, book 5, ch. 4 \"The Siege of Gondor\"</ref> The city was surrounded by the Pelennor Fields, an area of farmlands ringed by a wall.<ref name=\"Minas Tirith\" group=T/> Inside the seventh wall was the Citadel, topped by the White Tower. Behind the tower, reached from the sixth level, was a [[Mountain pass|saddle]] leading to the necropolis of the Kings and Stewards, with a street of tombs, Rath Dínen.{{efn|Map #40 in Barbara Strachey's ''[[Journeys of Frodo]]'' is a plan of Minas Tirith. {{harvnb|Fonstad|1991|pp=138–139}} shows a different plan of the city. The only maps by Tolkien are sketches.}}\n\nWithin the Court of the Fountain stood the White Tree, the symbol of Gondor. It was dry throughout the centuries that Gondor was ruled by the Stewards; Aragorn brought a sapling of the White Tree into the city on his return as King.<ref name=\"Vaccaro 2004\">{{cite journal |last=Vaccaro |first=Christopher T. |title='And one white tree': the cosmological cross and the arbor vitae in J.R.R. Tolkien's \"The Lord of the Rings\" and \"The Silmarillion\" |journal=[[Mallorn (journal)|Mallorn]] |date=August 2004 |issue=42 |pages=23–28 |jstor=45320503}}</ref> [[John Garth (author)|John Garth]] writes that the White Tree has been likened to the [[Dry Tree]] of the 14th century ''[[Travels of Sir John Mandeville]]''.<ref name=\"Gusick2013\">{{cite book |last=Gasse |first=Rosanne |chapter=The Dry Tree Legend in Medieval Literature |editor-last=Gusick |editor-first=Barbara I. |title=Fifteenth-Century Studies 38 |chapter-url=https://books.google.com/books?id=KNZGXEfXIOEC&pg=PA73 |year=2013 |publisher=[[Camden House Publishing|Camden House]] |isbn=978-1-57113-558-2 |pages=65–96 |quote=''Mandeville'' also includes a prophecy that when the Prince of the West conquers the Holy Land for Christianity, this tree will become green again, rather akin to the White Tree of Arnor [sic] in the Peter Jackson film version of ''The Lord of the Rings'', if not in Tolkien's original novel, which sprouts new green leaves when Aragorn first arrives in Gondor at [sic, i.e. after] the Battle of the Pelennor Fields.<!--q p.73-->}}</ref><ref name=\"Garth 2020\"/> The tale runs that the Dry Tree had been dry since the [[crucifixion of Christ]], but that it would flower afresh when \"a prince of the west side of the world should sing a mass beneath it\".<ref name=\"Garth 2020\">{{cite book |last=Garth |first=John |author-link=John Garth (author) |title=The Worlds of J.R.R. Tolkien: The Places that Inspired Middle-earth |date=2020 |publisher=[[Frances Lincoln Publishers]] & [[Princeton University Press]] |isbn=978-0-7112-4127-5 |page=41}}</ref><ref name=\"British Library 2020\">{{cite web |last=Drieshen |first=Clark |title=The Trees of the Sun and the Moon |url=https://blogs.bl.uk/digitisedmanuscripts/2020/01/the-trees-of-the-sun-and-the-moon.html |publisher=[[British Library]] |access-date=24 February 2021 |date=31 January 2020}}</ref>\n\nTolkien's map-notes for the illustrator [[Pauline Baynes]] indicate that the city had the [[latitude]] of [[Ravenna]], an [[Italy|Italian]] city on the [[Adriatic Sea]], though it lay \"900 miles east of Hobbiton more near [[Belgrade]]\".<ref>{{cite news |last=Flood |first=Alison |url=https://www.theguardian.com/books/2015/oct/23/jrr-tolkien-middle-earth-annotated-map-blackwells-lord-of-the-rings |title=Tolkien's annotated map of Middle-earth discovered inside copy of Lord of the Rings |date=23 October 2015 |work=[[The Guardian]]}}</ref><ref>{{cite web |title=Tolkien annotated map of Middle-earth acquired by Bodleian library |url=https://www.exeter.ox.ac.uk/tolkien-annotated-map-of-middle-earth-acquired-by-bodleian-library/ |publisher=[[Exeter College, Oxford]] |access-date=9 April 2020 |date=9 May 2016}}</ref>{{efn|The Tolkien scholar Judy Ann Ford writes that there is also an architectural connection with Ravenna in Pippin's description of the great hall of Denethor, which in her view suggests a Germanic myth of a restored Roman Empire.<ref name=\"Ford2005\">{{cite journal |last=Ford |first=Judy Ann |title=The White City: The Lord of the Rings as an Early Medieval Myth of the Restoration of the Roman Empire |journal=[[Tolkien Studies]] |volume=2 |issue=1 |year=2005 |pages=53–73 |issn=1547-3163 |doi=10.1353/tks.2005.0016|s2cid=170501240 }}</ref>}} The [[Warning beacons of Gondor]] were atop a line of foothills running back west from Minas Tirith towards Rohan.<ref name=\"Beacon-Hills\" group=T>{{cite web |last1=Tolkien |first1=J. R. R. |last2=Hostetter |first2=Carl F. |author2-link=Carl F. Hostetter |last3=Tolkien |first3=Christopher |author3-link=Christopher Tolkien |title=The Rivers and Beacon - hills of Gondor |url=https://epdf.pub/the-rivers-and-beacon-hills-of-gondor105fd73767942352604c470bca4fe66679457.html |publisher=EPDF |date=2001}}<!--Part was published in ''[[Vinyar Tengwar]]'', No. 42, July 2001.--></ref>\n\n==== Dol Amroth ====\n\nDol Amroth ([[Sindarin]]: \"the Hill of Amroth\"<ref>{{cite book |last=Foster |first=Robert |title=[[A Guide to Middle-earth]] |page=60 |publisher=[[Ballantine Books]] |year=1978 |isbn=978-0345275479}}</ref>) was a fortress-city on a peninsula jutting westward into the Bay of Belfalas, on Gondor's southern shore. It is also the name of the port city, one of the five great cities of Gondor, and the seat of the [[principality]] of the same name, founded by prince Galador.<ref name=\"Founder\" group=T>{{harvnb|Tolkien|1980}}, \"Cirion and Eorl and the Friendship of Gondor and Rohan\".</ref> The whimsical poem \"[[The Man in the Moon Came Down Too Soon]]\" in ''[[The Adventures of Tom Bombadil]]'' tells how the Man in the Moon fell one night into \"the windy Bay of Bel\"; his fall is marked by the tolling of a bell in the Seaward Tower (''Tirith Aear'') of Dol Amroth, and he recovers at an inn in the city.<ref group=T>[[The Adventures of Tom Bombadil]], Introduction and Poem 6</ref>\n\n[[File:Flag of Dol Amroth.svg|thumb|upright|Flag of the Prince of Dol Amroth]]\n\nIts ruler, the Prince of Dol Amroth, is subject to the sovereignty of Gondor.<ref name=\"Letters244\" group=T>{{harvnb|Carpenter|2023|loc=#244 to a reader, draft, c. 1963 }}</ref> The principality's boundaries are not explicitly defined, though the Prince ruled Belfalas as a fief, as well as an area to the east on the map labelled Dor-en-Ernil (\"The Land of the Prince\").<ref name=\"UT-AN\" group=T/> Imrahil, Prince of Dol Amroth in ''The Return of the King'', was linked by marriage both to the [[Stewards of Gondor]] and to the Kings of Rohan.<ref name=Lothiriel>{{cite journal |last=Viars |first=Karen |year=2015 |title=Constructing Lothiriel: Rewriting and Rescuing the Women of Middle-Earth From the Margin |journal=[[Mythlore]] |volume=33 |at=article 6 |url=https://dc.swosu.edu/cgi/viewcontent.cgi?article=1018&context=mythlore}}</ref> He was the brother of Lady Finduilas and uncle to her sons [[Boromir]] and [[Faramir]];<ref group=T>{{harvnb|Tolkien|1955}}, Appendix A, \"The Stewards\"</ref> a kinsman of [[Théoden]];<ref group=T>{{harvnb|Tolkien|1980}}, \"Disaster of the Gladden Fields\".</ref> and the father of [[Éomer]]'s wife Lothíriel.<ref name=Lothiriel/><ref group=T>{{harvnb|Tolkien|1955}}, Appendix A, \"The House of Eorl\"</ref> Imrahil played a major part in the defence of [[Minas Tirith]]; the soldiers whom Imrahil led to Minas Tirith formed the largest contingent from the hinterland to the defence of the city.<ref name=Chivalry>{{cite journal |last=Honegger |first=Thomas |author-link=Thomas Honegger |year=2017 |title=Riders, Chivalry, and Knighthood in Tolkien |journal=[[Journal of Tolkien Research]] |volume=4 |at=article 3 |url=https://scholar.valpo.edu/cgi/viewcontent.cgi?article=1075&context=journaloftolkienresearch}}</ref><ref name=\"Minas Tirith\" group=T>{{harvnb|Tolkien|1955}}, book 5, ch. 1 \"Minas Tirith\"</ref> They marched under a banner \"silver upon blue\",<ref name=\"UT Field of Cormallen\" group=T/> bearing \"a white ship like a swan upon blue water\".<ref group=T>{{harvnb|Tolkien|1955}}, book 5 ch. 8 \"The Houses of Healing</ref>\n\nSome like Finduilas are of Númenórean descent,<ref name=\"Boromir\">{{cite encyclopedia |last=Davis |first=Alex |editor=[[Michael D. C. Drout|Michael D.C. Drout]] |title=Boromir |encyclopedia=[[The J. R. R. Tolkien Encyclopedia]] |year=2013 |orig-year=2006 |publisher=[[Routledge]] |isbn=978-0-415-86511-1 |pages=412–413}}</ref> and still speak the Elvish language.<ref name=\"AppF\" group=T/> Tolkien wrote about the city's protective sea-walls and described Belfalas as a \"great fief\".<ref name=\"Passing of the Grey Company\" group=T/> Prince Imrahil's castle is by the sea; Tolkien described him as \"of high blood, and his folk also, tall men and proud with sea-grey eyes\".<ref name=\"Minas Tirith\" group=T/> Local tradition claimed that the line's forefather, Imrazôr the Númenórean had married an Elf, though the line remained mortal.<ref name=\"Siege of Gondor\" group=T/><ref>{{Harvnb|Hammond|Scull|2005|loc=\"The Great River\", pp. 683–684}}</ref><ref name=\"Arwen\">{{cite encyclopedia |last=Armstrong |first=Helen |editor=Michael D.C. Drout |title=Arwen |encyclopedia=[[The J. R. R. Tolkien Encyclopedia]]|year=2013 |orig-year=2006 |publisher=[[Routledge]] |isbn=978-0-415-86511-1 |pages=38–39}}</ref>\n\n=== Fictional history ===\n\n{{anchor|Paths of the Dead}}\n\n==== Pre-Númenórean ====\n\nThe [[first people]] in the region were the [[Drúedain]], a hunter-gatherer group of [[Man (Middle-earth)|Men]] who arrive in the [[First Age]]. They were pushed aside by later settlers and came to live in the pine-woods of the Druadan Forest<ref name=\"Ride of the Rohirrim\" group=T/> by the north-eastern [[White Mountains (Middle-earth)|White Mountains]].<ref name=\"Many Partings\" group=T>{{harvnb|Tolkien|1955}} book 6 ch. 6 \"Many Partings\"</ref> \nThe next people settled in the [[White Mountains (Middle-earth)|White Mountains]], and became known as the Men of the Mountains. They built a subterranean complex at Dunharrow, later known as the Paths of the Dead, which extended through the mountain range from north to south.<ref name=\"Last Debate\" group=T/> They became subject to [[Sauron]] in the Dark Years.  Fragments of pre-Númenórean languages survive in later ages in place-names such as ''Erech'', ''Arnach'', and ''Umbar''.<ref group=T>{{harvnb|Tolkien|1955}} Appendix F part 1</ref>\n\n====Númenórean kingdom====\n{{further|Númenor}}\n{{anchor|Osgiliath}}{{anchor|Nimloth the fair}}{{anchor|Anárion}}\n\nThe shorelands of Gondor were widely colonized by the [[Númenóreans]] from the middle of the [[Second Age]], especially by Elf-friends loyal to [[Elendil]].<ref name=\"OtRoP\" group=T>{{Harvnb|Tolkien|1977}} \"Of the Rings of Power and the Third Age\"</ref> His sons [[Isildur]] and Anárion landed in Gondor after the drowning of Númenor, and co-founded the Kingdom of Gondor. Isildur brought with him a seedling of Nimloth (Sindarin: ''nim'', \"white\" and ''loth'', \"blossom\"<ref name=\"Foster 1978 p186\">{{cite book |last=Foster |first=Robert |title=The Complete Guide to Middle-earth |year=1978 |publisher=[[Ballantine Books]] |isbn=978-0-345-44976-4 |page=186}}</ref>) the Fair, the white tree from Númenor. This tree and its descendants came to be called the White Tree of Gondor, and appears on the kingdom's [[coat of arms]].  Elendil, who founded the Kingdom of Arnor to the north, was held to be the [[High King]] of all the lands of the [[Dúnedain]].<ref name=\"AppA\" group=T>{{harvnb|Tolkien|1955}} Appendix A, I (iv)</ref> Isildur established the city of [[Minas Morgul|Minas Ithil]] (Sindarin: \"Tower of the Moon\") while Anárion established the city of Minas Anor (Sindarin: \"Tower of the Sun\").<ref name=\"AppA\" group=T/>\n\nSauron survived the destruction of Númenor and secretly returned to his realm of Mordor, soon launching a war against the Númenórean kingdoms. He captured Minas Ithil, but Isildur escaped by ship to Arnor; meanwhile, Anárion was able to defend Osgiliath.<ref name=\"OtRoP\" group=T/> Elendil and the [[Elf (Middle-earth)|Elven]]-king [[Gil-galad]] formed the Last Alliance of Elves and Men, and together with Isildur and Anárion, they besieged and defeated Mordor.<ref name=\"OtRoP\" group=T/> Sauron was overthrown; but the [[One Ring]] that Isildur took from him was not destroyed, and thus Sauron continued to exist.<ref name=\"Gladden Fields\" group=T/>\n\nBoth Elendil and Anárion were killed in the war, so Isildur conferred rule of Gondor upon Anárion's son Meneldil, retaining [[suzerainty]] over Gondor as High King of the Dúnedain. Isildur and his three elder sons were ambushed and killed by [[Orc (Middle-earth)|Orcs]] in the Gladden Fields. Isildur's remaining son Valandil did not attempt to claim his father's place as Gondor's monarch; the kingdom was ruled solely by Meneldil and his descendants until their line died out.<ref name=\"Gladden Fields\" group=T>{{harvnb|Tolkien|1980}} part 3 ch. 1 \"Disaster of the Gladden Fields\"</ref>\n\n==== Third Age, under the Stewards ====\n\n{{anchor|Umbar|Stewards|Plague|Great Plague}}\n\n[[File:Flag of the Stewards of Gondor.svg|thumb|upright|Seal of the Stewards of Gondor{{efn|The seal of the stewards consisted of the three letters: R.ND.R (standing for ''Arandur'', king's servant), surmounted by three stars.<ref name=\"Seal of the Stewards\" group=T/>}}]]\n\n[[File:2ndMarquessOfHamilton.jpg|thumb|upright=0.6|[[James Hamilton, 2nd Marquess of Hamilton]] holding the white staff of the Lord Steward of the King's Household, Scotland, the same symbol as that of the Stewards of Gondor. Portrait by unknown artist after [[Daniël Mijtens]], 1622]]\n\nDuring the early years of the [[Third Age]], Gondor was victorious and wealthy, and kept a careful watch on Mordor, but the peace ended with Easterling invasions.<ref name=\"AppB\" group=T>{{harvnb|Tolkien|1955}} Appendix B \"The Third Age\"</ref> Gondor established a powerful navy and captured the southern port of Umbar from the [[Black Númenóreans]],<ref name=\"AppB\" group=T/> becoming rich.<ref name=\"AppA\" group=T/>\n\n{{anchor|Great Plague}}\nAs time went by, Gondor neglected the watch on [[Mordor]]. A civil war gave Umbar the opportunity to declare independence.<ref name=\"AppB\" group=T/> The kings of [[Harad]] grew stronger, leading to fighting in the south.<ref name=\"PM-HE\" group=T>{{harvnb|Tolkien|1996}} ch. 7 \"The Heirs of Elendil\"</ref> With a Great [[Plague (disease)|Plague]]<!--of the year 1636--> the population began a steep decline.<ref name=\"AppB\" group=T/> The capital was moved from Osgiliath to the less affected Minas Anor, and evil creatures returned to the mountains bordering Mordor. There was war with the Wainriders, a confederation of Easterling tribes, and Gondor lost its line of kings.<ref name=\"UT-CE1\" group=T>{{harvnb|Tolkien|1980}} part 3 ch. 2 \"Cirion and Eorl\", (i)</ref> The [[Ringwraiths]] captured and occupied Minas Ithil<ref name=\"OtRoP\" group=T/> which became [[Minas Morgul]], \"the Tower of Black Sorcery\".<ref name=\"Steward and the King\" group=T>{{harvnb|Tolkien|1955}} book 5 ch. 8 \"The Houses of Healing\"; book 6 ch. 5 \"The Steward and the King\"</ref><ref name=\"OtRoP\" group=T/><ref name=\"AppA\" group=T/> At this time Minas Anor was renamed to Minas Tirith, in constant watch of its now defiled twin city.\n\n{{anchor|Ithilien}}\nWithout kings, Gondor was ruled by Stewards for many generations, father to son; despite their exercise of power and hereditary status, they were never accepted as Kings, nor did they sit on the high throne.<ref name=\"TT-WW\" group=T>{{harvnb|Tolkien|1954}} book 4, ch. 5 \"The Window on the West\"</ref> The badge of office of the Stewards is a white rod.<ref name=\"Minas Tirith\" group=T/><ref name=\"EB lord high steward\">{{cite web |title=lord high steward: English honorific office |url=https://www.britannica.com/topic/lord-high-steward |publisher=Britannica |access-date=27 May 2025 |quote=On ceremonial occasions he carries a white staff}}</ref>\n\nFaramir reports that Boromir as a boy had asked his father Denethor how many centuries it would take for a steward to become a king. Denethor replied \"Few years, maybe, in other places of less royalty. In Gondor ten thousand years would not suffice.\"<ref name=\"TT-WW\" group=T/> Shippey reads this as a reproach to [[William Shakespeare|Shakespeare]]'s ''[[Macbeth]]'', noting that in Scotland, and [[Lord Steward|in Britain]], a [[House of Stuart|Stewart/Steward]] like [[James I of England]] (James VI of Scotland) could metamorphose into a king.{{sfn|Shippey|2005|p=206}} \n\nAfter attacks by evil forces, the province of Ithilien<ref name=\"Minas Tirith\" group=T/> and the city of Osgiliath were abandoned.<ref name=\"AppA\" group=T/><ref name=\"AppB\" group=T/> Late in the Third Age, the forces of Gondor, led by [[Aragorn]] (under the alias Thorongil) attacked Umbar and destroyed the Corsair fleet, allowing Ecthelion II to devote his attention to Mordor.<ref name=\"Seal of the Stewards\" group=T>{{harvnb|Tolkien|1980}} part 3 ch. 2 \"Cirion and Eorl\", note 25</ref>{{sfn|Straubhaar|2007|pp=248–249}}<!--in Drout--><ref name=\"AppB\" group=T/>\n\n==== War of the Ring and restoration ====\n\n{{anchor|Henneth Annûn}}{{anchor|Dol Amroth}}\n\n{{further|Battle of the Pelennor Fields|Heraldry of Middle-earth#Men}}\n\nDenethor sent his son [[Boromir]] to [[Rivendell]] for advice as war loomed. There, Boromir attended the [[Council of Elrond]], saw the [[One Ring]], and suggested it be used as a weapon to save Gondor. Elrond rebuked him, explaining the danger of such use, and instead, the hobbit [[Frodo Baggins|Frodo]] was made ring-bearer, and a [[Fellowship of the Ring (characters)|Fellowship]], including Boromir, was sent on a quest to destroy the Ring.<ref name=\"Council of Elrond\" group=T>{{harvnb|Tolkien|1954a}} book 2 ch. 2 \"[[The Council of Elrond]]\"</ref> \nGrowing in strength, [[Sauron]] attacked Osgiliath, forcing the defenders to leave, destroying the last bridge across the Anduin behind them. [[Minas Tirith]] then faced direct land attack from [[Mordor]], combined with naval attack by the Corsairs of Umbar. The [[hobbit]]s Frodo and [[Samwise Gamgee|Sam]] travelled through Ithilien, and were captured by [[Faramir]], Boromir's brother, who held them at the hidden cave of Henneth Annûn, but helped them to continue their quest.<ref name=\"TT-WW\" group=T/> [[Aragorn]] summoned the Dead of Dunharrow to destroy the forces from [[Umbar]], freeing men from the southern provinces of Gondor such as Dol Amroth<ref name=\"Minas Tirith\" group=T/><ref name=\"UT-AN\" group=T/> to come to the aid of Minas Tirith.\n\n[[File:Battle of the Pelennor Fields.svg|thumb|left|upright=1.25|[[Battle of the Pelennor Fields]]]]\n\nDuring the [[Battle of the Pelennor Fields]], the Great Gate was breached by [[Sauron]]'s forces led by the [[Witch-king of Angmar]]. He spoke \"words of power\" as the [[battering ram]] named [[Middle-earth weapons and armour#Grond|Grond]] attacked the Great Gate; it burst asunder as if \"stricken by some blasting spell\", with \"a flash of searing lightning, and the doors tumbled in riven fragments to the ground\".<ref name=\"Siege of Gondor\" group=T/> The Witch-king rode through the Gate where [[Gandalf]] awaited him, but left shortly afterwards to meet the Riders of Rohan in battle. Gondor, with the support of [[Rohirrim]] as cavalry, repelled the invasion by Mordor. Following the death of [[Denethor]] and the incapacity of Faramir, Prince Imrahil became the effective lord of Gondor.<ref name=\"O'Connor 2017\">{{cite journal |last=O'Connor |first=David |year=2017 |title=For What May We Hope? An Appreciation of Peter Simpson's Political Illiberalism |journal=The American Journal of Jurisprudence |volume=62 |issue=1 |pages=111–117 |doi=10.1093/ajj/aux014 |url=https://scholar.valpo.edu/cgi/viewcontent.cgi?article=1075&context=journaloftolkienresearch|url-access=subscription }}</ref>\n\nWhen Imrahil declined to send the entirety of Gondor's army against Mordor, Aragorn led a smaller army to the [[Black Gate (Middle-earth)|Black Gate]] of Mordor to distract Sauron from Frodo's quest.<ref name=\"O'Connor 2017\"/> Sauron encircled the army at the [[Battle of the Morannon]], but the hobbits succeeded, defeating Sauron and bringing the war and the Third Age to an end. The Great Gate was rebuilt with ''[[mithril]]'' and steel by [[Gimli (Middle-earth)|Gimli]] and Dwarves from the [[Lonely Mountain]]. Aragorn's coronation was held on the Gateway, where he was pronounced King Elessar of both Gondor and Arnor, the sister kingdom in the north.<ref name=\"AppAII\" group=T>{{harvnb|Tolkien|1955}} Appendix A, II</ref><ref name=\"PM-HE\" group=T/><ref name=\"PM Tale of Years and the Third Age\" group=T>{{Harvnb|Tolkien|1996}} ch. 8 \"The Tale of Years of the Third Age\"</ref><ref group=T>{{harvnb|Carpenter|2023|loc=#256 to Colin Bailey 13 March 1964, #338 to Father Douglas Carter, 6? June 1972 }}</ref>{{-}}\n\n== Concept and creation ==\n\n=== Writing ===\n\nTolkien's original thoughts about the later ages of Middle-earth are outlined in his first, mid-1930s, sketches for the legend of [[Númenor]]; these already contain a semblance of Gondor.<ref group=T>{{Harvnb|Tolkien|1987}} ch. 2 \"The Fall of Númenor\"</ref> The appendices to ''The Lord of the Rings'' were brought to a finished state in 1953–54, but a decade later, during preparations for the release of the Second Edition, Tolkien elaborated the events that had led to Gondor's civil war, introducing the regency of Rómendacil II.<ref name=\"PM-258-61\" group=T>{{Harvnb|Tolkien|1996}} ch. 9 \"The Making of Appendix A\". Letter ''c'' in names is used for original ''k''</ref> The final development of the history and geography of Gondor took place around 1970, in the last years of Tolkien's life, when he invented justifications for the place-names and wrote full narratives for the stories of Isildur's death and of the battles with the Wainriders and the Balchoth (published in ''[[Unfinished Tales]]'').<ref group=T>{{Harvnb|Tolkien|1996}} ch. 13 \"Last Writings\"</ref>\n\n=== In-universe ===\n\nTolkien describes an early population of [[Elf (Middle-earth)|elves]] in the Dol Amroth region, writing many accounts of its early history. In one version, a haven and a small settlement were founded in the [[First Age]] by seafaring [[Sindar]] from the west havens of [[Beleriand]] who fled in three small ships when the power of [[Morgoth]] overwhelmed the [[Sundering of the Elves#Eldar|Eldar]]; the Sindar were joined later by Silvan Elves who came down Anduin seeking the sea.<ref name=\"UT History of Celeborn and Galadriel\" group=T>{{harvnb|Tolkien|1980}}, part 2 ch. 4 \"History of Galadriel and Celeborn\"</ref> Another account states that the haven was established in the [[Second Age]] by Sindarin Elves from Lindon, who learned the craft of shipbuilding at the Grey Havens and then settled at the mouth of the [[Morthond]].<ref name=\"UT History of Celeborn and Galadriel\" group=T/> Other accounts say that Silvan Elves accompanied [[Galadriel]] from [[Lothlórien]] to this region after the defeat of [[Sauron]] at [[Eriador]] in the middle of the Second Age,<ref name=\"UT History of Celeborn and Galadriel\" group=T/>  or that Amroth ruled among the Nandorin Elves here in the Second Age.<ref name=\"UT Aldarion and Erendis\" group=T>{{harvnb|Tolkien|1980}}, \"Aldarion and Erendis\".</ref> Elves continued to live there well into the Third Age, until the last ship departed from Edhellond for the [[Undying Lands]]. Amroth, King of Lothlórien from the beginning of the Third Age,<ref name=\"UT History of Celeborn and Galadriel\" group=T/> left his realm behind in search of his beloved Nimrodel, a Nandorin who had fled from the [[Balrog|horror]] unleashed by the [[Dwarf (Middle-earth)|Dwarves]] in [[Moria (Middle-earth)|Moria]]. He waited for her at Edhellond, for their final voyage together into the West. But Nimrodel, who loved [[Middle-earth]] as much as she did Amroth, failed to join him.  When the ship was blown prematurely out to sea, he jumped overboard in a futile attempt to reach the shore to search for her, and drowned in the bay.<ref name=\"UT History of Celeborn and Galadriel\" group=T/> Mithrellas, a Silvan Elf and one of the companions of Nimrodel, is said to have become the foremother of the line of the Princes of Dol Amroth.<ref name=\"UT History of Celeborn and Galadriel\" group=T/><ref name=\"Martinez\">{{cite web |last1=De Rosario Martínez |first1=Helios |title=Light and Tree A Survey Through the External History of Sindarin |url=https://www.elvish.org/Tengwestie/articles/DeRosarioMartinez/lightandtree.phtml|website=[[Elvish Linguistic Fellowship]] |date=22 November 2005}}</ref>\n\nAccording to an alternate account about the line of the Princes of Dol Amroth cited in ''Unfinished Tales'', they were descendants of a family of the Faithful from [[Númenor]] who had ruled over the land of [[Belfalas]] since the [[Second Age]], before [[Akallabêth|Númenor was destroyed]]. This family of [[Númenóreans]] were akin to the [[Lords of Andúnië]], and thus related to [[Elendil]] and descended from the House of Elros. After the [[Downfall of Númenor]], they were created the \"Prince of Belfalas\" by [[Elendil]].<ref name=\"UT-BFI\" group=T/> ''Unfinished Tales'' provides an account of \"Adrahil of Dol Amroth\" who fought under King Ondoher of Gondor against the [[Wainriders]].<ref name=\"UT-CE1\" group=T/>\n\n{| class=\"wikitable\" style=\"margin-left: auto; margin-right: auto; border: none;\"\n|+ Tom Shippey's comparison of Gondor and its neighbour, Rohan{{sfn|Shippey|2005|pp=146–149}}\n|-\n! Situation !! Gondor !! [[Rohan (Middle-earth)|Rohan]]\n|-\n| Leader's behaviour<br/>on meeting trespassers || [[Faramir]], son of [[Ruling Stewards of Gondor|Ruling Steward]] [[Denethor]]<br/>courteous, urbane, civilised || [[Éomer]], nephew of King [[Théoden]]<br/>\"compulsively truculent\"   \n|-\n| Ruler's palace || Great Hall of [[Minas Tirith]]<br/>large, solemn, colourless || [[Mead hall]] of [[Meduseld]],<br/>simple, lively, colourful   \n|-\n| State || \"A kind of [[Ancient Rome|Rome]]\",<br/>subtle, selfish, calculating || [[Anglo-Saxon]],<br/>vigorous  \n|}\n\n[[File:Witan hexateuch.jpg|thumb|Bold colourful Rohan, modelled on the [[Anglo-Saxons]] (here in an 11th-century illustration), \"the bit that Tolkien knew best\",{{sfn|Shippey|2005|pp=146–149}} is contrasted by critics with the solemn but colourless Gondor.]]\n\nThe critic [[Tom Shippey]] compares Tolkien's characterisation of Gondor with that of Rohan. He notes that men from the two countries meet or behave in contrasting ways several times in ''The Lord of the Rings'': when Éomer and his Riders of Rohan twice meet Aragorn's party in the Mark, and when Faramir and his men imprison Frodo and Sam at Henneth Annun in Ithilien. Shippey notes that while Éomer is \"compulsively truculent\", Faramir is courteous, urbane, civilised: the people of Gondor are self-assured, and their culture is higher than that of Rohan. The same is seen, Shippey argues, in the comparison between the [[mead hall]] of [[Meduseld]] in Rohan, and the great hall of Minas Tirith in Gondor. Meduseld is simple, but brought to life by tapestries, a colourful stone floor, and the vivid picture of the rider, his bright hair streaming in the wind, blowing his horn. The Steward Denethor's hall is large and solemn, but dead, colourless, in cold stone. Rohan is, Shippey suggests, the \"bit that Tolkien knew best\",<ref name=\"Shippey 2005 pp146–149\">{{harvnb|Shippey|2005|pp=146–149 \"Whether one thinks of them as Anglo-Saxons or as Goths, they represent the bit that Tolkien knew best\"<!--i.e. ''Beowulf''-->}}</ref> Anglo-Saxon, full of vigour; Gondor is \"a kind of Rome\", over-subtle, selfish, calculating.<ref name=\"Shippey 2005 pp146–149\"/>\n\nThe critic [[Jane Chance Nitzsche]] contrasts the \"good and bad Germanic lords [[Théoden]] and Denethor\", noting that their names are almost anagrams. She writes that [[Feudal allegiance in The Lord of the Rings|both men receive the allegiance of a hobbit]], but very differently: Denethor, Steward of Gondor, undervalues [[Peregrin Took|Pippin]] because he is small, and binds him with a formal oath, whereas Théoden, King of Rohan, treats [[Meriadoc Brandybuck|Merry]] with love, which the hobbit responds to.{{sfn|Nitzsche|1980|pp=119–122}}\n\nIn his analysis of the historical lore of Númenor, Michael N. Stanton said close affinities are demonstrated between Elves and the descendants of Men of the West, not only in terms of blood heritage but also in \"moral probity and nobility of demeanor\", which gradually weakened over time due to \"time, forgetfulness, and, in no small part, the machinations of Sauron\".<ref name=\"Stanton 2015\">{{Cite book |last=Stanton |first=Michael |title=Hobbits, Elves and Wizards: The Wonders and Worlds of J.R.R. Tolkien's \"Lord of the Rings\" |publisher=[[St. Martin's Publishing Group]] |year=2015 |isbn=978-1-2500-8664-8 |url=https://books.google.com/books?id=V_RoCAAAQBAJ&pg=PT143 |page=Pt 143}}</ref> The cultural ties between the Men of Gondor and Elves are reflected in the names of certain characters: for instance, Finduilas of Dol Amroth (the wife of Denethor and the sister of Prince Imrahil) shares<!--yes, one person--> her name with an [[The Children of Húrin#Finduilas|Elf princess of the First Age]].<ref name=\"Encyclopaedia\">{{cite book |title=Tolkien: The Illustrated Encyclopaedia |pages=248 |last=Day |first=David |publisher=[[Simon & Schuster]] |year=1993 |isbn=978-0-6848-3979-0}}</ref>\n\nLeslie A. Donovan, in ''[[A Companion to J. R. R. Tolkien]]'', compares the siege of Gondor with the alliance of Elves and Men in their fight against Morgoth and other co-operative ventures in ''The Silmarillion'', making the point that none of these would have succeeded without collaboration; further that one such success comes from another shared effort, as when the Rohirrim were only able to come to the aid of Gondor because of the joint efforts of Legolas, Gimli, and Aragorn; and that they in turn collaborated with the oathbreakers from the Paths of the Dead.<ref name=\"Donovan 2020 p100\">{{cite book |last=Donovan |first=Leslie A. |chapter=Middle-earth Mythology: An Overview |editor-last=Lee |editor-first=Stuart D. |editor-link=Stuart D. Lee |title=A Companion to J. R. R. Tolkien |title-link=A Companion to J. R. R. Tolkien |date=2020 |orig-year=2014 |publisher=Wiley |isbn=978-1119656029 |page=100}}</ref>\n\n== Influences ==\n\n{{further|Tolkien and the classical world|Tolkien and the medieval}}\n\n[[Sandra Ballif Straubhaar]], a scholar of Germanic studies, notes in ''[[The J. R. R. Tolkien Encyclopedia]]'' that readers have debated the real-world prototypes of Gondor. She writes that like the [[Normans]], their founders the Númenóreans arrived \"from across the sea\", and that Prince Imrahil's armour with a \"burnished [[vambrace]]\" recalls late-medieval [[plate armour]]. Against this theory, she notes Tolkien's direction of readers to Egypt and Byzantium.<!--''Letters'', #?--> Recalling that Tolkien located Minas Tirith at the latitude of Florence, she states that \"the most striking similarities\" are with [[ancient Rome]]. She identifies several parallels: [[Aeneas]], from [[Troy]], and Elendil, from Númenor, both survive the destruction of their home countries; the brothers [[Romulus and Remus]] found Rome, while the brothers Isildur and Anárion found the Númenórean kingdoms in Middle-earth; and both Gondor and Rome experienced centuries of \"[[Fall of the Western Roman Empire|decadence and decline]]\".{{sfn|Straubhaar|2007|pp=248–249}}\n\n[[Dimitra Fimi]], a scholar of fantasy and children's literature, draws a parallel between the seafaring Númenóreans and the [[Vikings]] of the Norse world, noting that in ''[[The Lost Road and Other Writings]]'', Tolkien describes their [[ship-burial]]s,<ref group=T>{{harvnb|Tolkien|1987}} ch. 2 \"The Fall of Númenor\"</ref> matching those in ''[[Beowulf]]'' and the ''[[Prose Edda]]''.{{sfn|Fimi|2007|pages=84–99}} She notes that Boromir is given a boat-funeral in ''The Two Towers''.<ref group=T>{{Harvnb|Tolkien|1954}} book 3, ch. 1 \"The Departure of Boromir\"</ref>{{sfn|Fimi|2007|pages=84–99}} Fimi further compares the helmet and crown of Gondor with the romanticised \"headgear of the [[Valkyries]]\", despite Tolkien's denial of a connection with [[Der Ring des Nibelungen|Wagner's ''Ring'' cycle]], noting the \"likeness of the wings of a sea-bird\"<ref name=\"Steward and the King\" group=T/> in his description of Aragorn's coronation, and his drawing of the crown in an unused dust jacket design.<ref group=T>''The Winged Crown of Gondor''. [[Bodleian Library]], Oxford, MS. Tolkien Drawings 90, fol. 30.</ref>{{sfn|Fimi|2007|pages=84–99}}\n\n{| class=\"wikitable\" style=\"margin-left: auto; margin-right: auto; border: none;\"\n|+ Miryam Librán-Moreno's comparison of Gondor with the Byzantine Empire<ref name=Libran-Moreno/>\n|-\n! Situation !! Gondor !! [[Byzantine Empire]]\n|-\n| Older state echoed || [[Elendil]]'s unified kingdom of Gondor and Arnor || [[Roman Empire]]\n|-\n| Weaker sister kingdom || [[Arnor (Middle-earth)|Arnor]], the Northern kingdom || [[Western Roman Empire]]\n|-\n| Powerful enemies<br/>to East and South || Easterlings,<br/>[[Haradrim]],<br/>[[Mordor]]|| Persians,<br/>Arabs,<br/>[[Ottoman Turks|Turks]]\n|-\n| Final [[siege]] from the East || [[Battle of the Pelennor Fields|Survives]] || [[Fall of Constantinople|Falls]]\n|}\n\nThe classical scholar Miryam Librán-Moreno writes that Tolkien drew heavily on the general history of the [[Goths]], [[Langobards]] and the [[Byzantine Empire]], and their mutual struggle. Historical names from these peoples were used in drafts or the final concept of the internal history of Gondor, such as Vidumavi, wife of king Valacar (in [[Gothic language|Gothic]]).<ref name=\"Libran-Moreno\">{{Cite book |title=Tolkien and the Study of his Sources |last=Librán-Moreno |first=Miryam |publisher=[[McFarland & Company]] |year=2011 |isbn=978-0-7864-6482-1 |editor-last=Fisher |editor-first=Jason |editor-link=Jason Fisher |pages=84–116 |chapter='Byzantium, New Rome!' Goths, Langobards and Byzantium in ''The Lord of the Rings'' |chapter-url=https://books.google.com/books?id=98VQ3gHsVsMC&q=Gondor+Byzance&pg=PA98}}</ref> The Byzantine Empire and Gondor were both, in Librán-Moreno's view, only echoes of older states (the [[Roman Empire]] and the unified kingdom of Elendil), yet each proved to be stronger than their sister-kingdoms (the [[Western Roman Empire]] and Arnor, respectively). Both realms were threatened by powerful eastern and southern enemies: the Byzantines by the [[Sassanid Empire|Persians]] and the Muslim armies of the [[Arabs]] and the [[Turkish people|Turks]], as well as the Langobards and Goths; Gondor by the Easterlings, the Haradrim, and the hordes of Sauron. Both realms were in decline at the time of a final, all-out siege from the East; however, Minas Tirith survived the siege whereas [[Fall of Constantinople|Constantinople did not]].<ref name=Libran-Moreno/> In a 1951 letter, Tolkien himself wrote about \"the Byzantine City of Minas Tirith.\"<ref name=\"Hammond Scull p570\">{{Harvnb|Hammond|Scull|2005|p=570}}</ref>\n\nTolkien visited the [[Malvern Hills]] with [[C. S. Lewis]],<ref name=Duriez>{{harvnb|Duriez|1992|p=253}}</ref><ref name=Sayer>{{harvnb|Sayer|1979}}</ref> and recorded excerpts from ''[[The Hobbit]]'' and ''[[The Lord of the Rings]]'' in Malvern in 1952, at George Sayer's home.<ref>{{harvnb|Carpenter|1977}}</ref> Sayer wrote that Tolkien relived the book as they walked, comparing the Malvern Hills to the White Mountains of Gondor.<ref name=Sayer/>\n\n<gallery class=\"center\" mode=\"nolines\" widths=\"175px\" heights=\"175px\">\nFile:Aeneas' Flight from Troy by Federico Barocci.jpg|[[Sandra Ballif Straubhaar]] notes that in [[Roman legend]], [[Aeneas]] escapes the ruin of [[Troy]], while [[Elendil]] escapes that of [[Númenor]].{{sfn|Straubhaar|2007|pp=248–249}} Painting ''Aeneas flees burning Troy'' by [[Federico Barocci]], 1598\nFile:Romanticised headgear of the Valkyries.jpg|[[Dimitra Fimi]] compares Gondor's bird-winged helmet-crown to the romanticised headgear of the [[Valkyries]]. Illustration for ''The Rhinegold and the Valkyrie'' by [[Arthur Rackham]], 1910{{sfn|Fimi|2007|pages=84–99}}\nFile:Constantinople 1453.jpg|Tolkien called Minas Tirith a \"[[Byzantine Empire|Byzantine]] City\"<br/>([[Constantinople]] shown).<ref name=\"Hammond Scull p570\"/>\nFile:Malvern Hills in June 2005.JPG|The [[Malvern Hills]] may have inspired Tolkien to create parts of the White Mountains.<ref name=Duriez/>\nFile:Mount Cook 2.jpg|New Zealand's [[Southern Alps]] served as Gondor's White Mountains in [[Peter Jackson]]'s [[The Lord of the Rings (film series)|''The Lord of the Rings'' trilogy]].<ref>{{cite web |title=Lord Of The Rings: The Return Of The King: 2003 |url=https://www.movie-locations.com/movies/l/Lord-Of-The-Rings-The-Return-Of-The-King.php |website=Movie Locations |access-date=22 February 2021 |quote=Ben Ohau Station, in the Mackenzie Basin, in the Southern Alps, ... provided the 'Pelennor Fields', and the foothills of the 'White Mountains', for the climactic battle scenes}}</ref>\n</gallery>\n\n== Adaptations ==\n\n=== Film ===\n\n[[File:Harlondwide.jpg|thumb|upright=1.35<!--fmt for low img-->|Black-sailed [[dromund]] ships of the [[Corsairs of Umbar]] at Harlond, the port of [[Minas Tirith]], as depicted with a domed building in [[Peter Jackson]]'s [[The Lord of the Rings (film series)|''The Lord of the Rings'' film trilogy]]]]\n\nGondor, as it appeared in [[Peter Jackson]]'s [[The Lord of the Rings (film series)|film adaptation of ''The Lord of the Rings'']], has been compared to the Byzantine Empire.<ref>{{Cite news |url=https://www.usatoday.com/life/movies/reviews/2003-12-16-return-of-the-king_x.htm |title=With third film, 'Rings' saga becomes a classic |last=Puig |first=Claudia |date=24 February 2004 |newspaper=[[USA Today]] |quote=In the third installment, for example, Minas Tirith, a seven-tiered city of kings, looks European, Byzantine and fantastical at the same time.}}</ref> The production team noted this in DVD commentary, explaining their decision to include Byzantine domes into Minas Tirith's architecture and to have civilians wear Byzantine-styled clothing.<ref>{{Cite AV media |title=[[The Lord of the Rings: The Return of the King]] |date=December 2004 |edition=special extended DVD}}</ref> However, the appearance and structure of the city was based upon the inhabited [[tidal island]] and [[abbey]] of [[Mont Saint-Michel]], France.<ref name=\"Morrison 2014\">{{cite web |last1=Morrison |first1=Geoffrey |title=The real-life Minas Tirith from 'Lord of the Rings': A tour of Mont Saint-Michel |url=https://www.cnet.com/news/take-a-tour-of-mont-saint-michel/ |publisher=CNET |date=27 June 2014}}</ref> In the films, the towers of the city, designed by the artist [[Alan Lee (illustrator)|Alan Lee]], are equipped with [[trebuchet]]s.<ref name=\"Russell2004\">{{cite book |last=Russell |first=Gary |title=The Art of The Lord of the Rings |url=https://archive.org/details/artoflordofth00gary|url-access=registration <!--ebook--> |year=2004|publisher=[[Houghton Mifflin Harcourt]] |isbn=0-618-51083-4 |pages=[https://archive.org/details/artoflordofth00gary/page/n104 103]–105<!--print-->}}</ref> The film critic [[Roger Ebert]] called the films' interpretation of Minas Tirith a \"spectacular achievement\", and compared it to the [[Emerald City]] from ''[[The Wizard of Oz (1939 film)|The Wizard of Oz]]''. He praised the filmmakers' ability to blend digital and real sets.<ref name=\"ebert\">{{cite news |last=Ebert |first=Roger |author-link=Roger Ebert |url=http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20031217/REVIEWS/312170301/1023 |title=Lord of the Rings: The Return of the King |newspaper=[[Chicago Sun-Times]] |date=17 December 2003 |access-date=15 November 2021 |archive-date=11 December 2011 |archive-url=https://web.archive.org/web/20111211075754/http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=%2F20031217%2FREVIEWS%2F312170301%2F1023 |url-status=dead }}</ref>\n\n=== Games ===\n\nThe setting of Minas Tirith has appeared in video game adaptations of ''The Lord of the Rings'', such as the 2003 video game ''[[The Lord of the Rings: The Return of the King (video game)|The Lord of the Rings: The Return of the King]]'' where it is directly modelled on Jackson's film adaptation.<ref name=\"GS diary6\">{{cite web | last=Dobson | first=Nina | url=http://www.gamespot.com/articles/the-lord-of-the-rings-the-return-of-the-king-designer-diary-6/1100-6077465/ | title=The Lord of the Rings: The Return of the King Designer Diary #6 | publisher=[[GameSpot]] | access-date=15 November 2014 | date=28 October 2003}}</ref>\n\nSeveral locations in Gondor were featured in the 1982 [[role-playing game]] ''[[Middle-earth Role Playing]]'' game and its expansions.<ref>{{cite web|url=http://index.rpg.net/display-entry.phtml?mainid=2523 |title=Assassins of Dol Amroth |work=[[RPGnet]] |access-date=11 August 2012 |publisher=Skotos}}</ref>\n\n== Notes ==\n\n{{notelist}}\n\n== References ==\n\n=== Primary ===\n\n{{reflist|group=T|24em}}\n\n=== Secondary ===\n\n{{reflist|30em}}\n\n== Sources ==\n\n* {{ME-ref|Carpenter}} <!--Carpenter 1977 Biography of JRRT-->\n* {{cite book |last=Duriez |first=Colin |author-link=Colin Duriez |title=The J.R.R. Tolkien handbook |publisher=[[Baker Book House]] |date=1992 |page=253 |isbn=0801030145 }}\n* {{ME-ref|Letters}} <!--Carpenter 1981 Letters of JRRT-->\n* {{cite book |last=Fimi |first=Dimitra |author-link=Dimitra Fimi |chapter=Tolkien and Old Norse Antiquity |editor1-last=Clark |editor1-first=David |editor2-last=Phelpstead |editor2-first=Carl |title=Old Norse Made New: Essays on the Post-Medieval Reception of Old Norse Literature and Culture |date=2007 |publisher=((Viking Society for Northern Research: [[University College London]])) |location=London |url=https://pdfs.semanticscholar.org/d8c7/c29c5fa7e794e73861e1e1a0a9e4ceb6d878.pdf |archive-url=https://web.archive.org/web/20200226212500/https://pdfs.semanticscholar.org/d8c7/c29c5fa7e794e73861e1e1a0a9e4ceb6d878.pdf |url-status=dead |archive-date=2020-02-26 |pages=84–99 |s2cid=163015967 }}\n* {{ME-ref|AoMe}}    <!--Fonstad, 1991-->\n* {{ME-ref|RC}}      <!--Hammond and Scull 2005-->\n* {{cite book |title=[[Tolkien's Art: 'A Mythology for England']] |last=Nitzsche |first=Jane Chance |date=1980 |publisher=Papermac |isbn=0-333-29034-8 |author-link=Jane Chance |orig-year=1979}}\n* {{cite AV media |last=Sayer |first=George |chapter=Liner notes |title=J.R.R. Tolkien Reads and Sings his 'The Hobbit' and 'The Fellowship of the Ring' |publisher=Caedmon |year=1979 |orig-year=August 1952 recording }}\n* {{cite book |title=[[The Road to Middle-Earth]] |last=Shippey |first=Tom |date=2005 |publisher=Grafton ([[HarperCollins]]) |isbn=978-0261102750 |edition=Third |author-link=Tom Shippey |orig-year=1982}}\n* {{cite book |title=The J. R. R. Tolkien Encyclopedia: Scholarship and Critical Assessment |title-link=J. R. R. Tolkien Encyclopedia |last=Straubhaar |first=Sandra Ballif |author-link=Sandra Ballif Straubhaar |publisher=[[Routledge]] |year=2007 |isbn=978-0-415-96942-0 |editor-last=Drout, Michael D. C. |editor-link=Michael D. C. Drout |pages=248–249 |chapter=Gondor }} <!--Straubhaar, in Drout-->\n* {{ME-ref|FR}}   <!--all the rest are Tolkien-->\n* {{ME-ref|TT}}      \n* {{ME-ref|RK}}\n* {{ME-ref|Silm}}\n* {{ME-ref|UT}}\n* {{ME-ref|LROW|Etym}}\n* {{ME-ref|RS}}\n* {{ME-ref|PM}}\n\n{{Middle-earth}}\n{{The Lord of the Rings}}\n\n{{Authority control}}\n\n[[Category:Middle-earth realms]]\n[[Category:Fictional kingdoms]]",
+  "redirect_chain": [],
+  "revision_id": 1362362351,
+  "revision_timestamp": "2026-07-03T12:58:31Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Literature",
+        "In-fiction etymology"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Literature",
+        "In-fiction etymology"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Literature",
+        "Fictional geography"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Literature",
+        "Fictional geography",
+        "Country"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Literature",
+        "Fictional geography",
+        "Country"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Literature",
+        "Fictional geography",
+        "Country"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Literature",
+        "Fictional geography",
+        "Country"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Literature",
+        "Fictional geography",
+        "Country"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Literature",
+        "Fictional geography",
+        "Country"
+      ],
+      "paragraph_ordinal": 7,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Literature",
+        "Fictional geography",
+        "Country"
+      ],
+      "paragraph_ordinal": 8,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Literature",
+        "Fictional geography",
+        "Capital, Minas Tirith"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Literature",
+        "Fictional geography",
+        "Capital, Minas Tirith"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Literature",
+        "Fictional geography",
+        "Capital, Minas Tirith"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Literature",
+        "Fictional geography",
+        "Capital, Minas Tirith"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Literature",
+        "Fictional geography",
+        "Capital, Minas Tirith"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Literature",
+        "Fictional geography",
+        "Dol Amroth"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Literature",
+        "Fictional geography",
+        "Dol Amroth"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Literature",
+        "Fictional geography",
+        "Dol Amroth"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Literature",
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Literature",
+        "Fictional history",
+        "Pre-Númenórean"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Literature",
+        "Fictional history",
+        "Númenórean kingdom"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Literature",
+        "Fictional history",
+        "Númenórean kingdom"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Literature",
+        "Fictional history",
+        "Númenórean kingdom"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Literature",
+        "Fictional history",
+        "Third Age, under the Stewards"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Literature",
+        "Fictional history",
+        "Third Age, under the Stewards"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Literature",
+        "Fictional history",
+        "Third Age, under the Stewards"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Literature",
+        "Fictional history",
+        "Third Age, under the Stewards"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Literature",
+        "Fictional history",
+        "Third Age, under the Stewards"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Literature",
+        "Fictional history",
+        "Third Age, under the Stewards"
+      ],
+      "paragraph_ordinal": 7,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Literature",
+        "Fictional history",
+        "Third Age, under the Stewards"
+      ],
+      "paragraph_ordinal": 8,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Literature",
+        "Fictional history",
+        "War of the Ring and restoration"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Literature",
+        "Fictional history",
+        "War of the Ring and restoration"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Literature",
+        "Fictional history",
+        "War of the Ring and restoration"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Literature",
+        "Fictional history",
+        "War of the Ring and restoration"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Literature",
+        "Fictional history",
+        "War of the Ring and restoration"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Concept and creation",
+        "Writing"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Concept and creation",
+        "In-universe"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Concept and creation",
+        "In-universe"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: table",
+      "structure_type": "table"
+    },
+    {
+      "heading_path": [
+        "Concept and creation",
+        "In-universe"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Concept and creation",
+        "In-universe"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Concept and creation",
+        "In-universe"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Concept and creation",
+        "In-universe"
+      ],
+      "paragraph_ordinal": 7,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Concept and creation",
+        "In-universe"
+      ],
+      "paragraph_ordinal": 8,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Influences"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Influences"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Influences"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Influences"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: table",
+      "structure_type": "table"
+    },
+    {
+      "heading_path": [
+        "Influences"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Influences"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Film"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Games"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Games"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Notes"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

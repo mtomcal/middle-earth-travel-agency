@@ -105,7 +105,7 @@ def export_snapshot(state_db: Path, output: Path) -> SnapshotResult:
             session = {column: sessions[0][column] for column in SESSION_COLUMNS}
             session["record_type"] = "session_state"
             stream.write(_canonical_line(session))
-        _parse_snapshot(temporary)
+        read_snapshot(temporary)
         temporary.replace(output)
     except BaseException:
         temporary.unlink(missing_ok=True)
@@ -124,7 +124,8 @@ def _require_string(value: object, field: str, line_number: int) -> str:
     return value
 
 
-def _parse_snapshot(path: Path) -> tuple[dict[str, str], list[dict[str, Any]], dict[str, Any]]:
+def read_snapshot(path: Path) -> tuple[dict[str, str], list[dict[str, Any]], dict[str, Any]]:
+    """Read and validate a deterministic curation snapshot."""
     if not path.is_file():
         raise ValueError(f"curation snapshot does not exist: {path}")
     metadata: dict[str, str] = {}
@@ -242,7 +243,7 @@ def load_snapshot(snapshot: Path, state_db: Path) -> SnapshotResult:
     """Validate a JSONL snapshot and atomically create a new SQLite working database."""
     if state_db.exists():
         raise FileExistsError(f"refusing to overwrite curation state database: {state_db}")
-    metadata, events, session = _parse_snapshot(snapshot)
+    metadata, events, session = read_snapshot(snapshot)
     state_db.parent.mkdir(parents=True, exist_ok=True)
     descriptor, temporary_name = tempfile.mkstemp(
         prefix=f".{state_db.name}.", suffix=".tmp", dir=state_db.parent

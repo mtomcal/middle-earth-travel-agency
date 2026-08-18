@@ -28,7 +28,7 @@ import tarfile
 from dataclasses import dataclass
 from datetime import datetime
 from pathlib import Path
-from typing import Sequence
+from typing import Sequence, TypedDict, cast
 
 # --------------------------------------------------------------------------- #
 # Constants                                                                   #
@@ -39,6 +39,21 @@ ARCHIVE_SUFFIX = ".tar.gz"
 SIDECAR_SUFFIX = ".sha256"
 PART_SUFFIX = ".part"
 ARCHIVE_BASENAME_PREFIX = "meta-enwiki-20260701"
+
+
+class _ManifestMember(TypedDict):
+    path: str
+    size_bytes: int
+    sha256: str
+
+
+class _BackupManifest(TypedDict):
+    schema_version: int
+    label: str
+    git_head: str
+    source_snapshot: dict[str, object]
+    members: list[_ManifestMember]
+
 
 # Pinned source identity required on every canonical backup.
 WIKI_DATABASE = "enwiki"
@@ -302,11 +317,17 @@ def _validate_artifact(
     _require_string(artifact["extractor_identity"], f"{what} extractor_identity")
     if not isinstance(artifact["extractor_configuration"], dict):
         raise BackupError(f"{what} extractor_configuration must be an object")
-    for field in ("permanent_revision_url", "history_url"):
-        url = _require_string(artifact[field], f"{what} {field}")
+    permanent_revision_url = _require_string(
+        artifact["permanent_revision_url"], f"{what} permanent_revision_url"
+    )
+    history_url = _require_string(artifact["history_url"], f"{what} history_url")
+    for field, url in (
+        ("permanent_revision_url", permanent_revision_url),
+        ("history_url", history_url),
+    ):
         if not url.startswith(("https://", "http://")):
             raise BackupError(f"{what} {field} is not a URL")
-    if f"oldid={artifact['revision_id']}" not in artifact["permanent_revision_url"]:
+    if f"oldid={artifact['revision_id']}" not in permanent_revision_url:
         raise BackupError(f"{what} permanent_revision_url does not identify its revision_id")
     inner = _validate_source_snapshot(artifact["source_snapshot"], what=f"{what} source_snapshot")
     _same_source_snapshot(inner, expected_source, what)
@@ -738,7 +759,7 @@ def _validate_member_allowlist_shape(name: str) -> None:
     raise BackupError(f"archive member {name!r} is outside the canonical allowlist")
 
 
-def _ensure_manifest_types(manifest: object) -> dict[str, object]:
+def _ensure_manifest_types(manifest: object) -> _BackupManifest:
     if not isinstance(manifest, dict):
         raise BackupError("backup-manifest.json must be a JSON object")
     schema_version = manifest.get("schema_version")
@@ -780,7 +801,7 @@ def _ensure_manifest_types(manifest: object) -> dict[str, object]:
                 f"backup-manifest.json member #{index} sha256 must be a 64-character hex string"
             )
         _validate_member_allowlist_shape(path)
-    return manifest
+    return cast(_BackupManifest, manifest)
 
 
 def _verify_archive_contents(tar: tarfile.TarFile, archive_path: Path) -> None:

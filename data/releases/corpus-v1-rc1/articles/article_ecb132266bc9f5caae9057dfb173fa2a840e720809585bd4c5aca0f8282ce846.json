@@ -1,0 +1,423 @@
+{
+  "article_artifact_id": "article_ecb132266bc9f5caae9057dfb173fa2a840e720809585bd4c5aca0f8282ce846",
+  "canonical_title": "Lothlórien",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_ecb132266bc9f5caae9057dfb173fa2a840e720809585bd4c5aca0f8282ce846",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "In J. R. R. Tolkien's legendarium, Lothlórien or Lórien is the fairest realm of the Elves remaining in Middle-earth during the Third Age. It is ruled by Galadriel and Celeborn from their city of tree houses at Caras Galadhon. The wood-elves of the realm are called Galadhrim.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_cd951a6124c61d767a60ef128cca6b70dda0f4c89c0ee105e19c2419c07392f5",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_ecb132266bc9f5caae9057dfb173fa2a840e720809585bd4c5aca0f8282ce846",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "The realm, a broad woodland between the Misty Mountains and the River Anduin, is the Elven centre of resistance against the Dark Lord Sauron in The Lord of the Rings. Galadriel had one of the Three Elf-Rings, and used it to keep Sauron from seeing into Lothlórien. The Company of the Ring spent some time in Lothlórien after passing through Moria. Galadriel prepared them for their quest with individual gifts.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_6947e6b29fe09503e5c1f74c12a67618ca32091d92d42739664a32878ecb7628",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_ecb132266bc9f5caae9057dfb173fa2a840e720809585bd4c5aca0f8282ce846",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Scholars have noted that Lothlórien represents variously an Earthly Paradise; an Elfland where time is different, reflecting the traditions of European folklore; and a land of light striving biblically with the darkness of evil.",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_3694a8ea2040aed6d5819268b00d711a87d7107762644ffb9f5df09939f15cb0",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_ecb132266bc9f5caae9057dfb173fa2a840e720809585bd4c5aca0f8282ce846",
+      "heading_path": [
+        "Fictional description",
+        "Geography"
+      ],
+      "normalized_text": "thumb|upright=1.35|Sketch map of Lothlórien",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_af9226d5b2960b7763dc528d5ed18f4e4acbd5a928685b21767247dda1e86b88",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_ecb132266bc9f5caae9057dfb173fa2a840e720809585bd4c5aca0f8282ce846",
+      "heading_path": [
+        "Analysis"
+      ],
+      "normalized_text": "thumb|upright|Light against darkness: Haldir's description of how Lothlórien opposes Mordor echoes John's Gospel.St John the Evangelist by Domenichino, c. 1626",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_af71c847415b48cb435d4fbb603c9239d340d7c65284000b52cdb5cbb3eba280",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_ecb132266bc9f5caae9057dfb173fa2a840e720809585bd4c5aca0f8282ce846",
+      "heading_path": [
+        "Analysis",
+        "Elfland where time is different"
+      ],
+      "normalized_text": "thumb|Cerin Amroth, a grassy mound surrounded by two circles of trees, has been compared to the Motte of Warwick Castle, Ethelfleda's Mound (pictured), where a young Tolkien went with his future wife Edith Bratt.",
+      "paragraph_ordinal": 7,
+      "passage_id": "passage_21d010578a67f9e49c9c255c0a1f91f1c43dbef9f9a9fc13afff916dc6d432a2",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_ecb132266bc9f5caae9057dfb173fa2a840e720809585bd4c5aca0f8282ce846",
+      "heading_path": [
+        "Adaptations"
+      ],
+      "normalized_text": "thumb|Lothlórien's appearance in The Lord of the Rings film trilogy was based on Alan Lee's artwork.",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_b33622996fef19e3e3103e06e552c2b030a539e8938de795d7bca5b1639bf8c8",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Lothl%C3%B3rien&action=history",
+  "namespace": 0,
+  "page_id": 64039,
+  "parent_revision_id": 1340471155,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1358629234",
+  "raw_wikitext": "{{Short description|Realm of the Elves in Tolkien's legendarium}}\n{{About||the video game developer|MC Lothlorien}}\n{{Good article}}\n{{Use British English|date=May 2021}}\n{{Infobox fictional location\n| name         = ''Lothlórien''\n| series       = [[J. R. R. Tolkien|<span class=\"vcard\"><span class=\"fn\">J. R. R. Tolkien</span></span>'s]] [[Tolkien's legendarium|legendarium]]\n| alt_name     = ''Lórien''<br />''Lórinand''<br />''Laurelindórenan''<br />''the Golden Wood''<br />''the Hidden Land''{{sfn|Stanton|2006|pp=394–395}}<br />''Dwimordene''\n| image        = The Forest of Lothlórien in Spring - J.R.R. Tolkien.jpeg\n| caption      = \"The Forest of Lothlórien in Spring\" by [[J.R.R. Tolkien]], c. 1940, when he was writing about Lothlórien. The [[Company of the Ring|Fellowship]] however visited Lothlórien in winter.{{sfn|Hammond|Scull|1995|pages=162 (plate 157), 164}}\n| type         = realm of the Elves\n| blank_label  = Geography\n| blank_data   = western [[Wilderland]]\n| blank_label1 = Lifespan\n| blank_data1  = Founded in Second Age;<ref group=T name=\"Unfinished Tales_History of Galadriel and Celeborn\">{{harvnb|Tolkien|1980|loc=Part 2, ch. 4 \"History of Galadriel and Celeborn\"}}</ref><br/>abandoned in [[Fourth Age]].<ref group=T name=\"Return of the King_Appendix A.I.v, The Tale of Aragorn and Arwen\">{{harvnb|Tolkien|1955|loc=Appendix A.I.v, \"[[The Tale of Aragorn and Arwen]]\"}}</ref>\n| blank_label2 = Founder\n| ruler        = Amdír, Amroth ([[Second Age]]), [[Celeborn]] and [[Galadriel]] (Second and [[Third Age]]s)\n| blank_label3 = Capital\n| blank_data3  = Caras Galadhon\n| locations    = Caras Galadhon, Cerin Amroth, Naith or Angle, the river Nimrodel, the river Silverlode\n}}\n\nIn [[J. R. R. Tolkien]]'s [[legendarium]], '''Lothlórien''' or '''Lórien''' is the fairest realm of the [[Elves in Middle-earth|Elves]] remaining in [[Middle-earth]] during the [[History of Arda#Third Age|Third Age]]. It is ruled by [[Galadriel]] and Celeborn from their city of [[tree house]]s at Caras Galadhon. The wood-elves of the realm are called '''Galadhrim'''.\n\nThe realm, a broad woodland between the [[Misty Mountains]] and the River Anduin, is the Elven centre of resistance against the Dark Lord [[Sauron]] in ''[[The Lord of the Rings]]''. Galadriel had one of the [[Three Rings|Three Elf-Rings]], and used it to keep Sauron from seeing into Lothlórien. The [[Company of the Ring]] spent some time in Lothlórien after passing through [[Moria (Middle-earth)|Moria]]. Galadriel prepared them for their quest with individual gifts.\n\nScholars<!--see cited text--> have noted that Lothlórien represents variously an [[Earthly Paradise]]; an [[Elfland]] where time is different, reflecting the traditions of [[European folklore]]; and a land of light striving [[biblically]] with the darkness of evil.\n\n== Fictional description ==\n\n=== Names ===\n\nTolkien gave the forest many different names, reflecting its fictional history and the way it is perceived by the different peoples of Middle-earth.{{sfn|Stanton|2006|pp=394–395}}\n\n{| class=\"wikitable\" style=\"margin:1em auto;\"\n! Name\n! Meaning\n! Origin\n|-\n! Lindórinand\n| Valley of the Land of the Singers<ref group=T name=\"Unfinished Tales_History of Galadriel and Celeborn\"/>\n| Older [[Nandorin]] name of the area\n|-\n! Lórinand\n| Valley of Gold<ref group=T name=\"Unfinished Tales_History of Galadriel and Celeborn\"/>\n| Nandorin name after introduction of ''mallorn'' trees{{efn|The form ''Lórinand'' was rendered in [[Quenya]] as Laurenandë and in Sindarin as Glornan or Nan Laur, all of the same meaning.<ref group=T name=\"Unfinished Tales_History of Galadriel and Celeborn\"/>}}\n|-\n! Laurelindórenan\n| Valley of Singing Gold<ref group=T name=\"Unfinished Tales_History of Galadriel and Celeborn\"/>\n| [[Sindarin]] name after the introduction of ''mallorn'' trees\n|-\n! Lothlórien\n| The Dreamflower<ref name=\"Hammond & Scull_2005_note for p. 335, Lothlórien\">{{harvnb|Hammond|Scull|2005|loc=note for p. 335, Lothlórien}}</ref>\n| Sindarin name in the [[Third Age]]\n|-\n! Lórien\n| Dream Land<ref name=\"Hammond & Scull_2005_note for p. 335, Lothlórien\"/>\n| Shortened form of Lothlórien matching the name of the<br />[[Gardens of Lórien]] in [[Aman (Middle-earth)|Aman]]{{sfn|Stanton|2006|pp=394–395}}\n|-\n! Dwimordene\n| Valley of illusions\n| Used in [[Rohan (Middle-earth)|Rohan]],<ref group=T name=\"The King of the Golden Hall\">{{harvnb|Tolkien|1954|loc=Book 3, ch. 6 \"The King of the Golden Hall\"}}</ref> from [[Old English]] ''[[wikt:dwimor|dwimor]]'' \"illusion\", ''denu'', \"valley\"{{sfn|Foster|2003|loc=\"Dwimordene\"}}\n|-\n! The Golden Wood\n| —\n| [[Westron|The Common Speech]]<ref group=T name=\"The Riders of Rohan\">{{harvnb|Tolkien|1954|loc=Book 3, ch. 2 \"The Riders of Rohan\"}}</ref>\n|}\n\n=== History ===\n\nEarly in the [[First Age]], some of the [[Eldar (Middle-earth)|Eldar]] left the [[Great March]] to [[Valinor]] and settled in the lands east of the [[Misty Mountains]]. These elves became known as the [[Nandor (Middle-earth)|Nandor]], and later as the [[Silvan Elves]]. Galadriel made contact with an existing Nandorin realm, Lindórinand, in what became Lothlórien,<ref group=T name=\"Unfinished Tales_History of Galadriel and Celeborn\"/> and planted there the golden ''[[mallorn]]'' trees which [[Gil-galad]] had received as a gift from [[Tar-Aldarion]].<ref group=T name=\"Unfinished Tales_A Description of Númenor\">{{harvnb|Tolkien|1980|loc=Part 2, ch. 1 \"A Description of [[Númenor]]\"}}</ref>\n\nThe culture and knowledge of the Silvan elves was enriched by the arrival of [[Sindar]]in Elves from west of the Misty Mountains, and the Silvan language was gradually replaced by [[Sindarin]]. Amongst these arrivals was Amdír, who became their first lord, as well as [[Galadriel]] and [[Celeborn]], who fled the destruction of Eregion during the War of the Elves and Sauron. In the [[Third Age]], Amroth, the former Lord of Lothlórien, went to the south of Middle-earth with his beloved Nimrodel, but drowned in the [[Bay of Belfalas]] after she went missing in the ''[[White Mountains (Middle-earth)|Ered Nimrais]]'' and never returned. Control of Lothlórien passed to Galadriel and Celeborn. Galadriel's [[Rings of Power|Ring of Power]] preserved the land from death and decay, and warded off Sauron's gaze.<ref group=T name=\"Unfinished Tales History of Galadriel and Celeborn\">{{harvnb|Tolkien|1980|loc=Part 2, ch. 4 \"The History of Galadriel and Celeborn\"}}</ref><ref group=T name=\"The Tale of Years\">{{harvnb|Tolkien|1955|loc=Appendix B, \"The Tale of Years (Chronology of the Westlands)\"}}</ref>\n\nAs the [[War of the Ring]] loomed, the [[Company of the Ring]], emerging from the dark tunnels of [[Moria (Middle-earth)|Moria]] and seeing their leader [[Gandalf]] perish, was brought through Lothlórien to Caras Galadhon, and there met the Lord and Lady of the Galadhrim. The Fellowship spent roughly a month in Lothlórien, though it [[Time in J. R. R. Tolkien's fiction|seemed to them only a few days]]. Before they left, Galadriel allowed [[Samwise Gamgee|Samwise]] and [[Frodo]] to look in the Mirror of Galadriel, giving them a glimpse of events in the future or at other times; she also tested the loyalty of Fellowship members, and gave each of them a gift for their quest.<ref group=T name=\"Fellowship_Lothlórien, The Mirror of Galadriel\">{{harvnb|Tolkien|1954a|loc=Book 2, ch. 6 \"Lothlórien\", and ch. 7 \"The Mirror of Galadriel\"}}</ref>\n\nAfter the fall of Sauron, Galadriel and Celeborn rid Dol Guldur of Sauron's influence.<ref group=T>{{harvnb|Tolkien|1955|loc=Appendix B, \"The Great Years\"}}</ref> Galadriel left for Valinor at the beginning of the [[Fourth Age]], and Celeborn later followed her. The city slowly became depopulated and Lothlórien faded. By the time of the death of Queen [[Arwen]], Celeborn and Galadriel's granddaughter, Lothlórien itself was deserted.<ref group=T name=\"The Tale of Aragorn and Arwen\">{{harvnb|Tolkien|1955|loc=Appendix A 1.v, \"[[The Tale of Aragorn and Arwen]]\"}}</ref>\n\n=== Geography ===\n\n[[File:Sketch map of Lothlórien.svg|thumb|upright=1.35|Sketch map of Lothlórien]]\n\nLothlórien lay in the west of [[Wilderland]]. To its west stood the Misty Mountains, with the Dwarf-realm of Moria, and on its east ran the great river [[Geography of Middle-earth#Rhovanion|Anduin]]. Across the Anduin lay the forest of [[Mirkwood]] and the fortress of [[Dol Guldur]], which could be glimpsed from high points in Lothlórien. The river '''Silverlode''' or '''Celebrant''' flowed through Lothlórien and joined the Anduin; it had a tributary from the west, the river Nimrodel. The realm lay primarily to the north of the Silverlode, with a small strip of forested land to the south. The main part of the realm was the triangular region between the converging rivers Silverlode and Anduin, called the Naith (Sindarin for \"spearhead\")<ref group=T name=\"The Lost Road_Etymologies, SNAS\">{{harvnb|Tolkien|1987|loc=Etymologies, SNAS}}</ref> by the Elves or the [[wikt:Gore#English#Etymology 2|Gore]] or Angle in the [[Westron|Common Speech]]. The tip of the Naith was called the Egladil (Sindarin for \"elven-point\").<ref group=T name=\"Fellowship_Lothlórien, The Mirror of Galadriel\"/>\n\nCaras Galadhon (from ''galadh'' (\"[[tree]]\")) was the city of Lothlórien and the main settlement of the Galadhrim in Middle-earth.<ref group=T name=\"Farewell to Lórien\">{{harvnb|Tolkien|1954a|loc=Book 2, ch. 8 \"Farewell to Lórien\"}}</ref> Founded by Amroth in the Third Age, deep in the forest, the city's dwellings were atop tall ''mallorn'' trees; the mallorn had been brought to that land by Galadriel. The city was \"some ten miles\" from the point where the rivers Silverlode (Sindarin: ''Celebrant'') and Anduin met,<ref group=T name=\"Farewell to Lórien\"/> close to the eastern border of the realm. In the trees there were many [[Tree house|tree-platforms]], which could be elaborate dwellings or simple guard-posts.{{efn|''Talan'' in Sindarin, ''flet'' in [[Westron]].<ref group=T name=\"Unfinished Tales_History of Galadriel and Celeborn\"/>}} Stairways of ladders were built around the main trees, and at night the city was lit by \"many lamps\" – \"green and gold and silver\".<ref group=T name=\"Lothlórien\">{{harvnb|Tolkien|1954a|loc=Book 2, ch. 6 \"Lothlórien\"}}</ref> The city's entrance was on the southern side.<ref group=T name=\"The Mirror of Galadriel\">{{harvnb|Tolkien|1954a|loc=Book 2, ch. 7 \"The Mirror of Galadriel\"}}</ref>\n\n{{anchor|Analysis}}\n\n==Analysis==\n\n[[File:Zampieri St John Evangelist.jpg|thumb|upright|Light against darkness: Haldir's description of how Lothlórien opposes Mordor echoes [[Gospel of John|John's Gospel]].<ref name=\"Danna\"/><br />''St John the Evangelist'' by [[Domenichino]], c. 1626]]\n\n===Land of light===\n\n{{see|Light in Tolkien's legendarium}}\n\nThe Tolkien scholar [[Paul H. Kocher]] writes that Galadriel perceives Sauron with Lothlórien's light, \"but cannot be pierced by it in return\".{{sfn|Kocher|1974|p=57}} The good intelligence has the \"imaginative sympathy\" to penetrate the evil intelligence, but not ''vice versa''.{{sfn|Kocher|1974|p=57}} The Christian author Elizabeth Danna writes that the Elf Haldir's explanation of this [from a ''flet'' or tree-platform high above Cerin Amroth], \"In this high place you may see the two powers that are opposed to one another, and ever they strive now in thought; but whereas the light perceives the very heart of the darkness, its own secret has not yet been discovered\"<ref group=T name=\"Lothlórien\"/> echoes a [[biblical]] description: \"The light shineth in darkness; and the darkness comprehended it not.\"<ref>''[[King James Bible]]''. [[Gospel of John]] 1:5</ref><ref name=\"Danna\">{{cite web |last=Danna |first=Elizabeth J. |title=''The Gospel of John'' and ''The Lord of the Rings'' |url=http://ejdanna.com/JohnLOTR.html |access-date=28 February 2020 |archive-date=13 February 2016 |archive-url=https://web.archive.org/web/20160213151305/http://ejdanna.com/JohnLOTR.html |url-status=dead }}<!--List of Danna's published books: https://www.amazon.co.uk/s?i=aps&k=%22Elizabeth%20Danna%22&ref=nb_sb_noss&url=search-alias%3Daps--></ref> The scholar of humanities<!--Klaipeda University, Lithuania--> Susan Robbins notes that Tolkien, a devout [[Roman Catholic]], associated light as the Bible does with \"holiness, goodness, knowledge, wisdom, grace, hope, and God's revelation\", and that Galadriel was one of the bearers of that light<!--along with Gandalf and Glorfindel-->.<ref name=\"Robbins 2017\">{{cite journal |last=Robbins |first=Susan |title=The Biblical Symbol of Light in J.R.R. Tolkien's ''The Silmarillion'' and ''The Lord of the Rings'' |journal=Societal Studies |volume=9 |issue=2 |year=2017 |issn=2029-2236 |doi=10.13165/sms-17-9-2-05 |url=https://repository.mruni.eu/bitstream/handle/007/15215/4767-10614-1-SM.pdf?sequence=1&isAllowed=y |doi-access=free |archive-date=2020-06-06 |access-date=2020-02-28 |archive-url=https://web.archive.org/web/20200606045623/https://repository.mruni.eu/bitstream/handle/007/15215/4767-10614-1-SM.pdf?sequence=1&isAllowed=y |url-status=dead }}</ref>\n\n=== Earthly paradise ===\n\n{{further|Valinor|Dreams and visions in The Lord of the Rings}}\n\n[[File:Pearl Poet.jpg|thumb|upright|[[Earthly Paradise]]: Lothlórien has been compared to the place dreamed of in the [[Middle English]] poem ''[[Pearl (poem)|Pearl]]''.{{sfn|Shippey|2001|pp=198–199}}  Miniature from [[Pearl Manuscript|Cotton Nero A.x]] shows the Dreamer on the other side of the stream from the Pearl-maiden.]]\n\nLothlórien is a ''[[locus amoenus]]'', an idyllic land that Tolkien describes as having \"no stain\".{{sfn|Shippey|2001|pp=198–199}} The Tolkien scholar [[Tom Shippey]] notes that to get there, the Fellowship first wash off the stains of ordinary life by wading the River Nimrodel.{{sfn|Shippey|2001|pp=198–199}} He compares this perfect place to the [[Earthly Paradise]] that the dreamer speaks of in the [[Middle English]] poem ''[[Pearl (poem)|Pearl]]''.{{sfn|Shippey|2001|pp=198–199}} But then, Shippey writes, the Fellowship have to cross a rope-bridge over a second river, the Silverlode, which they must not drink from, and which the evil [[Gollum]] cannot cross.{{sfn|Shippey|2001|pp=198–199}} What place can they have come to then, he wonders: could they be \"as if dead\"?{{sfn|Shippey|2001|pp=198–199}}\n\nShippey notes however that it might be old England, the \"'mountains green' of 'ancient time'\" in [[William Blake]]'s ''[[Jerusalem (poem)|Jerusalem]]''.{{sfn|Shippey|2001|pp=198–199}} As evidence, Shippey explains that when they come to the deepest part of Lothlórien, the Elf Haldir welcomes them, calling the area the ''Naith'' or \"[[wikt:gore#Etymology 1 2|Gore]]\", both unfamiliar words for the land between two converging rivers, the ''Celebrant'' (or ''Silverlode''), and the ''Anduin'', and then giving a third word with a special resonance: the \"Angle\". Shippey states that the name \"England\" comes from the Angle between the [[Flensburg Fjord]] and the [[Schlei|River Schlei]], in the north of Germany next to Denmark, the origin of the [[Angles (people)|Angles]] among the [[Anglo-Saxons]] who founded England.{{efn|England was founded in around the 5th and 6th centuries. The connection between the foundation of England and the mythology of ''Lord of the Rings'' is discussed further in the article on [[The Shire]].<ref>{{Cite web |author=Hamerow, Helena |url=http://www.arch.ox.ac.uk/wessex.html |title=The Origins of Wessex |publisher=University of Oxford |access-date=18 November 2012 |archive-url=https://web.archive.org/web/20120702185330/https://www.arch.ox.ac.uk/wessex.html |archive-date=2 July 2012 |url-status=dead}}</ref>}} He suggests that Frodo's feeling that he has \"stepped over a bridge of time into a corner of the Elder Days, and was now walking in a world that was no more\" may be exactly correct.{{sfn|Shippey|2001|pp=198–199}}{{sfn|Stanton|2006|pp=394–395}}\n\nAround late 1940, Tolkien attempted to illustrate Lothlórien in his pencil and coloured pencil painting \"The Forest of Lothlorien in Spring\".<!--at top of this article--> [[Wayne G. Hammond]] and [[Christina Scull]] question whether any artist could possibly capture \"the sublime Elvish beauty of the mallorn-trees of Lothlórien\".{{sfn|Hammond|Scull|1995|pages=162 (plate 157), 164}} They write that this was when he was starting to write about the Elvish land, and that the painting \"closely illustrates\" Legolas's description of Lothlórien<!--book 2, ch. 6-->. They comment that it does not illustrate any of the scenes in ''The Lord of the Rings'', since the Fellowship saw Lothlórien in winter, not spring. In their view, the painting demonstrates \"Tolkien's mature coloured pencil technique\" and is \"very delicately drawn\", but for the most part \"without life\".{{sfn|Hammond|Scull|1995|pages=162 (plate 157), 164}}\n\n{{anchor|Time}}\n\n===Elfland where time is different===\n\n{{further|Elfland|Time in The Lord of the Rings}}\n\n[[File:Katherine Cameron-Thomas the Rhymer.png|thumb|left|upright|Time in Lothlórien was distorted, as it was in Elfland for ''[[Thomas the Rhymer]]''.{{sfn|Shippey|2001|pp=89–90}} Illustration by Katherine Cameron, 1908]]\n\nShippey writes that in Lothlórien, Tolkien reconciles otherwise conflicting ideas regarding time-distortion in Elfland from [[European folklore]], such as is exemplified in the medieval ''[[Thomas the Rhymer]]'', who was carried off by the [[Queen of Elphame|Queen of Elfland]], and the Danish ballad [[Elvehøj|''Elvehøj'' (''Elf Hill'')]].{{sfn|Shippey|2001|pp=89–90}}\n\nThe Tolkien scholar [[Verlyn Flieger]] writes that the Fellowship debated how much time had passed while they were there, [[Sam Gamgee]] recalling that the moon was waning just before they arrived, and was new when they left, though they all felt they had only been there for a few days.<ref name=\"Flieger 1990\">{{cite journal |last=Flieger |first=Verlyn B. |author-link=Verlyn Flieger |title=A Question of Time |date=15 March 1990 |volume=16 |issue=3 |url=https://dc.swosu.edu/mythlore/vol16/iss3/1 |journal=Mythlore }}</ref> She notes that Sam actually exclaims \"Anyone would think that time did not count in there!\", while Frodo sees Galadriel as \"present and yet remote, a living vision of that which has already been left far behind by the flowing streams of Time\" and Legolas, an Elf who ought to know how things work in Elven lands, says that time does not stop there, \"but change and growth is not in all things and places alike. For Elves the world moves, and it moves both very swift and very slow. Swift, because they themselves change little, and all else fleets by. Slow, because they do not count the running years\".<ref name=\"Flieger 1990\"/>\n\nShippey considers Legolas's explanation to resolve the apparent contradiction between the mortal and Elvish points of view about Elvish time.{{sfn|Shippey|2001|pp=89–90}} Flieger however writes that there is a definite contradiction between Frodo's position, that there is an actual difference in time between Lothlórien and everywhere else, and Legolas's, that it is a matter of perception. She considers Aragorn's view to reconcile these two positions, agreeing that time has passed as Legolas said, but that the Fellowship felt time as the Elves did while they were in Lothlórien. That is not, writes Flieger, the end of the matter, as she feels that Aragorn reintroduces the dilemma when he says that the moon carried on changing \"in the world outside\": this suggests once again that Lothlórien had its own laws of nature, as in a [[fairy tale]].<ref name=\"Flieger 1990\"/>{{-}}\n\n{| class=\"wikitable\" style=\"margin:1em auto;\"\n|+ [[Verlyn Flieger]]'s analysis of the paradoxes of Elvish time in Lothlórien<ref name=\"Flieger 1990\"/>\n|-\n! Source !! Story !! Time\n|-\n| ''[[Thomas the Rhymer]]''\n| Mortal enters [[Elfland]].<br />Spends a few nights there.<br />Returns to find all friends dead,<br />dim memory of a man lost visiting Elfland.\n| flows much more slowly in Elfland.\n|-\n| [[Elvehøj|''Elvehøj'' (''Elf Hill'')]] \n| Elf-maiden sings: \"the swift stream then stood still\" \n| flows much faster in Elfland;<br />everything outside stops.\n|-\n| [[Frodo]]'s view \n| Lothlórien \"in a time that has elsewhere long gone by\".\n| different epoch, long ago.\n|-\n| [[Legolas]]'s view\n| Both fast and slow:<br />Elves change little,<br />\"all else fleets by\".\n| different perception of time's speed.\n|-\n| [[Aragorn]]'s 1st view\n| Mortals feel time as Elves do while in Lothlórien.\n| different perception of time's speed.\n|-\n| Aragorn's 2nd view\n| But Moon went on changing<br />\"in the world outside\".\n| different actual flow of time<br />(as ''[[Thomas the Rhymer]]'')\n|}\n\n[[File:Warwick Castle, Warwickshire, England, a popular tourist destination.jpg|thumb|Cerin Amroth, a grassy mound surrounded by two circles of trees, has been compared to the [[Motte]] of [[Warwick Castle]], Ethelfleda's Mound (pictured), where a young Tolkien went with his future wife [[Edith Bratt]].<ref name=\"Garth 2020\"/>]]\n\nFlieger writes that while time is treated both naturally and [[supernatural]]ly throughout ''The Lord of the Rings'', his \"most mystical and philosophical deployment of time\"{{sfn|Flieger|2006|pp=648–650}} concerns Elves. It is therefore \"no accident\",{{sfn|Flieger|2006|pp=648–650}} she writes, that Frodo has multiple experiences of altered time in Lothlórien, from feeling he has crossed \"a bridge of Time\" on entering that land, to seeing Aragorn on Cerin Amroth as he was as a young man, dressed in white.{{sfn|Flieger|2006|pp=648–650}} Flieger notes that in ''[[The Monsters and the Critics]]'' Tolkien writes \"The human-stories of the elves are doubtless full of the Escape from Deathlessness\".<ref group=T>{{harvnb|Tolkien|1983|loc=\"[[On Fairy-stories]]\", p. 153}}</ref><ref name=\"Flieger 1990\"/> In her view, this explains the exploration of time in his mythology, [[Themes of The Lord of the Rings#Death and immortality|death and deathlessness]] being the \"concomitants\" of time and timelessness.<ref name=\"Flieger 1990\"/>{{efn|Tolkien's themes of death and deathlessness are discussed further in the article ''[[The Tale of Aragorn and Arwen]]''.}}\n\n=== A remembered Warwickshire ===\n\nThe author [[John Garth (author)|John Garth]] writes of a possible [[Warwickshire]] connection for Lothlórien. The young Tolkien and his fiancée Edith Bratt visited Warwick; in 1915 he wrote a celebration of Warwickshire, ''Kortirion Among the Trees''. Garth suggests that the central green hill of Cerin Amroth in Lothlórien recalls the grassy [[Motte]] of [[Warwick Castle]], known as Ethelfleda's Mound and the happy time he spent there in his youth.<ref name=\"Garth 2020\">{{cite book |last=Garth |first=John |author-link=John Garth (author) |title=The Worlds of J.R.R. Tolkien: The Places that Inspired Middle-earth |date=2020 |publisher=[[Frances Lincoln Publishers]] & [[Princeton University Press]] |isbn=978-0-7112-4127-5 |pages=118–121}}</ref>\n\n== Adaptations ==\n\n[[File:Lothlorien screenshot.jpg|thumb|Lothlórien's appearance in [[The Lord of the Rings (film series)|''The Lord of the Rings'' film trilogy]] was based on [[Alan Lee (illustrator)|Alan Lee]]'s artwork.<ref name=\"Lee 2018\"/>]]\n\nLothlórien's appearance in [[Peter Jackson]]'s [[The Lord of the Rings (film series)|''The Lord of the Rings'' film trilogy]] was based on the artwork of the conceptual designer [[Alan Lee (illustrator)|Alan Lee]].<ref name=\"Lee 2018\">{{cite web |last=Lee |first=Alan |author-link=Alan Lee (illustrator) |title=Fantasy to reality: The designer who brought Tolkien's Middle-earth to the screen |url=https://www.bbc.co.uk/programmes/articles/ZJj8WYkbBRhQWgWgSZtk0C/fantasy-to-reality-the-designer-who-brought-tolkiens-middle-earth-to-the-screen |publisher=BBC Arts |access-date=28 February 2020 |date=24 August 2018}}</ref> Some of the Lothlórien scenes were shot on locations in [[Paradise, New Zealand|Paradise Valley]] near [[Glenorchy, New Zealand|Glenorchy]], [[New Zealand]].<ref>{{Cite web |title=3 Most Photographed Lord of the Rings Locations |url=http://pureglenorchy.com/3-most-photographed-lord-of-the-rings-locations/ |date=18 December 2019 |access-date=14 January 2021 |website=Pure Glenorchy Scenic Film Location & Lord of the Rings Tours |archive-url=https://web.archive.org/web/20200928051410/http://pureglenorchy.com/3-most-photographed-lord-of-the-rings-locations/ |archive-date=28 September 2020 |url-status=live}}</ref>\n\nIn ''[[The Lord of the Rings Online: Mines of Moria]]'', Lorien was a region introduced to the game in March 2009, which allows players to visit Caras Galadhon and other places, and complete quests from the elves.<ref>{{cite web |url=http://www.lotro.com/gameinfo/devdiaries/338-developer-diary-lothlorien-quest-notes |title=Book 7: Leaves of Lorien |website=Lotro |access-date=28 February 2020 |archive-url=https://web.archive.org/web/20090321235006/http://www.lotro.com/gameinfo/devdiaries/338-developer-diary-lothlorien-quest-notes |archive-date=21 March 2009 |url-status=dead}}</ref>\n\n[[Enya]]'s song \"Lothlórien\" on her album ''[[Shepherd Moons]]'' is an instrumental composition named for the Elvish realm.<ref>{{Cite AV media notes |last=Ryan |first=Roma |title=Only Time — The Collection |others=Enya |year=2002 |type=Booklet notes, pages 15–21 |publisher=Warner Music |id=0927 49211-2}}</ref>\n\nThe Dutch composer [[Johan de Meij]] wrote music inspired by the Lothlórien woods, as the second movement, \"Lothlórien (The Elvenwood)\", of his [[Symphony No. 1 The Lord of the Rings|Symphony No. 1 ''The Lord of the Rings'']].<ref>{{cite web |title=Der Herr der Ringe, Johan de Meij - Sinfonie Nr.1 |url=http://sbor.de/index.php?id=66 |access-date=21 October 2021 |url-status=dead |archive-url=https://web.archive.org/web/20141011084604/http://sbor.de/index.php?id=66 |archive-date=11 October 2014}}</ref>\n\n== Notes ==\n\n{{notelist}}{{-}}\n\n== References ==\n\n=== Primary ===\n\n{{reflist|group=T|28em}}\n\n===Secondary===\n\n{{reflist|28em}}\n\n== Sources ==\n\n* {{cite book |last=Flieger |first=Verlyn |author-link=Verlyn Flieger |chapter=Time |title=[[J. R. R. Tolkien Encyclopedia |J. R. R. Tolkien Encyclopedia: Scholarship and Critical Assessment]] |editor=Drout, Michael D. C. |editor-link=Michael D. C. Drout |publisher=[[Routledge]] |year=2006 |isbn=0-415-96942-5 |pages=647–650}}\n<!--* {{ME-ref|Atlas|Lothlórien}}-->   <!--Fonstad - Atlas of ME -->\n<!--* {{ME-ref|CG|main entry: Lórien, also Laurelindórenan and Lothlórien}}-->   \n* {{cite book |last=Foster |first=Robert |author-link=Robert Foster (author) |title=The Complete Guide to Middle-earth |publisher=HarperCollins |year=2003 |isbn=978-0-00-716942-9}}\n* {{cite book |last=Hammond |first=Wayne G. |author1-link=Wayne G. Hammond |last2=Scull |first2=Christina |author2-link=Christina Scull |title=J.R.R. Tolkien: Artist and Illustrator |publisher=HarperCollins Publishers |publication-place=London |date=1995 |isbn=978-0-261-10322-1}}\n* {{ME-ref|RC}}     <!--Hammond & Scull - Reader's Companion-->\n* {{cite book |last=Kocher |first=Paul |author-link=Paul H. Kocher |title=Master of Middle-earth: The Achievement of J.R.R. Tolkien |title-link=Master of Middle-earth |date=1974 |orig-year=1972 |publisher=Penguin Books |isbn=0140038779}}\n* {{cite book |last=Shippey |first=Tom |author-link=Tom Shippey |title=[[J. R. R. Tolkien: Author of the Century]] |date=2001 |publisher=HarperCollins |isbn=978-0261-10401-3}} \n* {{cite book |last=Stanton |first=Michael N. |chapter=Lothlórien |title=[[The J. R. R. Tolkien Encyclopedia|The J. R. R. Tolkien Encyclopedia: Scholarship and Critical Assessment]] |editor=Drout, Michael D. C. |editor-link=Michael D. C. Drout |publisher=[[Routledge]] |year=2006 |isbn=0-415-96942-5 |pages=394–395}}\n* {{ME-ref|UT}}     <!--JRRT - Unfinished Tales-->\n* {{ME-ref|FotR}}   <!--JRRT - Fellowship of the Ring-->\n* {{ME-ref|TT}}     <!--JRRT - Two Towers-->\n* {{ME-ref|M&C}}    <!--JRRT - Monsters & the Critics--> \n* {{ME-ref|RotK}}   <!--JRRT - Return of the King-->\n* {{ME-ref|LROW}}   <!--JRRT - Lost Road-->\n\n{{The Lord of the Rings}}\n{{Middle-earth}}\n\n{{DEFAULTSORT:Lothlorien}}\n[[Category:Middle-earth forests]]\n[[Category:Middle-earth realms]]",
+  "redirect_chain": [],
+  "revision_id": 1358629234,
+  "revision_timestamp": "2026-06-09T23:06:12Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional description",
+        "Names"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional description",
+        "Names"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: table",
+      "structure_type": "table"
+    },
+    {
+      "heading_path": [
+        "Fictional description",
+        "History"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional description",
+        "History"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional description",
+        "History"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional description",
+        "History"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional description",
+        "Geography"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional description",
+        "Geography"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional description",
+        "Geography"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Land of light"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Land of light"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Earthly paradise"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Earthly paradise"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Earthly paradise"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Earthly paradise"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Earthly paradise"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Earthly paradise"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Elfland where time is different"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Elfland where time is different"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Elfland where time is different"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Elfland where time is different"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Elfland where time is different"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Elfland where time is different"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: table",
+      "structure_type": "table"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Elfland where time is different"
+      ],
+      "paragraph_ordinal": 8,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "A remembered Warwickshire"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Notes"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

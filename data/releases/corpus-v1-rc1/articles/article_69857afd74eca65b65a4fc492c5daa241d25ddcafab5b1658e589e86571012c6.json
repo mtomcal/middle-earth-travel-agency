@@ -1,0 +1,199 @@
+{
+  "article_artifact_id": "article_69857afd74eca65b65a4fc492c5daa241d25ddcafab5b1658e589e86571012c6",
+  "canonical_title": "Bard the Bowman",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_69857afd74eca65b65a4fc492c5daa241d25ddcafab5b1658e589e86571012c6",
+      "heading_path": [
+        "Fictional history"
+      ],
+      "normalized_text": "After the dragon's death, Bard joins the survivors of the attack on Lake-town and discovers that they had thought him dead. The survivors receive assistance from the elves of Mirkwood, and together Thranduil and the able-bodied men of Lake-town travel to the Lonely Mountain to claim a share of the dragon hoard. In the absence of Thorin Oakenshield and his company, all believed to have been killed by the dragon, Bard has a rightful claim to the treasure as the heir of Girion, and also a charitable claim to alleviate the suffering of the people of Lake-town.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_1360311e0a2b6989100d0fffd77a269215cce78b63a061219528ae26cc1cd607",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_69857afd74eca65b65a4fc492c5daa241d25ddcafab5b1658e589e86571012c6",
+      "heading_path": [
+        "Adaptations",
+        "Film"
+      ],
+      "normalized_text": "thumb|upright|Luke Evans as Bard in a publicity photo for Peter Jackson's The Hobbit: The Battle of the Five Armies",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_b23a9d4a782c6f9e67acf052f0483cc6aa4a0f9c73f64bf2c5eb9d1fc0cab004",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Bard_the_Bowman&action=history",
+  "namespace": 0,
+  "page_id": 58100,
+  "parent_revision_id": 1361327340,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1362034163",
+  "raw_wikitext": "{{short description|Tolkien character}}\n{{use British English|date=January 2025}}\n{{Use dmy dates|date=February 2025}}\n{{Infobox character\n| first = ''[[The Hobbit]]'' (1937)\n| creator = [[J.R.R. Tolkien]]\n| weapon = Bow\n| home = * [[Esgaroth]]\n* Dale\n| series = [[The Lord of the Rings]]\n| relatives = * Girion, Lord of Dale (ancestor)\n* Bain (son)\n* Brand (grandson)\n| occupation = * Archery captain\n* Ruler of Dale\n}}\n'''Bard the Bowman''' is a character in [[J. R. R. Tolkien]]'s ''[[The Hobbit]]''. A [[Men in Middle-earth|man]] of Lake-town and a descendant of the ancient Lords of Dale, Bard manages to kill [[Smaug]] the dragon, after which he becomes king of Dale. Tolkien created the character specifically to kill Smaug, since none of the other protagonists of the story were able to fulfill this role. Bard the Bowman [[Beowulf in Middle-earth|may have been inspired by]] the warrior [[Wiglaf]] in the [[Old English]] poem ''[[Beowulf]]''.\n\n==Fictional history==\n\nBard is a descendant of Girion, the last lord of the city of Dale, which had been destroyed by the [[Dragons in Middle-earth|dragon]] [[Smaug]] 171 years<ref>{{cite web |url=https://tolkiengateway.net/wiki/Timeline/Third_Age |title=Timeline/Third Age |date=22 July 2023 |website=[[Tolkien Gateway]]}}</ref> before the events of ''[[The Hobbit]]'', which takes place in year 2941 of the [[Third Age]]. He is the captain of a company of archers in [[Esgaroth]] (also known as Lake-town). His friends accused him of [[Prophecy|prophesying]] [[Flood|floods]] and poisoned fish, but they knew his worth and courage. He is described as tall and grim with black hair.<ref name=\"XIV\" group=T>{{harvnb|Tolkien|1937}}, Chapter XIV.</ref> When Smaug attacks Lake-town, Bard is the last of the archers to stand his post, but the dragon is immune to arrows. However, a [[thrush (bird)|thrush]] speaks to Bard, showing him the weak spot in the dragon's armour in the hollow under Smaug's left breast, which Bilbo had discovered in his conversation with Smaug. He fires his favourite shaft, the family heirloom \"[[List of Middle-earth weapons and armour#Black Arrow|Black Arrow]]\", and kills Smaug, who falls onto Lake-town, destroying it.<ref name=\"XIV\" group=T/>\n\nAfter the dragon's death, Bard joins the survivors of the attack on Lake-town and discovers that they had thought him dead. The survivors receive assistance from the elves of [[Mirkwood]], and together [[Thranduil]] and the able-bodied men of Lake-town travel to the [[Lonely Mountain]] to claim a share of the dragon hoard. In the absence of [[Thorin Oakenshield]] and his company, all believed to have been killed by the dragon, Bard has a rightful claim to the treasure as the heir of Girion, and also a charitable claim to alleviate the suffering of the people of Lake-town.<ref name=\"XIV\" group=T/>\n\nHowever, at the Lonely Mountain, Bard discovers that Thorin Oakenshield, King under the Mountain, is very much alive, along with all his companions. Their response to Bard's claim is to barricade themselves inside the mountain, refusing to surrender any of the treasure under threat of war.<ref name=\"XV and XVI\" group=T>{{harvnb|Tolkien|1937}}, Chapters XV and XVI.</ref> To break the stalemate, [[Bilbo Baggins]] slips out of the mountain at night and offers the Arkenstone to Bard in order to put pressure on Thorin to make peace with the Elves and Men. However, Thorin is unwilling to share any of Smaug's treasure with an armed host at his gates, which causes the elves and men to prepare to besiege the mountain.<ref name=\"XV and XVI\" group=T/> To make matters worse, Thorin's cousin [[List of The Hobbit characters#Dwarves|Dain Ironfoot]] arrives to reinforce Thorin's claim to their family home under the mountain. However, a large army of [[Orc|Goblins]] and [[Warg (Middle-earth)|Wargs]] arrives on the scene, forcing the three armies to unite to fight against them. Bard leads the men into battle, reinforced by the arrival of [[Beorn]] and the [[Eagles in Middle-earth|Eagles]].<ref name=\"XVII\" group=T>{{harvnb|Tolkien|1937}}, Chapter XVII.</ref>\n\nAfter the death of Thorin in the Battle of Five Armies, Dain becomes King under the Mountain. He redeems the Arkenstone from Bard with a fourteenth of the treasure, which is used to re-establish Dale.<ref name=\"XVIII\" group=T>{{harvnb|Tolkien|1937}}, Chapter XVIII.</ref> Over the next three years, Bard rebuilds the city of Dale and becomes its ruler. The city begins to prosper again.<ref name=\"XIX\" group=T>{{harvnb|Tolkien|1937}}, Chapter XIX.</ref> Bard's reign lasts for thirty-three years. He is succeeded by his son Bain.<ref name=\"LoTR-App2\" group=T>{{harvnb|Tolkien|1955|loc=Appendix II, \"The Third Age\"}}</ref> His grandson, Brand, fought alongside Dain  in the Battle of Dale against a horde of [[Sauron]]'s Easterling invaders during the War of the Ring.\n\n==Creation==\nDuring the drafting of ''The Hobbit'', Tolkien considered how Smaug should die and who would kill him.{{sfn|Rateliff|2007b|p=563}} Tolkien's notes for chapter nine show him considering the option of Bilbo killing the dragon in his sleep, piercing his weak point with a [[lance]],{{sfn|Rateliff|2007a|p=364}} similar to the events in [[Jack the Giant Killer]].{{sfn|Rateliff|2007a|p=374}} This idea remained in his notes after the writing of chapter eleven, but once chapter twelve was complete, Tolkien penned \"Dragon killed in the Battle of the Lake\" in the margin of his notes.{{sfn|Rateliff|2007b|p=497}}\n\nBard appears during the drafting for chapter thirteen, when it is said that he kills the dragon with his ancestor Girion's favourite Black Arrow.{{sfn|Rateliff|2007b|pp=556–557}}{{sfn|Rateliff|2007b|pp=572, 574–575}} Tolkien's keeping Bard alive for the rest of the story significantly complicates it since, as the heir of Girion, Bard gives the inhabitants of Lake-town a legitimate claim to Smaug's treasure.{{sfn|Rateliff|2007b|pp=556–557}}\n\n==Analysis==\n\nAccording to [[John D. Rateliff]], Bard may have been inspired by Wiglaf in the Old English poem ''Beowulf'', which inspired Tolkien with many elements in the final chapters of ''The Hobbit''.{{sfn|Rateliff|2007b|pp=557–558}} Like Bard, Wiglaf is introduced late into the story, is not named until late in the story, is the only one with enough courage to face a [[The dragon (Beowulf)|dragon]] and is of royal lineage.{{sfn|Rateliff|2007b|pp=557–558}} Rateliff believes that Bard is the first human character in Tolkien's work to experience a happy fate, unlike [[Beren]], [[Húrin]] and [[Túrin Turambar]].{{sfn|Rateliff|2007b|pp=556–557}} Rateliff sees Bard as a precursor and foreshadower of [[Aragorn]]: both restore their ancestor's kingdoms in all their glory.{{sfn|Rateliff|2007b|pp=556–557}}\n\n[[Marjorie Burns]] believes that Bard is a humble hero like Aragorn, [[Faramir]] and Gandalf, all brought into Tolkien's legendarium to replace the powerful unworthy, such as the mayor of Lake-town, [[Denethor]], [[Boromir]] and [[Saruman]].<ref name=\"Burns\">[[Marjorie Burns|Burns, Marjorie]]. \"King and Hobbit: The Exalted and Lowly in Tolkien's Created Worlds\" in {{harvnb|Hammond|Scull|2006|pp=139–152}}.</ref> In his initial appearance, Bard is shown as a negative character who always sees the worst side of situations, but Sumner G. Hunnewell believes that Bard shows happiness and generosity after the destruction of Lake-town.<ref name=\"Hunnewell\">Hunnewell, Sumner G. \"Naysayers in the Works of Tolkien\" in {{harvnb|Hammond|Scull|2006|pp=171, 180}}.</ref>\n\n==Adaptations==\n\n===Film===\n\n[[File:Luke Evans Bard.webp|thumb|upright|[[Luke Evans]] as Bard in a publicity photo for [[Peter Jackson]]'s ''[[The Hobbit: The Battle of the Five Armies]]'']]\n\nIn the 1977 [[Rankin/Bass Animated Entertainment|Rankin/Bass]] animated [[The Hobbit (1977 film)|television musical]], Bard was voiced by [[John Stephenson (actor)|John Stephenson]].<ref>{{cite AV media |title=The Rankin/Bass Production of The Hobbit (The Complete Original Soundtrack) |date=1977 |type=Vinyl LP |publisher=[[Buena Vista Records]] |id=103}}</ref> <!--In the [[The Hobbit (1985 film)|1985 Russian television film]], Bard (or \"Berd\") was played by Boris Sokolov.{{cn|date=October 2023}}-->\n\nIn Peter Jackson's [[The Hobbit (film series)|''The Hobbit'' film series]], Welsh actor [[Luke Evans]] portrays Bard, appearing in the latter two films of the trilogy, ''[[The Hobbit: The Desolation of Smaug|The Desolation of Smaug]]'' (2013) and ''[[The Hobbit: The Battle of the Five Armies|The Battle of the Five Armies]]'' (2014). Evans was cast in June 2011.<ref>{{cite web |url=https://deadline.com/2011/06/luke-evans-to-play-bard-in-the-hobbit-140657/ |title=Luke Evans To Play Bard in 'The Hobbit' |last=Fleming |first=Mike Jr. |date=16 June 2011 |website=[[Deadline Hollywood]] |access-date=5 January 2015 }}</ref> Bob Strauss of ''[[Los Angeles Daily News]]'' felt that Evans' portrayal managed to expand on the character,<ref>{{cite web |url=http://www.dailynews.com/arts-and-entertainment/20141201/luke-evans-hits-the-mark-as-bard-in-the-hobbit-the-battle-of-the-five-armies |title=Luke Evans hits the mark as Bard in 'The Hobbit: The Battle of the Five Armies' |last=Strauss |first=Bob |date=1 December 2014 |website=[[Los Angeles Daily News]] |location=Los Angeles |access-date=5 January 2015 }}</ref> while Erik Kain of ''[[Forbes]]'' felt that his portrayal was \"solid\", but was \"never given quite enough breathing room\".<ref>{{cite web |url=https://www.forbes.com/sites/erikkain/2014/12/18/the-hobbit-battle-of-the-five-armies-review-this-is-the-end/ |title='The Hobbit: Battle of the Five Armies' Review: This Is The End |last=Kain |first=Erik |date=18 December 2014 |website=[[Forbes]] |location=New York City |access-date=5 January 2015}}</ref>\n\n===Other===\n\nIn the 1968 [[The Hobbit (radio series)|BBC Radio adaptation]], Bard was voiced by Peter Williams.<ref>{{cite web |url=http://www.tolkienlibrary.com/press/852-The-Hobbit-BBC-Dramatization.php |title=Review: The Hobbit Dramatization re-released by BBC AudioBooks America |last=Collier |first=Pieter |date=10 November 2008 |website=Tolkien Library |access-date=5 January 2015 }}</ref><ref>{{cite web |url=https://archive.org/details/TheHobbit1Of8AnUnexpectedParty |title=\"The Hobbit\" Full Cast Radio Drama (1968) |via=Internet Archive |access-date=5 January 2015 }}</ref>\n\nBard is one of the cards in [[Iron Crown Enterprises]]'s 1995 [[Middle-earth Collectible Card Game]], which is illustrated by Angelo Montanini.<ref>{{cite web |url=http://www.tradecardsonline.com/im/selectCard/card_id/52920/cards_lang/1 |title=Info of the card Bard Bowman |website=Trade Cards Online |access-date=5 January 2015 }}</ref> <!--In [[Inevitable Entertainment]]'s 2003 [[The Hobbit (2003 video game)|''Hobbit'' video game]], [[André Sogliuzzo]] plays Bard.{{cn|date=October 2023}}--> <!--In [[Warner Bros. Interactive Entertainment]]'s 2014 ''[[Lego The Hobbit (video game)|Lego The Hobbit]]'', Luke Evans reprises his role from the live-action film series.{{cn|date=October 2023}}-->\n\n==References==\n\n===Primary===\n\n{{reflist|group=T|28em}}\n\n===Secondary===\n{{reflist}}\n\n==Sources==\n\n* {{cite book |title=[[The Hobbit]] |first=J. R. R. |last=Tolkien |author-link=J. R. R. Tolkien |publisher=[[HarperCollins]] |isbn=978-0-00-752549-2 |date=21 September 1937}}\n* {{cite book |title=[[The Lord of the Rings]] |first=J. R. R. |last=Tolkien |date=20 October 1955 |publisher=[[Houghton Mifflin Harcourt]] |location=Boston |isbn=978-0-61851-765-7}}\n* {{cite book |first=John D. |last=Rateliff |author-link=John D. Rateliff |title=The History of The Hobbit, Part One: Mr Baggins |title-link=The History of The Hobbit |publisher=[[HarperCollins]] |year=2007a |isbn=978-0-00-723555-1 }}\n* {{cite book |first=John D. |last=Rateliff |title=The History of The Hobbit, Part Two: Return to Bad-End |publisher=[[HarperCollins]] |year=2007b |isbn=978-0-00-725066-0 }}\n* {{cite book |first1=Wayne G. |last1=Hammond |author-link=Wayne G. Hammond |first2=Christina |last2=Scull |author2-link=Christina Scull |title=The Lord of the Rings 1954-2004: Scholarship in Honor of Richard E. Blackwelder |publisher=[[Marquette University Press]] |year=2006 |isbn=978-0-87462-018-4}}\n\n{{Hobbit}}\n\n[[Category:Literary characters introduced in 1937]]\n[[Category:The Hobbit characters]]\n[[Category:Middle-earth Men]]\n[[Category:Middle-earth rulers]]\n[[Category:Fictional kings]]\n[[Category:Fictional archers]]\n[[Category:Fictional dragonslayers]]\n[[Category:Television characters introduced in 1977]]",
+  "redirect_chain": [],
+  "revision_id": 1362034163,
+  "revision_timestamp": "2026-07-01T15:24:44Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: list",
+      "structure_type": "list"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Creation"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Creation"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Film"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Film"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Other"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Other"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

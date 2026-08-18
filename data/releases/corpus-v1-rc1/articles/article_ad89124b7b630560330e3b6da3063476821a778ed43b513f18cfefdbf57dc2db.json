@@ -1,0 +1,427 @@
+{
+  "article_artifact_id": "article_ad89124b7b630560330e3b6da3063476821a778ed43b513f18cfefdbf57dc2db",
+  "canonical_title": "Samwise Gamgee",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_ad89124b7b630560330e3b6da3063476821a778ed43b513f18cfefdbf57dc2db",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Sam was Frodo's gardener. He was drawn into Frodo's adventure while eavesdropping on a private conversation Frodo was having with the wizard Gandalf. Sam was Frodo's steadfast companion and servant, portrayed as both physically strong for his size and emotionally strong, often supporting Frodo through difficult parts of the journey and, at times, carrying Frodo when he was too weak to go on. Sam served as Ring-bearer for a short time when Frodo was captured by orcs; his emotional strength was again demonstrated when he willingly gave the Ring back to Frodo. Following the War of the Ring, Sam returned to the Shire and his role as a gardener, helping to replant the trees which had been destroyed while he was away. He was elected Mayor of the Shire for seven consecutive terms.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_c56cad4e13455956c1b0143087b882758f13b9ac9640e3e6d17cc2c599656d0e",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_ad89124b7b630560330e3b6da3063476821a778ed43b513f18cfefdbf57dc2db",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "The name Gamgee derives from a local Birmingham name for cotton wool, from a surgical dressing invented by Sampson Gamgee; hence Sam's girlfriend Rosie is from the Cotton family. Scholars have remarked on the symbolism in Sam's story, which carries echoes of Christianity; for instance, his carrying of Frodo is reminiscent of Simon of Cyrene's carrying of Christ's cross. Tolkien considered Sam a hero of the story. Psychologists have seen Sam's quest as a psychological journey of love. Tolkien's biographers have noted the resemblance of Sam's relationship with Frodo to that of military servants to British Army officers in the First World War.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_ab6abf13328ef3a0e0dbdc7e76d024ff79f6cc57a13a3e1a5341cdbbb8e49a1b",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_ad89124b7b630560330e3b6da3063476821a778ed43b513f18cfefdbf57dc2db",
+      "heading_path": [
+        "Fictional biography",
+        "The War of the Ring"
+      ],
+      "normalized_text": "thumb|upright|Frodo and Sam guided by Gollum through the Dead Marshes. Scraperboard illustration by Alexander Korotich, 1984",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_512695016661c906e951efef5c3260901aeabdbe7630686187e01176c9422d00",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_ad89124b7b630560330e3b6da3063476821a778ed43b513f18cfefdbf57dc2db",
+      "heading_path": [
+        "Fictional biography",
+        "In the Fourth Age"
+      ],
+      "normalized_text": "Sam marries Rosie Cotton and moves into Bag End with Frodo. The next year they have a daughter, Elanor, the first of their thirteen children. Frodo tells Sam that he (Frodo) and Bilbo will leave Middle-earth, along with Gandalf and most of the remaining High Elves, for the Undying Lands. Frodo gives Sam the estate of Bag End, and the Red Book of Westmarch for Sam to continue, hinting that Sam may also be allowed to travel into the West eventually. Sam returns to meet his family at Bag End, ending the story with the words \"Well, I'm back.\"",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_6cf22d6818f77bd9f60454af948f2ca4f11d8c03cf13aa1a268d4f731ee8d0a7",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_ad89124b7b630560330e3b6da3063476821a778ed43b513f18cfefdbf57dc2db",
+      "heading_path": [
+        "Analysis",
+        "Relationship with Frodo"
+      ],
+      "normalized_text": "thumb|Tolkien stated that the relationship of Frodo and Sam reflected that of a British officer and his batman during the First World War.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_17cdb00bcf427035229bf13ffc2b61528b8aedf85c6387771917b578076c2154",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_ad89124b7b630560330e3b6da3063476821a778ed43b513f18cfefdbf57dc2db",
+      "heading_path": [
+        "Adaptations"
+      ],
+      "normalized_text": "thumb|left|Sam in Ralph Bakshi's animated version of The Lord of the Rings",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_d8841a4c17d88a3e01a3cee4c7ed3bbd8a3be0b27d1c8bb98e3119ecb04ef98e",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_ad89124b7b630560330e3b6da3063476821a778ed43b513f18cfefdbf57dc2db",
+      "heading_path": [
+        "Adaptations"
+      ],
+      "normalized_text": "thumb|upright=1.25|Sean Astin as Sam in Peter Jackson's The Lord of the Rings: The Two Towers",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_c8d3f1aa58dc60ef208375d974d74b156bd6f81c7497f8992170c3cca941ead1",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Samwise_Gamgee&action=history",
+  "namespace": 0,
+  "page_id": 62320,
+  "parent_revision_id": 1361189161,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1361266253",
+  "raw_wikitext": "{{Short description|Hobbit character in The Lord of the Rings}}\n<!--mass sock attacks on 1 and 13 April, similarly on many other Tolkien articles, every time article is unprotected-->\n{{good article}}\n{{Use British English|date=October  2022}}\n{{Infobox character\n| name = Samwise Gamgee\n| series = [[J. R. R. Tolkien]]\n| first = ''[[The Lord of the Rings]]'' (1954–1955)\n| race = [[Hobbit]]\n| affiliation = [[Company of the Ring]]\n| spouse = [[Rosie Cotton]]\n}}\n'''Samwise Gamgee''' ({{IPAc-en|ˈ|s|æ|m|ˌ|w|aɪ|z|_|ˈ|ɡ|æ|m|ˌ|dʒ|iː}}, usually called '''Sam''') ([[Westron]]: ''Banazîr Galbasi'') is a fictional character in [[J. R. R. Tolkien]]'s [[Middle-earth]]. A [[hobbit]], Samwise is the chief supporting character of ''[[The Lord of the Rings]]'', serving as the loyal companion of the [[protagonist]] [[Frodo Baggins]]. Sam is a member of the [[Company<!--this is what Tolkien called it--> of the Ring]], the group of nine charged with destroying the [[One Ring]].\n\nSam was Frodo's gardener. He was drawn into Frodo's adventure while eavesdropping on a private conversation Frodo was having with the wizard [[Gandalf]]. Sam was Frodo's steadfast companion and servant, portrayed as both physically strong for his size and emotionally strong, often supporting Frodo through difficult parts of the journey and, at times, carrying Frodo when he was too weak to go on. Sam served as [[Ring-bearer]] for a short time when Frodo was captured by [[orcs]]; his emotional strength was again demonstrated when he willingly gave the Ring back to Frodo. Following the [[War of the Ring]], Sam returned to [[the Shire]] and his role as a gardener, helping to replant the trees which had been destroyed while he was away. He was elected Mayor of the Shire for seven consecutive terms.\n\nThe name Gamgee derives from a local Birmingham name for cotton wool, from a surgical dressing invented by [[Sampson Gamgee]]; hence [[Rosie Cotton|Sam's girlfriend Rosie]] is from the Cotton family. Scholars have remarked on the symbolism in Sam's story, which carries [[Christianity in Middle-earth|echoes of Christianity]]; for instance, his carrying of Frodo is reminiscent of [[Simon of Cyrene]]'s carrying of Christ's cross. Tolkien considered Sam [[Heroism in The Lord of the Rings|a hero of the story]]. Psychologists have seen Sam's quest as [[Psychological journeys of Middle-earth|a psychological journey]] of love. Tolkien's biographers have noted the resemblance of Sam's relationship with Frodo to that of [[Batman (military)|military servants]] to [[British Army]] officers in the [[World War I|First World War]].\n\n== Fictional biography ==\n\n{{further|Tolkien's Middle-earth poetry}}\n\n=== The War of the Ring ===\n\n[[File:Frodo and Sam guided by Gollum through the Dead Marshes by Alexander Korotich.jpg|thumb|upright|[[Frodo Baggins|Frodo]] and Sam guided by [[Gollum]] through the [[Dead Marshes]]. [[Scraperboard]] illustration by [[Alexander Korotich]], 1984]]\n\nAs told in ''[[The Lord of the Rings]]'', Samwise Gamgee is [[Frodo Baggins]]'s gardener, having inherited the position from his father, Hamfast \"Gaffer\" Gamgee, who was [[Bilbo Baggins]]'s gardener. As \"punishment\" for eavesdropping on [[Gandalf]]'s [[The Shadow of the Past|conversation with Frodo]] about the [[One Ring]], Sam is made Frodo's first companion on his journey to [[Rivendell]].<ref group=T>{{harvnb|Tolkien|1954a|loc=book 1, ch. 2, \"[[The Shadow of the Past]]\"}}</ref> They are joined by [[Meriadoc Brandybuck]] and [[Peregrin Took]], Frodo's cousins, travelling together to [[Rivendell]]. At the [[Council of Elrond]] there, Sam joins [[The Fellowship of the Ring (characters)|the Fellowship of the Ring]].<ref name=\"The Council of Elrond\" group=T>{{harvnb|Tolkien|1954a|loc=book 2, ch. 2, \"[[The Council of Elrond]]\"}}</ref> In the [[Elf (Middle-earth)|elvish]] land of [[Lothlórien]], [[Galadriel]] gives Sam a small box of earth from her garden.<ref group=T>{{harvnb|Tolkien|1954a|loc=book 2, ch. 8, \"Farewell to Lórien\"}}</ref>\n\nWhen the Fellowship splits up at the [[Falls of Rauros]], Sam insists on accompanying Frodo.<ref group=T>{{harvnb|Tolkien|1954a|loc=book 2, ch. 10, \"The Breaking of the Fellowship\"}}</ref> Sam protects and cares for Frodo, who is growing weaker under the Ring's influence, as they move through the dangerous lands toward [[Mordor]]. Sam distrusts [[Gollum]], who became their guide into Mordor, leading them through the Dead Marshes.<ref group=T>{{harvnb|Tolkien|1954|loc=book 4, ch. 1, \"The Taming of Sméagol\"}}</ref><ref group=T>{{harvnb|Tolkien|1954|loc=book 4, ch. 2, \"The Passage of the Marshes\"}}</ref> His suspicions are confirmed in the mountain pass of Cirith Ungol, where Gollum betrays them to the giant spider [[Shelob]]. Shelob stings Frodo, and Sam drives her off.<ref group=T>{{harvnb|Tolkien|1954a|loc=book 4, ch. 9, \"Shelob's Lair\"}}</ref> A band of [[orc (Middle-earth)|orcs]] approaches; Sam chooses to leave the apparently dead Frodo and take the Ring himself, and briefly becomes the [[Ring-bearer]]. He is momentarily tempted by the [[One Ring|Ring's]] [[Addiction to power in The Lord of the Rings|promise of power]], but does not succumb to it.<ref group=T>{{harvnb|Tolkien|1954a|loc=book 4, ch. 10, \"The Choices of Master Samwise\"}}</ref> Sam then rescues Frodo (who had only been paralysed) from the [[Orc]]s who held him captive. Sam returns the ring to Frodo.<ref group=T>{{harvnb|Tolkien|1955|loc=book 6, ch. 1, \"The Tower of Cirith Ungol\"}}</ref> The two journey through Mordor<ref group=T>{{harvnb|Tolkien|1955|loc=book 6, ch. 2, \"The Land of Shadow\"}}</ref> and into [[Mount Doom]]. Sam carries Frodo on his back for some of the way. Gollum attacks Frodo and reclaims the Ring, only to destroy both it and himself by falling into one of the Cracks of Doom.<ref group=T>{{harvnb|Tolkien|1955|loc=book 6, ch. 3, \"Mount Doom\"}}</ref>\n\n=== The Scouring of the Shire ===\n\n{{further|The Scouring of the Shire}}\n\n{{Quote box\n | quote  = So Sam planted saplings in all the places where specially beautiful or beloved trees had been destroyed, and he put a grain of the precious dust in the soil at the root of each. He went up and down the Shire in this labour; but if he paid special attention to [[Hobbiton]] and Bywater no one blamed him. ...<br/>&nbsp;&nbsp;Spring surpassed his wildest hopes. His trees began to sprout and grow, as if time was in a hurry and wished to make one year do for twenty. In the Party Field a beautiful young sapling leaped up: it had silver bark and long leaves and burst into golden flowers in April. It was indeed a ''[[mallorn]]'', and it was the wonder of the neighbourhood.\n | source = ''[[The Lord of the Rings]]'', book 6, ch. 9 \"The Grey Havens\"\n | width  = 40%\n | align  = right\n}}\n\nThe hobbits return home<ref group=T>{{harvnb|Tolkien|1955|loc=book 6, ch. 7, \"Homeward Bound\"}}</ref> horrified to find the Shire under the control of \"Sharkey\" (the fallen [[Istari|wizard]] [[Saruman]]) and his ruffians who had wantonly felled trees and despoiled the villages; the hobbits defeat them at the [[Battle of Bywater]] and [[The Scouring of the Shire|scour the Shire]] of all the ruffians and their works.<ref group=T>{{harvnb|Tolkien|1955|loc=book 6, ch. 8, \"[[The Scouring of the Shire]]\"}}</ref> Sam travels the length and breadth of [[the Shire]] replanting trees, using the elf-queen [[Galadriel]]'s gift of earth from her garden, and one seed of the elvish [[mallorn]] tree, which he plants at Hobbiton. The saplings grow at an astonishing rate.<ref name=\"Grey Havens\" group=T>{{harvnb|Tolkien|1955|loc=book 6, ch. 9, \"The Grey Havens\"}}</ref>\n\n=== In the Fourth Age ===\n\nSam marries [[Rosie Cotton]] and moves into [[Bag End]] with Frodo. The next year they have a daughter, Elanor, the first of their thirteen children. Frodo tells Sam that he (Frodo) and Bilbo will leave [[Middle-earth]], along with Gandalf and most of the remaining High Elves, for the [[Undying Lands]]. Frodo gives Sam the estate of Bag End, and the ''[[Red Book of Westmarch]]'' for Sam to continue, hinting that Sam may also be allowed to travel into the West eventually. Sam returns to meet his family at Bag End, ending the story with the words \"Well, I'm back.\"<ref name=\"Grey Havens\" group=T/>\n\n[[Non-narrative elements in The Lord of the Rings#Chronologies|The Appendices note that]] in the year 1427 of the [[Shire Calendar|Shire Reckoning]], Sam was elected [[Mayor of the Shire]] for the first of seven consecutive seven-year terms.<ref group=T>{{harvnb|Tolkien|1955|loc=Appendix B, \"The Tale of Years\", \"Later Events Concerning the Members of the Fellowship of the Ring\"}}</ref> His descendants took the surname Gardner in his honour.<ref name=\"gardner\" group=T>{{harvnb|Tolkien|1955|loc=Appendix C \"Family Trees\", \"The Longfather-Tree of Master Samwise\"}}</ref>\n\n== Analysis ==\n\n=== Christianity ===\n\n{{further|Christianity in Middle-earth}}\n\n[[File:5 Simon of Cyrene carries the cross. Church of St. John Nepomucen in Brenna.JPG|thumb|upright|[[Frodo]] has been compared to [[Christ]], and Sam, who carried Frodo on the way to [[Mount Doom]], to [[Simon of Cyrene]], who carried Christ's cross to [[Golgotha]].{{sfn|Pearce|2013|pp=97–98}}]]\n\nTolkien intentionally avoided making Christianity explicit in his Middle-earth writings,{{sfn|Flieger|2005|pp=36–37}} choosing instead to allow \"the story and the symbolism\" [[Christianity in Middle-earth|to convey his meaning]].<ref group=T>{{harvnb|Tolkien|1977|p=xii}}</ref> Frodo finds the Ring a crushing weight, just as the cross was for Jesus. Sam, who carries Frodo up to Mount Doom, parallels [[Simon of Cyrene]], who helps Jesus by carrying his cross to [[Golgotha]].{{sfn|Pearce|2013|pp=97–98}} Sam gains prominence as he is willing to be unimportant in doing his duty, echoing the Christian emphasis on the humble.{{sfn|Wood|2003|p=165}} The ordeal of crossing Mordor, too, reflects the Christian theme of [[redemptive suffering]].{{sfn|Olar|2002}}\n\n=== Heroism ===\n\n{{further|Heroism in The Lord of the Rings}}\n\nTolkien called Sam the \"chief hero\" of the saga, adding: \"I think the simple 'rustic' love of Sam and his Rosie (nowhere elaborated) is absolutely essential to the study of his (the chief hero's) character, and to the theme of the relation of ordinary life (breathing, eating, working, begetting) and quests, sacrifice, causes, and the 'longing for Elves', and sheer beauty.\"<ref group=T>{{harvnb|Carpenter|2023|loc=letter 131 to [[Milton Waldman]], 1951 }}</ref> Tolkien admired heroism out of loyalty and love, but despised arrogance, pride and wilfulness. The courage and loyalty displayed by Samwise Gamgee on his journey with Frodo is the kind of spirit that Tolkien praised in his essays on the [[Old English]] poem \"[[The Battle of Maldon]]\".{{sfn|Solopova|2009|pp=40–42}} Likewise, Sam's rejection of the Ring is a rejection of power, but also a \"desire for renown which the defeat over [[Sauron]] will bring\".{{sfn|Solopova|2009|p=42}}\n\n[[Tom Shippey]] notes Sam's courage, which among other things takes the form of \"be[ing] 'cheerful' without any hope at all\". Shippey comments that this may hardly appear sensible, but it \"rings true\", appearing in old soldiers' recollections of the [[World War I|First World War]]. He notes the etymology of \"cheer\", from [[Old French]] ''chair'', meaning \"face\", commenting that \"a stout pretence\" is better than \"sincere despair\". Further, in the grimness of the Stairs of [[Cirith Ungol]], he and Frodo imagine people \"laughing at grief\", something that Shippey calls Tolkien's \"[[Northern courage in Middle-earth|new model of courage]]\".{{sfn|Shippey|2005|pp=180–181}}\n\n=== Psychological journey ===\n\n{{further|Psychological journeys of Middle-earth}}\n\nThe [[Analytical psychology|Jungian]] clinical psychologist Robin Robertson describes Sam's quest as [[Psychological journeys of Middle-earth|a psychological journey]] of love (for Frodo), where Frodo's quest is one of transcendence.{{sfn|Robertson |2007|pp=79–94}} Robertson writes that \"Sam's is the simplest yet the most touching of all paths: his simple loyalty and love for Frodo make him the single person who never wavers in his task throughout the book.\"{{sfn|Robertson|2009|pp=225–242}} In his view, Sam always stays grounded in simple things like meals and the glory of a sunrise, while Sam ends as the happiest of the Fellowship, having seen the Elves, served as Frodo's companion on the quest, and back in the Shire that he loves, marries Rosie and is blessed with many children.{{sfn|Robertson|2009|pp=225–242}}\n\nThe Jungian analyst Pia Skogemann views Sam as standing for one of the [[cognitive functions|four cognitive functions]], namely feeling, with the other three assigned to the other hobbits in the Fellowship: Frodo stands for thinking, Pippin for intuition, and Merry for sensation.{{sfn|Skogemann|2009|p=14}}\n\n=== Relationship with Frodo ===\n\n{{further|Sexuality in The Lord of the Rings}}\n\n[[File:General Bernard Montgomery, Commander of the Eighth Army, Italy, 30 September 1943 TR1389.jpg|thumb|Tolkien stated that the relationship of Frodo and Sam reflected that of a British officer and his [[batman (army)|batman]] during the [[First World War]].<ref name=\"Carpenter 1977 p89\" group=T/>]]\n\nDuring the journey to destroy the Ring, Sam's [[Sexuality in The Lord of the Rings#Homosexuality|relationship with Frodo]] exemplifies that of a military servant or [[batman (army)|batman]] to his assigned officer in the [[British Army]], in particular in the [[First World War]] in which Tolkien had served as an officer, with different batmen at different times.<ref name=\"Carpenter 1977 p89\" group=T>{{harvnb|Carpenter|1977|p=89}}</ref> His [[biographer]] [[John Garth (author)|John Garth]] stated:{{sfn|Garth|2014}}\n\n{{blockquote|The relationship between Frodo and Sam closely reflects the hierarchy of an officer and his servant [in the First World War]. Officers had a university education and a middle-class background. Working-class men stayed at the rank of private or at best sergeant. A social gulf divides the literate, leisured Frodo from his former gardener, now responsible for wake-up calls, cooking and packing... Tolkien maps the gradual breakdown of restraint [through prolonged peril] until Sam can take Frodo in his arms and call him \"Mr Frodo, my dear.\"{{sfn|Garth|2014}}}}\n\nTolkien wrote in a private letter: \"My Sam Gamgee is indeed a reflexion of the English soldier, of the privates and [[batman (army)|batmen]] I knew in [[World War I|the 1914 war]], and recognised as so far superior to myself.\"<ref name=\"Carpenter 1977 p89\" group=T/> and elsewhere: \"Sam was cocksure, and deep down a little conceited; but his conceit had been transformed by his devotion to Frodo. He did not think of himself as heroic or even brave, or in any way admirable – except in his service and loyalty to his master.\"<ref group=T>{{harvnb|Carpenter|2023|loc=letter 246 to Eileen Elgar, September 1963 }}</ref>\n\nAlthough Tolkien does not explicitly say so, Sam is in effect Frodo's self-appointed [[manservant]], carrying out more mundane chores thus relieving his \"master\" of the necessity to do so, the term being used in (for example) Ishay Landa's essay \"Slaves of the Ring: Tolkien's Political Unconscious\".{{sfn|Landa|2002|pp=113–133}} Tolkien himself gets closest to this terminology, possibly inadvertently, when in the account \"Of The Rings of Power\" in ''The Simarillion'' he writes: \"For Frodo the Halfling, it is said, at the bidding of Mithrandir took on himself the burden [of destroying the One Ring], and alone with his servant he passed through peril and darkness and came at last in Sauron's despite even to Mount Doom; and there into the Fire where it was wrought he cast the Great Ring of Power, and so at last it was unmade and its evil consumed.\"<ref group=T>{{harvnb|Tolkien|1977|p=365 (paperback edition, 1999)}}</ref>\n\n=== Name ===\n\n{{see also|Pseudotranslation in The Lord of the Rings}}\n\n[[File:Blue plaque Sampson Gamgee.jpg|thumb|upright=0.9|Sam's surname is from [[Sampson Gamgee]], a Birmingham doctor who invented a surgical dressing; as a child, Tolkien knew the word \"gamgee\" as a name for cotton wool.{{sfn|Lobdell|1975|p=166 \"Gamgee\"}}<ref group=T name=\"Letter 257\"/>]]\n\nTolkien states in his \"[[Guide to the Names in The Lord of the Rings|Guide to the Names in ''The Lord of the Rings'']]\" for [[Translating The Lord of the Rings|translators of the book]] that he took the name \"Gamgee\" from a colloquial word in [[Birmingham, England|Birmingham]] for [[cotton wool]]. This came from [[Gamgee Tissue]], a surgical dressing invented by the 19th-century Birmingham surgeon [[Sampson Gamgee]].{{sfn|Lobdell|1975|p=166 \"Gamgee\"}}<ref name=\"Letter 257\" group=T>{{harvnb|Carpenter|2023|loc=letter 257 to Christopher Bretherton, 16 July 1964}}</ref> He claimed to have been genuinely surprised when, in March 1956, he received a letter from one Sam Gamgee, who had heard that his name was in ''The Lord of the Rings'' but had not read the book. Tolkien replied politely<ref group=T>{{harvnb|Carpenter|2023|loc=letter 184 to Sam Gamgee, 18 March 1956}}</ref> and sent Gamgee a signed copy of all three volumes of the book. He recorded in his journal \"For some time I lived in fear of receiving a letter signed 'S. Gollum'. That would have been more difficult to deal with.\"<ref group=T>{{harvnb|Carpenter|1977|pp=224–225}}</ref>{{efn|Tolkien later traced the origin of the English surname Gamgee to the [[Norman French]] surname \"de Gamaches\".<ref group=T>{{harvnb|Carpenter|2023|loc=letter 324 to Graham Tayar, 4–5 June 1971}}</ref>}}\n\n[[Pseudotranslation in The Lord of the Rings|In the fiction, Tolkien pretends that Sam's name is translated]] from the [[Westron]] ''Banazîr Galbasi''. The forename comes from elements meaning \"halfwise\" or \"simple\", exactly matching the [[Old English]] ''Samwís''. ''Galbasi'' comes from the name of the village ''{{Visible anchor|Galabas}}''. This uses the elements ''galab-'', meaning \"game\", and ''bas-'', roughly matching the [[English placenames|English placename]] endings \"-wich\" or \"-wick\" (meaning in Old English a dwelling or specialised farm{{sfn|Mills|1993|p=358}}). In [[Pseudotranslation in The Lord of the Rings|his frame story role as \"translator\"]] of the ''[[Red Book of Westmarch]]'', Tolkien devised a strict English translation, ''Samwís Gamwich'', which develops into ''Samwise Gammidgy'' and eventually comes to ''Samwise Gamgee'' in modern English.<ref group=T>{{harvnb|Tolkien|1955|loc=Appendix F, II \"On Translation\"}}</ref>\n\n<!--The \"Guide to the Names in ''The Lord of the Rings''\" also mentions that the surname of Sam's girlfriend, Rosie Cotton, is from an English placename (\"cot\" meaning cottage, and \"tūn\" meaning village in [[Old English]]), so that the heard connection with [[cotton]] fabric is of \"no importance\" for translations.{{sfn|Lobdell|1975|p=166 \"Cotton\"}} -->Tolkien states in a letter <!--to [[Naomi Mitchison]]--> that \"Since Sam was close friends of the family of Cotton (another village-name), I was led astray into the Hobbit-like joke of spelling Gamwichy [as] Gamgee, though I do not think that in actual Hobbit-dialect the joke really arose\", i.e. [[Tolkien's puns|he was punning]] on the connected meanings in English of the Gamgee and Cotton family names, \"cotton wool\" and \"cotton [fabric]\".<ref name=\"Letter 144\" group=T>{{harvnb|Carpenter|2023|loc=letter 144 to [[Naomi Mitchison]], 25 April 1954}}</ref>\n\n== Adaptations ==\n\n[[File:BakshiSam.JPG|thumb|left|Sam in [[Ralph Bakshi]]'s animated version of ''[[The Lord of the Rings (1978 film)|The Lord of the Rings]]'']]\n\nIn the 1971 [[The Mind's Eye (radio company)|Mind's Eye]] radio adaptation, Sam was voiced by [[Lucille Bliss|Lou Bliss]].{{sfn|Raggett|2018}} In [[Ralph Bakshi]]'s 1978 [[The Lord of the Rings (1978 film)|animated version]] of ''The Lord of the Rings'', Sam was voiced by Michael Scholes.{{sfn|Voice Actors Sam}}\nIn the 1980 animated version of ''[[The Return of the King (1980 film)|The Return of the King]]'', made for television, the character was voiced by [[Roddy McDowall]].{{sfn|Voice Actors Compare}}\nIn the 1981 [[BBC]] radio [[The Lord of the Rings (1981 radio series)|adaptation of ''The Lord of the Rings'']], Sam was played by [[Bill Nighy]].{{sfn|Green|2001}}\nIn the 1993 Finnish television [[miniseries]] ''[[Hobitit]]'', Sam is portrayed by [[Pertti Sveholm]].{{sfn|Kajava|1993}}\n\n[[File:Sean Astin as Samwise Gamgee.png|thumb|upright=1.25<!--fmt for low img-->|[[Sean Astin]] as Sam in [[Peter Jackson]]'s ''[[The Lord of the Rings: The Two Towers]]'']]\n\nIn the [[Peter Jackson]] movies ''[[The Lord of the Rings: The Fellowship of the Ring]]'' (2001), ''[[The Lord of the Rings: The Two Towers]]'' (2002) and ''[[The Lord of the Rings: The Return of the King]]'' (2003), Sam was played by [[Sean Astin]].{{sfn|Jackson|2006|p=9 \"Dramatis Personae\"}} The [[Batman (military)|batman]] relationship and class differences between Sam and Frodo are somewhat subdued, though Sam still refers to Frodo as \"Mr.\" (but not \"Master\").<ref>See ''The Lord of the Rings: The Fellowship of the Ring'' dir. Peter Jackson, 2001</ref> ''[[Entertainment Weekly]]'' called Sam Gamgee one of the \"greatest sidekicks.\"{{sfn|Schott|2008}} [[UGO Networks]] named Sam as one of their top heroes in entertainment.{{sfn|UGO Team|2010}}\n\nOn stage, Sam was portrayed by Peter Howe in the [[Toronto]] [[Lord of the Rings (musical)|stage production of ''The Lord of the Rings'']], which opened in 2006.{{sfn|Brantley|2006}} In the United States, Sam was portrayed by Blake Bowden in the [[Cincinnati]] productions of ''The Fellowship of the Ring'' (2001), ''The Two Towers'' (2002), and ''The Return of the King'' (2003) for Clear Stage Cincinnati.{{sfn|McDonough|2001}}\n<!--\n    Please do not add anything here without citing a reliable source, it will be removed.\n-->\n\n== Notes ==\n\n{{notelist}}\n\n== References ==\n\n=== Primary ===\n\n{{reflist|group=T|26em}}\n\n=== Secondary ===\n\n{{reflist|26em}}\n\n=== Sources ===\n\n{{refbegin}}\n* {{cite news |last=Brantley |first=Ben |title=Tolkien's 'Lord of the Rings,' Staged by Matthew Warchus in Toronto |url=https://www.nytimes.com/2006/03/24/theater/24ring.html |work=[[The New York Times]] |date=24 March 2006}}\n* {{ME-ref|Biography}}  <!--Carpenter 1997-->\n* {{ME-ref|Letters}}    <!--Carpenter 2023-->\n* {{cite book |last=Flieger |first=Verlyn |author-link=Verlyn Flieger |title=Interrupted Music: The Making Of Tolkien's Mythology |title-link=Interrupted Music |year=2005 |publisher=[[Kent State University Press]] |isbn=978-0-87338-824-5}}\n* {{cite web |last=Garth |first=John |author-link=John Garth (author) |url=https://johngarth.wordpress.com/2014/02/13/sam-gamgee-and-tolkiens-batmen/ |title=Sam Gamgee and Tolkien's batmen |date=13 February 2014 |access-date=17 May 2020}}\n* {{cite web |last=Green |first=Willow |title=Lord of the Radio |url=https://www.empireonline.com/movies/news/lord-radio/ |publisher=Empire (Cinemas) |access-date=6 May 2020 |date=29 November 2001}}\n* {{cite book |last=Jackson |first=Peter |author-link=Peter Jackson |title=From Hobbits to Hollywood: Essays on Peter Jackson's Lord of the Rings |url=https://books.google.com/books?id=TvsF3vxvEswC&pg=PR9 |year=2006 |publisher=[[Rodopi (publisher)|Rodopi]] |isbn=90-420-1682-5}}\n* {{cite news |last=Kajava |first=Jukka |title=Tolkienin taruista on tehty tv-sarja: Hobitien ilme syntyi jo Ryhmäteatterin Suomenlinnan tulkinnassa |language=fi |trans-title=Tolkien's tales have been turned into a TV series: The Hobbits have been brought to life in the Ryhmäteatteri theatre |work=[[Helsingin Sanomat]] |date=29 March 1993 |url=http://www.hs.fi/paivanlehti/arkisto/?haku=Klonkku&ref=arkisto%2F&page=4}} {{Subscription required}}\n* {{cite journal |last=Landa |first=Ishay |title=Slaves of the Ring: Tolkien's Political Unconscious |journal=Historical Materialism |volume=10 |issue=4 |pages=113–133 |year=2002 |doi=10.1163/15692060260474396 }}\n* {{cite book |last=Lobdell |first=Jared |author-link=Jared Lobdell |chapter=[[Guide to the Names in The Lord of the Rings]] |title=[[A Tolkien Compass]] |publisher=[[Open Court Publishing Company|Open Court Publishing]] |publication-place=Chicago, Illinois |date=1975 |isbn=0-87548-303-8 |pages=153–201}}\n* {{cite news |last=McDonough |first=Joseph |title=Fellowship of the Ring |url=https://www.newspapers.com/newspage/102561488/ |work=[[The Cincinnati Enquirer]] |date=25 September 2001 |page=24 |quote=Faring the best are Mr. Bowden as sidekick Sam Gamgee |via=newspapers.com}}\n* {{cite book |last=Mills |first=A. D. |title=A Dictionary of English Place-Names |year=1993 |publisher=[[Oxford University Press]] |isbn=978-0-19-283131-6 |page=358}}\n* {{cite journal |last=Olar |first=Jared L. |title=The Gospel According to J.R.R. Tolkien |journal=Grace and Knowledge |issue=12 |date=July 2002 |url=http://graceandknowledge.faithweb.com/tolkien.html}}\n* {{cite encyclopedia |last=Pearce |first=Joseph |author-link=Joseph Pearce |editor-last=Drout |editor-first=Michael D. C. |editor-link=Michael D. C. Drout |title=Christ |encyclopedia=[[J.R.R. Tolkien Encyclopedia|J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment]] |year=2013 |orig-year=2007 |publisher=[[Routledge]] |isbn=978-0-415-86511-1 |pages=97–98}}\n* {{cite web |last=Raggett |first=Ned |title=The Trouble With Ralph Bakshi's The Lord Of The Rings & Other Tolkien Misadventures |url=https://thequietus.com/articles/25681-ralph-bakshi-the-lord-of-the-rings-animation-review-anniversary |publisher=[[The Quietus]] |access-date=6 May 2020 |date=19 November 2018}}\n* {{cite journal |last=Robertson |first=Robin |title=Seven Paths of the Hero in ''Lord of the Rings'': Introduction |journal=Psychological Perspectives |volume=50 |issue=1 |date=30 May 2007 |doi=10.1080/00332920701319491 |pages=79–94 |s2cid=143849565 }}\n* {{cite journal |last=Robertson |first=Robin |title=Seven Paths of the Hero in ''Lord of the Rings'': The Path of Love |journal=Psychological Perspectives |volume=52 |issue=2 |date=27 May 2009 |doi=10.1080/00332920902880846 |pages=225–242 |s2cid=144447881 }}\n* {{cite book |last=Schott |first=Ben |title=Schott's Miscellany Calendar 2009 |location=New York |publisher=Workman Publishing |year=2008}}\n* {{ME-ref|ROAD}}       <!--Shippey 2005-->\n* {{cite book |last=Skogemann |first=Pia |title=Where the Shadows Lie: a Jungian Interpretation of Tolkien's The Lord of the Rings |publisher=Chiron Publications |date=2009 |isbn=978-1-888602-45-6 |oclc=318641399}}\n* {{ME-ref|Solopova}}\n* {{ME-ref|FOTR}}       <!--Tolkien 1954a-->\n* {{ME-ref|TT}}\n* {{ME-ref|ROTK}}\n* {{ME-ref|Silm}}\n* {{cite web |author=UGO Team |url=http://www.ugo.com/games/best-heroes-of-all-time?page=5 |title=Best Heroes of All Time |date=21 January 2010 |work=[[UGO Networks]] |access-date=3 April 2011 |url-status=dead |archive-url=https://web.archive.org/web/20120825220429/http://www.ugo.com/games/best-heroes-of-all-time?page=5 |archive-date=25 August 2012 }}\n* {{cite web |title=Compare: Sam |url=https://www.behindthevoiceactors.com/voice-compare/Lord-of-the-Rings/Sam/ |website=Behind the Voice Actors |access-date=6 May 2020 |ref={{harvid|Voice Actors Compare}} }}\n* {{cite web |title=Sam |url=https://www.behindthevoiceactors.com/movies/The-Lord-of-the-Rings/Sam/ |website=Behind the Voice Actors |access-date=6 May 2020 |ref={{harvid|Voice Actors Sam}} }}\n* {{cite book |last=Wood |first=Ralph C. |author-link=Ralph C. Wood |title=The Gospel According to Tolkien: visions of the kingdom in Middle-Earth |publisher=[[Westminster John Knox Press]] |year=2003 |isbn=978-0-664-22610-7 |oclc=51937282}}\n{{refend}}\n\n{{Lord of the Rings}}\n\n{{DEFAULTSORT:Gamgee, Samwise}}\n[[Category:Middle-earth Hobbits]]\n[[Category:The Lord of the Rings characters]]\n[[Category:Bearers of the One Ring]]\n[[Category:Literary characters introduced in 1954]]\n[[Category:Adventure film characters]]\n[[Category:Fictional horticulturists and gardeners]]\n[[Category:Fictional mayors]]\n[[Category:Fictional servants]]\n[[Category:Sidekicks in literature]]\n[[Category:Film sidekicks]]\n[[Category:Male characters in literature]]\n[[Category:Male characters in film]]\n[[Category:Television characters introduced in 1980]]",
+  "redirect_chain": [],
+  "revision_id": 1361266253,
+  "revision_timestamp": "2026-06-26T20:20:00Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography",
+        "The War of the Ring"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography",
+        "The War of the Ring"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography",
+        "The Scouring of the Shire"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography",
+        "The Scouring of the Shire"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography",
+        "The Scouring of the Shire"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography",
+        "In the Fourth Age"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Christianity"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Christianity"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Christianity"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Heroism"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Heroism"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Heroism"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Psychological journey"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Psychological journey"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Psychological journey"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Relationship with Frodo"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Relationship with Frodo"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Relationship with Frodo"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Relationship with Frodo"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Relationship with Frodo"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Name"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Name"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Name"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Name"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Name"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Notes"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

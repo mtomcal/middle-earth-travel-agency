@@ -1,0 +1,310 @@
+{
+  "article_artifact_id": "article_0293027aa33d62a9a3371134802625722baeb3c950f0c1fbf53991855875d4d7",
+  "canonical_title": "Denethor",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_0293027aa33d62a9a3371134802625722baeb3c950f0c1fbf53991855875d4d7",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Denethor is depicted as embittered and despairing as the forces of Mordor close in on Gondor. Critics have noted the contrast between Denethor and both Théoden, the good king of Rohan, and Aragorn, the true king of Gondor. Others have likened Denethor to Shakespeare's King Lear, as both rulers fall into dangerous despair.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_00850862306832808b93b6b05364519cb3ea4898c562aa565b21c1e8630064af",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0293027aa33d62a9a3371134802625722baeb3c950f0c1fbf53991855875d4d7",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "In The Lord of the Rings film trilogy, Peter Jackson chose to depict Denethor, played by John Noble, as greedy and self-indulgent, quite unlike Tolkien's powerful leader.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_63b6dc79992913d9dc14d6545a5f2e740d8e92e4e610eec48ce37c7a879950a4",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0293027aa33d62a9a3371134802625722baeb3c950f0c1fbf53991855875d4d7",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Other characters called Denethor in Tolkien's legendarium are Denethor I, a previous Steward (reigning from 2435 to 2477) and Denethor, son of Lenwë, a king of the Nandor.",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_d2f1e0b06a8bc35a1e0050ec1104916c71afa07a8edac0dc92ec474c9835e23c",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0293027aa33d62a9a3371134802625722baeb3c950f0c1fbf53991855875d4d7",
+      "heading_path": [
+        "Fictional biography"
+      ],
+      "normalized_text": "thumb|upright|right|Flag of the Stewards of Gondor",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_137e7f496ded726154800bd1bebb7719e50347e410e73600ea330610ef07ca20",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0293027aa33d62a9a3371134802625722baeb3c950f0c1fbf53991855875d4d7",
+      "heading_path": [
+        "Fictional biography"
+      ],
+      "normalized_text": "{{blockquote|He [Denethor] must have guessed that the Ithil-stone [Sauron's palantír] was in evil hands, and risked contact with it, trusting his strength. His trust was not entirely unjustified. Sauron failed to dominate him and could only influence him by deceits.",
+      "paragraph_ordinal": 5,
+      "passage_id": "passage_9b1aa84909139eec31b0fa35944fcbede350bc51a521f80b4f2cd1915e1e217b",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0293027aa33d62a9a3371134802625722baeb3c950f0c1fbf53991855875d4d7",
+      "heading_path": [
+        "Adaptations",
+        "Peter Jackson's films"
+      ],
+      "normalized_text": "thumb|John Noble as Denethor in Peter Jackson's The Lord of the Rings: The Return of the King",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_7e5f34d34290021058b12bfc7d8642ad6c92fe961194304d4ee250b3e1f486f7",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Denethor&action=history",
+  "namespace": 0,
+  "page_id": 61597,
+  "parent_revision_id": 1361184852,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1361188900",
+  "raw_wikitext": "{{Short description|Fictional character from The Lord of the Rings}}\n{{good article}}\n'''Denethor II''', son of Ecthelion II, is a fictional character in [[J. R. R. Tolkien]]'s novel ''[[The Lord of the Rings]]''. He was the 26th ruling [[Steward of Gondor]], dying by suicide in the besieged city of [[Minas Tirith]] during the [[Battle of the Pelennor Fields]].\n\nDenethor is depicted as embittered and despairing as the forces of [[Mordor]] close in on [[Gondor]]. Critics have noted the contrast between Denethor and both [[Théoden]], the good king of [[Rohan (Middle-earth)|Rohan]], and [[Aragorn]], the true king of Gondor. Others have likened Denethor to Shakespeare's [[King Lear]], as both rulers fall into dangerous despair.<!--summarizes cited text in article body-->\n\nIn [[The Lord of the Rings film trilogy|''The Lord of the Rings'' film trilogy]], [[Peter Jackson]] chose to depict Denethor, played by [[John Noble]], as greedy and self-indulgent, [[Peter Jackson's interpretation of The Lord of the Rings|quite unlike Tolkien's powerful leader]].\n\nOther characters called Denethor in Tolkien's legendarium are Denethor I, a previous Steward (reigning from 2435 to 2477) and Denethor, son of Lenwë, a king of the [[Nandor (Middle-earth)|Nandor]].\n\n==Fictional biography==\n[[File:Flag of the Stewards of Gondor.svg|thumb|upright|right|Flag of the [[Stewards of Gondor]]]]\n\nIn Tolkien's [[Middle-earth]], Denethor is the first son and third child of Ecthelion II, a [[Steward of Gondor]].<ref group=T>{{harvnb|Tolkien|1996|pages=206–207}}</ref> He marries Finduilas, daughter of Prince Adrahil of [[Dol Amroth]]. She gives birth to two sons, [[Boromir]] and [[Faramir]], but dies when they are ten and five years old, respectively. Denethor never remarries, and becomes grimmer and more silent than before. He is a man of great will, foresight, and strength, but also overconfident.<ref name=\"Davis 2006\"/> [[Gandalf]] describes him as \"proud and subtle, a man of far greater lineage and power [than [[Théoden]] of [[Rohan (Middle-earth)|Rohan]]], though he is not called a king.\"<ref name=\"Minas Tirith\" group=T/> Gandalf further comments:\n\n{{blockquote|He is not as other men of this time…by some chance the blood of [[Westernesse (Middle-earth)|Westernesse]] runs nearly true in him, as it does in his other son, Faramir, and yet did not in Boromir. He has long sight. He can perceive, if he bends his will thither, much of what is passing in the minds of men, even of those that dwell far off.  It is difficult to deceive him, and dangerous to try.<ref name=\"Minas Tirith\" group=T>{{harvnb|Tolkien|1955|loc=book 5, ch. 1 \"Minas Tirith\"}}</ref>}}\n\nUnlike [[Saruman]], Denethor is too strong to be corrupted directly by [[Sauron]]. He begins secretly using a ''[[palantír]]'' to probe Sauron's strength, incorrectly insisting he can control it. The effort ages him quickly, and the impression of Sauron's overwhelming force that he gains from the ''palantír''  depresses him greatly, as Sauron biases what Denethor sees.<ref name=\"Minas Tirith\" group=T/><ref name=\"Kocher 1974 p63\">{{cite book |last=Kocher |first=Paul |author-link=Paul H. Kocher |title=Master of Middle-earth: The Achievement of J.R.R. Tolkien |title-link=Master of Middle-earth |date=1974 |orig-year=1972 |publisher=Penguin Books |isbn=0140038779 |page=63}}</ref><!--Shippey has plenty on this also--> Boromir's death depresses Denethor further. Nonetheless he continues to fight Sauron until the forces of [[Mordor]] arrive at the gates of Minas Tirith, at which point he loses all hope. In the published essay on the ''palantíri'', Tolkien wrote:<ref name=Unfinished group=T/>\n\n{{blockquote|He [Denethor] must have guessed that the [[Minas Ithil|Ithil]]-stone [Sauron's ''palantír''] was in evil hands, and risked contact with it, trusting his strength. His trust was not entirely unjustified. Sauron failed to dominate him and could only influence him by deceits.\n\nSaruman fell under the domination of Sauron... [while] Denethor remained steadfast in his rejection of Sauron, but was made to believe that his defeat was inevitable, and so fell into despair. The reasons for this difference were no doubt that in the first place Denethor was a man of great strength of will and maintained the integrity of his personality until the final blow of the (apparently) mortal wound of his only surviving son.<ref name=Unfinished group=T>{{harvnb|Tolkien|1980|pages=526–527}}</ref>}}\n\nAs invasion becomes certain, Denethor orders the [[warning beacons of Gondor]] to be lit, and summons forces from Gondor's provinces<ref name=\"Minas Tirith\" group=T/> and <!--with the Red Arrow -->from [[Rohan (Middle-earth)#People|Rohan]],<ref name=\"The Muster of Rohan\" group=T>{{harvnb|Tolkien|1955|loc=book 5, ch. 3 \"The Muster of Rohan\"}}</ref> while the people of [[Minas Tirith]] are sent away to safety.<ref name=\"Minas Tirith\" group=T/> Denethor orders his son [[Faramir]] to take his men to defend the river crossing at [[Osgiliath]] and the great wall of the ''Rammas Echor''. Faramir is wounded, apparently mortally; his body is carried back to the city.<ref name=\"Siege of Gondor\" group=T>{{harvnb|Tolkien|1955|loc=book 5, ch. 4 \"The Siege of Gondor\"}}</ref>\n\n{{Quote box|\n |quote  = 'Hope on then!' laughed Denethor. 'Do I not know thee, Mithrandir? Thy hope is to rule in my stead, to stand behind every throne, north, south, or west... So! With the left hand thou wouldst use me for a little while as a shield against Mordor, and with the right bring up this Ranger of the North to supplant me. But I say to thee, Gandalf Mithrandir, I will not be thy tool! I am Steward of the House of Anarion. I will not step down to be the dotard chamberlain of an upstart. Even were his claim proved to me, still he comes but of the line of [[Isildur]]. I will not bow to such a one, last of a ragged house long bereft of lordship and dignity.'<ref name=\"Pyre of Denethor\" group=T/>\n |width  = 40%\n |align  = right\n}}\n\nDenethor, grief-struck by the apparent loss of his son, orders his servants to burn him alive on a funeral [[pyre]] prepared for himself and Faramir in Rath Dínen.<ref name=\"Siege of Gondor\" group=T/> He breaks the white rod of his office over his knee, casting the pieces into the flames. He lies down on the pyre and so dies, clasping the ''palantír'' in his hands. Faramir is saved from the flames by Gandalf.<ref name=\"Pyre of Denethor\" group=T>{{harvnb|Tolkien|1955|loc=book 5, ch. 7 \"The Pyre of Denethor\"}}</ref>\n\n== Analysis ==\n\n=== Character flaws ===\n\n[[Mental illness in Middle-earth|Denethor's madness]] and despair has been [[Shakespeare's influence on Tolkien|compared to that of Shakespeare's]] [[King Lear]]. Both men are first outraged when their children (Faramir and Cordelia, respectively) refuse to aid them, but then grieve upon their children's death – which is only perceived in the case of Faramir. According to [[Michael D. C. Drout]], both Denethor and Lear \"despair of God's mercy\", something extremely dangerous in a leader who has to defend his realm.<ref name=\"Smith 2007\">{{cite book |chapter-url=https://books.google.com/books?id=-WGaDtnHUOYC&pg=PA140 |title=Tolkien and Shakespeare: Essays on Shared Themes and Language |chapter=The Influence of King Lear on Lord of the Rings |first=Leigh |last=Smith |editor-first=Janet Brennan |editor-last=Croft |editor-link=Janet Brennan Croft |page=140 |publisher=[[McFarland & Company]] |year=2007 |isbn=978-0-78642-827-4}}</ref> Sauron drives Denethor to suicide by showing him in the [[Palantír]] the Black Fleet approaching Gondor, while concealing the fact that the ships are carrying Aragorn's troops, coming to Gondor's rescue.<ref name=\"Kocher 1974 p63\"/> The Tolkien scholar [[Tom Shippey]] comments that this forms part of a pattern around the use of the Palantír, that one should not try to see the future but should trust in one's [[Luck and fate in Middle-earth|luck]] and make one's own mind up, courageously facing one's duty in each situation.{{sfn|Shippey|2005|pp=188, 423-429}} The medievalist [[Elizabeth Solopova]] comments that unlike Aragorn, Denethor is incapable of displaying what Tolkien in ''[[Beowulf: the Monsters and the Critics]]'' called \"[[Northern courage in Middle-earth|northern courage]]\", namely, the spirit to carry on in the face of certain defeat and death.<ref>{{ME-ref|Solopova|pages=28–29}}</ref> Alex Davis, in the ''[[J.R.R. Tolkien Encyclopedia]]'', writes that many critics have examined his fall and corrupted leadership, whereas Richard Purtill identifies Denethor's pride and egoism, a man who considers Gondor his property.<ref name=\"Davis 2006\">{{cite encyclopedia |last=Davis |first=Alex |editor-last=Drout |editor-first=Michael D. C. |editor-link=Michael D. C. Drout |title=Jackson, Peter: Artistic Impression |encyclopedia=[[J.R.R. Tolkien Encyclopedia|J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment]] |year=2006 |publisher=[[Routledge]] |isbn=1-135-88034-4 |page=120}}</ref><ref>{{cite book |last1=Purtill |first1=Richard L. |title=J.R.R. Tolkien: Myth, Morality, and Religion |date=2003 |publisher=Ignatius |isbn=978-0898709483 |page=85}}</ref> The Tolkien scholar Ali Mirzabayati suggests that Denethor has a pathological fear of defeat. In his view, Denethor's understanding of stewardship is superficial, limited to ruling and authority, so he clings desperately to power. This, exacerbated by his grief and mistrust of others, impairs his judgement and ability to defend his people.<ref>{{cite journal |last=Mirzabayati |first=Ali |date=2025-09-14 |title='Pride and Despair': Denethor's Struggles Against His Self-woven Death |url=https://scholar.valpo.edu/journaloftolkienresearch/vol22/iss2/6 |journal=[[Journal of Tolkien Research]] |volume=22 |issue=2}}</ref>\n\n=== Denethor vs Théoden ===\n\n{{further|Feudal allegiance in The Lord of the Rings}}\n\nThe Tolkien scholar [[Jane Chance]] contrasts Denethor both with another \"Germanic king\", [[Théoden]], and with the \"true king\" of Gondor, Aragorn. In Chance's view, Theoden represents good, Denethor evil; she notes that their names are almost [[anagram]]s, and that where Theoden welcomes the Hobbit [[Merry Brandybuck]] into his service with loving friendship, Denethor accepts Merry's friend [[Pippin Took]] with a harsh contract of [[fealty]]. Chance writes that Tolkien further sets both Theoden and Denethor against the \"Christian lord\" Aragorn. In her opinion, Denethor \"fails as a father, a master, a steward, and a rational man,\" giving in to despair, whereas Aragorn is brave in battle and gentle with his people, and has the Christlike attribute of healing.{{sfn|Chance|1980|pages=119-122}}\n\nShippey makes the same comparison, extending it to numerous elements of the two Men's stories, writing that Théoden lives by a theory of Northern courage, and dies through Denethor's despair.{{sfn|Shippey|2005|pp=136–137, 177–178, 187}}{{sfn|Shippey|2001|pp=50–52, 96}}\n\n{| class=\"wikitable\" style=\"margin: 1em auto;\"\n|+ Tom Shippey's analysis of symmetry in the tales of [[Théoden]] and Denethor{{sfn|Shippey|2001|pp=50–52, 96}}\n|-\n! Story element !! [[Théoden]], King of Rohan !! Denethor, Steward of Gondor\n|-\n| Subgroup meets a helpful stranger || [[Aragorn]], [[Gimli (Middle-earth)|Gimli]] and [[Legolas]] meet [[Éomer]] || Frodo and Sam meet [[Faramir]] \n|-\n| Subgroup leader confronts the stranger || Aragorn defies Éomer || Frodo hides his quest from Faramir\n|-\n| Stranger decides to help the group, against their superior's wishes || Éomer lends horses || Faramir lets Frodo and Sam go\n|-\n| Leader is an old man who has lost a son || Théodred died in battle || [[Boromir]] died saving the [[Hobbit]]s\n|-\n| Leader sees other heir as \"doubtful replacement\" || Éomer is a nephew || Faramir is scholarly, not warlike\n|-\n| Leader dies at time of [[Battle of the Pelennor Fields]] || Théoden dies in battle || Denethor commits suicide during battle  \n|-\n| Leader's hall is described in detail || [[Meduseld]], the \"golden hall\" || The stone hall in [[Minas Tirith]]\n|-\n| [[Feudal allegiance in The Lord of the Rings|A Hobbit swears allegiance to leader]] || [[Merry Brandybuck|Merry]] joins the [[Riders of Rohan]] || [[Pippin Took|Pippin]] becomes a palace guard of Gondor\n|}\n\n==Adaptations==\n\n===Early versions===\n\nDenethor was voiced by [[William Conrad]] in [[Rankin/Bass]]'s 1980 animated adaptation of ''[[The Return of the King (1980 film)|The Return of the King]]'',<ref>{{cite web |title=The Return of the King |url=https://www.behindthevoiceactors.com/movies/The-Return-of-the-King/ |publisher=Behind the Voice Actors |access-date=17 February 2021}}</ref> and by [[Peter Vaughan]] in [[BBC Radio]]'s 1981 [[The Lord of the Rings (1981 radio series)|serialization]].<ref name=\"Radio Riel 2009\">{{cite web |last=Pearse |first=Edward |title=The Lord of the Rings, Episode 2 |url=https://radioriel.org/content/daily-programme/riel-radio-theatre-the-lord-of-the-rings-episode-2/ |publisher=Radio Riel |date=15 January 2009 |archive-url=https://web.archive.org/web/20200115144511/https://www.radioriel.org/content/daily-programme/riel-radio-theatre-the-lord-of-the-rings-episode-2/ |archive-date=15 January 2020 |url-status=dead}}</ref>\n\n===Peter Jackson's films===\n\n[[File:Denethor.JPG|thumb|[[John Noble]] as Denethor in [[Peter Jackson]]'s ''[[The Lord of the Rings: The Return of the King]]'']]\n\nDenethor is played by [[John Noble]] in [[Peter Jackson]]'s film ''[[The Lord of the Rings: The Return of the King]]''.<ref>{{cite web |last=Jones |first=Alan |title=The Lord of the Rings: The Return of the King |url=https://www.radiotimes.com/film/fj5j2q/the-lord-of-the-rings-the-return-of-the-king/ |publisher=Radio Times |access-date=13 February 2020}}</ref> The film portrays Denethor far more negatively than the novel. Tolkien calls Denethor\n\n{{blockquote|a masterful man, both wise and learned beyond the measure of those days, and strong willed, confident in his own powers, and dauntless. (...) He was proud, but this was by no means personal: he loved Gondor and its people, and deemed himself appointed by destiny to lead them in this desperate time.<ref name=\"Unfinished\" group=T/>}}\n\nShippey commented that where Tolkien's Denethor is a cold ruler doing his best for his country, Jackson's is made to look greedy and self-indulgent; Shippey calls the scene where he gobbles a meal, while his son Faramir has been sent out in a hopeless fight, a \"blatant [use] of cinematic suggestion\".{{sfn|Shippey|2005|pp=409–429}}\n\n''[[Christianity Today]]'' wrote that the films \"missed the [[Christianity in Middle-earth|moral and religious depths]]\"<ref name=\"CT 2003\"/> of the book, such as when they turned \"the awful subtlety and complexity of evil\"<ref name=\"CT 2003\"/> into something trivially obvious. It gave as an example the depiction of what it felt was the powerful figure of Denethor as \"a snarling and drooling oaf rather than a noble pessimist\".<ref name=\"CT 2003\">{{cite web |last1=<!--not stated--> |title=The Lure of the Obvious in Peter Jackson's The Return of the King |url=https://www.christianitytoday.com/ct/2003/decemberweb-only/12-15-31.0.html |publisher=[[Christianity Today]] |access-date=18 April 2021 |date=1 December 2003 |archive-date=18 April 2021 |archive-url=https://web.archive.org/web/20210418203001/https://www.christianitytoday.com/ct/2003/decemberweb-only/12-15-31.0.html |url-status=live }}</ref>\n\nDaniel Timmons writes in the ''J.R.R. Tolkien Encyclopedia'' that Jackson characterizes Denethor and others in a way \"far from Tolkien's text\", but that the film version successfully \"dramatizes the insidious temptation to evil\", and that through \"the falls of Saruman, Denethor, and Sauron, we see the bitter fruits of the lust for [[Addiction to power in The Lord of the Rings|power and its corrupting influence]].\"<ref>{{cite encyclopedia |last=Timmons |first=Daniel |editor-last=Drout |editor-first=Michael D. C. |editor-link=Michael D. C. Drout |title=Jackson, Peter {{!}} Artistic Impression |encyclopedia=[[J.R.R. Tolkien Encyclopedia|J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment]] |year=2006 |publisher=[[Routledge]] |isbn=1-135-88034-4 |page=308}}</ref>\n\n==References==\n\n===Primary===\n\n{{reflist|group=T|28em}}\n\n===Secondary===\n{{reflist|28em}}\n\n==Sources==\n\n* {{cite book |last=Chance |first=Jane |author-link=Jane Chance |title=[[Tolkien's Art: 'A Mythology for England']] |date=1980 |orig-year=1979 |publisher=Papermac |isbn=0-333-29034-8 }}\n* {{cite book |last=Shippey |first=Tom |author-link=Tom Shippey |title=[[J. R. R. Tolkien: Author of the Century]] |date=2001 |publisher=HarperCollins |isbn=978-0261-10401-3}}\n* {{ME-ref|ROAD}} <!--Shippey 2005-->\n* {{ME-ref|ROTK}} <!--Tolkien 1955-->\n* {{ME-ref|UT}}   <!--Tolkien 1980-->\n* {{ME-ref|POME}} <!--Tolkien 1996-->\n\n{{lotr}}\n\n[[Category:Literary characters introduced in 1955]]\n[[Category:Male characters in literature]]\n[[Category:Middle-earth rulers|Denethor II]]\n[[Category:The Lord of the Rings characters]]\n[[Category:Fictional nobility]]\n[[Category:Fictional regents]]\n[[Category:Fictional military strategists]]\n[[Category:Fictional suicides]]\n[[Category:Middle-earth Dúnedain]]\n[[Category:Animated characters introduced in 1980]]\n[[Category:Film characters introduced in 1980]]\n[[Category:Television characters introduced in 1980]]\n\n[[de:Figuren in Tolkiens Welt#Denethor]]\n[[simple:Middle-earth characters#Denethor]]",
+  "redirect_chain": [],
+  "revision_id": 1361188900,
+  "revision_timestamp": "2026-06-26T07:11:03Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography"
+      ],
+      "paragraph_ordinal": 7,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography"
+      ],
+      "paragraph_ordinal": 8,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography"
+      ],
+      "paragraph_ordinal": 9,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Character flaws"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Denethor vs Théoden"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Denethor vs Théoden"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Denethor vs Théoden"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Denethor vs Théoden"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: table",
+      "structure_type": "table"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Early versions"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Peter Jackson's films"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Peter Jackson's films"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Peter Jackson's films"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Peter Jackson's films"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Peter Jackson's films"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

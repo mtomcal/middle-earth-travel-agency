@@ -1,7 +1,11 @@
 import json
+import os
+import threading
+from concurrent.futures import ThreadPoolExecutor
 
 import pytest
 
+from middle_earth_travel_agency import corpus_release
 from middle_earth_travel_agency.corpus_curation import CurationState, load_corpus
 from middle_earth_travel_agency.corpus_release import create_release, validate_release
 from middle_earth_travel_agency.curation_snapshot import export_snapshot
@@ -104,14 +108,42 @@ def test_creates_repeatable_manifest_with_only_lore_bearing_articles(tmp_path):
 
     assert first.read_bytes() == second.read_bytes()
     assert (first.parent / "curation.jsonl").read_bytes() == snapshot.read_bytes()
+    assert (first.parent / "articles" / "alpha.json").read_bytes() == (
+        articles / "alpha.json"
+    ).read_bytes()
+    assert (first.parent / "articles" / "beta.json").read_bytes() == (
+        articles / "beta.json"
+    ).read_bytes()
     assert result.article_count == 1
     assert result.passage_count == 1
     document = json.loads(first.read_text())
     assert document["selection_policy"] == "all lore-bearing articles"
     assert document["counts"] == {"articles": 1, "lore_passages": 1}
+    assert [item["artifact_filename"] for item in document["corpus_articles"]] == [
+        "alpha.json",
+        "beta.json",
+    ]
     assert [article["canonical_title"] for article in document["articles"]] == ["Alpha"]
     assert document["articles"][0]["lore_passage_ids"] == ["alpha-lore"]
     assert document["source_snapshot"] == SOURCE_SNAPSHOT
+    assert (
+        validate_release(
+            manifest=first,
+            articles_dir=articles,
+            curation_snapshot=first.parent / "curation.jsonl",
+        )
+        == result
+    )
+
+    _write_article(
+        articles,
+        "gamma.json",
+        _article(
+            "article-gamma",
+            "Gamma",
+            [_passage("article-gamma", "gamma", "Newly acquired.")],
+        ),
+    )
     assert (
         validate_release(
             manifest=first,
@@ -179,6 +211,79 @@ def test_validation_rejects_tampering_and_creation_refuses_overwrite(tmp_path):
             articles_dir=articles,
             curation_snapshot=manifest.parent / "curation.jsonl",
         )
+
+
+def test_validation_rejects_tampered_retained_article(tmp_path):
+    articles = tmp_path / "articles"
+    _write_article(
+        articles,
+        "alpha.json",
+        _article(
+            "article-alpha",
+            "Alpha",
+            [_passage("article-alpha", "alpha", "Alpha passage.")],
+        ),
+    )
+    snapshot = _curation_snapshot(tmp_path, articles, {"alpha": "l"})
+    manifest = tmp_path / "release" / "manifest.json"
+    create_release(
+        release_id="corpus-v1-rc1",
+        articles_dir=articles,
+        curation_snapshot=snapshot,
+        output=manifest,
+    )
+    retained_article = manifest.parent / "articles" / "alpha.json"
+    retained_article.write_text(retained_article.read_text() + "\n")
+
+    with pytest.raises(ValueError, match="digest does not match"):
+        validate_release(
+            manifest=manifest,
+            articles_dir=manifest.parent / "articles",
+            curation_snapshot=manifest.parent / "curation.jsonl",
+        )
+
+
+def test_concurrent_creation_publishes_exactly_one_complete_release(tmp_path, monkeypatch):
+    articles = tmp_path / "articles"
+    _write_article(
+        articles,
+        "alpha.json",
+        _article(
+            "article-alpha",
+            "Alpha",
+            [_passage("article-alpha", "alpha", "Alpha passage.")],
+        ),
+    )
+    snapshot = _curation_snapshot(tmp_path, articles, {"alpha": "l"})
+    manifest = tmp_path / "releases" / "release" / "manifest.json"
+    original_rename = os.rename
+    publish_barrier = threading.Barrier(2)
+
+    def synchronized_rename(source, destination):
+        publish_barrier.wait(timeout=5)
+        original_rename(source, destination)
+
+    monkeypatch.setattr(corpus_release.os, "rename", synchronized_rename)
+
+    def attempt_creation():
+        try:
+            return create_release(
+                release_id="corpus-v1-rc1",
+                articles_dir=articles,
+                curation_snapshot=snapshot,
+                output=manifest,
+            )
+        except FileExistsError:
+            return None
+
+    with ThreadPoolExecutor(max_workers=2) as executor:
+        results = list(executor.map(lambda _index: attempt_creation(), range(2)))
+
+    assert sum(result is not None for result in results) == 1
+    assert manifest.is_file()
+    assert (manifest.parent / "curation.jsonl").is_file()
+    assert (manifest.parent / "articles" / "alpha.json").is_file()
+    assert sorted(path.name for path in manifest.parent.parent.iterdir()) == ["release"]
 
 
 def test_rejects_invalid_release_id_and_mixed_source_snapshots(tmp_path):

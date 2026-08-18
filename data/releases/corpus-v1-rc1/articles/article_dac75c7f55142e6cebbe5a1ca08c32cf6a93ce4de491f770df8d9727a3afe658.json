@@ -1,0 +1,334 @@
+{
+  "article_artifact_id": "article_dac75c7f55142e6cebbe5a1ca08c32cf6a93ce4de491f770df8d9727a3afe658",
+  "canonical_title": "Gondolin",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_dac75c7f55142e6cebbe5a1ca08c32cf6a93ce4de491f770df8d9727a3afe658",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "In J.R.R. Tolkien's legendarium, Gondolin is a secret city of Elves in the First Age of Middle-earth, and the greatest of their cities in Beleriand. The story of the Fall of Gondolin tells of the arrival there of Tuor, a prince of Men; of the betrayal of the city to the Dark Lord Morgoth by the king's nephew, Maeglin; and of its subsequent siege and catastrophic destruction by Morgoth's armies. It also relates the flight of the fugitives to the Havens of Sirion, the wedding of Tuor and the Elf Idril, and the childhood of their son Eärendil.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_4f744bc60e61aa72bc7b75c7eba1f8fd9f3f83dca2963bed65b543fb8320ce73",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_dac75c7f55142e6cebbe5a1ca08c32cf6a93ce4de491f770df8d9727a3afe658",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Scholars have noted the presence of tank-like iron fighting machines in Morgoth's army in early versions of the story, written soon after Tolkien returned from the Battle of the Somme. They have likened the story of the Fall of Gondolin to the sack of Troy in ancient Greek literature, or to Virgil's Aeneid; the role of Tuor's wife Idril has similarly been compared to that of Cassandra or Helen of Troy in accounts of the Trojan War.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_b7bd6a0d822d3554503c32aafa9bbb00b60f28e6a71866ffe35689cc7f911164",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_dac75c7f55142e6cebbe5a1ca08c32cf6a93ce4de491f770df8d9727a3afe658",
+      "heading_path": [
+        "City",
+        "Founding"
+      ],
+      "normalized_text": "thumb|upright=1.75|Sketch map of Beleriand in the First Age. Gondolin (centre top) is encircled by mountains.",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_9ad37aa31926a8e84dec0403705b8fcaca0dd39013d1fadb1ec7c12e1e27df93",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_dac75c7f55142e6cebbe5a1ca08c32cf6a93ce4de491f770df8d9727a3afe658",
+      "heading_path": [
+        "Analysis",
+        "Classical"
+      ],
+      "normalized_text": "Greenman compares and contrasts Idril's part in the story to Cassandra and Helen of Troy, two prominent female figures in accounts of the Trojan War: like the prophetess, Idril had a premonition of impending danger and like Helen, her beauty played a major role in instigating Maeglin's betrayal of Gondolin, which ultimately led to its downfall and ruin. Conversely, Greenman notes that Idril's advice to enact a contingency plan for a secret escape route out of Gondolin was heeded by her people, unlike the warning of Cassandra; and that Idril had always rejected Maeglin's advances and remained faithful to Tuor, unlike Helen who left her husband King Menelaus of Sparta for Prince Paris of Troy.",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_76c7789cd99c7a34594a5821caa9a675a8e8f2a027d3c72fcc2449e054332dc7",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_dac75c7f55142e6cebbe5a1ca08c32cf6a93ce4de491f770df8d9727a3afe658",
+      "heading_path": [
+        "Analysis",
+        "Classical"
+      ],
+      "normalized_text": "Alexander Bruce writes that Tolkien's tale parallels Virgil's account, but varies the story. Thus, Morgoth attacks while Gondolin's guard is lowered during a great feast, whereas the Trojans were celebrating the Greeks' apparent retreat, with the additional note of treachery. The Trojan Horse carried the Greeks into Troy, where they set fire to it, paralleled by the fire-serpents which carried \"Balrogs in hundreds\" into Gondolin. Tolkien's serpents are matched by the great serpents with \"burning eyes, fiery and suffused with blood, their tongues a-flicker out of hissing maws\" which kill the high priest Laocoön and his sons. Aeneas and his wife Creusa become separated during their escape; her ghost pleads with him to leave when he searches for her, and he travels to Italy; in contrast, Tuor and Idril escape to Sirion together, eventually sailing from there to Valinor. Marco Cristini adds that both cities are fatally attacked during a feast; their heroes both leave their wives to fight, and both see their kings die. Cristini comments further that \"The most evident analogy is perhaps the behaviour of Creusa and Idril, who clasp the knees of their husbands to prevent them from joining again the battle when all hope is lost.\" Scholars have noted that Tolkien himself drew classical parallels for the assault, writing that \"Nor Bablon, nor Ninwi, nor the towers of Trui, nor all the many takings of Rûm that is greatest among Men, saw such terror as fell that day upon Amon Gwareth\".",
+      "paragraph_ordinal": 5,
+      "passage_id": "passage_2b330327e439fb9bff198030731a19630bf28668a656c6ea31de36fa4d53aa78",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_dac75c7f55142e6cebbe5a1ca08c32cf6a93ce4de491f770df8d9727a3afe658",
+      "heading_path": [
+        "Analysis",
+        "Classical"
+      ],
+      "normalized_text": "Tolkien appears to have based one scene on another classical source, Euripides' play The Trojan Women. Maeglin tries to throw Idril's son Eärendil from the city wall, just as Hector's son Astyanax is thrown down from Troy's walls. Tolkien changes the outcome: Eärendil resists, and Tuor appears just in time to rescue him by throwing Maeglin from the walls instead.",
+      "paragraph_ordinal": 6,
+      "passage_id": "passage_2631b18293cd581162299a677fb3ecb9f10f4f9b19801ad99a06c1e6cc69d7bd",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_dac75c7f55142e6cebbe5a1ca08c32cf6a93ce4de491f770df8d9727a3afe658",
+      "heading_path": [
+        "Analysis",
+        "Tolkien's wartime experience"
+      ],
+      "normalized_text": "thumb|\"Beasts like snakes and dragons of irresistible might\": a British Mark I tank near Thiepval where Tolkien fought on the Somme in September 1916",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_17a833c62ddf12aed1d27018de25795f8ed568c9689020d3aedb19a4434a5d17",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Gondolin&action=history",
+  "namespace": 0,
+  "page_id": 214616,
+  "parent_revision_id": 1337538576,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1337576954",
+  "raw_wikitext": "{{Short description|Secret city in Tolkien's legendarium}}\n{{For|the South African fossil site|Gondolin Cave}}\n{{good article}}\n{{Use British English|date=December 2022}}\n{{Use dmy dates|date=December 2022}}\n[[File:The Fall of Turgon's Tower.jpg|thumb|The fall of Turgon's Tower. Illustration by [[Tom Loback]]<!--recognised Tolkien artist-->, 2007 ]]\n\nIn J.R.R. [[Tolkien's legendarium]], '''Gondolin''' is a secret city of [[Elf (Middle-earth)|Elves]] in the [[First Age]] of [[Middle-earth]], and the greatest of their cities in [[Beleriand]]. The story of the [[The Fall of Gondolin|Fall of Gondolin]] tells of the arrival there of Tuor, a prince of [[Edain|Men]]; of the betrayal of the city to the Dark Lord [[Morgoth]] by the king's nephew, Maeglin; and of its subsequent siege and catastrophic destruction by Morgoth's armies. It also relates the flight of the fugitives to the [[Havens of Sirion]], the wedding of [[Tuor and Idril|Tuor and the Elf Idril]], and the childhood of their son [[Eärendil]].\n\nScholars have noted the presence of [[tank]]-like iron fighting machines in Morgoth's army in early versions of the story, written soon after Tolkien returned from the [[Battle of the Somme]]. They have likened the story of the Fall of Gondolin to the sack of [[Troy]] in [[ancient Greek literature]], or to [[Virgil]]'s ''[[Aeneid]]''; the role of Tuor's wife Idril has similarly been compared to that of [[Cassandra]] or [[Helen of Troy]] in accounts of the [[Trojan War]].\n\n== City ==\n\n=== Founding ===\n\n[[File:Sketch Map of Beleriand.svg|thumb|upright=1.75|Sketch map of [[Beleriand]] in the [[First Age]]. Gondolin (centre top) is encircled by mountains. ]]\n\nThe city of Gondolin{{efn|Tolkien explained its origin in his \"Name-list to \"The Fall of Gondolin\" thus: \"''Gondolin'' meaneth in [[Noldor|Gnomish]] 'stone of song' (whereby figuratively the Gnomes meant stone that was carven and wrought to great beauty)\".<ref group=\"T\">{{harvnb|Tolkien|1984b}} p. 216.</ref>}} in [[Beleriand]], in the extreme northwest of [[Middle-earth]], is founded with divine inspiration. The mightiest of the Elvish cities, it is hidden by mountains and endures for centuries before being betrayed and destroyed.<ref name=\"Tuor and the Fall of Gondolin\" group=\"T\"/>\n\n{{anchor|Turgon}}\nGondolin is founded by King Turgon<ref>See [[:Template:Half-elven family tree]] for Turgon's ancestry.</ref> in the [[First Age]]. According to ''[[The Silmarillion]]'', the [[Vala (Middle-earth)|Vala]] [[Ulmo]], the Lord of Waters, shows Turgon the Vale of Tumladen in a dream. Thus guided, Turgon travels from his kingdom in Nevrast and finds it. Within the Encircling Mountains is a round level plain surrounded by sheer walls; a ravine and tunnel, the Hidden Way, lead out to the southwest. In the middle of the vale is the steep Amon Gwareth, the \"Hill of Watch\". There Turgon decides to found a city, designed like the [[Noldor]] Elves' former city of Tirion in [[Valinor]]. Gondolin is built in secret. The Hidden Way is protected by seven gates, all constantly guarded; the first of wood, then stone, bronze, iron, silver, gold, and steel. After it is completed, he brings all his people from Nevrast to dwell in the hidden city—almost a third of the Noldor of [[Fingolfin]]'s House—and nearly three quarters of the northern [[Sindar]].<ref name=\"Tuor and the Fall of Gondolin\" group=\"T\"/>\n\n=== Customs ===\n\n{{see|List of weapons and armour in Middle-earth}}\n\n{{Quote box|\n |quote  = {{bracket|[[Elrond]]:}} They are old swords, very old swords of the High Elves of the West, my kin. They were made in Gondolin for the Goblin-wars. They must have come from a [[Dragon (Middle-earth)|dragon]]'s hoard or goblin plunder, for dragons and goblins destroyed that city many ages ago. This, [[Thorin Oakenshield|Thorin]], the runes name [[Orcrist]], the Goblin-cleaver in the ancient tongue of Gondolin; it was a famous blade. This, [[Gandalf]], was [[Glamdring]], Foe-hammer that the king of Gondolin once wore. Keep them well!\"<ref name=\"A Short Rest\" group=T>{{harvnb|Tolkien|1937|loc=''The Hobbit'', ch. 3 \"A Short Rest\"}}</ref>\n |author = [[J.R.R. Tolkien]]\n |source = ''[[The Hobbit]]''\n |width  = 40%\n |align  = right\n}}\n\nGondolin develops its own [[Sindarin]] dialect, containing regional elements and words adapted from another [[Elvish languages of Middle-earth|Elvish language]], [[Quenya]].{{efn|Tolkien stated that \"This differed from the standard {{bracket|[[Sindarin]]}} (of [[Doriath (Middle-earth)|Doriath]]) (a) in having Western and some Northern elements, and (b) in incorporating a good many Noldorin-[[Quenya]] words in more or less Sindarized forms. Thus the city was usually called ''Gondolin'' (from Q.'' Ondolin(dë)'') with simple replacement of ''g-'', not ''Goenlin'' or ''Goenglin'' [as it would have been in standard Sindarin]\".<ref name=\"WPP\" group=T/>}}<ref name=\"WPP\" group=T>''[[Parma Eldalamberon]] 17'', \"Words, Phrases and Passages\", p. 29</ref>\n\nThe Elven smiths of Gondolin make [[Named weapons in Middle-earth|powerful weapons]]. In ''[[The Hobbit]]'', the Gondolin-made swords [[Orcrist]], [[Glamdring]] and the dagger later named [[Sting (Middle-earth)|Sting]] are found in a [[Troll (Middle-earth)|Troll]]-hoard.<ref group=T>{{harvnb|Tolkien|1937}} ch. 3 \"A Short Rest\"</ref> Each of these weapons has the ability to reveal nearby Orcs by glowing; they terrify Orcs in battle.<ref name=\"Whetter McDonald 2006\">{{cite journal |last1=Whetter |first1=K. S. |last2=McDonald |first2=R. Andrew |year=2006 |title='In the Hilt is Fame': Resonances of Medieval Swords and Sword-lore in J.R.R. Tolkien's ''The Hobbit'' and ''The Lord of the Rings'' |url=https://dc.swosu.edu/mythlore/vol25/iss1/2 |journal=[[Mythlore]] |volume=25 |issue=1 |pages=19–20}}</ref>\n\nAccording to ''[[The Book of Lost Tales]]'', the city has seven names: \"’Tis said and ’tis sung: '''Gondobar''' am I called and '''Gondothlimbar''', City of Stone and City of the Dwellers in Stone; '''Gondolin''' the Stone of Song and '''Gwarestrin''' am I named, the Tower of the Guard, '''Gar Thurion''' or the Secret Place, for I am hidden from the eyes of Melko; but they who love me most greatly call me '''Loth''', for like a flower am I, even '''Lothengriol''' the flower that blooms on the plain.\"<ref group=T>{{harvnb|Tolkien|1984b}} p. 158</ref>\n\n=== Houses and heraldry ===\n\n{{multiple image\n|width=110\n|image1=House of the Harp.svg\n|caption1=Each House of Gondolin had its own emblem; in the House of the Harp, \"a harp of silver shone in their blazonry upon a field of black.\"<ref name=\"Fall of Gondolin\" group=T>{{harvnb|Tolkien|1984b|loc=\"The Fall of Gondolin\" pp. 172–174}}</ref>\n|image2=Bar-en-Alphram.svg\n|caption2=[[Tuor]]'s bodyguard \"wore wings as it were of swans or gulls upon their helms, and the emblem of the White Wing was upon their shields.\"<ref name=\"Fall of Gondolin\" group=T/>\n|image3=House of the Mole.svg\n|caption3=Maeglin's House of Moles wore plain black: \"Sable was their harness, and they bore no sign or emblem, but their round caps of steel were covered with moleskin.\"<ref name=\"Fall of Gondolin\" group=T/>\n}}\n\n{{main|Heraldry of Middle-earth#Houses of Gondolin}}\n\n''The Book of Lost Tales'' states that the active male Elves of Gondolin belong to one of the 11 \"Houses\" or ''Thlim'', plus the bodyguard of Tuor, accounted as the twelfth. Each house has a distinct symbol: a mole, a swallow, the heavens, a pillar, a tower of snow, a tree, a golden flower, a fountain, a harp, a hammer and anvil, and finally the triple symbol of the King, namely the moon, sun, and scarlet heart worn by the Royal Guard.<ref group=T>{{cite journal |last=Tolkien |first=J. R. R. |author-link=J. R. R. Tolkien |title=The Official Name List |journal=[[Parma Eldalamberon]] |issue=13 |pages=100–105}}</ref>\n\n=== Fall ===\n\n{{further|Tuor and Idril|The Fall of Gondolin}}\n{{anchor|Maeglin}}\n\nThe city stands for nearly 400 years until '''Maeglin''', Turgon's nephew, betrays it to [[Morgoth]]. Maeglin is captured while mining outside the Encircling Mountains, against Turgon's orders. Maeglin is promised Lordship as well as Turgon's daughter [[Tuor and Idril|Idril]], whom he had long coveted. The Dark Lord [[Morgoth]] sends an army over the Encircling Mountains during Gondolin's festival of The Gates of Summer, and sacks the city with relative ease. Morgoth's army consists of [[Orc (Middle-earth)|orcs]], [[Balrog]]s, [[Dragon (Middle-earth)|dragons]] and in early versions of the story iron machines powered by \"internal fires\". These are used to carry soldiers, to surmount difficult obstacles, and to defeat fortifications.<ref name=\"Garth 2003\"/> Idril, noted for her intuition, had prepared a secret route out of Gondolin prior to the siege.<ref>{{cite journal |last=Rawls |first=Melanie |year=1984 |title=The Feminine Principle in Tolkien |url=https://dc.swosu.edu/cgi/viewcontent.cgi?article=2031&context=mythlore |journal=[[Mythlore]] |volume=30 |issue=3–4 |pages=8}}</ref> While her father Turgon perishes as his tower is destroyed, Idril flees the city, defended by her husband Tuor, a prince of [[Edain|Men]].<ref name=\"Tuor and the Fall of Gondolin\" group=\"T\">{{harvnb|Tolkien|1977}}, Ch. 23, \"Of Tuor and the Fall of Gondolin\"</ref>\n\n== Analysis ==\n\n=== Classical ===\n\n{{further|Tolkien and the classical world}}\n\nTolkien scholars have compared the [[The Fall of Gondolin|fall of Gondolin]] to the sack of [[Troy]], noting that both cities were famed for their walls, and likening Tolkien's tale to Virgil's ''[[Aeneid]]''.  Both have [[frame story|frame stories]], situated long after the events they narrate; both have \"gods\" (Tolkien's Valar) in the action; and both involve an escape.<ref name=\"Bruce 2012\">{{cite journal |journal=[[Mythlore]] |first=Alexander M. |last=Bruce |year=2012 |volume=30 |issue=3–4 |title=The Fall of Gondolin and the Fall of Troy: Tolkien and Book II of the Aeneid |url=https://dc.swosu.edu/cgi/viewcontent.cgi?article=1128&context=mythlore }}</ref><ref name=\"Greenman 1992\">{{cite journal |last=Greenman |first=David |year=1992 |title=Aeneidic and Odyssean Patterns of Escape and Release in Tolkien's 'The Fall of Gondolin' and 'The Return of the King' |journal=[[Mythlore]] |volume=18 |issue=2 |at=Article 1 |url=https://dc.swosu.edu/mythlore/vol18/iss2/1}}</ref><ref name=\"Cristini 2022\">{{cite journal |last=Cristini |first=Marco |title=The Fall of Two Cities: Troy and Gondolin |journal=Thersites |year=2022 |volume=15 |doi=10.34679/THERSITES.VOL15.200 |pages=Vol. 15 (2022): There and Back Again: Tolkien and the Greco–Roman World (eds. Alicia Matz and Maciej Paprocki) |url=https://thersites-journal.de/index.php/thr/article/view/200}}</ref> David Greenman compares the actions of Tolkien's quest-heroes to those of [[Aeneas]] and [[Odysseus]].<ref name=\"Greenman 1992\" />\n\n{| class=\"wikitable\" style=\"margin:1em auto;\"\n|+ David Greenman's analysis of classical \"[[quest]]-hero\" themes<ref name=\"Greenman 1992\"/>\n|-\n! Event !! Classical quest-hero !! ''The Lord of the Rings'' protagonists\n|-\n| Escape from wreck of a kingdom, creation of a new one || [[Aeneas]], escaping the ruin of [[Troy]] || [[Tuor and Idril|Tuor]] in the [[The Fall of Gondolin|fall of Gondolin]]\n|-\n| Return to ravaged home, scour it clean || [[Odysseus]] on his long-delayed return to [[Ithaca (island)|Ithaca]] || The four [[Hobbit]]s in \"[[The Scouring of the Shire]]\"\n|}\n\nGreenman compares and contrasts [[Tuor and Idril|Idril]]'s part in the story to [[Cassandra]] and [[Helen of Troy]], two prominent female figures in accounts of the [[Trojan War]]: like the prophetess, Idril had a premonition of impending danger and like Helen, her beauty played a major role in instigating [[Maeglin]]'s betrayal of Gondolin, which ultimately led to its downfall and ruin. Conversely, Greenman notes that Idril's advice to enact a contingency plan for a secret escape route out of Gondolin was heeded by her people, unlike the warning of Cassandra; and that Idril had always rejected Maeglin's advances and remained faithful to Tuor, unlike Helen who left her husband King [[Menelaus]] of Sparta for Prince [[Paris (mythology)|Paris]] of Troy.<ref name=\"Greenman 1992\"/>\n\nAlexander Bruce writes that Tolkien's tale parallels Virgil's account, but varies the story. Thus, Morgoth attacks while Gondolin's guard is lowered during a great feast, whereas the Trojans were celebrating the Greeks' apparent retreat, with the additional note of treachery. The [[Trojan Horse]] carried the Greeks into Troy, where they set fire to it, paralleled by the fire-serpents which carried \"Balrogs in hundreds\" into Gondolin. Tolkien's serpents are matched by the great serpents with \"burning eyes, fiery and suffused with blood, their tongues a-flicker out of hissing maws\" which kill the high priest [[Laocoön]] and his sons. Aeneas and his wife Creusa become separated during their escape; her ghost pleads with him to leave when he searches for her, and he travels to Italy; in contrast, Tuor and Idril escape to Sirion together, eventually sailing from there to [[Valinor]].<ref name=\"Bruce 2012\"/> Marco Cristini adds that both cities are fatally attacked during a feast; their heroes both leave their wives to fight, and both see their kings die.<ref name=\"Cristini 2022\"/> Cristini comments further that \"The most evident analogy is perhaps the behaviour of Creusa and Idril, who clasp the knees of their husbands to prevent them from joining again the battle when all hope is lost.\"<ref name=\"Cristini 2022\"/><!--also <ref name=\"Greenman 1992\"/>--> Scholars have noted that Tolkien himself drew classical parallels for the assault, writing that \"Nor [[Babylon|Bablon]], nor [[Nineveh|Ninwi]], nor the towers of [[Troy|Trui]], nor all the many takings of [[Rome|Rûm]] that is greatest among Men, saw such terror as fell that day upon Amon Gwareth\".<ref name=\"Bruce 2012\"/><ref name=\"Cristini 2022\"/>\n\nTolkien appears to have based one scene on another classical source, [[Euripides]]' play ''[[The Trojan Women]]''. Maeglin tries to throw Idril's son [[Eärendil and Elwing|Eärendil]] from the city wall, just as [[Hector]]'s son [[Astyanax]] is thrown down from Troy's walls. Tolkien changes the outcome: Eärendil resists, and Tuor appears just in time to rescue him by throwing Maeglin from the walls instead.<ref name=\"Bruce 2012\"/><ref name=\"Greenman 1992\"/>\n\n<gallery class=center mode=nolines heights=225 widths=250>\nFile:Laocoön and his sons group.jpg|Tolkien's fire-serpents are paralleled by [[Virgil]]'s great serpents that kill the Trojan priest [[Laocoön and His Sons]]<br/>in the fall of [[Troy]].<ref name=\"Bruce 2012\"/>\nFile:Astianax.jpg|Maeglin's failed attempt to throw [[Eärendil and Elwing|Eärendil]] from the city walls contrasts with [[Euripides]]' account of the throwing of the young [[Astyanax]] from the walls of Troy.<ref name=\"Bruce 2012\"/>\n</gallery>\n\n=== British heraldry ===\n\nThe scholar of heraldry Cătălin Hriban writes that the emblems of the houses of Gondolin are simple and figurative, depicting familiar real-world objects. He notes that standard British texts on heraldry describe similar devices. He comments that Maeglin the traitor, of the House of Moles, fittingly has the colour black; like the animal, his people are miners, used to living underground in the dark.<ref>{{cite journal |last=Hriban |first=Cătălin |year=2011 |title=The Eye and the Tree. The Semantics of Middle-earth Heraldry |url=https://www.academia.edu/4334565 |journal=Hither Shore |volume=8 |pages=200–202}}</ref>\n\n=== Tolkien's wartime experience ===\n\n{{further|The Great War and Middle-earth}}\n\nIn his book ''[[Tolkien and the Great War]]'', [[John Garth (author)|John Garth]] states that Tolkien wrote his 1917 story \"The Fall of Gondolin\" in hospital after returning to England from the [[Battle of the Somme]]. In his view, the tale's first half seems to reflect Tolkien's \"slow acceptance of duty\" at the start of the war, while the second half \"surely reverberates to his collision with war itself.\"<ref name=\"Garth 2003\">{{cite book |last=Garth |first=John |title=Tolkien and the Great War: The Threshold of Middle-earth |title-link=Tolkien and the Great War |publisher=[[HarperCollins]] |year=2003 |isbn=978-0-00711-953-0 |pages=214, 217, 220–221 |chapter=Castles in the air |author-link=John Garth (author) |chapter-url=https://books.google.com/books?id=rMiUN8qeOBoC&pg=PA214}}</ref>\n\n[[File:British Mark I male tank Somme 25 September 1916.jpg|thumb|\"Beasts like snakes and dragons of irresistible might\":<ref name=\"Garth 2003\"/> a British [[Mark I tank]] near [[Thiepval]] where <!--2 days later-->Tolkien fought on the Somme in September 1916]]\n\nTo defeat Gondolin, Melkor (at first called Melko) uses monsters, Orcs and Balrogs, supported by \"beasts like snakes and dragons of irresistible might that should overcreep the Encircling Hills and lap that plain and its fair city in flame and death\". The monstrous beasts are not of flesh and blood, but are made by \"smiths and sorcerers\". There are three kinds, Garth explains: heavy, slow, bronze dragons that can break gaps in Gondolin's walls; fiery monsters, unable to climb the steep smooth hill on which the city sits; and iron dragons in which Orc-soldiers can ride, and which travel on \"[[Continuous track|iron so cunningly linked]] that they might flow ... around and above all obstacles\", and are armoured so that they clang hollowly when bombarded or attacked with fire. Garth comments that these are not so much like mythical dragons as \"the tanks of the Somme\", and that to the story's Elf-narrator, a combustion engine would look like \"a metal heart filled with flame\".<ref name=\"Garth 2003\"/> [[Anthony Appleyard]] similarly likens the mechanical dragons to vehicles driven by [[internal combustion engine]]s.<ref name=\"Appleyard 1996\">{{cite journal |last=Appleyard |first=Anthony |author-link=Anthony Appleyard |title=Tolkien and Space Travel |journal=[[Mallorn (journal)|Mallorn]] |date=December 1996 |issue=34 |pages=21–24 |jstor=45321694}}</ref>\n\n== Notes ==\n\n{{notelist}}\n\n== References ==\n\n=== Primary ===\n\n{{reflist|group=T|28em}}\n\n=== Secondary ===\n\n{{reflist|28em}}\n\n=== Sources ===\n\n* {{ME-ref|TH}}    <!--Tolkien 1937-->\n* {{ME-ref|Silm}}  <!--Tolkien 1977-->\n* {{ME-ref|BoLT2}} <!--Tolkien 1984b-->\n\n[[Category:Fictional populated places]]\n[[Category:Middle-earth populated places]]\n[[Category:Middle-earth realms]]",
+  "redirect_chain": [],
+  "revision_id": 1337576954,
+  "revision_timestamp": "2026-02-10T08:09:17Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "City",
+        "Founding"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "City",
+        "Founding"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "City",
+        "Customs"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "City",
+        "Customs"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "City",
+        "Customs"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "City",
+        "Customs"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "City",
+        "Customs"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "City",
+        "Houses and heraldry"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "City",
+        "Houses and heraldry"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "City",
+        "Houses and heraldry"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "City",
+        "Fall"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "City",
+        "Fall"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Classical"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Classical"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Classical"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: table",
+      "structure_type": "table"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "British heraldry"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Tolkien's wartime experience"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Tolkien's wartime experience"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Tolkien's wartime experience"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Notes"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

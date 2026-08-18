@@ -1,0 +1,511 @@
+{
+  "article_artifact_id": "article_0a02fddd39683d94fa45031d0ff90f6c7c8f7950d6675eba9b1bc1c0d43aa854",
+  "canonical_title": "Valinor",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_0a02fddd39683d94fa45031d0ff90f6c7c8f7950d6675eba9b1bc1c0d43aa854",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Tolkien's myth of the attempt of Númenor to capture Aman has been likened to the biblical Tower of Babel and the ancient Greek Atlantis, and the resulting destruction in both cases. They note, too, that a mortal's stay in Valinor is only temporary, not conferring immortality, just as, in medieval Christian theology, the Earthly Paradise is only a preparation for the Celestial Paradise that is above.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_2211c13a845186a52b2cd8fda03e0238026f04aabf9c18ac242ca31c86ee6d0f",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a02fddd39683d94fa45031d0ff90f6c7c8f7950d6675eba9b1bc1c0d43aa854",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Others have compared the account of the beautiful Elvish part of the Undying Lands to the place dreamed of in the Middle English poem Pearl, and stated that the closest literary equivalents of Tolkien's descriptions of these lands are the imrama Celtic tales such as those about Saint Brendan from the early Middle Ages. The Christian theme of good and light (from Valinor) opposing evil and dark (from Mordor) has also been discussed.",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_bec7795ae7a5baec3829fb8e895af4c6666c1903c622f6e0a54f9c6461769405",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a02fddd39683d94fa45031d0ff90f6c7c8f7950d6675eba9b1bc1c0d43aa854",
+      "heading_path": [
+        "Geography"
+      ],
+      "normalized_text": "thumb|upright=1.35|Map of Valinor, the Blessed Realm, in the continent of Aman, on Arda",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_f427d102b49f6e4cb0d78313a88d7808cc971f534986ab7eeebbe9b069360376",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a02fddd39683d94fa45031d0ff90f6c7c8f7950d6675eba9b1bc1c0d43aa854",
+      "heading_path": [
+        "History",
+        "Years of the Trees"
+      ],
+      "normalized_text": "thumb|upright=2|Valinor in the Years of the Trees, lit by the Two Trees; the rest of Arda, including Middle-earth, lay in darkness. The outlines of the continents are purely schematic.",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_95388ec531bf3098ea020badebddd7d5843073cf034cc591196fe9ce2514c812",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_0a02fddd39683d94fa45031d0ff90f6c7c8f7950d6675eba9b1bc1c0d43aa854",
+      "heading_path": [
+        "History",
+        "The Hiding of Valinor"
+      ],
+      "normalized_text": "The Valar manage to save one last luminous flower from one of the Two Trees, Telperion, and one last luminous fruit from the other, Laurelin. These become the Moon and the Sun. The Valar carry out further titanic labours to improve the defences of Valinor. They raise the Pelóri mountains to even greater and sheerer heights. Off the coast, eastwards of Tol Eressëa, they create the Shadowy Seas and their Enchanted Isles; both the Seas and the Isles present numerous perils to anyone attempting to get to Valinor by sea.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_3ced6bf6edc872b664c154ddec78e7689470e38498cf9afdf16ea5acdefa7fc6",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Valinor&action=history",
+  "namespace": 0,
+  "page_id": 65282,
+  "parent_revision_id": 1356328861,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1356688820",
+  "raw_wikitext": "{{good article}}\n{{short description|Fictional location in J. R. R. Tolkien's legendarium}}\n{{Use British English|date=May 2022}}\n{{Infobox fictional location\n| name         = Valinor\n| series       = [[Tolkien's legendarium]]\n| creator      = [[J. R. R. Tolkien]]\n| first        = ''[[The Lord of the Rings]]''\n| ruler        = [[Manwë (Middle-earth)|Manwë]]\n| people       = [[Vala (Middle-earth)|Valar]], [[Maia (Middle-earth)|Maiar]], [[Sundering of the Elves|Elves]]\n| alt_name     = The Undying Lands, The Blessed Realm, The Uttermost West, Faerie, Aman\n| type         = Continent\n| blank_label  = Location\n| blank_data   = On the west of [[Belegaer|The Great Sea]], far to the West of [[Middle-earth]]\n}}\n'''Valinor''' ([[Quenya]]'': Land of the Valar''), the '''Blessed Realm''', or the '''Undying Lands''' is a [[fictional location]] in [[J. R. R. Tolkien]]'s [[legendarium]], the home of the immortal [[Vala (Middle-earth)|Valar]] and [[Maia (Middle-earth)|Maiar]] on the continent of '''Aman''', far to the west of [[Middle-earth]]; he used the name Aman mainly to mean Valinor. It includes '''Eldamar''', the land of the [[Elves (Middle-Earth)|Elves]], who as immortals are permitted to live in Valinor.\n\nThe name \"the Undying Lands\" does not mean that the land itself causes mortals to live forever.<ref group=T>{{harvnb|Carpenter|2023|loc=#156 to Father R. Murray, SJ, November 1954 }}</ref> Generally, only immortal beings are allowed to reside there. Exceptions are made for the surviving bearers of the [[One Ring]]: [[Bilbo Baggins|Bilbo]] and [[Frodo Baggins]] and [[Sam Gamgee]], who dwell there for a time, and the dwarf [[Gimli (Middle-earth)|Gimli]].<ref group=T>{{harvnb|Tolkien|1955}}, \"The Grey Havens\", and Appendix B, entry for S.R. 1482 and 1541.</ref><ref group=T>{{harvnb|Carpenter|2023|loc=#249 to [[Tolkien family#Michael George R. Tolkien|Michael Tolkien]], October 1963 }}</ref>\n\nTolkien's myth of the attempt of [[Númenor]] to capture Aman has been likened to the biblical [[Tower of Babel]] and the [[Ancient Greece|ancient Greek]] [[Atlantis]], and the resulting destruction in both cases. They note, too, that a mortal's stay in Valinor is only temporary, not conferring immortality, just as, in medieval Christian theology, the [[Earthly Paradise]] is only a preparation for the [[Paradise|Celestial Paradise]] that is above.\n\nOthers have compared the account of the beautiful Elvish part of the Undying Lands to the place dreamed of in the [[Middle English]] poem ''[[Pearl (poem)|Pearl]]'', and stated that the closest literary equivalents of Tolkien's descriptions of these lands are the ''[[Immram|imrama]]'' Celtic tales such as those about [[Saint Brendan]] from the early [[Middle Ages]]. The [[Christianity|Christian]] theme of good and light (from Valinor) opposing [[Evil in Middle-earth|evil]] and dark (from [[Mordor]]) has also been discussed.\n\n== Geography ==\n\n[[File:Valinor.svg|thumb|upright=1.35|Map of Valinor, the Blessed Realm, in the continent of Aman, on [[Arda (Middle-earth)|Arda]] ]]\n\n=== Physical ===\n\nValinor lies in Aman (\"Unmarred\"{{sfn|Fauskanger|2022}}), a continent on the west of [[Belegaer]], the ocean to the west of [[Middle-earth]].{{sfn|Oberhelman|2013}} [[Ekkaia]], the encircling sea, surrounds both Aman and Middle-earth. Tolkien wrote that the name \"Aman\" was \"chiefly used as the name of the land in which the Valar dwelt\".<ref group=T>{{harvnb|Tolkien|1994|loc=\"Quendi and Eldar\"}}</ref> The Pelóri<!--redirects here--> mountains run along the east coast; their highest peak is Taniquetil.<ref name=\"Of Eldamar and the Princes of the Eldalië\" group=T/> Tolkien created no detailed maps of Aman; those drawn by [[Karen Wynn Fonstad]], based on Tolkien's rough sketch of [[Arda (Tolkien)|Arda]]'s landmasses and seas, show Valinor about {{convert|700|mi}} wide, west to east (from the Great Sea to the Outer Sea), and about {{convert|3000|mi}} long north to south. The continent of Aman extends from the Arctic latitudes of the Helcaraxë<!--redirects here--> to the subpolar southern region of Arda – about {{convert|7000|mi}}.{{sfn|Fonstad|1991|pp=1–4 Aman, 6–7 Valinor}}\n\n{{anchor|Eldamar}}\n''Eldamar'' is \"Elvenhome\", the \"coastal region of Aman, settled by the Elves\", wrote Tolkien.<ref group=T>Kept in a folder labelled \"Phan, Mbar, Bal and other Elvish etymologies\", published in ''[[Parma Eldalamberon]]'', 17.</ref>{{sfn|Tyler|2002|pp=307–308}} Eldamar was the true Eldarin name of Aman.<ref group=T>''[[Parma Eldalamberon]]'', 17, p. 106.</ref> In ''[[The Hobbit]]'' it is named \"Faerie\". The land is well-wooded, as [[Finrod]] \"walk[ed] with his father under the trees in Eldamar\" and the [[Teleri]] Elves have timber to build their ships. The city of the Teleri, on the north shore of the Bay, is Alqualondë, the Haven of the Swans, whose halls and mansions are made of pearl. The harbour is entered through a natural arch of rock, and the beaches are strewn with gems given by the [[Noldor]] Elves.<ref name=\"Of the Flight of the Noldor\" group=T>{{harvnb|Tolkien|1977|loc=ch. 9 \"Of the Flight of the Noldor\"}}</ref> In the bay is the island of Tol Eressëa.<ref name=\"Of Eldamar and the Princes of the Eldalië\" group=T/>\n\n{{anchor|Calacirya}}\n''Calacirya'' ([[Quenya]]: \"Light Cleft\", for the light of the [[Two Trees]] that streams through the pass into the world beyond) is the pass in the Pelóri mountains where the Elven city Tirion is set. It is close to the Girdle of Arda (the [[Equator]]).{{sfn|Fonstad|1991|pp=1–4 Aman, 6–7 Valinor}} After the hiding of Valinor, this is the only gap through the mountains of Aman.<ref name=\"Of Eldamar and the Princes of the Eldalië\" group=T>{{harvnb|Tolkien|1977|loc=ch. 5 \"Of Eldamar and the Princes of the Eldalië\"}}</ref>\n\n{{anchor|Enchanted Isles|Magic Isles}}\nIn the extreme north-east, beyond the Pelóri, is the Helcaraxë, a vast ice sheet that joins the two continents of Aman and Middle-earth before the War of Wrath.<ref name=\"Of the Coming of the Elves and the Captivity of Melkor\" group=T>{{harvnb|Tolkien|1977|loc=ch. 3 \"Of the Coming of the Elves and the Captivity of Melkor\"}}</ref> \nTo prevent anyone from reaching the main part of Valinor's east coast by sea, the Valar create the Shadowy Seas, and within these seas they set a long chain of islands called the Enchanted Isles.<ref name=\"Of the Sun and Moon and the Hiding of Valinor\" group=T>{{harvnb|Tolkien|1977|loc=ch. 11 \"Of the Sun and Moon and the Hiding of Valinor\"}}</ref>{{sfn|Fonstad|1991|p=38}}\n\n{{anchor|Valar|Halls of Mandos}}\n\n=== Political ===\n\n{{main|Valar}}\n\nValinor is the home of the [[Valar]] (singular Vala), spirits that often take humanoid form, sometimes called \"gods\" by the [[Man (Middle-earth)|Men]] of Middle-earth.<ref name=\"Valaquenta\" group=T>{{harvnb|Tolkien|1977}}, \"Valaquenta\"</ref> Other residents of Valinor include the related but less powerful spirits, the [[Maia (Middle-earth)|Maiar]], and most of the Elves.<ref name=\"Of the Beginning of Days\" group=T>{{harvnb|Tolkien|1977}}, ch. 1 \"Of the Beginning of Days\"</ref>\n\nEach Vala has his or her own region of the land. The Mansions of Manwë and Varda, two of the most powerful spirits, stand upon the top of Taniquetil.<ref name=\"Valaquenta\" group=T/> Yavanna, the Vala of Earth, Growth, and Harvest, resides in the Pastures of Yavanna in the south of the land, west of the Pelóri. Nearby are the mansions of Yavanna's spouse, Aulë the Smith.<!--<ref name=\"Of Aulë and Yavanna\" group=T>{{harvnb|Tolkien|1977|loc=ch. 2 \"Of Aulë and Yavanna\"}}</ref>--> Oromë, the Vala of the Hunt, lives in the Woods of Oromë to the north-east of the pastures. Nienna lives in the far west of the island. Just south of Nienna's home, and to the north of the pastures, are the Halls of Mandos<!--redirects here-->; he lives with his spouse Vairë the weaver. To the east of the Halls of Mandos is the Isle of Estë, in the lake of Lórellin<ref name=\"Valaquenta\" group=T/> within the Gardens of Lórien.{{sfn|Fonstad|1991|pp=1–4 Aman, 6–7 Valinor}}\n\nIn east-central Valinor, at the Girdle of Arda, is Valmar, the capital of Valinor (also called Valimar, the City of Bells), the residence of the Valar and the Maiar in Valinor. The first house of the Elves, the [[Vanyar]], settles there as well. The mound of Ezellohar, on which stand the [[Two Trees of Valinor|Two Trees]], and Máhanaxar, the Ring of Doom, are outside Valmar.<ref name=\"Of the Beginning of Days\" group=T/> Farther east is the Calacirya, the only easy pass through the Pelóri, a huge mountain range fencing Valinor on three sides, created to keep [[Morgoth]]'s forces out. The city of the Noldor (and for a time the Vanyar Elves also) is Tirion, built on the hill of Túna, inside the Calacirya mountain pass; it is just north of Taniquetil, facing both the Two Trees and the starlit seas.<ref name=\"Of Eldamar and the Princes of the Eldalië\" group=T/>{{sfn|Fonstad|1991|pp=1–4 Aman, 6–7 Valinor}}\n\nIn the northern inner foothills of the Pelóri, far to the north of Valmar, is [[Fëanor]]'s city of Formenos, built after his banishment from Tirion.<ref name=\"Of the Silmarils and the Unrest of the Noldor\" group=T>{{harvnb|Tolkien|1977|loc=ch. 7 \"Of the Silmarils and the Unrest of the Noldor\"}}</ref>\n\n==History==\n{{further|Cosmology of Middle-earth|History of Arda}}\n\n===Years of the Trees===\n\n[[File:Arda in the Years of the Trees.svg|thumb|upright=2|Valinor in the Years of the Trees, lit by the [[Two Trees of Valinor|Two Trees]]; the rest of Arda, including [[Middle-earth]], lay in darkness. The outlines of the continents are purely schematic.]]\n\n{{further|Two Trees of Valinor}}\n\nValinor is first established on the western continent Aman when Melkor (a Vala later named Morgoth, \"the black foe\", by the Elves) destroys the Valar's original home on the island Almaren in primeval Middle-earth, ending the [[Years of the Lamps]].<ref name=\"Of the Beginning of Days\" group=T/> To defend their new home from attack, they raise the Pelóri Mountains.<ref name=\"Of the Beginning of Days\" group=T/> They also establish Valimar, the future dwelling place of many of Aman’s Elven residents, such as the Vanyar,  a more major the radiant Two Trees, and their dwelling-places.<ref name=\"Of the Beginning of Days\" group=T/><ref name=\"Of Aulë and Yavanna\" group=T>{{harvnb|Tolkien|1977|loc=ch. 2 \"Of Aulë and Yavanna\"}}</ref> Valinor is said to surpass Almaren in beauty.<ref name=\"Of the Beginning of Days\" group=T/> Later, the Valar hear of the [[Elf (Middle-earth)#Origins|awakening of the Elves]] in Middle-earth, where Melkor is unopposed. They propose to bring the Elves to the safety of Valinor, but to do that, they need to get Melkor out of the way. A war is fought, and Melkor's stronghold Utumno is destroyed. Then, many Elves come to Valinor, and establish their cities Tirion and Alqualondë, beginning Valinor's age of glory. Melkor comes back to Valinor as a prisoner, and after three Ages is brought before the Valar; he sues for pardon, vowing to assist the Valar and make amends for the hurts he has done. Manwë grants him pardon, but confines him within Valmar to remain under watch.<ref name=\"Of the Coming of the Elves and the Captivity of Melkor\" group=T/> After his release, Melkor starts planting seeds of dissent in the minds of the Elves, including between Fëanor and his brothers [[Fingolfin]] and Finarfin. Fëanor uses some of the light of the Two Trees to forge the three [[Silmarils]], beautiful, unmarrable, and irreplaceable jewels.<ref name=\"Of the Silmarils and the Unrest of the Noldor\" group=T/>\n\n=== The Darkening of Valinor===\n\nBelatedly, the Valar learn what [[Melkor]] has done. Knowing that he is discovered, Melkor goes to the home of the Noldor's High King [[Finwë]], kills him and steals the Silmarils. He then destroys the Two Trees with the help of [[Ungoliant]], plunging Valinor into darkness, the Long Night, relieved only by stars. Melkor and Ungoliant flee to Middle-earth.<ref name=\"Of the Darkening of Valinor\" group=T>{{harvnb|Tolkien|1977}},  ch. 8 \"Of the Darkening of Valinor\"</ref>\n\n===The Hiding of Valinor===\n[[File:Downfall of Númenor.svg|thumb|upright=2.5|The Downfall of [[Númenor]] and the Changing of the World.{{sfn|Shippey |2005|pp=324–328}} The outlines of the continents are purely schematic.]]\n\nThe Valar manage to save one last luminous flower from one of the Two Trees, Telperion, and one last luminous fruit from the other, Laurelin. These become the Moon and the Sun. The Valar carry out further titanic labours to improve the defences of Valinor. They raise the Pelóri mountains to even greater and sheerer heights. Off the coast, eastwards of Tol Eressëa, they create the Shadowy Seas and their Enchanted Isles; both the Seas and the Isles present numerous perils to anyone attempting to get to Valinor by sea.<ref name=\"Of the Sun and Moon and the Hiding of Valinor\" group=T/>\n\n=== Later history ===\n\nFor centuries, Valinor took no part in the struggles between the Noldor and Morgoth in Middle-earth. But near the end of the [[First Age]], when the Noldor are in total defeat, the mariner [[Eärendil]] convinces the Valar to make a last attack on Morgoth. A mighty host of Maiar, Vanyar and the remaining Noldor in Valinor destroy Morgoth's gigantic army and his stronghold [[Angband (Middle-earth)|Angband]], and cast Morgoth into the void.<ref name=\"Of the Voyage of Eärendil and the War of Wrath\" group=T>{{harvnb|Tolkien|1977}}, ch. 24 \"Of the Voyage of Eärendil and the War of Wrath\"</ref>\n\nDuring the [[Second Age]], the Valar create the island of [[Númenor]] as a reward to the [[Edain]], Men who had fought alongside the Noldor. Centuries later the kingdom of Númenor grows so powerful and so arrogant that Ar-Pharazôn, the twenty-fifth and last king, dares to attempt an invasion of Valinor. When the creator [[Eru Ilúvatar]] responds to the call of the Valar, Númenor sinks into the sea, and Aman is removed beyond the reach of the Men of Arda. Arda itself becomes spherical, and is left for Men to govern. The Elves can go to Valinor only by the [[Straight Road]] and in ships capable of passing out of the spheres of the earth.<ref name=\"Akallabêth\" group=T>{{harvnb|Tolkien|1977}}, \"Akallabêth\"</ref>{{sfn|Shippey|2005|pp=324–328}}\n\n== Analysis ==\n\n=== Paradise ===\n\n{{further|Death and immortality in Middle-earth|Cosmology of Tolkien's legendarium}}\n\n[[File:Pearl Poet.jpg|thumb|upright|[[Earthly Paradise]]: Eldamar has been compared to the place dreamed of in the [[Middle English]] poem ''[[Pearl (poem)|Pearl]]''.{{sfn|Drout|2007}} Miniature from [[Pearl Manuscript|Cotton Nero A.x]] shows the Dreamer on the other side of the stream from the Pearl-maiden.]]\n\nKeith Kelly and Michael Livingston, writing in ''[[Mythlore]]'', note that [[Frodo Baggins|Frodo]]'s final destination, mentioned at the end of ''[[The Lord of the Rings]]'', is Aman, the Undying Lands. In Tolkien's mythology, they write, the islands of Aman are initially just the dwelling-places of the Valar (in the Ages of the Trees, while the rest of the world lies in darkness). The Valar help The One, [[Eru Ilúvatar]], to create the world. Gradually some of the immortal and ageless Elves are allowed to live there as well, sailing across the ocean to the West. After the fall of Númenor and the reshaping of the world, Aman becomes the place \"''between'' (sic) Over-heaven and Middle-earth\".{{sfn|Kelly|Livingston|2009}} It is accessible only in special circumstances like Frodo's, allowed to come to Aman through the offices of the Valar and of Gandalf, one of the Valar's emissaries, the [[Istari]] or Wizards. However, Aman is not, they write, exactly [[paradise]]. Firstly, being there does not confer immortality, contrary to what the Númenóreans supposed. Secondly, those mortals like Frodo who are allowed to go there will eventually choose to die. They note that in another of Tolkien's writings, \"[[Leaf by Niggle]]\", understood to be a journey through [[Purgatory]] (the Catholic precursor stage to paradise), Tolkien avoids describing paradise at all. They suggest that to the Catholic Tolkien, it is impossible to describe Heaven, and it might be sacrilege to make the attempt.{{sfn|Kelly|Livingston|2009}} The Tolkien scholar [[Michael D. C. Drout]] comments that Tolkien's accounts of Eldamar \"give us a good idea of his conceptions of absolute [[beauty]]\".{{sfn|Drout|2007}} He notes that these resemble the paradise described in the [[Middle English]] poem ''[[Pearl (poem)|Pearl]]''.{{sfn|Drout|2007}}\n\n{| class=\"wikitable\" style=\"margin-left: auto; margin-right: auto; border: none;\"\n|+ Cosmogonies of Tolkien, Catholicism, and Medieval poetry{{sfn|Drout|2007}}{{sfn|Kelly|Livingston|2009}}\n! Tolkien !! [[Catholicism]] !! ''[[Pearl (poem)|Pearl]]'', [[Paradiso|Dante's ''Paradiso'']]\n|-\n| \"that which is beyond Elvenhome and will ever be\"<ref group=T>{{harvnb|Tolkien|1955}}, book 6, ch. 4 \"The Field of Cormallen\"</ref> || [[Heaven]] || [[Paradise|Celestial Paradise]], \"beyond\"\n|-\n| Undying lands of Aman, Elvenhome in Valinor || [[Purgatory]] || [[Earthly Paradise|Earthly Paradise, Garden of Eden]]\n|-\n| [[Middle-earth]] || [[Earth]] || [[Earth]] \n|}\n\nThe Tolkien scholar [[Tom Shippey]] adds that in 1927 Tolkien wrote a poem, ''The Nameless Land'', in the complex stanza-form of ''Pearl''. It spoke of a land further away than paradise, and more beautiful than the Irish [[Tír na nÓg]], the deathless otherworld.{{sfn|Shippey|2005|pp=324–328}} Kelly and Livingston similarly draw on ''Pearl'', noting that it states that \"fair as was the hither shore, far lovelier was the further land\"{{sfn|Kelly|Livingston|2009}} where the Dreamer could not pass. So, they write, each stage looks like paradise, until the traveller realises that beyond it lies something even more paradisiacal, glimpsed and beyond description. The Earthly Paradise can be described; Aman, the Undying Lands, can thus be compared to the [[Garden of Eden]], the paradise that the Bible says once existed upon Earth before the [[Fall of Man]]. The Celestial Paradise of Tolkien's \"Leaf by Niggle\" lies \"beyond (or above)\", as it does, they note, in [[Dante]]'s ''[[Paradiso]]''.{{sfn|Kelly|Livingston|2009}} [[Matthew T. Dickerson|Matthew Dickerson]] notes that Valinor resembles the [[Garden of Eden]] in having two trees.{{sfn|Dickerson|2007}}\n\n[[File:Fates of Elves and Men.svg|thumb|center|upright=3|Fates of Elves and Men in [[Tolkien's legendarium]]. Elves are immortal but can be killed in battle, in which case they go to the [[Halls of Mandos]] in Aman. They may be restored by the Will of the [[Valar in Middle-earth|Valar]], and then go to live with the Valar in Valinor, like an [[Earthly Paradise]], though just being in the place does not confer immortality.{{sfn|Shippey|2005|pp=269-272}}{{sfn|Drout|2007}}{{sfn|Kelly|Livingston|2009}} Men are mortal, and when they die they go beyond the circles of the world, even the Elves not knowing where that might be.]]\n\n=== Good against evil ===\n\n{{further|Christianity in Middle-earth#Light}}\n\nThe scholar of English literature [[Marjorie Burns]] writes that one of the female Vala, Varda (Elbereth to the Elves) is sung to by the Elf-queen of Middle-earth [[Galadriel]]. Burns notes that Varda \"sits far off in Valinor on Oiolossë\",{{sfn|Burns|2005|pp=152–154}} looking from her mountain-peak tower in Aman towards Middle-earth and the [[Barad-dûr|Dark Tower]] of [[Sauron]] in [[Mordor]]: she notes [[Timothy O'Neill (camoufleur)|Timothy O'Neill]]'s view that the white benevolent feminine symbol opposes the evil masculine symbol. Further, Burns suggests, Galadriel is an Elf from Valinor \"in the Blessed Realm\",{{sfn|Burns|2005|pp=152–154}} bringing Varda's influence with her to Middle-earth. This is seen in the phial of light that she gives to [[Frodo Baggins|Frodo]], and that [[Sam Gamgee|Sam]] uses to defeat the evil giant spider [[Shelob]]: Sam invokes Elbereth when he uses the phial. Burns comments that Sam's request to the \"Lady\" sounds distinctly [[Roman Catholic|Catholic]], and that the \"female principle, embodied in Varda of Valinor and Galadriel of Middle-earth, most clearly represents the charitable Christian heart.\"{{sfn|Burns|2005|pp=152–154}}\n\n=== Original sin ===\n\n[[File:2017 Notre-Dame de Paris P52.jpg|thumb|The strife among the Elves and their resulting exit from Valinor has been compared to the Biblical [[fall of man]].<ref name=\"Letter 131\" group=T/>{{sfn|Gallant|2014|pp=109–129}} The [[Serpent (Bible)|serpent]] tempts [[Adam (Bible)|Adam]] and [[Eve]] to eat the forbidden fruit, [[Notre Dame de Paris]]]]\n\nThe scholar of literature Richard Z. Gallant comments that while Tolkien [[Paganism in Middle-earth|made use of pagan]] Germanic heroism in his legendarium, and admired its [[Northern courage in Middle-earth|Northern courage]], he disliked its emphasis on \"overmastering pride\". This created a conflict in his writing. The pride of the Elves in Valinor resulted in a fall, analogous to the biblical [[fall of man]]. Tolkien described this by saying \"The first fruit of their fall was in Paradise [Valinor], the slaying of Elves by Elves\"; Gallant interprets this as an allusion to the fruit of the biblical [[tree of the knowledge of good and evil]] and the resulting exit from the Garden of Eden.<ref name=\"Letter 131\" group=T>{{harvnb|Carpenter|2023|loc=#131 to [[Milton Waldman]], late 1951 }}</ref>{{sfn|Gallant|2014|pp=109–129}} The leading prideful elf is Fëanor, whose actions, Gallant writes, set off the whole dark narrative of strife among the Elves described in ''The Silmarillion''; the Elves fight and leave Valinor for Middle-earth.{{sfn|Gallant|2014|pp=109–129}}\n\n=== ''Beowulf'' ===\n\n{{further|Old Straight Road}}\n\nThe passage at the start of the [[Old English]] poem ''[[Beowulf]]'' about [[Scyld Scefing]] contains a cryptic mention of ''þā'' (\"those\") who have sent Scyld as a baby in a boat, presumably from across the sea, and to whom Scyld's body is returned in a [[ship burial|ship funeral]], the vessel sailing by itself. Shippey suggests that Tolkien may have seen in this both an implication of a Valar-like group who behave much like gods, and a glimmer of his [[Old Straight Road]], the way across the sea to Valinor forever closed to mortal Men by the remaking of the world after Númenor's attack on Valinor.{{sfn|Shippey|2022|pp=166–180}}\n\n=== Lost home ===\n\n{{further|Decline and fall in Middle-earth}}\n\nPhillip Joe Fitzsimmons compares ''The Silmarillion's'' faraway Valinor, forbidden to Men and lost to the Elves, though it constantly calls to them to return, to Tolkien's fellow-[[The Inklings|Inkling]], [[Owen Barfield]]'s \"lost home\". Barfield writes of the loss of \"an Edenic relationship with nature\", part of his theory that man's purpose is to serve as \"the Earth's self-consciousness\".{{sfn|Fitzsimmons|2016|pp=1–8}} Barfield argued that rationalism creates individualism, \"unhappy isolation ... [and] the loss of a mutual relationship with nature.\"{{sfn|Fitzsimmons|2016|pp=1–8}} Further, Barfield believed that ancient civilisations, as recorded in their languages, had a connection to and inner experience of nature, so that the modern situation represents a loss of that state of grace. Fitzsimmons states that the lost home motif recurs throughout Tolkien's writings. He does not suggest that Barfield influenced Tolkien<!--cf Lewis's \"bandersnatch\" ... nobody did that-->, but that the ideas of the two men grew from \"the same time, place, and even social circle\".{{sfn|Fitzsimmons|2016|pp=1–8}}\n\n=== Atlantis, Babel ===\n\n{{further|Tolkien and the classical world}}\n\nKelly and Livingston state that while Aman could be home to Elves as well as Valar, the same was not true of mortal Men. The \"prideful\"{{sfn|Kelly|Livingston|2009}} Men of Númenor, imagining they could acquire immortality by capturing the physical lands of Aman, were punished by the destruction of their own island, which is engulfed by the sea, and the permanent removal of Aman \"from the circles of the world\".{{sfn|Kelly|Livingston|2009}} Kelly and Livingston note the similarity to the [[ancient Greek myth]] of [[Atlantis]], the greatest human civilisation lost beneath the sea; and the resemblance to the biblical tale of the [[Tower of Babel]], the [[hubris]]tic and \"[[Sacrilege|sacrilegious]]\" attempt by mortal men to climb up into God's realm.{{sfn|Kelly|Livingston|2009}}\n\n[[File:La navigation de St Brendan, Image du Monde.jpg|thumb|upright=0.8|Scholars<!--e.g. Garth--> have compared Tolkien's Valinor to the \"Land of Promise\" in Celtic ''[[Immram|imrama]]'' tales.{{sfn|Kocher|1974}} Here, [[Saint Brendan]] sails the seas looking for the Land of Promise. [[Gautier de Metz]], c. 1304]]\n\n=== Celtic influence ===\n\n{{further|Tolkien and the Celtic}}\n\nThe scholar of English literature [[Paul H. Kocher]] writes that the Undying Lands of the Uttermost West including Eldamar and Valinor, is \"so far outside our experience that Tolkien can only ask us to take it completely on faith.\"{{sfn|Kocher|1974}} Kocher comments that these lands have an integral place both geographically and spiritually in Middle-earth, and that their closest literary equivalents are the ''[[Immram|imrama]]'' Celtic tales from the early Middle Ages. The ''imrama'' tales describe how Irish adventurers such as [[Saint Brendan]] sailed the seas looking for the \"Land of Promise\". He notes that it is certain that Tolkien knew these stories, since in 1955 he wrote a poem, entitled ''Imram'', about Brendan's voyage.{{sfn|Kocher|1974}}{{sfn|Shippey|2005|pp=324–328}}\n== See also ==\n\n* [[Annwn]], the Welsh Otherworld\n* [[Fortunate Isles]]\n\n* [[Asgard]] and [[Álfheimr]]\n* [[Elysium]]\n\n== References ==\n\n=== Primary ===\n\n{{reflist|group=T|28em}}\n\n=== Secondary ===\n{{reflist|28em}}\n\n=== Sources ===\n\n{{refbegin}}\n* {{cite book |last=Burns |first=Marjorie |author-link=Marjorie Burns |title=Perilous Realms: Celtic and Norse in Tolkien's Middle-earth |title-link=Perilous Realms |year=2005 |publisher=[[University of Toronto Press]] |isbn=978-0802038067 |pages=152–154 (Elbereth/Varda in Valinor vs Galadriel in Middle-earth, formerly of Valinor)}}\n* {{ME-ref|Letters}}\n* {{cite encyclopedia |last=Dickerson |first=Matthew T. |author-link=Matthew T. Dickerson |chapter=Paradise |title=The J. R. R. Tolkien Encyclopedia |title-link=The J. R. R. Tolkien Encyclopedia |pages=502–503 |year=2007 |isbn=978-0-415-96942-0 |editor-first=Michael D. C. |editor-last=Drout |editor-link=Michael D. C. Drout |publisher=[[CRC Press]] |chapter-url=https://books.google.com/books?id=B0loOBA3ejIC&pg=PA502 }}\n* {{cite encyclopedia |last=Drout |first=Michael D. C. |author-link=Michael D. C. Drout |chapter=Eldamar |title=The J. R. R. Tolkien Encyclopedia |title-link=The J. R. R. Tolkien Encyclopedia |page=145 |year=2007 |isbn=978-0-415-96942-0 |editor-first=Michael D. C. |editor-last=Drout |publisher=[[CRC Press]] |chapter-url=https://books.google.com/books?id=B0loOBA3ejIC&pg=PA145 }}\n* {{cite web |last=Fauskanger |first=Helge Kåre |author-link=Helge Fauskanger |title=Valarin - like the glitter of swords |url=https://ardalambion.net/valarin.htm |website=Ardalambion: Of the Tongues of Arda, the invented world of J.R.R. Tolkien |year=2022 |access-date=21 October 2022 |archive-date=3 September 2022 |archive-url=https://web.archive.org/web/20220903000714/https://folk.uib.no/hnohf/valarin.htm |url-status=live }}\n* {{cite journal |last=Fitzsimmons |first=Phillip Joe |title=Glimpses of lost home in the works of J.R.R. Tolkien and Owen Barfield |year=2016 |journal=Faculty Articles & Research |issue=3 |url=https://dc.swosu.edu/libraries_articles/3 }}\n* {{ME-ref|Atlas|Lothlórien}} <!--Fonstad-->\n* {{cite journal |last=Gallant |first=Richard Z. |title=Original Sin in Heorot and Valinor |journal=[[Tolkien Studies]] |volume=11 |issue=1 |year=2014 |doi=10.1353/tks.2014.0019 |pages=109–129|s2cid=170621644 }}\n* {{cite journal |last1=Kelly |first1=A. Keith |last2=Livingston |first2=Michael |title='A Far Green Country: Tolkien, Paradise, and the End of All Things in Medieval Literature |journal=[[Mythlore]] |date=2009 |volume=27 |issue=3 |url=https://dc.swosu.edu/cgi/viewcontent.cgi?article=1278&context=mythlore }}\n* {{cite book |last=Kocher |first=Paul |author-link=Paul H. Kocher |title=Master of Middle-earth: The Achievement of J.R.R. Tolkien |title-link=Master of Middle-earth |date=1974 |orig-year=1972 |publisher=[[Penguin Books]] |isbn=0140038779 |pages=14–18 and 79–82 (Valinor, Eldamar, Undying Lands, origins in Celtic tales)}}\n* {{cite book |last=Oberhelman |first=David D. |pages=692–693 |title-link=The J. R. R. Tolkien Encyclopedia |chapter=Valinor |title=The J. R. R. Tolkien Encyclopedia |editor-link=Michael D. C. Drout |editor-last=Drout |editor-first=Michael D. C. |isbn=978-0-415-96942-0 |publisher=[[Routledge]] |date=2013 |orig-year=2006 |chapter-url=https://books.google.com/books?id=B0loOBA3ejIC&pg=PA692 }}\n* {{cite book |last=Shippey |first=Tom |author-link=Tom Shippey |title=The Road to Middle-earth |title-link=The Road to Middle-earth |date=2005 |edition=Third |orig-year=1982 |publisher=[[HarperCollins]] |isbn=978-0261102750 |pages=324–328 |location=The Lost Straight Road}}\n* {{cite book |last=Shippey |first=Tom |author-link=Tom Shippey |chapter='King Sheave' and 'The Lost Road' |editor1-last=Ovenden |editor1-first=Richard |editor1-link=Richard Ovenden |editor2-last=McIlwaine |editor2-first=Catherine |title=The Great Tales Never End: Essays in Memory of Christopher Tolkien |year=2022 |publisher=[[Bodleian Library Publishing]] |isbn=978-1-8512-4565-9 |pages=166–180}}\n* {{ME-ref|ROTK}}\n* {{ME-ref|Silm}}\n* {{ME-ref|WJ}}\n* {{cite book |last=Tyler |first=J. E. A. |author-link=Tony Tyler |title=The Complete Tolkien Companion |url=https://books.google.com/books?id=J-WWMtIVl_gC&pg=PA307 |year=2002 |publisher=[[Pan Books]] |isbn=978-0-330-41165-3 }}\n{{refend}}\n\n{{Middle-earth}}\n{{Lord of the Rings}}\n\n{{Authority control}}\n\n[[Category:Middle-earth realms]]\n[[Category:Fictional continents]]\n[[Category:Fiction about the afterlife]]\n\n[[pl:Aman (Śródziemie)#Valinor]]",
+  "redirect_chain": [
+    {
+      "source_title": "Eldamar",
+      "target_title": "Valinor"
+    }
+  ],
+  "revision_id": 1356688820,
+  "revision_timestamp": "2026-05-29T06:22:29Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Physical"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Physical"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Physical"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Physical"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Physical"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Political"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Political"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Political"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Political"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Political"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "History"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "History",
+        "Years of the Trees"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "History",
+        "Years of the Trees"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "History",
+        "The Darkening of Valinor"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "History",
+        "The Hiding of Valinor"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "History",
+        "Later history"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "History",
+        "Later history"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Paradise"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Paradise"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Paradise"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Paradise"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: table",
+      "structure_type": "table"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Paradise"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Paradise"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Good against evil"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Good against evil"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Original sin"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Original sin"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Beowulf"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Beowulf"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Lost home"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Lost home"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Atlantis, Babel"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Atlantis, Babel"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Atlantis, Babel"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Celtic influence"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Celtic influence"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "See also"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: list",
+      "structure_type": "list"
+    },
+    {
+      "heading_path": [
+        "See also"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: list",
+      "structure_type": "list"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

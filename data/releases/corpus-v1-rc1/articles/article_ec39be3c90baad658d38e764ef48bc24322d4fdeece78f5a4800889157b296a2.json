@@ -1,0 +1,506 @@
+{
+  "article_artifact_id": "article_ec39be3c90baad658d38e764ef48bc24322d4fdeece78f5a4800889157b296a2",
+  "canonical_title": "Battle of the Pelennor Fields",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_ec39be3c90baad658d38e764ef48bc24322d4fdeece78f5a4800889157b296a2",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "In search of Tolkien's sources, scholars have compared the battle with the historic account of the Battle of the Catalaunian Fields where King Theodoric I was trampled to death by his own men after he fell from his horse. Others have likened the death of the Witch-king of Angmar to the death of Macbeth, who was similarly prophesied not to die by the hand of man \"of woman born\"; and the crowing of a cockerel at the moment the Witch-king was about to enter the city has been said to recall the cock-crow heralding the resurrection of Jesus at the moment that Simon Peter denied knowing him.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_a401ccbbd77f26d47db0ffd3a9c4beca9cb10c2b92f37ed68108c9f43a83e6c4",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_ec39be3c90baad658d38e764ef48bc24322d4fdeece78f5a4800889157b296a2",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Scholars analysing the story have commented on Tolkien's theory of Northern courage, which carries on even in the face of certain death. They have noted, too, the elegiac tone, echoing that of the Old English poem Beowulf, the use of alliterative verse, and the nature of the armour, which is mostly early medieval-style mail shirts with additions of plate armour. Others have commented on Tolkien's vivid descriptions of battle, noting that he served in the Battle of the Somme.",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_859d75a7a86b9af2d26bfeba99efa062c8a3e16b8c3b49d778e7986816adb04d",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_ec39be3c90baad658d38e764ef48bc24322d4fdeece78f5a4800889157b296a2",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "The battle formed a \"spectacular\" centrepiece in Peter Jackson's film The Lord of the Rings: The Return of the King.",
+      "paragraph_ordinal": 5,
+      "passage_id": "passage_983e548de447f73b56f442fd2ac34de59e09e5860bf7c2065d6a1e128c15324c",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_ec39be3c90baad658d38e764ef48bc24322d4fdeece78f5a4800889157b296a2",
+      "heading_path": [
+        "Fiction",
+        "The battle"
+      ],
+      "normalized_text": "thumb|left|upright=1.8|Main actions in the battle, with the forces of Mordor, Rohan, the city of Minas Tirith, and Aragorn's army from the south of Gondor. The actions take place over several days. All locations are diagrammatic.",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_5d2d3fd51129d33827d6999b2a45b1ce0c2edcc8e63d8dbc2ac6e7a918681229",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_ec39be3c90baad658d38e764ef48bc24322d4fdeece78f5a4800889157b296a2",
+      "heading_path": [
+        "Fiction",
+        "The battle"
+      ],
+      "normalized_text": "Charging the ranks of Mordor, the Rohirrim split into two groups. The left group, including the van, broke the Witch-king's right wing. The right group secured the walls of Minas Tirith. They destroyed siege engines and camps, and drove off the Haradrim cavalry. Théoden killed the chieftain of the Haradrim and threw down their standard. The Witch-king exchanged his horse for his winged steed and attacked Théoden. With a dart, he killed the king's horse, Snowmane; it fell and crushed the king.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_fe5e1ef03ecd0ea0f426ea745cd25eb2dacecedf67d30241f51179aa7a779e53",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_ec39be3c90baad658d38e764ef48bc24322d4fdeece78f5a4800889157b296a2",
+      "heading_path": [
+        "Fiction",
+        "The battle"
+      ],
+      "normalized_text": "Éowyn's brother Éomer arrived to find Théoden mortally wounded; he named Éomer king before dying. Éomer then saw his sister unconscious. Mistaking her for dead, he became enraged and led his entire army in a near-suicidal charge. His vanguard broke out far beyond the rest of the Rohirrim, risking becoming encircled. Meanwhile, Imrahil led Gondor's men in a sortie from Minas Tirith. Imrahil rode up to Éowyn and found she was still alive, though gravely ill from the Black Breath. She and Merry were sent to the Houses of Healing in the city.",
+      "paragraph_ordinal": 5,
+      "passage_id": "passage_005033b4446c3e372fd9cf38e78bcff459ef171e2230cee11c6995aa46230634",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_ec39be3c90baad658d38e764ef48bc24322d4fdeece78f5a4800889157b296a2",
+      "heading_path": [
+        "Fiction",
+        "The battle"
+      ],
+      "normalized_text": "Out on the Pelennor Fields, the battle was turning against Gondor and its allies. Though the Rohirrim had inflicted enormous damage on their enemies, Sauron's forces were still numerically superior, and Gothmog, the lieutenant of Minas Morgul, in command after the death of the Witch-king, summoned reserves from nearby Osgiliath. The Rohirrim were now on the southern half of the Pelennor, with enemies between them and the Anduin, and Gothmog's reinforcements threatened to occupy the centre of the Pelennor, thus surrounding the Rohirrim and preventing the Gondorian troops from joining with them. Éomer was by this time only about a mile from the Harlond, so rather than cut his way through to the river, he prepared to make a last stand on a hill.",
+      "paragraph_ordinal": 8,
+      "passage_id": "passage_df7ca625e65b5fdbe46d116cb3fba7acf7cd75a9821daf95ec95045c2244cc4d",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_ec39be3c90baad658d38e764ef48bc24322d4fdeece78f5a4800889157b296a2",
+      "heading_path": [
+        "Fiction",
+        "The battle"
+      ],
+      "normalized_text": "Meanwhile, a fleet of black ships, apparently the navy of the Corsairs of Umbar, Sauron's allies, sailed up Anduin to the Harlond. Just before reaching the quays, the flagship unfurled the ancient banner of the Kings of Gondor. This sight alone put heart into the Rohirrim and Imrahil's forces and demoralised Sauron's armies. The ships indeed were manned by Aragorn and his Rangers, Gimli the Dwarf, Legolas the Elf, the Half-elven brothers Elladan and Elrohir, and fresh troops from southern Gondor. Legolas and Gimli later relate how a ghostly host commanded by Aragorn, the Dead Men of Dunharrow, captured the ships from the Corsairs chiefly through fear.",
+      "paragraph_ordinal": 9,
+      "passage_id": "passage_464b301a0b822f177bcadcb56c8ff6913ef5419f9a6ffb150af03ef4930a54b5",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_ec39be3c90baad658d38e764ef48bc24322d4fdeece78f5a4800889157b296a2",
+      "heading_path": [
+        "Fiction",
+        "The battle"
+      ],
+      "normalized_text": "This proved the turning point of the battle. A large portion of Sauron's forces were now pinned between Aragorn's and Éomer's forces, while Imrahil's troops advanced from the direction of the city. Another prophecy is fulfilled when Aragorn and Éomer meet again \"in the midst of the battle\", as Aragorn had said in the Hornburg. Though the advantage now rested with Gondor, fighting continued throughout the day, until at sunset no living enemy remained on the Pelennor Fields.",
+      "paragraph_ordinal": 10,
+      "passage_id": "passage_bac1edca70491adbea6ebd60d8bfe3cd9dfef5231cb9f2b951a68009d31ca878",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_ec39be3c90baad658d38e764ef48bc24322d4fdeece78f5a4800889157b296a2",
+      "heading_path": [
+        "Fiction",
+        "Outcome"
+      ],
+      "normalized_text": "The battle was only a tactical defeat for Sauron, as he had committed only a small portion of his forces to the assault, but he had lost the Witch-king, his chief lieutenant. The Captains of the West understood that their victory too would be only momentary, unless the Ring-bearer completed his task. Therefore, it was decided that the Host of the West should march to the Morannon without delay, to draw Sauron's attention away from Mordor. The victory allowed them to send a force to challenge Sauron, and still leave Minas Tirith better defended than it had been during the siege. However, Denethor was dead, as were Halbarad, Théoden, and many officers and men of Gondor and Rohan, and some would have to be kept in Gondor in case of attack, so only a small force could be sent. The climactic Battle of the Morannon soon followed.",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_e2f25ce5188a7d76407225471da1033dfa6c4eb984f83cd6d2b7846780ca9560",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_ec39be3c90baad658d38e764ef48bc24322d4fdeece78f5a4800889157b296a2",
+      "heading_path": [
+        "Concept and creation"
+      ],
+      "normalized_text": "thumb|upright|The battle, and in particular the death of Théoden, has been compared to the historic Battle of the Catalaunian Fields. Painting by Alphonse de Neuville.",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_5f1ccf8fe853e113f1d9a6a1e79804e5ec06e407f29904ae92c1feeb8807c26d",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_ec39be3c90baad658d38e764ef48bc24322d4fdeece78f5a4800889157b296a2",
+      "heading_path": [
+        "Analysis",
+        "Northern courage"
+      ],
+      "normalized_text": "thumb|left|\"Great horns of the North wildly blowing\": here, one made from a horn of an aurochs",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_b823c3ccb738b3dbcd865be8c0438f44b6657544a1017dd8c3856f696a4cacea",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_ec39be3c90baad658d38e764ef48bc24322d4fdeece78f5a4800889157b296a2",
+      "heading_path": [
+        "Analysis",
+        "Northern courage"
+      ],
+      "normalized_text": "thumb|Albrecht Altdorfer's 1529 oil painting The Battle of Alexander at Issus inspired Peter Jackson's film depiction.",
+      "paragraph_ordinal": 5,
+      "passage_id": "passage_1bdc618cee7fa5398515e4ee6a47346d4411a63f3ec3ab5c25497ec8c8371786",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_ec39be3c90baad658d38e764ef48bc24322d4fdeece78f5a4800889157b296a2",
+      "heading_path": [
+        "Analysis",
+        "Military realism"
+      ],
+      "normalized_text": "thumb|A left-arm vambrace; the bend would be placed at the knight's elbow",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_194b0aacfabf28a1e38a61ec461654ec7d790414efbc7b755a3550ab75e3188d",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_ec39be3c90baad658d38e764ef48bc24322d4fdeece78f5a4800889157b296a2",
+      "heading_path": [
+        "Adaptations",
+        "Film"
+      ],
+      "normalized_text": "thumb|298px|The forces of Mordor assaulting Minas Tirith, in Peter Jackson's 2003 film The Lord of the Rings: The Return of the King",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_43306df668a31bd480cfa56d3ca1fdc185cfcf2d300878aca46ba8d5fb3e3cd5",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Battle_of_the_Pelennor_Fields&action=history",
+  "namespace": 0,
+  "page_id": 338940,
+  "parent_revision_id": 1358629317,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1362362459",
+  "raw_wikitext": "{{short description|Fictional battle in The Lord of the Rings by J. R. R. Tolkien}}\n{{Infobox military conflict\n| conflict          = Battle of the Pelennor Fields\n| partof            = [[War of the Ring]]\n| place             = [[Gondor#Capital, Minas Tirith|Pelennor Fields]]\n| date              = 14–15 March 3019\n| result            = [[Gondor]]-[[Rohan (Middle-earth)|Rohan]] victory\n| combatant1        = {{unbulleted list|[[File:Escudo Real de Gondor.svg|19px]] [[Gondor]]|[[File:Flag of the Kingdom of Rohan No Border.svg|21px]] [[Rohan, Middle-earth|Rohan]]|The Grey Company}}\n| combatant2        = {{unbulleted list|[[File:Flag of Mordor.svg|19px]] [[Mordor]]|Khand|[[File:Flag of Harad.svg|19px]] [[Harad]]|Rhun}}\n| strength1         = {{unbulleted list|~3,000 Gondorians from Minas Tirith|~500 Guards of the Citadel|Less than 3,000 South Gondorians and men from outlying provinces|~6,000 Rohirrim cavalry soldiers|30 Northern [[Dunedain]]}}\nTotal ~12,500\n| strength2         = Tens of thousands of Orcs, Easterlings, Haradrim and Variags{{efn|Tolkien does not state how many Orcs and Men fought on the Mordor side, and the clues available are vague. Estimates of the number of Orcs range from 30,000 upwards; [[Karen Wynn Fonstad]] states that Mordor outnumbered Gondor by \"at least four to one\", giving a \"minimum 45,000\", made up of ~20,000 Angmar, ~18,000 [[Harad]]rim, and ~7000 others from Rhun and Khand.<ref name=\"Fonstad 1992\">{{cite book |last=Fonstad |first=Karen |title=The atlas of Middle-earth |publisher=[[Grafton (publisher)|Grafton]] |publication-place=London |year=1992 |isbn=978-0-261-10277-4 |page=151}}</ref> Higher figures have been given for enemy forces including Men as well as Orcs. Woosnam-Savage records that \"over 200,000\" Orcs were portrayed in Peter Jackson's film version of the battle.<ref name=\"Foster 1971\"/><ref name=\"Woosnam-Savage 2011\"/>}}\nSeveral hundred oliphaunts and [[Troll (Middle-earth)|trolls]]\n| casualties1       = ~3,000 killed\n| casualties2       = Entire force destroyed\n| commander1        = {{unbulleted list|[[Aragorn]]|King [[Théoden]]{{KIA}}|3rd Marshal [[Éomer]]|Prince Imrahil|[[Gandalf]]|Halbarad{{KIA}}}}\n| commander2        = {{unbulleted list| [[Witch-king of Angmar]]{{KIA}}| Gothmog{{KIA}}}}\n}}\n\n{{good article}}\nThe '''Battle of the Pelennor Fields''' ({{IPA|[[Help:IPA|[pɛˈlɛnnɔr]<nowiki />]]}}), in [[J. R. R. Tolkien]]'s novel ''[[The Lord of the Rings]]'', was the defence of the city of [[Minas Tirith]] by the forces of [[Gondor]] and the [[cavalry]] of its ally [[Rohan (Middle-earth)|Rohan]], against the forces of the Dark Lord [[Sauron]] from [[Mordor]] and its allies the [[Haradrim]] and the Easterlings. It was the largest battle in the War of the Ring. It took place at the end of the [[Third Age]] in the Pelennor Fields, the townlands and fields between Minas Tirith and the [[River Anduin]].\n\nIn search of Tolkien's sources, scholars have compared the battle with the historic account of the [[Battle of the Catalaunian Fields]] where King [[Theodoric I]] was trampled to death by his own men after he fell from his horse. Others have likened the death of the [[Witch-king of Angmar]] to the death of [[Macbeth]], who was similarly prophesied not to die by the hand of man \"of woman born\"; and the crowing of a [[cockerel]] at the moment the Witch-king was about to enter the city has been said to recall the cock-crow heralding the [[resurrection of Jesus]] at the moment that [[Simon Peter]] [[Denial of Peter|denied knowing him]]. \n\nScholars analysing the story have commented on [[Northern courage in Middle-earth|Tolkien's theory of Northern courage]], which carries on even in the face of certain death. They have noted, too, the [[elegiac]] tone, echoing that of the Old English poem ''[[Beowulf]]'', the use of [[alliterative verse]], and the nature of the armour, which is mostly early medieval-style [[Hauberk|mail shirts]] with additions of plate armour. Others have commented on Tolkien's vivid descriptions of battle, noting that he served in the [[Battle of the Somme]].\n\nThe battle formed a \"spectacular\"<ref name=\"Hiscock 2003\"/><ref name=\"CNN 2007\"/>  centrepiece in Peter Jackson's film ''[[The Lord of the Rings: The Return of the King]]''.\n\n== Fiction ==\n\n=== Background ===\nThe city of [[Minas Tirith]] was besieged following the fall of Osgiliath and the Rammas Echor, Gondor's final barriers against the forces of Mordor. In the retreat to the city, [[Faramir]], son of [[Denethor]], [[Steward of Gondor]], was severely wounded. Since the despairing Steward refused to leave his son's side, the [[Wizards in Middle-earth|Wizard]] [[Gandalf]] took command of the city's defences.<ref name=\"siege\" group=T/> Meanwhile, the enemy forces assembled before the city on the Pelennor Fields. A Great Darkness of smoke and cloud from Mordor blotted out the sun on the Dawnless Day. The [[Nazgûl]] or Ringwraiths, [[Sauron]]'s most feared servants, flew over the battlefield on [[fell beasts]], causing the defenders' morale to waver.<ref name=\"siege\" group=T>{{harvnb|Tolkien|1955}}, book 5, ch. 4 \"The Siege of Gondor\"</ref><ref group=T>{{harvnb|Tolkien|1955}}, Appendix B, \"The Great Years\"</ref>\n\n=== Participants ===\n\n[[File:Pyrrhus and his Elephants.gif|thumb|upright|The [[Harad]]rim used elephants in the battle, as [[Pyrrhus of Epirus]] did in his invasion of [[Ancient Rome]].<ref name=\"Kennedy 2016\">{{cite news |last=Kennedy |first=Maev |author-link=Maev Kennedy |title=Tolkien annotated map of Middle-earth acquired by Bodleian library |url=https://www.theguardian.com/books/2016/may/03/jrr-tolkien-annotated-map-middle-earth-bodleian-lord-rings-hobbit |work=[[The Guardian]] |date=3 May 2016}}</ref>]]\n\nSauron's army from [[Minas Morgul]], led by the [[Witch-king of Angmar]] (chief of the Nazgûl) greatly outnumbered the combined armies of Gondor and its allies. This army consisted of tens of thousands of [[Orc|orcs]], [[Troll (Middle-earth)|trolls]], and Men who had allied with Sauron. Sauron's forces included Haradrim Southrons who brought elephantine beasts, [[Easterling (Middle-earth)|Easterlings]] from [[Rhûn]] and Variags from Khand, and many [[Orc (Middle-earth)|Orcs]] and [[Troll (Middle-earth)|Trolls]].<ref name=\"Foster 1971\">{{cite book |title=Tolkien's World From A to Z, The Complete Guide to Middle Earth |last=Foster |first=Robert |publisher=[[Ballantine Books]] |year=1971 |isbn=978-0-345-44976-4 |pages=48 & 49}}</ref> Tolkien describes the army as the greatest to \"issue from that vale since the days of [[Isildur]]'s might, no host so fell and strong in arms had yet assailed the fords of [[Geography of Middle-earth#Rhovanion|Anduin]]; and yet it was but one and not the greatest of the hosts that Mordor now sent forth.\"<ref group=T>{{harvnb|Tolkien|1954}}, book 4, ch. 8 \"The Stairs of Cirith Ungol\"</ref>\n\nThe defenders' numbers were considerably less. Faramir was outnumbered by ten times at Osgiliath. The companies from outlying provinces of Gondor that came to the aid of Minas Tirith amounted to nearly 3,000 defenders. Prominent among these was a 700-strong contingent led by Prince Imrahil of [[Dol Amroth]], Denethor's brother-in-law. Their number was smaller than expected since Gondor's coastal towns were being attacked by the [[Corsairs of Umbar]].<ref name=\"siege\" group=T/><ref name=\"mt\" group=T>{{harvnb|Tolkien|1955}}, book 5, ch. 1 \"Minas Tirith\"</ref><ref name=\"debate\" group=T>{{harvnb|Tolkien|1955}}, book 5, ch. 9 \"The Last Debate\"</ref>\n\nRohan, Gondor's northern ally,<ref name=\"muster\" group=T>{{harvnb|Tolkien|1955}}, book 5, ch. 3 \"The Muster of Rohan\"</ref> contributed a 6,000-strong cavalry army. The Men of Rohan (the Rohirrim) were \"thrice outnumbered by the Haradrim alone\".<ref name=\"Pelennor Fields\" group=T/>\n\nFurther reinforcements from the coastal towns of Gondor sailed on Corsair ships to the city,<ref name=\"debate\" group=T/> led by [[Aragorn]], who had a claim to the throne of Gondor, as he was descended from the last [[High King]] of Gondor and Arnor. He led a small [[Grey Company|force]]<ref name=\"arnor\" group=T>{{harvnb|Tolkien|1955}}, book 5, ch. 2 \"The Passing of the Grey Company\"</ref> of [[Rangers of the North]], representing Arnor.<ref name=\"Pelennor Fields\" group=T>''[[The Return of the King]]'', book 5, ch. 6 \"The Battle of the Pelennor Fields\"</ref>\n\n=== The battle ===\n\n[[File:Battle of the Pelennor Fields.svg|thumb|left|upright=1.8|Main actions in the battle, with the forces of Mordor, Rohan, the city of [[Minas Tirith]], and [[Aragorn]]'s army from the south of Gondor. The actions take place over several days. All locations are diagrammatic.]]\n\nAfter breaking the city gate with [[List of Middle-earth weapons and armour#Grond|Grond]], the Witch-king of Angmar rode under \"the archway that no enemy ever yet had passed\".<ref name=\"siege\" group=T/> Gandalf, on his horse Shadowfax, alone stood in his way. But before the two could fight, they heard the horns of the Rohirrim, who had arrived at the Rammas Echor, the wall around the Pelennor Fields, newly broken by the invading orcs.<ref name=\"siege\" group=T/> Dawn broke, and the main battle began. The Rohirrim had bypassed Sauron's lookouts thanks to the [[Drúedain|Wild Men]] (the Drúedain), who led them through the hidden Stonewain Valley of their Drúadan Forest.<ref name=\"Ride\" group=T>{{harvnb|Tolkien|1955}}, book 5, ch. 5 \"The Ride of the Rohirrim\"</ref> \n \nCharging the ranks of Mordor, the Rohirrim split into two groups.  The left group, including the van, broke the Witch-king's right wing. The right group secured the walls of Minas Tirith.  They destroyed siege engines and camps, and drove off the [[Haradrim]] cavalry. [[Théoden]] killed the chieftain of the Haradrim and threw down their standard. The Witch-king exchanged his horse for his winged steed and attacked Théoden. With a dart, he killed the king's horse, Snowmane; it fell and crushed the king.<ref name=\"Pelennor Fields\" group=T/>\n\nThe [[Nazgûl#Black_Breath|Black Breath]], the terror spread by the Witch-king, drove off Théoden's guards, but his niece [[Éowyn]] (disguised as a man and calling herself \"Dernhelm\"{{efn|The pseudonym means \"secret helmet\" in [[Old English]].<ref>{{cite book |last=Clark Hall |first=J. R. |author-link=John Richard Clark Hall |title=A Concise Anglo-Saxon Dictionary |date=2002 |orig-date=1894 |publisher=[[University of Toronto Press]] |edition=4th |url=https://books.google.com/books?id=ufdQAQAAMAAJ |pages=85 ''dierne'', \"hidden, secret\"; 177 ''helm'', \"defence, helmet\"}}</ref>}}) stood firm, challenging the Witch-king. She cut off the head of the Witch-king's mount; he broke her shield and shield arm with his [[Mace (bludgeon)|mace]]. The [[hobbit]] [[Meriadoc Brandybuck]], who had accompanied \"Dernhelm\", stabbed the Witch-king behind the knee with his [[List of Middle-earth weapons#Types|Barrow-blade]], a dagger from the ancient kingdom of Arnor enchanted against the forces of Angmar. The Witch-king staggered forwards, and Éowyn \"drove her sword between crown and mantle\", killing him.<ref name=\"Pelennor Fields\" group=T/> This fulfilled [[Glorfindel]]'s [[Shakespeare's influence on Tolkien|Macbeth-style prophecy]] following the fall of Arnor that the Witch-king would not die \"by the hand of man\".<ref group=T>{{harvnb|Tolkien|1955}}, Appendix A, \"Gondor and the Heirs of Anárion\"</ref><ref name=\"Tredray 2018\">{{cite journal |last=Tredray |first=Robert Field |title=Divination and Prophecy in The lord of the Rings |journal=[[Mythlore]] |volume=36 |issue=2 |year=2018 |at=Article 25 |url=https://dc.swosu.edu/mythlore/vol36/iss2/25/}}</ref> Both the weapons that struck his undead flesh were destroyed.<ref name=\"Pelennor Fields\" group=T/>\n\nÉowyn's brother [[Éomer]] arrived to find Théoden mortally wounded; he named Éomer king before dying. Éomer then saw his sister unconscious. Mistaking her for dead, he became enraged and led his entire army in a near-suicidal charge. His vanguard broke out far beyond the rest of the Rohirrim, risking becoming encircled. Meanwhile, Imrahil led Gondor's men in a sortie from Minas Tirith. Imrahil rode up to Éowyn and found she was still alive, though gravely ill from the Black Breath. She and Merry were sent to the [[Houses of Healing]] in the city.<ref name=\"Pelennor Fields\" group=T/>\n\n{| class=\"wikitable floatright\"\n|+ Timeline<ref name=\"The Great Years\" group=T>{{harvnb|Tolkien|1955}}, Appendix B, \"The Tale of Years\", \"The Great Years\", \"3019: March\"</ref>\n|-\n! Date !! Events\n|-\n| 10 March ||<poem>'''The Dawnless Day''': [[Gondor]] in darkness from [[Mordor]].\n[[Rohan (Middle-earth)|Rohan]] army sets out from Harrowdale.\n[[Gandalf]] rescues Faramir outside Minas Tirith's gates.\nMorannon army moves into Anorien.\nMinas Morgul army sets out.</poem>\n|-\n| 11 March || <poem>[[Denethor]] sends [[Faramir]] to fight at Osgiliath.\nMorannon army invades Eastern Rohan from north.{{efn|Shown as 1 on diagram.}}</poem>\n|-\n| 12 March || <poem>Faramir retreats to causeway forts.\nAragorn forces [[Corsairs of umbar|Corsairs]] back to Pelargir.\nRohan army reaches Minrimmon.</poem>\n|-\n| 13 March || <poem>Minas Morgul army overruns Pelennor Fields.{{efn|Shown as 2 on diagram.}}\nAragorn captures Corsair fleet at Pelargir.\nRohan army reaches Druadan Forest.</poem>\n|-\n| 14 March || <poem>Minas Tirith is besieged.\nRohan army reaches Grey Wood.</poem>\n|-\n| 15 March || <poem>(pre-dawn) The [[Witch-king]] breaks Minas Tirith gates.\n(dawn) Rohan's horns heard in Minas Tirith.\n'''Battle of the Pelennor Fields''': \n     Rohan cavalry charge.{{efn|Shown as 3 on diagram.}}\n     Imrahil attacks from Minas Tirith.{{efn|Shown as 4 on diagram.}}\n     Aragorn arrives in Corsair ships, joins attack.{{efn|Shown as 5 on diagram.}}\n</poem>\n|}\n\nDenethor prepared to burn himself and [[Faramir|his son]] upon a funeral pyre, believing Faramir to be beyond cure. Only the intervention of the hobbit [[Peregrin Took]], [[Beregond]] (a Guard of the Citadel) and Gandalf saved Faramir, but Denethor immolated himself before they could stop him. Tolkien indirectly states that Théoden's death could have been prevented if Gandalf had helped the Rohirrim instead, as he had intended.<ref name=\"pyre\" group=T>{{harvnb|Tolkien|1955}}, book 5, ch. 7 \"The Pyre of Denethor\"</ref> \n\nOut on the Pelennor Fields, the battle was turning against Gondor and its allies. Though the Rohirrim had inflicted enormous damage on their enemies, Sauron's forces were still numerically superior, and Gothmog, the lieutenant of Minas Morgul, in command after the death of the Witch-king, summoned reserves from nearby Osgiliath. The Rohirrim were now on the southern half of the Pelennor, with enemies between them and the Anduin, and Gothmog's reinforcements threatened to occupy the centre of the Pelennor, thus surrounding the Rohirrim and preventing the Gondorian troops from joining with them. Éomer was by this time only about a mile from the [[Gondor#Harlond|Harlond]], so rather than cut his way through to the river, he prepared to make a [[last stand]] on a hill.<ref name=\"Pelennor Fields\" group=T/>\n\nMeanwhile, a fleet of black ships, apparently the navy of the Corsairs of Umbar, Sauron's allies, sailed up Anduin to the Harlond. Just before reaching the quays, the flagship unfurled the [[Heraldry of Middle-earth#Men|ancient banner of the Kings of Gondor]]. This sight alone put heart into the Rohirrim and Imrahil's forces and demoralised Sauron's armies. The ships indeed were manned by [[Aragorn]] and his Rangers, [[Gimli (Middle-earth)|Gimli]] the [[Dwarf (Middle-earth)|Dwarf]], [[Legolas]] the [[Elves in Middle-earth|Elf]], the [[half-elf|Half-elven]] brothers Elladan and Elrohir, and fresh troops from southern Gondor.<ref name=\"debate\" group=T/> Legolas and Gimli later relate how a ghostly host commanded by Aragorn, the Dead Men of Dunharrow, captured the ships from the Corsairs chiefly through fear.<ref name=\"Pelennor Fields\" group=T/>\n\nThis proved the turning point of the battle. A large portion of Sauron's forces were now pinned between Aragorn's and Éomer's forces, while Imrahil's troops advanced from the direction of the city.<ref name=\"Pelennor Fields\" group=T/> Another prophecy is fulfilled when Aragorn and Éomer meet again \"in the midst of the battle\", as Aragorn had said in the Hornburg.<ref name=\"Tredray 2018\"/> Though the advantage now rested with Gondor, fighting continued throughout the day, until at sunset no living enemy remained on the Pelennor Fields.<ref name=\"Pelennor Fields\" group=T/>\n\n=== Outcome ===\n\nThe battle was only a tactical defeat for Sauron, as he had committed only a small portion of his forces to the assault, but he had lost the Witch-king, his chief lieutenant. The Captains of the West understood that their victory too would be only momentary, unless the [[Ring-bearer]] completed his task. Therefore, it was decided that the Host of the West should march to the Morannon without delay, to draw Sauron's attention away from Mordor. The victory allowed them to send a force to challenge Sauron, and still leave Minas Tirith better defended than it had been during the siege. However, Denethor was dead, as were [[Halbarad]], Théoden, and many officers and men of Gondor and Rohan, and some would have to be kept in Gondor in case of attack, so only a small force could be sent.<ref name=\"debate\" group=T/> The climactic [[Battle of the Morannon]] soon followed.<ref name=\"Morannon\" group=T>''[[The Return of the King]]'', book 5, ch. 10 \"The Black Gate Opens\"</ref>\n\n== Concept and creation ==\n\n[[File:De Neuville - The Huns at the Battle of Chalons.jpg|thumb|upright|The battle, and in particular the death of Théoden, has been compared to the historic [[Battle of the Catalaunian Fields]].<ref name=\"Solopova 70\"/> Painting by [[Alphonse de Neuville]].]]\n\n''[[The War of the Ring]]'', the third volume of ''[[The History of the Lord of the Rings]]'', contains superseded versions of the battle. Some changes of detail are apparent. For example, Théoden dies by a projectile to the heart instead of being crushed by his horse; when Éowyn reveals her sex she has cut her hair short, a detail absent from the final version. Tolkien also considered killing off both Théoden and Éowyn.<ref group=T>{{harvnb|Tolkien|1990}}, Part Three: Minas Tirith, ch. 9 \"The Battle of the Pelennor Fields\"</ref>\n\nThe scholar [[Elizabeth Solopova]] notes that Tolkien repeatedly referred to a historic account of the [[Battle of the Catalaunian Fields]] by [[Jordanes]], and analyses the two battles' similarities. Both battles take place between civilisations of the \"East\" and \"West\", and like Jordanes, Tolkien describes his battle as one of legendary fame that lasted for several generations. Another apparent similarity is the death of the [[Visigoth]] king [[Theodoric I]] on the Catalaunian Fields and that of Théoden on the Pelennor. Jordanes reports that Theodoric was thrown off by his horse and trampled to death by his own men who charged forward. Théoden similarly rallies his men shortly before he falls and is crushed by his horse. And like Theodoric, Théoden is carried from the battlefield with his knights weeping and singing for him while the battle still goes on.<ref name=\"Solopova 70\">{{ME-ref|Solopova}}, pp. 70–73</ref>\n\n== Analysis ==\n\n=== Northern courage ===\n\n{{further|Northern courage in Middle-earth}}\n\n[[File:Hunting horn of Sigismund III of Poland.jpg|thumb|left|\"Great horns of the North wildly blowing\": here, one made from a horn of an [[aurochs]]]]\n\nThe arrival of Rohan is heralded, the Tolkien scholar [[Tom Shippey]] writes, by two calls: a cockerel crowing as the morning comes, and \"as if in answer ... great horns of the North wildly blowing\".<ref name=\"Shippey horns\">{{harvnb|Shippey|2005|pp=242–245}}</ref> The cock-crow recalls multiple accounts in Western literature that speak, Shippey writes, of renewed hope and life after death; of the call which told [[Simon Peter]] that he had [[Denial of Peter|denied Christ three times]], and that there would, despite him, be a [[Resurrection of Jesus|resurrection]]; of the cock-crow in [[Comus (Milton)|Milton's ''Comus'']] that would \"be some solace yet\"; of the cockerel in the Norse ''[[Ódáinsakr]]'', killed and thrown over a wall by the witch, but crowing to King Hadding a moment later.<ref name=\"Shippey horns\"/> As for the horns of Rohan, in Shippey's view \"their meaning is bravado and recklessness\", and in combination with the cock-crow, the message is that \"he who fears for his life shall lose it, but that dying undaunted is no defeat; furthermore that this was true before the Christian myth that came to explain why\".<ref name=\"Shippey horns\"/> Shippey writes that warhorns exemplify the \"heroic Northern world\", as in what he calls the nearest ''[[Beowulf]]'' has to a moment of [[eucatastrophe]], when [[Ongentheow]]'s [[Geats]], trapped all night, hear the horns of [[Hygelac]]'s men coming to rescue them.<ref name=\"Shippey Eucatastrophe\">{{cite book |last=Shippey |first=Tom |author-link=Tom Shippey |title=[[J. R. R. Tolkien: Author of the Century]] |date=2001 |publisher=[[HarperCollins]] |isbn=978-0-261-10401-3 |pages=212–216}} </ref> The style of [[chivalry]], too, the Tolkien scholar [[Thomas Honegger]] notes, is consciously of Anglo-Saxon knights ([[Old English]]: ''cniht''), not a French-style ''chevalier''.<ref name=\"Honegger 2017\">{{cite journal |last=Honegger |first=Thomas |author-link=Thomas Honegger |title=Riders, Chivalry, and Knighthood in Tolkien |journal=[[Journal of Tolkien Research]] |year=2017 |volume=4 |issue=2 |at=Article 3}}</ref> Shippey writes that prominent at the critical moment of the battle, the decisive charge of the Riders of Rohan, is [[panache]], which he explains means both \"the white horsetail on [Eomer's] helm floating in his speed\" and \"the virtue of sudden onset, the dash that sweeps away resistance\".<ref name=\"Shippey Panache\">{{harvnb|Shippey|2005|pp=142–145}}</ref> Shippey notes that this allows Tolkien to display Rohan both as English, based on their [[Old English]] names and words like \"''eored''\" (troop of cavalry), and as \"alien, to offer a glimpse of the way land shapes people\".<ref name=\"Shippey Panache\"/>\n\nThe Tolkien scholar [[Janet Brennan Croft]] notes that the battle is seen some of the time through the eyes of the Hobbit, Pippin, who like \"the common soldier in the trenches of World War I\"<ref name=\"Croft 2002\"/> feels his part to be \"far from glorious; there is tedious waiting, a sense of uselessness and futility, terror and pain and ugliness\".<ref name=\"Croft 2002\"/> Yet, Croft writes, Tolkien does not follow the [[Modernism|Modernists]] and adopt irony as his tone; the Hobbits too are courageous, carrying on without hope. She cites [[Hugh Brogan]]'s remark that their determination \"master[s] all the grief and horror ... giving it dignity and significance\", a therapeutic thought for a man whose mind had been darkened by war.<ref name=\"Croft 2002\">{{cite journal |last=Croft |first=Janet Brennan |author-link=Janet Brennan Croft |title=The Great War and Tolkien's Memory: An Examination of World War I Themes in The Hobbit and The Lord of the Rings |journal=[[Mythlore]] |year=2002 |volume=23 |issue=4 |at=Article 2 |url=https://dc.swosu.edu/mythlore/vol23/iss4/2}}</ref><ref name=\"Opie 1990 p. \">{{cite book |last=Brogan |first=Hugh |author-link=Hugh Brogan |chapter=Tolkien's Great War |editor=Gillian Avery |title=Children and their books: a celebration of the work of Iona and Peter Opie |publisher=[[Clarendon Press]] |publication-place=Oxford |year=1990 |isbn=978-0-19-812253-1 |oclc=18987058 |pages=351–367}}</ref>\n\n[[File:Albrecht Altdorfer - Schlacht bei Issus (Alte Pinakothek, München) - Google Art Project.jpg|thumb|[[Albrecht Altdorfer]]'s 1529 oil painting ''[[The Battle of Alexander at Issus]]'' inspired [[Peter Jackson]]'s film depiction.<ref name=\"Woosnam-Savage 2011\"/>]]\n\nJulaire Andelin, in the ''[[J.R.R. Tolkien Encyclopedia]]'', writes that [[Prophecy in The Lord of the Rings|prophecy in Middle-earth]] depended on characters' understanding of the [[Music of the Ainur]], the divine plan for [[Arda (Middle-earth)|Arda]], and was often ambiguous. Thus, Glorfindel's prophecy \"not by the hand of man will [the Lord of the Nazgûl] fall\" did not lead the Lord of the Nazgûl to suppose that he would die at the hands of a woman and a hobbit (Éowyn and Meriadoc).<ref name=\"Gondor and the heirs of Anarion\" group=T>{{harvnb|Tolkien|1955}}, Appendix A, I, iv \"Gondor and the heirs of Anarion\"</ref><ref>{{cite encyclopedia |last=Andelin |first=Julaire |title=Prophecy |editor-last=Drout |editor-first=Michael D. C. |editor-link=Michael D. C. Drout |encyclopedia=[[J.R.R. Tolkien Encyclopedia]] |year=2013 |orig-date=2007 |publisher=[[Routledge]] |isbn=978-0-415-86511-1 |pages=544–545}}</ref>\n\n=== Elegiac tone ===\n\nRobert Lee Mahon states in ''CEA Critic'' that Tolkien's account of the battle is tinged with the [[elegiac]], so that whatever the outcome, much will be lost. Men have the gift of Iluvatar, death. In the battle, Aragorn and Éomer \"were unscathed, for such was their fortune and the skill and might of their arms, and few indeed had dared to abide them ... in the hour of their wrath\". So far so heroic, in the fantasy, Mahon notes; \"But many others were hurt or maimed or dead upon the field.\"<ref name=\"Mahon 1978\"/> The battle chapter ends with \"an elegiac lay\", in which Tolkien has a [[scop]] of Rohan [[Beowulf and Middle-earth|imitate his beloved ''Beowulf'']]: \"We heard of the horns in the hills ringing, the swords shining in the South-kingdom... There Théoden fell, Thengling mighty ... high lord of the host. ... Death in the morning and at day's ending lords took and lowly. Long now they sleep under grass in Gondor.\"<ref name=\"Mahon 1978\"/> Mahon comments that the reader mourns even while rejoicing, in his view \"the essence of great [[fantasy]]\".<ref name=\"Mahon 1978\">{{cite journal |last=Mahon |first=Robert Lee |title=Elegiac Elements in 'The Lord of the Rings' |journal=CEA Critic |date=January 1978 |volume=40 |issue=2 |pages=33–36 |jstor=44375844}}</ref> \n\nJames Shelton, in ''[[Journal of Tolkien Research]]'', writes that Éomer's (and Tolkien's) use of [[alliterative verse]] during the battle functions on different levels. After Théoden's death, Éomer declaims \"Mourn not overmuch! Mighty was the fallen, meet was his ending. When his mound is raised, women then shall weep. War now calls us!\"<ref name=\"Shelton 2018\"/> Shelton notes that Shippey rightly called this \"'midway between' a lament and a battle-cry\".<ref name=\"Shelton 2018\"/> This both honours the fallen king, and calls for Théoden's last fight to be continued with valour; yet, he writes, in a modern novel, the possibility is opened that Éomer will not live up to that ancient ideal: Éomer \"wept as he spoke\".<ref name=\"Shelton 2018\"/> This \"northern courage\" is to go on fighting, even if one knows one will die. Tolkien has thus, in Shelton's view, both portrayed [[Anglo-Saxon]] attitudes and humanized Éomer as a man with emotions behind the armour and the tradition.<ref name=\"Shelton 2018\">{{cite journal |last=Shelton |first=James |title=Eomer Gets Poetic: Tolkien's Alliterative Versecraft |journal=[[Journal of Tolkien Research]] |volume=5 |issue=1 |year=2018 |at=Article 6 |url=https://scholar.valpo.edu/cgi/viewcontent.cgi?article=1097&context=journaloftolkienresearch}}</ref>\n\n=== Military realism ===\n\n{{further|The Great War and Middle-earth}}\n\nNancy Martsch, in ''[[Mythlore]]'', writes that Tolkien's descriptions of battle are vivid, noting that he served in the [[Battle of the Somme]] in 1916. She quotes another war veteran, [[C. S. Lewis]]'s comment: \"[Tolkien's] war has the very quality of the war my generation knew. It is all here: the endless, unintelligible movement, the sinister quiet of the front when 'everything is now ready', the flying civilians, the lively, vivid friendships, the background of something like despair and the merry foreground, and such heaven-sent windfalls as a cache of choice tobacco 'salvaged' from a ruin\".<ref name=\"Martsch 2015\"/> She adds to this Tolkien's account of recovery in the Houses of Healing, \"a subject usually passed over in fantasy literature\".<ref name=\"Martsch 2015\"/> As for the siege of Minas Tirith, she writes that Tolkien could have been influenced by what he had seen of the [[Battle of Thiepval Ridge|British attack on Thiepval Ridge]], with its fiery night-time bombardment, the fortifications across a river, allied aircraft \"scouting and strafing\" Nazgul-like over the German lines.<ref name=\"Martsch 2015\">{{cite journal |last=Martsch |first=Nancy |title=Thiepval Ridge and Minas Tirith |journal=[[Mythlore]] |volume=33 |issue=2 |at=Article 13 |year=2015 |url=https://dc.swosu.edu/mythlore/vol33/iss2}}</ref>\n\n[[File:Left Arm Defense (Vambrace) MET DP-12882-028.jpg|thumb|A left-arm [[vambrace]]; the bend would be placed at the knight's elbow]]\n\nDavid Bell, writing in ''[[Mallorn (journal)|Mallorn]]'', analyses the battle, concluding that \"the Captains of the West were lucky\", as [[Napoleon]] had reportedly asked that his generals should be. He notes that if Aragorn had been late, the battle would have been lost. All the same, Men were, he writes, usually bigger and stronger than Orcs; they were arguably better armed and armoured; and they were motivated by leadership, where the Orcs were \"driven to battle\"; with the loss of the Witch-king of Angmar, the Orcs were leaderless and demoralised.<ref name=\"Bell 1982\">{{cite journal |last=Bell |first=David |title=The Battle of the Pelennor Fields: An Impossible Victory? |journal=[[Mallorn (journal)|Mallorn]] |issue=19 |year=1982 |pages=25–28}}</ref> On the matter of armour, Honegger considers Tolkien's mention of prince Imrahil's shining [[vambrace]]. He writes that it was a piece of plate armour, hinting at a late medieval pattern; but given Tolkien's likening of Rohan's army to those of the [[Bayeux tapestry]], and his explicit mentions of [[Hauberk|mail shirts]], the armour in the battle must mainly have been the earlier ''Beowulf''-style mail, with additional plate.<ref name=\"Honegger 2017\"/>\n\n== Adaptations ==\n\n=== Radio ===\n\nIn the 1981 BBC radio series ''[[The Lord of the Rings (1981 radio series)|The Lord of the Rings]]'', the Battle of the Pelennor Fields is heard from two sides, the first being mainly Pippin's. One hears him discussing with Denethor, and as in the book, he has to find Gandalf to prevent Denethor from burning Faramir. The second side is the battle itself. Théoden's speech is declaimed, followed by music. A vocalist sings how the Rohirrim host rides forth and attacks the forces of darkness. Then the vocalism changes again and one hears [[Jack May]] and [[Anthony Hyde]], voicing respectively Théoden and Éomer, saying a Nazgûl is coming. The 'opera' begins again, stating the Witch-king attacks Théoden, strikes him down and prepares to kill him. The vocalism ends here, then one hears Éowyn facing the Witch-king and slaying him.<ref>{{cite AV media |title=The Lord of the Rings |type=radio broadcast<!--series--> |publisher=[[BBC]] |last1=Sibley |first1=Brian |author-link=Brian Sibley |last2=Bakewell |first2=Michael |date=1981<!--March to August-->}}</ref>\n\n=== Film ===\n\n[[File:Mordor force.jpg|thumb|298px|The forces of Mordor assaulting Minas Tirith, in Peter Jackson's 2003 film ''[[The Lord of the Rings: The Return of the King]]'']]\n\n{{further|Heraldry of Middle-earth#Peter Jackson}}\n\nThe battle is the centrepiece of Peter Jackson's film ''[[The Lord of the Rings: The Return of the King]]''; ''The Telegraph'' wrote that \"the battle scenes involving the storming of Minas Tirith and the climactic battle of Pelennor Fields are quite simply the most spectacular and breathtaking ever filmed\".<ref name=\"Hiscock 2003\">{{cite news |last=Hiscock |first=John |title=It's the biggest, and the best |url=https://www.telegraph.co.uk/culture/film/3607867/Its-the-biggest-and-the-best.html |work=[[The Daily Telegraph]] |date=5 December 2003 |access-date=7 May 2020}}</ref> Jackson stated that he had taken inspiration from [[Albrecht Altdorfer]]'s 1529 oil painting, ''[[The Battle of Alexander at Issus]]'', depicting the [[Battle of Issus|events of 333 BC]], with \"people holding all of these pikes and spears [against an] incredibly stormy landscape\".<ref name=\"Woosnam-Savage 2011\">{{cite book |last=Woosnam-Savage |first=Robert C. |chapter=The ''Matériel'' of Middle-earth |editor1-last=Bogstad |editor1-first=Janice M. |editor2-last=Kaveny |editor2-first=Philip E. |title=[[Picturing Tolkien]]: Essays on Peter Jackson's The Lord of the Rings Film Trilogy |chapter-url=https://books.google.com/books?id=jNjKrXRP0G8C&pg=PA158 |year=2011 |publisher=[[McFarland & Company|McFarland]] |isbn=978-0-7864-8473-7 |pages=139–167}}</ref>\n\n[[CNN#Website|CNN.com]] put the battle on a list of best and worst battle scenes in film, where it appeared twice: one of the best before the Army of the Dead arrives, and one of the worst after that, dubbing the battle's climax an \"oversimplified cop out\" as a result of their involvement.<ref name=\"CNN 2007\">CNN.com  – The Screening Room. [http://www.cnn.com/2007/SHOWBIZ/Movies/03/29/movie.battles/index.html \"The best – and worst – movie battle scenes.\"] {{webarchive |url=https://web.archive.org/web/20070408081844/http://www.cnn.com/2007/SHOWBIZ/Movies/03/29/movie.battles/index.html |date=8 April 2007}} Retrieved 20 November 2007.</ref>\n\n== See also ==\n\n* [[Battle of Helm's Deep]] – the previous battle, in which the Rohirrim defeat Saruman's army\n* [[Battle of the Morannon]] – the last battle of the War of the Ring\n\n== Notes ==\n\n{{notelist|30em}}\n\n== References ==\n\n=== Primary ===\n\n{{reflist|group=T|28em}}\n\n=== Secondary ===\n\n{{reflist|28em}}\n\n=== Sources ===\n\n* {{ME-ref|ROAD}}  <!--Shippey 2005-->\n* {{ME-ref|TT}}\n* {{ME-ref|ROTK}}\n* {{ME-ref|WR}}\n\n{{The Lord of the Rings}}\n{{Middle-earth}}\n\n{{DEFAULTSORT:Battle Of The Pelennor Fields}}\n[[Category:Middle-earth battles|Pelennor Fields]]\n\n[[fi:Sormuksen sota#Pelennorin kenttien taistelu]]",
+  "redirect_chain": [],
+  "revision_id": 1362362459,
+  "revision_timestamp": "2026-07-03T12:59:20Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fiction",
+        "Background"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fiction",
+        "Participants"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fiction",
+        "Participants"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fiction",
+        "Participants"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fiction",
+        "Participants"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fiction",
+        "Participants"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fiction",
+        "The battle"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fiction",
+        "The battle"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fiction",
+        "The battle"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: table",
+      "structure_type": "table"
+    },
+    {
+      "heading_path": [
+        "Fiction",
+        "The battle"
+      ],
+      "paragraph_ordinal": 7,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Concept and creation"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Concept and creation"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Northern courage"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Northern courage"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Northern courage"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Northern courage"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Elegiac tone"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Elegiac tone"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Military realism"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Military realism"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Military realism"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Radio"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Film"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Film"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Film"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "See also"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: list",
+      "structure_type": "list"
+    },
+    {
+      "heading_path": [
+        "Notes"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

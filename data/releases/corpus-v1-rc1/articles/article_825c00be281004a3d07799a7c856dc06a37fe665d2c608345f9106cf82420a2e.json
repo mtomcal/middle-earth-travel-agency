@@ -1,0 +1,348 @@
+{
+  "article_artifact_id": "article_825c00be281004a3d07799a7c856dc06a37fe665d2c608345f9106cf82420a2e",
+  "canonical_title": "Éowyn",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_825c00be281004a3d07799a7c856dc06a37fe665d2c608345f9106cf82420a2e",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Éowyn's brief courtship by Faramir has been seen by scholars as influenced by Tolkien's experience of war brides from the First World War. She has been seen, too, as one of the few strong female characters in the story, especially as interpreted in Peter Jackson's film trilogy, where her role, played by Miranda Otto, is far more romantic than Tolkien made her.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_30aff7227743b6df24b4a29214deed3906b8b0bb9e42098a0bc86a42da3b2ec6",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_825c00be281004a3d07799a7c856dc06a37fe665d2c608345f9106cf82420a2e",
+      "heading_path": [
+        "Portrayal in adaptations"
+      ],
+      "normalized_text": "thumb|upright|Éowyn in Ralph Bakshi's 1978 animated film The Lord of the Rings",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_9c2222cd2457049361ed195f38ac8c0611b6a8014f472f8dc9096b04187fdef9",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_825c00be281004a3d07799a7c856dc06a37fe665d2c608345f9106cf82420a2e",
+      "heading_path": [
+        "Portrayal in adaptations",
+        "Peter Jackson"
+      ],
+      "normalized_text": "thumb|upright|left|Éowyn is played by Miranda Otto in Peter Jackson's film series.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_fe952121870588beb4fec8c4489728efddeb1ed573437de3ce98598f302cce12",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_825c00be281004a3d07799a7c856dc06a37fe665d2c608345f9106cf82420a2e",
+      "heading_path": [
+        "Portrayal in adaptations",
+        "Peter Jackson"
+      ],
+      "normalized_text": "The scholar of English Helen Young writes that while neither Tolkien nor Jackson give Éowyn any thanks for killing the Witch-King, Jackson's film version does at least invert the gender roles depicted by the Norwegian artist Peter Nicolai Arbo in his 19th century painting Hervor's Death, though when she falls as if dead, the film scene looks in her opinion much like that in the painting. The film reduces Éowyn's role as cup-bearer, which in Tolkien's text describes a genuine Germanic ceremony in which a woman embodied the weaving of peace. Young suggests this was because the screenwriters feared the audience would misinterpret the scene. The extended edition of the \"Return to Edoras\" scene however includes the ceremony for Théoden.",
+      "paragraph_ordinal": 6,
+      "passage_id": "passage_f47b0841d9bf02d319edec1b44229e80f39401d517789ced19113afee63befb1",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=%C3%89owyn&action=history",
+  "namespace": 0,
+  "page_id": 62760,
+  "parent_revision_id": 1361188851,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1362034337",
+  "raw_wikitext": "{{short description|Fictional noblewoman in The Lord of the Rings}}\n{{about|The Lord of the Rings character|other uses|Eowyn (disambiguation)}}\n{{good article}}\n{{use British English|date=May 2023}}\n{{use dmy dates|date=May 2023}}\n{{infobox character\n| name   = Éowyn\n| image  = <!--  NO FAN ART HERE, THANKS   -->\n| series = [[J. R. R. Tolkien|Tolkien]]\n| alias  = Dernhelm\n| race   = [[Rohan (Middle-earth)|Rohirrim]]\n| spouse = [[Faramir]]\n| lbl24  = Book(s)\n| data24 = ''[[The Two Towers]]'' (1954)<br/>''[[The Return of the King]]'' (1955)\n}}\n<!--\n       NO FAN ART HERE, THANKS\n-->\n'''Éowyn''' ({{IPAc-en|ˈ|eɪ|oʊ|w|ɪ|n}} or {{IPAc-en|ˈ|eɪ|oʊ|w|uː|n}}<ref name=\"Modified\" group=T>{{harvnb|Tolkien|1955}}, Appendix E, \"Note\"</ref>) is a fictional character in [[J. R. R. Tolkien]]'s ''[[The Lord of the Rings]]''. She is a [[nobility|noblewoman]] of [[Rohan (Middle-earth)|Rohan]] who describes herself as a [[shieldmaiden]]. With the [[hobbit]] [[Merry Brandybuck]], she rides into battle and kills the [[Witch-King of Angmar]], Lord of the Nazgûl, in the [[Battle of the Pelennor Fields]]. This fulfil<!--BE-->s the [[Macbeth]]-like [[prophecy]] that he would not be killed by a man.<ref name=\"Shippey 2005 p205\"/><!--This is a summary of reliably-cited text in the body of the article-->\n\nÉowyn's brief courtship by [[Faramir]] has been seen by scholars as influenced by Tolkien's experience of [[war bride]]s from the [[First World War]]. She has been seen, too, as one of the few strong female characters in the story, especially<!--This is a summary of reliably-cited text in the body of the article--> as interpreted in [[Peter Jackson]]'s [[The Lord of the Rings film trilogy|film trilogy]], where her role, played by [[Miranda Otto]], is [[Women in The Lord of the Rings#In film|far more romantic than Tolkien made her]].<ref name=\"RobbSimpson2013\"/><!--This is a summary of reliably-cited text in the body of the article-->\n\n==Narrative==\n\nIn ''[[The Two Towers]]'', Éowyn, a daughter of the House of Eorl and the niece of King [[Théoden]] of [[Rohan (Middle-earth)|Rohan]], is introduced in Meduseld, the King's hall at Edoras. She is the daughter of Éomund and Théodwyn (Théoden's sister), and the sister of [[Éomer]]. When she is only seven years old, her father is killed fighting [[Orc (Middle-earth)|orcs]], and her mother dies of grief. Éowyn and Éomer are raised in her uncle's household as his own children.<ref name=\"King of the Golden Hall\" group=T>{{harvnb|Tolkien|1954}}, book 3, ch. 6 \"The King of the Golden Hall\"</ref><ref name=\"Eorl\" group=T>{{harvnb|Tolkien|1955}}, Appendix A, \"The House of Eorl\"</ref>\n\nShe longs to win renown in battle—especially since she is royal—but being female, her duties are reckoned to be at Edoras.<ref name=\"healing\" group=T>{{harvnb|Tolkien|1955}}, book 5, ch. 8 \"The Houses of Healing\"</ref> When Théoden's mind is poisoned by his corrupt adviser [[Gríma Wormtongue]], Éowyn is obliged to care for her uncle, and his deterioration pains her deeply. To make matters worse, she is constantly harassed by Gríma, who lusts after her. When [[Gandalf]] arrives, he frees Théoden from Wormtongue's influence.<ref name=\"King of the Golden Hall\" group=T/>\nÉowyn falls in love with [[Aragorn]], but though he respects her, he does not return her feelings, as he is betrothed to the elf [[Arwen]].<ref name=\"Shippey 2005 p410\"/><ref>{{cite book |last=Kocher |first=Paul |author-link=Paul H. Kocher |title=Master of Middle-earth: The Achievement of J.R.R. Tolkien |title-link=Master of Middle-earth |date=1974 |orig-year=1972 |publisher=[[Penguin Books]] |isbn=0140038779 |pages=136–139}}</ref> \nAs Aragorn points out,<ref name=\"Passing of the Grey Company\" group=T>{{harvnb|Tolkien|1955}}, book 5, ch. 2 \"The Passing of the Grey Company\"</ref> her duty is with her people; she has to shoulder the responsibility of ruling Rohan in Théoden's stead when the war-host of Rohan go to war.<ref name=\"King of the Golden Hall\" group=T/>\n\n{{blockquote| I am weary of skulking in halls, and wish to face peril and battle. … am I not of the House of Eorl, a shieldmaiden … may I not now spend my life as I will? … All your words are but to say: you are a woman and your part is in the house. But when the men have died in battle and honour, you have leave to be burned in the house, for the men will need it no more. But I am of the House of Eorl and not a serving-woman. I can ride and wield blade, and I do not fear either pain or death. …[I fear] A cage, To stay behind bars, until use and old age accept them, and all chance of doing great deeds is gone beyond recall  or desire.<ref name=\"Passing of the Grey Company\" group=T/>}}\n\nÉowyn disguises herself as a man and, under the alias of ''Dernhelm'' (from [[Old English]] ''dern'' meaning \"secret, concealed\"<ref name=\"jrch 2002\">{{cite book |last=Clark Hall |first=J. R. |author-link=John Richard Clark Hall |title=A Concise Anglo-Saxon Dictionary |date=2002 |orig-year=1894 |publisher=[[University of Toronto Press]] |edition=4th |url=https://books.google.com/books?id=ufdQAQAAMAAJ |at=p. 85: ''dierne'', \"hidden, secret\"; p. 177: ''helm'', \"defence, helmet\"}}</ref>), travels with the Riders of Rohan to the battle outside [[Minas Tirith]] in [[Gondor]] on her horse Windfola, carrying with her the hobbit [[Merry Brandybuck]], who had also been ordered to remain behind.<ref name=\"Muster of Rohan\" group=T>{{harvnb|Tolkien|1955}}, book 5, ch. 3 \"The Muster of Rohan\"</ref>\n\nIn the [[Battle of the Pelennor Fields]], she confronts the Witch-King of Angmar, Lord of the [[Nazgûl]], after Théoden is mortally injured. The Witch-King threatens that he will \"bear thee away to the houses of lamentation, beyond all darkness, where thy flesh shall be devoured, and thy shrivelled mind be left naked to the [[Lidless Eye]]\". He boasts \"No living man may hinder me\",<ref name=\"Battle of the Pelennor Fields\" group=T/> whereupon Éowyn removes her helmet and declares:<ref name=\"Battle of the Pelennor Fields\" group=T>{{harvnb|Tolkien|1955}}, book 5, ch. 6 \"The Battle of the Pelennor Fields\"</ref>\n\n{{blockquote|But no living man am I! You look upon a woman. Éowyn I am, Éomund's daughter. You stand between me and my lord and kin. Begone, if you be not deathless! For living or dark undead, I will smite you, if you touch him.<ref name=\"Battle of the Pelennor Fields\" group=T/>}}\n\nThe Nazgûl leader's flying steed attacks Éowyn, but she kills it, cutting off its head with her sword. The Nazgûl then shatters her shield and breaks her shield-arm with his [[Mace (bludgeon)|mace]], but is distracted by Merry, who stabs him behind the knee with a [[barrow-blade]]. Éowyn seizes the opportunity to strike the Nazgûl with a killing thrust \"between crown and mantle\". Then, as her sword shatters, his withering form collapses and he vanishes with a final cry of anguish.<ref name=\"Battle of the Pelennor Fields\" group=T/> Éowyn passes out from the pain in her arm, and is believed dead until Prince Imrahil realizes she still lives.<ref name=\"Battle of the Pelennor Fields\" group=T/> Éowyn is brought to the Houses of Healing, hovering near death from the effects of having struck the Nazgûl.<ref name=\"healing\" group=T/> There Éowyn meets [[Faramir]], with whom she soon falls in love. Her outlook on life also changes: \"Then the heart of Éowyn changed, or else at last she understood it. ... I will be a [[Shield-maiden|shieldmaiden]] no longer, nor vie with the great Riders, nor take joy only in the songs of slaying. I will be a healer, and love all things that grow and are not barren.\"<ref name=\"steward\" group=T>{{harvnb|Tolkien|1955}}, book 6, ch. 5 \"The Steward and the King\"</ref>\n\nAfter the demise of [[Sauron]], Éowyn and Faramir marry and settle in [[Ithilien]], of which Faramir is made the ruling Prince by Aragorn.<ref name=\"partings\" group=T>{{harvnb|Tolkien|1955}}, book 6, ch. 6 \"Many Partings\"</ref> Faramir and Éowyn have a son, Elboron.<ref name=\"heirs\" group=T>{{harvnb|Tolkien|1996}}, ch. 7 \"The Heirs of Elendil\"</ref>\n\n==Concept and creation==\n\nOriginally, Tolkien intended for Éowyn to marry Aragorn. Later, however, he decided against it because Aragorn was \"too old and lordly and grim\". He considered making Éowyn the twin sister of Éomund, and having her die \"to avenge or save Théoden\". He also considered having Aragorn truly love Éowyn and regret never marrying after her death. Tolkien once described Éowyn as \"a stern [[Amazons|Amazon]] woman\".<ref name=\"treason\" group=T>{{harvnb|Tolkien|1989}},  ch. 26 \"The King of the Golden Hall\"<!-- p. 448--></ref> Later he wrote: \"Though not a 'dry nurse' in temper, she was also not really a soldier or 'Amazon', but like many brave women was capable of great military gallantry at a crisis.\"<ref name=\"letter 244\" group=T>{{harvnb|Carpenter|2023|loc=#244, from a draft to a reader of ''The Lord of the Rings'' }}</ref> (Here he alludes to Éowyn's statement to Aragorn: \"But am I not of the House of Eorl, a shieldmaiden and not a dry-nurse?\"<ref name=\"Passing of the Grey Company\" group=T/>)\n\nIn [[Old English]], the language Tolkien used to represent his [[Constructed language|invented language]] of [[Rohirric]], the word ''eoh'' means \"war-horse\" while ''wyn'' means \"delight\",<ref>{{cite book |url=https://books.google.com/books?id=oXlii1KgDngC&q=eoh |chapter=Eoh: war-horse |last1=Bosworth |first1=Joseph |last2=Northcote |first2=T. |date=1921 |title=An Anglo-Saxon dictionary, based on the manuscript collections of the late Joseph Bosworth |publisher=[[Oxford University Press]] |location=Oxford, England |pages=253, 1285}}</ref> so ''Éowyn'' can be taken to mean \"Delight in horses\".<ref>{{harvnb|Hammond|Scull|2005|p=405}}</ref> Her name in Rohirric is not given, but it would have started with the element ''Lô-'' or ''Loh-'', meaning \"horse\".<ref name=\"ardalambion\">{{cite web |url=https://ardalambion.net/mannish.htm |title=Various Mannish Tongues - the sadness of Mortal Men? |last=Fauskanger |first=Helge |author-link=Helge Fauskanger  |website=Ardalambion |id=([[Tolkien scholarship]])}}</ref>\n\n== Analysis ==\n\n{{further|Women in The Lord of the Rings|Shakespeare's influence on Tolkien}}\n\nJulaire Andelin, in the ''[[J.R.R. Tolkien Encyclopedia]]'', writes that [[Prophecy in The Lord of the Rings|prophecy in Middle-earth]] depended on characters' understanding of the [[Music of the Ainur]], the divine plan for [[Arda (Middle-earth)|Arda]], and was often ambiguous. Thus, Glorfindel's prophecy \"not by the hand of man will [the Lord of the Nazgûl] fall\" did not lead the Lord of the Nazgûl to suppose that he would die at the hands of a woman and a hobbit.<ref group=T>{{harvnb|Tolkien|1955}}, Appendix A, \"Gondor and the Heirs of Anárion\"</ref><ref>{{cite encyclopedia |last=Andelin |first=Julaire |title=Prophecy |editor-last=Drout |editor-first=Michael D. C. |editor-link=Michael D. C. Drout |encyclopedia=[[J.R.R. Tolkien Encyclopedia]] |year=2013 |orig-year=2007 |publisher=[[Routledge]] |isbn=978-0-415-86511-1 |pages=544–545}}</ref>\nThe Tolkien scholar [[Tom Shippey]] states that the prophecy, and the Witch-king's surprise at finding Dernhelm to be a woman, parallel the witches' statement to [[Macbeth]] that he may \"laugh to scorn / The power of man, for none of woman born / Shall harm Macbeth\" (Act 4, scene 1), and Macbeth's shock at learning that Macduff \"was from his mother's womb / Untimely ripp'd\" (as Macduff was born by [[Caesarean section]]: Act 5, scene 8). Thus, Shippey notes, despite Tolkien's stated dislike of [[Shakespeare]]'s treatment of myth, [[Shakespeare's influence on Tolkien|he read ''Macbeth'' closely]].<ref name=\"Shippey 2005 p205\">{{harvnb|Shippey|2005|pp=205–206}}</ref>\n\n[[The Great War and Middle-earth|Tolkien's First World War experience]] of [[war bride]]s may be reflected in Éowyn's brief courtship.<ref name=\"Smith 2015\"/> The scholar of literature Melissa A. Smith notes that Tolkien wrote in response to criticism that \"In my experience feelings and decisions ripen very quickly (as measured by mere 'clock-time', which is actually not justly applicable) in periods of great stress, and especially under the expectation of imminent death\".<ref group=T>{{harvnb|Carpenter|2023|loc=#244 to a reader of ''The Lord of the Rings'', fragment, c. 1963 }}</ref> She notes that Tolkien indeed married [[Edith Bratt]] just before he was posted to the Western Front in France.<ref name=\"Smith 2015\">{{cite book |last=Smith |first=Melissa A. |chapter=At Home and Abroad: Éowyn's Two-fold Figuring as War Bride in ''The Lord of the Rings'' |editor-last=Croft |editor-first=Janet Brennan |editor-link=Janet Brennan Croft |editor2-last=Donovan |editor2-first=Leslie A. |title=Perilous and Fair: Women in the Works and Life of J. R. R. Tolkien |publisher=[[Mythopoeic Society|Mythopoeic Press]] |year=2015 |isbn=978-1-887726-01-6 |oclc=903655969 |pages=204–217}} reprinted from {{cite journal |last=Smith |first=Melissa A. |title=At Home and Abroad: Éowyn's Two-fold Figuring as War Bride in ''The Lord of the Rings'' |journal=[[Mythlore]] |volume=26 |issue=1 |year=2007 |at=article 12 |url=https://dc.swosu.edu/mythlore/vol26/iss1/12 }}</ref>\n\n<!--==== Masks ====-->\nThum states that Éowyn wears in turn two masks, the first unconventional, the second conventional.<ref name=\"Thum 2015\">{{cite book |last=Thum |first=Maureen |chapter=Hidden in Plain View |editor-last=Croft |editor-first=Janet Brennan |editor-link=Janet Brennan Croft |editor2-last=Donovan |editor2-first=Leslie A. |title=Perilous and Fair: Women in the Works and Life of J. R. R. Tolkien |publisher=[[Mythopoeic Society|Mythopoeic Press]] |date=2015 |isbn=978-1-887726-01-6 |oclc=903655969 |pages=281–305}}</ref> She appears initially as a medieval romance heroine, a \"woman clad in white\",<ref name=\"King of the Golden Hall\" group=T>{{harvnb|Tolkien|1954}}, book 3, ch. 6 \"The King of the Golden Hall\"</ref> standing silent and obedient behind King [[Théoden]]'s throne. But soon it becomes clear that she is no meek subordinate, as \"she looked on the king with cool pity in her eyes\":<ref name=\"King of the Golden Hall\" group=T/> she thinks for herself. Further, she appears conventionally beautiful as a romance lady: \"Very fair was her face, and her long hair was like a river of gold.\"<ref name=\"King of the Golden Hall\" group=T/> But, Thum writes, this too is swiftly gainsaid: \"Slender and tall she was ... but strong she seemed and stern as steel, a daughter of kings.\"<ref name=\"King of the Golden Hall\" group=T/> Éowyn's second mask is the appearance of a male [[Riders of Rohan|Rider of Rohan]], \"Dernhelm\", as, against orders, she rides to battle.<ref name=\"Muster of Rohan\" group=T>{{harvnb|Tolkien|1955}}, book 5, ch. 3 \"The Muster of Rohan\"</ref><ref name=\"Thum 2015\"/> In [[Old English]] ''dern'' means \"secret, concealed\", while ''helm'' is \"helmet\", a covering for the head.<ref name=\"jrch 2002\"/> Thum comments that this unconventional mask conveys Éowyn's rebellious nature far more powerfully than would any overt account of her thinking.<ref name=\"Thum 2015\"/>\n\n<!--==== Classic woman warrior ====-->\nJessica Yates wrote that Éowyn meets all the requirements for a classic [[Women warriors in literature and culture|woman warrior]]: a strong identity; skill in fighting; weapons and armour; a horse; special powers, seen when she turns the Ringwraith's prophecy of doom back onto him; and being modest and chaste.<ref name=\"Hatcher 2007\"/><ref>{{cite journal |last=Yates |first=Jessica |title=Arwen the Elf Warrior? |journal=[[Amon Hen (journal)|Amon Hen]] |issue=165 |date=September 2000|pages=11–15|url=https://tolkiengateway.net/wiki/Amon_Hen_165 |issn=\t0306-8781 |url-access=subscription}}</ref> Carol Leibiger added that Éowyn is the only strong human female in ''The Lord of the Rings'' (Galadriel and Arwen being Elves), noting that her rejection of the woman's place in the home leads her to fulfil the prophecy about the leader of the Ringwraiths, the Witch-King of Angmar, that \"not by the hand of man will [he] fall\".<ref name=\"Leibiger 2013\">{{cite encyclopedia |last=Leibiger |first=Carol A. |editor-last=Drout |editor-first=Michael D. C. |editor-link=Michael D. C. Drout |title=Women in Tolkien's Works |encyclopedia=[[J.R.R. Tolkien Encyclopedia]] |year=2013 |orig-year=2007 |publisher=[[Routledge]] |isbn=978-0-415-86511-1 |pages=710–712}}</ref>\n\n<!--==== Fierce commitment to peace ====-->\nMelissa Hatcher wrote in ''[[Mythlore]]'' that ''The Lord of the Rings'' has as a central theme the way that \"the littlest person, a hobbit, overcom[es] the tides of war\": that the real power is that of healing, protecting, and preserving.<ref name=\"Hatcher 2007\">{{cite journal |last=Hatcher |first=Melissa McCrory |year=2007 |title=Finding Woman's Role in The Lord of the Rings |journal=[[Mythlore]] |volume=25 |issue=3 |at=article 5 |url=https://dc.swosu.edu/mythlore/vol25/iss3/5}}</ref> She noted that Éowyn tries the path of the warrior and then becomes a healer, and that some academics have interpreted her choice as weak submission. Hatcher stated that instead, Éowyn is following Tolkien's \"highest ideal: a fierce commitment to peace\", embodying the \"full-blooded subjectivity\" that Tolkien believed necessary for peace.<ref name=\"Hatcher 2007\"/> She described Éowyn as \"a complete individual who fulfills Tolkien's theme of peace, preservation, and cultural memory.\"<ref name=\"Hatcher 2007\"/>\n\n<!--==== All six ingredients of happiness ====-->\nHatcher cited the philosopher Gregory Bassham's list of the six essential ingredients of happiness in Middle-earth, namely \"delight in simple things, making light of one's troubles, getting personal, cultivating good character, cherishing and creating beauty, and rediscovering wonder\", and stated that these are all seen in Éowyn and the Hobbit Sam, the gardener who inherits Frodo's Bag End and restores [[the Shire]], \"but in very few others\".<ref name=\"Hatcher 2007\"/><ref>{{ cite book |last=Bassham |first=Gregory |chapter=Tolkien's Six Keys to Happiness |title=The Lord of the Rings and Philosophy: One book to rule them all |editor1-last=Bassham |editor1-first=Gregory |editor2-last=Bronson |editor2-first=Eric |publisher=[[Open Court Publishing Company|Open Court]] |location=Chicago |date=2004 |isbn=978-0812695458 |pages=49–60 |url=https://www.academia.edu/6132584}}</ref>\n\n== Portrayal in adaptations ==\n\n[[File:BakshiÉowyn.JPG|thumb|upright|Éowyn in [[Ralph Bakshi]]'s 1978 animated film ''[[The Lord of the Rings (1978 film)|The Lord of the Rings]]'']]\n\n=== Early films ===\n\n[[Nellie Bellflower]] voiced Éowyn in the 1980 [[Rankin/Bass]] animated version of ''[[The Return of the King (1980 film)|The Return of the King]]''.<ref>{{cite web |title=Nellie Bellflower |url=https://www.behindthevoiceactors.com/Nellie-Bellflower/ |work=Behind the Voice Actors |access-date=28 April 2020}}</ref> Elin Jenkins voiced the character in [[BBC Radio]]'s 1981 [[The Lord of the Rings (1981 radio series)|serialisation]].<ref>{{cite web |title=Elin Jenkins |url=https://www.famouswelsh.com/actors/152-elin-jenkins--actress-with-a-welsh-connection! |website=Famous Welsh |access-date=28 April 2020}}</ref><ref>{{cite book |last1=Smith |first1=Jim E. |last2=Matthews |first2=J. Clive |title=The Lord of the Rings: The Films, the Books, the Radio Series |url=https://archive.org/details/lordofringsfilms0000smit |url-access=registration |year=2004 |publisher=Virgin |pages=65, 71 |isbn=978-0-7535-0874-9}}</ref> Éowyn appears briefly in [[Ralph Bakshi]]'s [[The Lord of the Rings (1978 film)|1978 adaptation of ''The Lord of the Rings'']].<ref name=\"RobbSimpson2013\">{{cite book |last1=Robb |first1=Brian J. |last2=Simpson |first2=Paul |title=Middle-earth Envisioned: The Hobbit and The Lord of the Rings: On Screen, On Stage, and Beyond|url=https://books.google.com/books?id=Nds_AQAAQBAJ&pg=RA1-PA179 |year=2013 |publisher=Race Point Publishing |isbn=978-1-937994-27-3 |page=179}}</ref>\n\n=== Peter Jackson ===\n\n{{further|Peter Jackson's interpretation of The Lord of the Rings|Women in The Lord of the Rings#In film}}\n\n[[File:Éowyn_with_sword.jpg|thumb|upright|left|Éowyn is played by [[Miranda Otto]] in [[Peter Jackson]]'s film series.]]\n\nIn [[Peter Jackson]]'s films ''[[The Lord of the Rings: The Two Towers]]'' ([[2002 in film|2002]]) and ''[[The Lord of the Rings: The Return of the King]]'' ([[2003 in film|2003]]), Éowyn is played by [[Miranda Otto]]. [[Uma Thurman]] was slated for the role at one point.<ref>{{cite magazine |first=Dani |last=Levy |url=https://variety.com/2017/tv/news/lord-of-the-rings-eowyn-uma-thurman-stephen-colbert-late-show-1201992968/ |title=Uma Thurman: Turning Down ''Lord of the Rings'' Was One of the 'Worst Decisions Ever Made' |magazine=[[Variety (magazine)|Variety]] |date=21 February 2017}}</ref> \nAlthough Jackson cuts much of [[Poetry in The Lord of the Rings|Tolkien's poetry and song]], he adds a scene with [[Music of The Lord of the Rings film series#Eowyn|Éowyn singing a dirge]] at Théodred's funeral.<ref name=\"Donnelly 2006\">{{cite book |last=Donnelly<!--scholar of film and film music at Southampton University--> |first=Kevin J. |editor-last=Mathijs |editor-first=Ernest |chapter=Musical Middle Earth |title=The Lord of the Rings: Popular Culture in Global Context |chapter-url=https://books.google.com/books?id=I8mxughWAOEC&pg=PA315 |date=2006 |location=London |publisher=[[Wallflower Press]] |isbn=978-1-904764-82-3 |page=315}}</ref>\n\n[[Tom Shippey|Shippey]] states that the Hollywood studio sent a \"script doctor\" to New Zealand to bring Jackson's direction into line with their view, which was that since Aragorn needed a single love interest, Arwen could be deleted and \"Aragorn should then marry Éowyn instead of politely dissuading her. ... The script doctor's advice was ignored.\"<ref name=\"Shippey 2005 p410\">{{harvnb|Shippey|2005|p=410}}</ref> \nBrian Robb and Paul Simpson concur with Shippey that Jackson does, however, make Aragorn far more romantic than do either Tolkien or Bakshi, devoting substantial viewing time to Aragorn's \"modern love triangle\" and providing \"clear on-screen chemistry\" with Éowyn.<ref name=\"RobbSimpson2013\"/><ref name=\"Shippey Book to Script\">{{cite web |last=Shippey |first=Tom |author-link=Tom Shippey |url=https://www.swarthmore.edu/news-events/tolkien-book-to-jackson-script-medium-and-message |title=Tolkien Book to Jackson Script: The Medium and the Message (audio talk with transcript) |date=8 July 2014 |access-date=8 January 2021}}</ref>\n\n[[File:Peter Nicolai Arbo-Hervors død.jpg|thumb|Éowyn's appearance on the Pelennor Fields has been compared to that of the [[shieldmaiden]] [[Hervor]] in the \"[[Hlöðskviða|Battle of the Goths and Huns]]\", as depicted in ''Hervor's Death'' by [[Peter Nicolai Arbo]].<ref name=\"Young 2015\">{{cite book |last=Young |first=Helen |title=Fantasy and Science Fiction Medievalisms: From Isaac Asimov to A Game of Thrones |url=https://books.google.com/books?id=nSg_CgAAQBAJ&pg=PT55 |year=2015 |publisher=Cambria Press |isbn=978-1-62196-747-7 |page=55, note 37 |quote=The gender-role inversion in Arbo's painting does not last for long: later in the film, Éowyn takes the same position as the shield maiden Hervor in the painting, lying on a field strewn with dead bodies, where her brother, Éomer, finds her. The colors in Arbo's painting are the golds, reds, yellows, and blues found in Rohan in the film, down to the white of the steed that, in the painting, has survived its rider.}}</ref>]]\n\nThe scholar of English Helen Young writes that while neither Tolkien nor Jackson give Éowyn any thanks for killing the Witch-King, Jackson's film version does at least invert the gender roles depicted by the Norwegian artist [[Peter Nicolai Arbo]] in his 19th century painting ''Hervor's Death'', though when she falls as if dead, the film scene looks in her opinion much like that in the painting. The film reduces Éowyn's role as cup-bearer, which in Tolkien's text describes a genuine Germanic ceremony in which a woman embodied the weaving of peace. Young suggests this was because the screenwriters feared the audience would misinterpret the scene. The extended edition of the \"Return to Edoras\" scene however includes the ceremony for Théoden.<ref name=\"Young 2015\"/>\n\nThe film scholar [[Sarah Kozloff]] writes that, if the film series can be seen as a [[melodrama]], Jackson's Éowyn symbolizes the modern \"[[tomboy]]/[[feminist]]\" psychic figure, the role being played \"in a realistic performance style\".<ref name=\"Jackson2006\">{{cite book |date=2006 |last=Kozloff |first=Sarah |chapter=''The Lord of the Rings'' as Melodrama |editor-last=Mathijs |editor-first=Ernest  |editor2-last=Pomerance |editor2-first=Murray |editor2-link=Murray Pomerance |title=From Hobbits to Hollywood: Essays on Peter Jackson's Lord of the Rings |chapter-url=https://books.google.com/books?id=TvsF3vxvEswC&pg=PA169 |publisher=Rodopi |location=Amsterdam |isbn=978-90-420-1682-8 |page=169}}</ref>\n\nFeminist scholar Penny Griffin writes that in ''The Lord of the Rings: The Return of the King'', Éowyn is \"probably the movies' closest approximation to an SFC [Strong Female Character]\".<ref name=\"Griffin2015\"/> Her credentials for this, Griffin notes, include rebelling against the injunction to stay behind when the Riders of Rohan go off to fight, disguising herself as a man, riding to battle, and fighting the leader of the Ringwraiths. The feminist effect is spoiled, Griffin notes, when her story ends (according to Tolkien's text, not the film) with her disavowing battle and marrying Faramir to live \"happily every after\".<ref name=\"Griffin2015\">{{cite book |last=Griffin |first=Penny |title=Popular Culture, Political Economy and the Death of Feminism: Why women are in refrigerators and other stories |url=https://books.google.com/books?id=okzLCQAAQBAJ&pg=PT223 |year=2015 |publisher=[[Taylor & Francis]] |isbn=978-1-317-58036-2 |page=223}}</ref>\n\nThe scholar of literature Maureen Thum comments that Jackson \"stresses what Tolkien implies\" by portraying Éowyn's feelings for Aragorn and her skill in battle.<ref name=\"Thum 2005\">{{cite book |last=Thum |first=Maureen |chapter=Sub-subcreation of Galadriel, Arwen, and Éowyn: Women of Power in Tolkien's and Jackson's 'The Lord of the Rings' |editor-last=Croft |editor-first=Janet Brennan |editor-link=Janet Brennan Croft |title=Tolkien on Film: Essays on Peter Jackson's The Lord of the Rings |title-link=Tolkien on Film |publisher=[[Mythopoeic Society|Mythopoeic Press]] |year=2004 |isbn=978-1887726092 |pages=231–256}}</ref> Thum writes that Tolkien's narrative, having Éowyn ride to war under the name \"Dernhelm\", meaning \"secret helmet\", far more powerfully conveys her rebellious nature than would any explicit description of her thinking.<ref name=\"Thum 2015\"/>\nThe Tolkien scholar [[Jane Chance]] notes that Jackson's ''Two Towers'' includes a moment of swordplay between Éowyn and Aragorn, the latter using a knife; Chance describes this as \"a scene of sexual symbolism nowhere found in Tolkien's text\".<ref name=\"Chance 2005\">{{cite journal |last=Chance |first=Jane |author-link=Jane Chance |title=Tolkien's women (and men): the films and the book |journal=[[Mallorn (journal)|Mallorn]] |date=July 2005 |issue=43 |pages=30–37 |jstor=45320523 }}</ref>\n\nIn [[Kenji Kamiyama]]'s 2024 [[anime]] [[fantasy film]] ''[[The Lord of the Rings: The War of the Rohirrim]]'', a prequel to Jackson's films, Otto reprised her role as Éowyn, while also serving as the film's [[narrator]].<ref name=\"Rohirrim\">{{Cite web |last=D'Alessandro |first=Anthony |date=June 15, 2022 |title='The Lord Of The Rings: The War Of The Rohirrim': Anime Voice Cast Counts Brian Cox, Gaia Wise, Miranda Otto & More |url=https://deadline.com/2022/06/lord-of-the-rings-the-war-of-the-rohirrim-brian-cox-miranda-otto-1235045883/ |url-status=live |archive-url=https://web.archive.org/web/20220615130310/https://deadline.com/2022/06/lord-of-the-rings-the-war-of-the-rohirrim-brian-cox-miranda-otto-1235045883/ |archive-date=June 15, 2022 |access-date=June 25, 2022 |website=[[Deadline Hollywood]]}}</ref>\n\n== References ==\n\n=== Primary ===\n\n{{reflist|group=T|28em}}\n\n=== Secondary ===\n\n{{reflist|28em}}\n\n=== Sources ===\n\n* {{ME-ref|Letters}}\n* {{ME-ref|ROAD}}\n* {{ME-ref|TT}}\n* {{ME-ref|ROTK}}\n* {{ME-ref|TI}}\n* {{ME-ref|PoME}}\n* {{ME-ref|RC}}\n\n{{Lotr}}\n\n{{DEFAULTSORT:Eowyn}}\n[[Category:Fictional princesses]]\n[[Category:Literary characters introduced in 1954]]\n[[Category:Middle-earth Rohirrim]]\n[[Category:The Lord of the Rings characters]]\n[[Category:Female characters in literature]]\n[[Category:Female characters in film]]\n[[Category:Animated characters introduced in 1980]]\n[[Category:Television characters introduced in 1980]]\n[[Category:Fictional cross-dressers]]\n[[Category:Fictional female warriors]]",
+  "redirect_chain": [],
+  "revision_id": 1362034337,
+  "revision_timestamp": "2026-07-01T15:25:59Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Narrative"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Narrative"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Narrative"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Narrative"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Narrative"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Narrative"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Narrative"
+      ],
+      "paragraph_ordinal": 7,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Narrative"
+      ],
+      "paragraph_ordinal": 8,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Concept and creation"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Concept and creation"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 7,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Portrayal in adaptations",
+        "Early films"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Portrayal in adaptations",
+        "Peter Jackson"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Portrayal in adaptations",
+        "Peter Jackson"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Portrayal in adaptations",
+        "Peter Jackson"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Portrayal in adaptations",
+        "Peter Jackson"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Portrayal in adaptations",
+        "Peter Jackson"
+      ],
+      "paragraph_ordinal": 7,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Portrayal in adaptations",
+        "Peter Jackson"
+      ],
+      "paragraph_ordinal": 8,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Portrayal in adaptations",
+        "Peter Jackson"
+      ],
+      "paragraph_ordinal": 9,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Portrayal in adaptations",
+        "Peter Jackson"
+      ],
+      "paragraph_ordinal": 10,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

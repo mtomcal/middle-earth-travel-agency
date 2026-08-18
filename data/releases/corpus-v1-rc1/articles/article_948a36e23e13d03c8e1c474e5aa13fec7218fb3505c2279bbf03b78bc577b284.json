@@ -1,0 +1,402 @@
+{
+  "article_artifact_id": "article_948a36e23e13d03c8e1c474e5aa13fec7218fb3505c2279bbf03b78bc577b284",
+  "canonical_title": "Goldberry",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_948a36e23e13d03c8e1c474e5aa13fec7218fb3505c2279bbf03b78bc577b284",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Like her husband, Goldberry's role and origins are enigmatic and have been debated by scholars. On her possible origins, scholars have compared her with a character in George MacDonald's 1867 fairy tale The Golden Key, and with the eponymous character in the late-medieval lyric poem The Maid of the Moor. Her characterisation has been described as a mixture of the domestic and the supernatural, connected in some way with the river Withywindle in the Old Forest of Middle-earth. Some have suggested that she may be a divine being in Tolkien's mythology; others, that she recalls the biblical Eve, a token of the unfallen creation; and an embodiment of joy, serving with Tom Bombadil as a model of the Catholic sacrament of marriage.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_75b0f53e3098c5df7235b7fb9d1123be474a3fe03ee76fe1d0976cec5159618f",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_948a36e23e13d03c8e1c474e5aa13fec7218fb3505c2279bbf03b78bc577b284",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Both Bombadil and Goldberry were omitted from Peter Jackson's film trilogy; they were, however, included in the 1991 Russian television play Khraniteli and the second season of The Lord of the Rings: The Rings of Power.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_4bec2a8d1b33dce9bc84c7fbf569d66e33a0a1465285aaf2897fe238fd8715d7",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_948a36e23e13d03c8e1c474e5aa13fec7218fb3505c2279bbf03b78bc577b284",
+      "heading_path": [
+        "Origins"
+      ],
+      "normalized_text": "{{poem quote|What was hire mete? The primerole and the violet.",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_23d7d019c92185361c9e763799d111df83cecca2bab54d314e51c8044a453c45",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_948a36e23e13d03c8e1c474e5aa13fec7218fb3505c2279bbf03b78bc577b284",
+      "heading_path": [
+        "Appearances"
+      ],
+      "normalized_text": "thumb|upright=1|Goldberry is associated with water lilies, and her house is surrounded by a water lily pond. Painting by Claude Monet, 1897",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_cbf516b4fdf451b2a51c1f13b2e650f84aa2e860808cc7449d085a5e8a59034c",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_948a36e23e13d03c8e1c474e5aa13fec7218fb3505c2279bbf03b78bc577b284",
+      "heading_path": [
+        "Analysis",
+        "Gender role"
+      ],
+      "normalized_text": "In the J.R.R. Tolkien Encyclopedia, Katherine Hasser observed that Goldberry appeared to the hobbits in the diverse roles of \"goddess, nurturer, and manager of domestic responsibilities\". With regards to her initial appearance, Hasser said Tolkien's description evokes a \"Botticelli-like image of a woman embodied and surrounded by the natural characteristics of her environment\", and her clothing reflects her peaceful, symbiotic connection with the natural world.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_ea1d563eb8f6c4300a3e9dce6f5bf8329b26ab2d4870297afc997de667c662cd",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_948a36e23e13d03c8e1c474e5aa13fec7218fb3505c2279bbf03b78bc577b284",
+      "heading_path": [
+        "Adaptations",
+        "Film"
+      ],
+      "normalized_text": "thumb|A scene of the chapter \"The House of Tom Bombadil\" from the 1991 Russian television play Khraniteli, showing Goldberry and Tom Bombadil with the four hobbits made to appear small using a green screen technique",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_43753a4e2fb603810d5cfd1747b2c7a35f73f8ab0a9b6c31ce62237b82c34540",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_948a36e23e13d03c8e1c474e5aa13fec7218fb3505c2279bbf03b78bc577b284",
+      "heading_path": [
+        "Adaptations",
+        "Games and other media"
+      ],
+      "normalized_text": "The 2023 Magic: The Gathering set The Lord of the Rings: Tales of Middle-earth includes the card “Goldberry, River-Daughter” and represents her as a Nymph whose color alignment is blue.",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_c70cc67ab3799a305c05338e8b8ea075bda471114924484b7ffb396a332596c5",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Goldberry&action=history",
+  "namespace": 0,
+  "page_id": 63461,
+  "parent_revision_id": 1357830386,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1360765036",
+  "raw_wikitext": "{{Short description|Fictional character from Middle-Earth}}\n{{good article}}\n{{Use British English|date=March 2021}}\n{{Use dmy dates|date=October 2022}}\n{{Infobox character\n| name   = Goldberry\n| series = [[J. R. R. Tolkien|Tolkien]]\n| alias  = River-woman's daughter\n| spouse = [[Tom Bombadil]]\n| lbl24  = Book(s)\n| data24 = ''[[The Fellowship of the Ring]]'' (1954)<br/>''[[The Adventures of Tom Bombadil]]''<br/>(1962)<br/>''[[Tales from the Perilous Realm]]'' (1997)\n}}\n'''Goldberry''' is a character from the works of the author [[J. R. R. Tolkien]]. She first appeared in print in a 1934 poem, ''The Adventures of Tom Bombadil'', where she appears as the wife of [[Tom Bombadil]]. Also known as the \"River-woman's daughter\", she is described as a beautiful, youthful woman with golden hair. She is best known from her appearance as a supporting character in Tolkien's high fantasy epic ''[[The Lord of the Rings]]'', first published in 1954 and 1955.\n\nLike her husband, Goldberry's role and origins are enigmatic and have been debated by scholars. On her possible origins, scholars have compared her with a character in [[George MacDonald]]'s 1867 fairy tale ''[[The Golden Key (MacDonald book)|The Golden Key]]'', and with the eponymous character in the late-medieval [[lyric poem]] ''[[Maiden in the mor lay|The Maid of the Moor]]''. Her characterisation has been described as a mixture of the domestic and the supernatural, connected in some way with the river Withywindle in the [[Old Forest]] of [[Middle-earth]]. Some have suggested that she may be a divine being in Tolkien's mythology; others, that she recalls the biblical [[Eve]], a token of the unfallen creation; and an embodiment of joy, serving with Tom Bombadil as a model of the [[sacrament of marriage|Catholic sacrament of marriage]].\n\nBoth Bombadil and Goldberry were omitted from [[Lord of the Rings film trilogy|Peter Jackson's film trilogy]]; they were, however, included in the 1991 Russian television play ''[[Khraniteli]]'' and the second season of ''[[The Lord of the Rings: The Rings of Power]]''.\n\n== Origins ==\n\n[[J. R. R. Tolkien]] never explored the specific details regarding Goldberry's origins. [[Tom Bombadil]] says that he discovered her in the river Withywindle within the [[Old Forest]], and her title \"River-woman's daughter\" strongly suggests that she is not a mortal human being. In a 1958 letter, Tolkien wrote that Goldberry \"represents the actual seasonal changes\" in \"real river-lands in autumn\".<ref name=Letters1 group=T>{{harvnb|Carpenter|2023|loc=letter 210 to Forrest J. Ackerman, June 1958 }}</ref> He conveyed this notion through a poem recited by [[Frodo Baggins]] in ''[[The Fellowship of the Ring]]'', specifically the lines \"O spring-time and summer-time, and spring again after!\"<ref name=\"south\" group=T>{{harvnb|Tolkien|1954a|loc=book 1, ch. 7 \"In the House of Tom Bombadil\"}}</ref>\n\nFor the scholar of literature [[Isabelle Pantin]], the sequence involving Goldberry in ''The Lord of the Rings'' is reminiscent of a passage from ''[[The Golden Key (MacDonald book)|The Golden Key]]'' by [[George MacDonald]]: the heroine, Tangle, after having almost been suffocated by a tree believing herself being pursued by the [[Goldilocks and the Three Bears|bears of Goldilocks]], is taken in by a kindly old lady dressed in a [[mermaid]]'s finery and holding a basin full of fish. Pantin noted that Goldberry herself is reminiscent of the Goldilocks character: she has a similar hairstyle and her house appears to be as comfortable as that of the bears.<ref name=\"Goldilocks\">{{cite book |last=Pantin |first=Isabelle|author-link=Isabelle Pantin |title=Tolkien et ses légendes: une expérience en fiction |language=fr |trans-title=Tolkien and his legends: An experience in fiction |year=1999 |isbn=978-2-271-06876-7 |location=Paris |publisher=[[CNRS Éditions]] |page=124}}</ref>\n\nThe Tolkien scholar John M. Bowers writes that Goldberry recalls ''[[Maiden in the mor lay|The Maid of the Moor]]'', a late-medieval lyric familiar to Tolkien which contains the lines<ref name=\"Bowers 2011\">{{cite journal |last=Bowers |first=John M. |title=Tolkien's Goldberry and The Maid of the Moor |journal=[[Tolkien Studies]] |volume=8 |issue=1 |year=2011 |issn=1547-3163 |doi=10.1353/tks.2011.0002 |pages=23–36|s2cid=170993279 }} (subscription required)</ref>\n\n{{poem quote|What was hire mete?\nThe [[Primula vulgaris|primerole]] and the violet.\n\nWhat was hire dring?\nThe chelde water of the welle-spring.<ref name=\"Butterfield 2016\">{{cite book |last=Butterfield |first=Ardis |chapter=Poems without Form? Maiden in the mor lay Revisited |editor1=Cristina Maria Cervone |editor2=D. Vance Smith |year=2016 |location=Woodbridge |publisher=[[D. S. Brewer]] |title=Readings in Medieval Textuality: Essays in Honour of [[A. C. Spearing]] |isbn=978-1783270675 |pages=169–194 |chapter-url=https://www.cambridge.org/core/books/readings-in-medieval-textuality/poems-without-form-maiden-in-the-mor-lay-revisited/4B06F3D6F491C0C5F59C5301BFF71458}} (subscription required)</ref>}}\n\n== Appearances ==\n\n[[File:Monet w1686.jpg|thumb|upright=1|Goldberry is associated with [[Nymphaeaceae|water lilies]], and her house is surrounded by a water lily pond. Painting by [[Claude Monet]], 1897]]\n\nGoldberry first appeared in Tolkien's 1934 poem, ''The Adventures of Tom Bombadil'',<ref>{{harvnb|Carpenter|1977|pp=216–217}}</ref> re-worked into a 1962  poetry collection of [[The Adventures of Tom Bombadil|the same name]].<ref name=Century/> The poem tells of how she drags Tom into the river before he escapes, returning later to capture her and make her his bride.<ref name=Century/> \n \nIn ''The Fellowship of the Ring'', the first volume of ''The Lord of the Rings'', Frodo and his companions [[Sam Gamgee|Sam]], [[Merry Brandybuck|Merry]], and [[Pippin Took|Pippin]] encounter Goldberry and Tom in the [[Old Forest]] near [[Buckland (Middle-earth)|Buckland]]. After the [[Hobbit]]s are rescued from [[Old Man Willow]], the couple offers them refuge in their cottage, which is surrounded by a pond of [[Nymphaeaceae|water lilies]]. The hobbits' stay is brief but strange, for Bombadil and Goldberry are clearly more than they seem. Like her earlier incarnation, Goldberry retains a link with nature, and more particularly running water. She is described as having a mermaid adornment on her hair, her gown \"rustled softly like the wind on the flowered banks of a river\" as she ran, and the songs she sings to the hobbits remind them of \"ponds and waters larger than they had ever known.\"<ref name=\"Old Forest\" group=T>{{harvnb|Tolkien|1954a|loc=book 1, ch. 6 \"The Old Forest\"}}</ref><ref group=T>{{harvnb|Tolkien|1954a|loc=book 1, ch. 7 \"In the House of Tom Bombadil\"}}</ref>\n\nGoldberry's final reference in Tolkien's works prior to his death is in the poem ''Once Upon a Time'', published in 1965.<ref name=\"Hammond Scull Addenda 2014\">{{cite web |last1=Hammond |first1=Wayne G. |last2=Scull |first2=Christina |author1-link=Wayne G. Hammond |author2-link=Christina Scull |title=Tom Bombadil Addenda & Corrigenda |url=https://wayneandchristina.wordpress.com/2014/12/30/tom-bombadil-addenda-corrigenda/ |publisher=Wayne G. Hammond & Christina Scull <!--major Tolkien scholars--> |access-date=23 March 2021 |date=30 December 2014}}</ref> Described as wearing \"a wild-rose crown\", she blows away a [[dandelion clock]] from within a [[Cuckoo Flower|lady-smock]].{{efn|[http://tolkiengateway.net/wiki/Once_upon_a_Time The full text of ''Once upon a Time''] is available on [[Tolkien Gateway]].}}<ref>{{cite book |last1=Tolkien |first1=J. R. R. |chapter=Once Upon a Time |editor1-last=Hillier |editor1-first=Caroline |title=Winter's Tales for Children 1 |date=1965 |publisher=[[Macmillan Publishers|Macmillan]] |location=London |pages=44–45 |oclc=664346095 }}</ref>\n\n==Analysis==\n\n=== Type of being ===\n{{Quote box\n |width=27em\n |align=right\n |quote=Her long yellow hair rippled down her shoulders; her gown was green, green as young reeds, shot with silver like beads of dew; and her belt was of gold, shaped like a chain of flag-lilies set with the pale-blue eyes of forget-me-nots. About her feet in wide vessels of green and brown earthenware, white water-lilies were floating, so that she seemed to be enthroned in the midst of a pool.<br/>\n —  ''[[The Fellowship of the Ring]]'', book 1, ch. 7, \"In the House of Tom Bombadil\"\n}}\n\n<!--Elemental water spirit-->\nGoldberry does not fit easily into any of Tolkien's definitions of sentient beings in his world, and like Tom Bombadil she remains an enigma.<ref name=\"Hesser 2013\"/> With regards to Goldberry's true nature within the context of [[Middle-earth]], the Tolkien scholar [[Tom Shippey]] suggested that Goldberry is similar to the many named [[water spirit]]s of traditional [[English folklore]] such as [[Jenny Greenteeth]] or [[Peg Powler]] of the [[River Tees]], though she is a noticeably gentler figure than they are.<ref name=\"Century\">{{cite book |last=Shippey |first=Tom |author-link=Tom Shippey |title=[[J. R. R. Tolkien: Author of the Century]] |year=2001 |location=London  |publisher=HarperCollins |isbn=978-0261-10401-3 |pages=60–62}}</ref> The scholar Ann McCauley believed that she is likely a [[water sprite]],<ref name=\"Basso 2008\"/> while [[John D. Rateliff]] suggested that, at least within the context of Tolkien's early mythology, she should be seen as one of the wide category of [[Fairy|fays]], spirits, and elementals.<ref name=\"Baggins\">{{cite journal |last=Rateliff |first=John D. |author-link=John D. Rateliff |title=[[The History of The Hobbit]]: Volume I: Mr. Baggins |year=2007 |location=London |journal=[[Mythlore]] |issn=0146-9339 |pages=50–59}}</ref>\nGoldberry's association with water, writes {{ill|Leo Carruthers|fr}}, thematically links Bombadil with [[Väinämöinen]] and his fiancée [[Aino (mythology)|Aino]] from the ''[[Kalevala]]'', the Finnish national [[epic poem|epic]].<ref name=\"Kalevala\">{{cite book |editor-last=Carruthers |editor-first=Leo |title=Tolkien et le Moyen Age |trans-title=Tolkien and the Middle Ages |year=2007 |location=Paris |publisher=CNRS Éditions |isbn=978-2-271-06568-1 |pages=50–59 |language=fr}}</ref>\n\nThe scholar Ruth Noel calls Bombadil and Goldberry \"undisguised personifications of land untouched by humans\".<ref name=\"Noel 1977\">{{cite book |last=Noel |first=Ruth |title=The Mythology of Middle-earth |location=London |publisher=Thames and Hudson  |year=1977 |isbn=978-0-500-01187-4 |oclc=4034977 |pages=127, 130}}</ref>\n\n<!--Goddess-->\nAnother proposed explanation is that she is one of [[Ainur (Middle-earth)|the Ainur]], specifically the [[Valar|Vala]] [[Yavanna]].<ref name=\"Basso 2008\">{{cite journal |last=Basso |first=Ann McCauley |year=2008 |title=Fair Lady Goldberry, Daughter of the River |journal=[[Mythlore]] |volume=27 |issue=1 |at=article 12 |url=https://dc.swosu.edu/mythlore/vol27/iss1/12}}</ref><ref name=\"Hesser 2013\"/> There are physical similarities between Goldberry and Yavanna: both characters have blond hair and dress in green, and are associated with the plant kingdom, which would make Tom Bombadil an [[avatar]] of [[Aulë]], husband of Yavanna.<ref name=\"Hargrove 1986\">{{cite journal |last=Hargrove |first=Gene |title=Who Is Tom Bombadil |year=1986 |journal=[[Mythlore]] |volume=13 |issue=1 |at=Article 3  |issn=0146-9339 |url=https://dc.swosu.edu/mythlore/vol13/iss1/3}}</ref> Taryne Jade Taylor associates Goldberry with the Greek myth of the goddess [[Persephone]], for the way she is captured by Bombadil and its association with the rhythm of the seasons, as well as [[Étaín]], a deity in [[Irish mythology]] associated with light.<ref name=\"Investigating\">{{cite book |last=Taylor |first=Taryne Jade |title=Investigating the Role and Origin of Goldberry in Tolkien's Mythology |year=2008 |publisher=Mythlore |isbn=978-2-271-06568-1 |pages=50–59 |url=https://dc.swosu.edu/cgi/viewcontent.cgi?article=1333&context=mythlore}}</ref> For Christina Ljungberg, Goldberry is one of the three divinities of [[Mother Nature|personified Nature]] that exist on the side of good: she represents the [[Immanence|immanent goddess]], while Elbereth or Varda represents the [[Transcendence (religion)|transcendent goddess]], and the elf queen [[Galadriel]] combines these two aspects.<ref name=\"Root\">{{cite book |last=Ljungberg |first=Christina |title=Root & Branch: Approaches towards Understanding Tolkien |year=1999 |isbn=3-905703-01-7 |location=Zollikofen |publisher=[[Walking Tree Publishers]] |page=60}}</ref> \n<!-- A Maia?-->\n\n=== Gender role ===\n\n{{Quote box\n |width=27em\n |align=right\n |quote=Goldberry, with the smooth and kind way she relates to her odd husband Tom Bombadil and through her elegance, accomplishment, and connection to the natural world, brings much needed peace to Tolkien's ''The Lord of the Rings''. She seeks nothing, longs for nothing, yet appreciates and nurtures everything and everyone around her. <br/>\n —  Katherine Hasser, ''[[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment]]''<ref name=\"Hesser 2013\"/>\n}}\n\nIn the ''[[J.R.R. Tolkien Encyclopedia]]'', Katherine Hasser observed that Goldberry appeared to the hobbits in the diverse roles of \"goddess, nurturer, and manager of domestic responsibilities\". With regards to her initial appearance, Hasser said Tolkien's description evokes a \"[[Sandro Botticelli|Botticelli]]-like image of a woman embodied and surrounded by the natural characteristics of her environment\", and her clothing reflects her peaceful, symbiotic connection with the natural world.<ref name=\"Hesser 2013\"/>\n\nGoldberry is sometimes discussed in critical commentary about [[Women in The Lord of the Rings|the roles of women in ''The Lord of the Rings'']]. She is presented as a hospitable domestic figure,<ref name=\"Basso 2008\"/> a good hostess who feeds passing travellers.<ref name=\"Hesser 2013\"/> While the scholar of children's literature Melissa McCrory Hatcher called her \"a mystical washer-woman\",<ref name=\"Hatcher 2007\">{{cite journal |last=Hatcher |first=Melissa McCrory |year=2007 |title=Finding Woman's Role in The Lord of the Rings |journal=[[Mythlore]] |volume=25 |issue=3 |at=article 5 |url=https://dc.swosu.edu/mythlore/vol25/iss3/5}}</ref> Hasser emphasized that the most significant point about Goldberry as a feminine figure is that she shares a cooperative and reciprocal domestic relationship with Bombadil, with a dynamic of equality that is not seen in other romantic pairings in Tolkien's body of work as the other [[Middle-earth peoples]] often have a clearer separation of gender roles within their societies.<ref name=\"Hesser 2013\"/> Hasser noted that Goldberry is the sole female character in ''The Lord of the Rings'' who does not have a personal agenda, and that she provides a feminine figure who is \"pure, content, significant to the world around her, and wise\" in its narrative.<ref name=\"Hesser 2013\">{{cite encyclopedia |last=Hesser |first=Katherine |chapter=Goldberry |editor=Michael D. C. Drout |editor-link=Michael D. C. Drout |title=[[The J. R. R. Tolkien Encyclopedia]] |year=2013 |orig-year=2006 |location=Abingdon |publisher=Routledge |isbn=978-1-1358-8033-0 |pages=245–246}}</ref>\n\n=== Theological role ===\n\n<!--Unfallen creation-->\nFor several critics, the appearance of Goldberry in ''The Lord of the Rings'' foreshadows that of Galadriel's later appearance: both are beautiful and of regal stature, live in an isolated domain and are associated with water.<ref name=\"Hesser 2013\"/><ref name=\"Startzman 1989\"/><ref name=\"Barnett 2019\">{{cite journal |last=Enright |first=Nancy |title=Tolkien's females and the defining of power |year=2007 |journal=[[Renascence (journal)|Renascence]] |volume=59 |issue=2 |pages=93–108 |doi=10.5840/renascence200759213}}</ref> Ann McCauley Basso compared Goldberry as a biblical [[Eve]] figure to Galadriel's [[Mary, mother of Jesus|Mary]].<ref name=\"Basso 2008\"/> In an entry on [[Redemption (theology)|redemption]] in [[mythopoeia|mythopoeic]] writing by the Catholic writer [[Joseph Pearce]] for the ''J.R.R. Tolkien Encyclopedia'', the apparent innocence and primitive nature of Goldberry and Tom Bombadil is analogous to [[Adam and Eve]], as they represent the \"Unfallen Creation\".<ref name=\"Redemption\">{{cite book |last=Pearce |first=Joseph |author-link=Joseph Pearce |editor=Michael D. C. Drout |editor-link=Michael D. C. Drout |chapter=Adventures of Tom Bombadil |title=[[The J. R. R. Tolkien Encyclopedia]] |date=2013 |orig-year=2007 |location=Abingdon |publisher=[[Taylor & Francis]] |isbn=978-0-415-86511-1 |pages=562 |chapter-url=https://books.google.com/books?id=B0loOBA3ejIC}}</ref>\n\n=== Sacrament of marriage ===\n\nThe scholar Brandon Best sees Goldberry's relationship to Tom Bombadil as a model of the [[sacrament of marriage]], something to be witnessed rather than explained. Further, they sing of all creation, celebrating the natural order, and they include themselves as part of that order, with Goldberry's song:<ref>{{cite journal |last=Best |first=Brandon |date=2018 |title=Romantic Theology as Revelation through Tom Bombadil and Goldberry in Tolkien's ''The Lord of the Rings'' |journal=Augsburg Honors Review |volume=11 |at=Article 6 |url=https://idun.augsburg.edu/honors_review/vol11/iss1/6}}</ref>\n\n{{poem quote|Wind on the open hill, bells on the heather,\nReeds by the shady pool, lilies on the water:\nOld Tom Bombadil and the River-daughter!<ref name=\"Old Forest\" group=T/>}}\n\nRobert Chapman-Morales notes that scholars such as L. Eugene Startzman and Jennifer Raimundo see Goldberry and Bombadil as embodiments of unexpected joy, an aspect of Tolkien's [[eucatastrophe]].<ref name=\"Startzman 1989\">{{cite journal |last=Startzman |first=L. Eugene |date=1989 |title=Goldberry and Galadriel: The Quality of Joy |journal=[[Mythlore]] |volume=16 |issue=2 |at=Article 14 |url=https://dc.swosu.edu/mythlore/vol16/iss2/14}}</ref><ref name=\"Chapman-Morales 2020\">{{cite journal |last=Chapman-Morales |first=Robert B. |date=2020 |title=Fearless Joy: Tom Bombadil's Function in The Lord of the Rings |journal=Mythlore |volume=38 |issue=2 |at=Article 5 |url=https://dc.swosu.edu/mythlore/vol38/iss2/5}}</ref> He quotes one of Tolkien's letters: \"the government of a 'family' ... was not a monarchy ... It was a 'dyarchy', in which master and mistress had equal status, if different functions.\"<ref name=\"Letter 214\" group=T>{{harvnb|Carpenter|2023|loc=letter 214 to A. C. Nunn, draft 1958-1959 }}</ref><ref name=\"Chapman-Morales 2020\"/> He notes also that Basso describes the couple's marital joy,<ref name=\"Basso 2008\"/> and he remarks on their \"mutual respect when we see how different they are, yet how perfectly they work together\".<ref name=\"Chapman-Morales 2020\"/>\n\n==Adaptations==\n\n=== Radio ===\n\nIn a twelve-part radio adaptation of ''The Lord of the Rings'' which ran from 1955 to 1956, the producer [[Terence Tiller]] wrote Goldberry as Tom Bombadil's daughter.<ref name=radio/> This alteration annoyed Tolkien,<ref name=Letters2 group=T>{{harvnb|Carpenter|2023|loc=letter 175 To Mrs Molly Waldron, November 1955 }}</ref> though he conceded that the events described in the 1934 poem are not clearly summarized in the published version of ''The Lord of the Rings''.<ref name=radio>{{cite book |last1=Hammond |first1=Wayne |last2=Scull |first2=Christina |author1-link=Wayne G. Hammond |author2-link=Christina Scull |title=The J. R. R. Tolkien Companion and Guide: Vol 2. Reader's Guide |date=2006 |location=Boston |publisher=[[Houghton Mifflin]] |isbn=978-0-618-39101-1 |page=1256}}</ref> <!-- No actress was credited for the role. -->\n\nThe chapters involving the Old Forest and its characters were omitted from [[Brian Sibley]] and [[Michael Bakewell]]'s [[The Lord of the Rings (1981 radio series)|1981 radio adaptation of ''The Lord of the Rings'']]<!-- to fit within the air-time-->.<ref>{{cite book |editor1-last=Hiley |editor1-first=Margaret |editor2-last=Weinreich |editor2-first=Frank |title=Tolkien's Shorter Works: Proceedings of the 4th Seminar of the Deutsche Tolkien-Gesellschaft & Walking Tree Publishers Decennial Conference |date=2008 |location=Zollikofen |publisher=[[Walking Tree Publishers]] |page=12 |isbn=978-3-905-70311-5}}</ref> In 1992, Sibley produced a radio series, ''Tales from the Perilous Realm'', which featured short texts by Tolkien; the episode \"The Adventures of Tom Bombadil\" covered ''The Lord of the Rings'' chapters cut from the 1981 adaptation, including those about the Old Forest. Goldberry is voiced by [[Sorcha Cusack]] for the adaptation.<ref>{{cite web |title=Review: Tales of the Perilous Realm Dramatization re-released by BBC AudioBooks America (10.11.08 by Pieter Collier)|url=http://www.tolkienlibrary.com/press/853-Tales-Perilous-Realm-BBC-Dramatization.php |website=Tolkien Library |access-date=28 January 2021}}</ref>\n\n=== Film ===\n\n[[File:Khraniteli_In_the_House_of_Tom_Bombadil.jpg|thumb|A scene of the chapter \"The House of Tom Bombadil\" from the 1991 Russian television play ''[[Khraniteli]]'', showing Goldberry and [[Tom Bombadil]] with the four [[hobbit]]s made to appear small using a [[Chroma key|green screen]] technique<ref name=\"Davis 2021\"/> ]]\n\nIn 1957 Tolkien was consulted about a [[Animation|cartoon]] of ''The Lord of the Rings'', its first proposed cinematic treatment. On the subject of Goldberry, he said he would much rather that she be omitted from the adaptation than make a [[cameo appearance]] without context or meaning.<ref name=Letters2 group=T/> The film director [[Peter Jackson]] omitted Goldberry and Bombadil from [[The Lord of the Rings (film series)|his films]]; he stated that this was because they did little to advance the story and would have made the films unnecessarily long.<ref>{{cite video |people=[[Peter Jackson|Jackson, Peter]] |title=The Lord Of The Rings - The Fellowship of the Ring - Extended Edition Appendices | medium=DVD |date=2004}}</ref>\n\nOnly one adaptation includes Goldberry, the 1991 Russian ''[[Khraniteli]]'', where she is portrayed by {{ill|Regina Lialeikite|ru|Лялейките, Регина Ляоновна}} (as \"Zolotinka\"{{efn|The name [[Zolotinka]] means \"gold flake\" and is the name of a gold-mining region in Siberia.}}). The version uses a [[Chroma key|green screen]] technique to present her as much larger than the hobbits dining at her table.<ref name=\"Davis 2021\">{{cite web |last1=Davis |first1=Rebecca |title=Inside the Soviet 'Lord of the Rings': Cast Details Their Epic TV Movie, Uncovered After 30 Years |url=https://variety.com/2021/film/actors/russian-lord-of-the-rings-khraniteli-1234968603/ |website=Variety |access-date=26 October 2023 |date=2021}}</ref>\n\nGoldberry is voiced by Raya Yarbrough in the second season of ''[[The Lord of the Rings: The Rings of Power]]''.<ref>{{cite web |date=14 September 2024 |title=The Lord of the Rings: The Rings of Power (2022– ) Full Cast & Crew |url=https://www.imdb.com/title/tt7631058/fullcredits/?ref_=tt_cl_sm |access-date=14 September 2024 |website=Internet Movie Database}}</ref>\n\n=== Games and other media ===\n\nAlong with Bombadil, Goldberry appears as a [[non-player character]] in the 2002 video game ''[[The Lord of the Rings: The Fellowship of the Ring (video game)#Plot|The Lord of the Rings: The Fellowship of the Ring]]'', where she is voiced by [[Kath Soucie]].<ref>{{cite web |title=Kath Soucie |url=https://www.behindthevoiceactors.com/video-games/The-Lord-of-the-Rings-The-Fellowship-of-the-Ring-The-Video-Game/ |website=Behind the Voice Actors |access-date=22 June 2021}}</ref>\n\nGoldberry appears in the [[massively multiplayer online role-playing game]] ''[[The Lord of the Rings Online]]''. She is found in \"Goldberry's Glade\" in the Old Forest, where a quest to gather lilies on her behalf at the foot of Old Man Willow is given to the player by Bombadil.<ref>{{cite web |title=A Hero's Guide to the Old Forest |url=https://www.mmorpg.com/lord-of-the-rings-online/developer-journals/a-heros-guide-to-the-old-forest-2000116523 |website=MMORPG.com |access-date=13 May 2020 |date=18 February 2009 |quote=After finding Tom in Chapter 9: Lilies for the River-daughter, he agrees to help you—only if you collect lilies for his wife Goldberry. Tom warns you that the lilies are guarded by the ancient tree known as Old Man Willow. Some say that this venerable tree and its dark heart is the source of all that is evil within the Old Forest.}}</ref> Her race is referred to as \"River-maid\", as the game also features Goldberry's sister Naruhel, an original character who is of a darker and crueller nature.<ref name=\"BR\">{{cite thesis |degree=Masters |last=Martinez |first=L. Y. L. |title=O diálogo intermidiático entre ''A sociedade do anel'' e ''The lord of the rings online (lotro)'': aspectos de remidiação, meia-realidade, estrutura e ficção interativa |trans-title=Intermediary dialogue between ''The Ring Society'' and ''The Lord of the Rings Online (lotro)'': aspects of remediation, half-reality, structure and interactive fiction |url=https://lume.ufrgs.br/bitstream/handle/10183/172954/001060423.pdf?sequence=1&isAllowed=y |date= 2017 |publisher=Universidade Federal do Rio Grande do Sul |language=pt |access-date=28 January 2021}}</ref>\n\nThe 1969 ''[[Harvard Lampoon]]'' novel ''[[Bored of the Rings]]'' depicts a [[parody]] character named \"Hashberry\", partner to the equally drug-soaked [[Timothy Leary|Tim]] [[Benzedrine]].<ref>{{cite news |last=Barnett |first=David |author-link=David Barnett (writer) |url=https://www.theguardian.com/books/booksblog/2011/feb/08/tolkien-bored-of-the-rings |title=After Tolkien, get Bored of the Rings |work=[[The Guardian]] |date=8 February 2011 |access-date=22 June 2021}}</ref> Her name was a reference to [[Haight-Ashbury]],<ref>''[[Bored of the Rings]]'', 2012 Touchstone edition, footnote to page 28.</ref> a district of San Francisco nicknamed [[Hashish|Hash]]bury and widely seen as the origin of [[hippie counterculture]].<ref name=\"DemocracysChildren\">{{cite book |last=Spann |first=Edward K. |title=Democracy's Children: The Young Rebels of the 1960s and the Power of Ideals |url=https://books.google.com/books?id=ixE9n65NNVMC&pg=PA111 |year=2003 |location=Lanham |publisher=[[Rowman & Littlefield]] |page=111|isbn=9780842051415 }}</ref>\n\nThe 2023 ''[[Magic: The Gathering]]'' set ''The Lord of the Rings: Tales of Middle-earth'' includes the card “Goldberry, River-Daughter” and represents her as a Nymph whose color alignment is blue.\n\n== See also ==\n\n* [[Korrigan]] – a beautiful female spirit in Celtic legend\n* [[Naiad]] – a female water-spirit in Classical mythology\n* [[Neck (water spirit)]] – a dangerous female water-spirit in Germanic legend\n\n== Notes ==\n{{notelist}}\n\n== References ==\n\n=== Primary ===\n\n{{reflist|group=T|28em}}\n\n=== Secondary ===\n{{reflist|28em}}\n\n=== Sources ===\n\n* {{ME-ref|Carpenter}} <!--1977 biog.-->\n* {{ME-ref|Letters}}\n* {{ME-ref|FOTR}}\n\n== External links ==\n* [http://tolkiengateway.net/wiki/Goldberry Goldberry] at [[Tolkien Gateway]]\n\n{{Middle-earth}}\n{{Lotr}}\n\n{{DEFAULTSORT:Goldberry}}\n[[Category:The Lord of the Rings characters]]\n[[Category:Literary characters introduced in 1934]]\n[[Category:Fictional pacifists]]\n[[Category:Middle-earth deities and spirits]]\n[[Category:Water spirits]]\n[[Category:Female characters in literature]]\n[[Category:Cultural depictions of Adam and Eve]]\n[[Category:Goldilocks and the Three Bears]]\n[[Category:Fictional fairies]]\n[[Category:Persephone in fiction]] <!--Taylor 2008-->",
+  "redirect_chain": [],
+  "revision_id": 1360765036,
+  "revision_timestamp": "2026-06-23T13:08:43Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Origins"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Origins"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Origins"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Origins"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Appearances"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Type of being"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Type of being"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Type of being"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Type of being"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Gender role"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Gender role"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Theological role"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Sacrament of marriage"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Sacrament of marriage"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Sacrament of marriage"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Radio"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Radio"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Film"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Film"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Film"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Games and other media"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Games and other media"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Games and other media"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "See also"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: list",
+      "structure_type": "list"
+    },
+    {
+      "heading_path": [
+        "Notes"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "External links"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "External links"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "External links"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

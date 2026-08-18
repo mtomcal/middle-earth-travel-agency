@@ -1,0 +1,335 @@
+{
+  "article_artifact_id": "article_83e7d5a7851a4a1209d7375d5709ad6d6733abbc2cbf20b21f67e55dc0b85d50",
+  "canonical_title": "Witch-king of Angmar",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_83e7d5a7851a4a1209d7375d5709ad6d6733abbc2cbf20b21f67e55dc0b85d50",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "The Lord of the Nazgûl, also called the Witch-king of Angmar, the Pale King, or Black Captain, is a fictional character in J. R. R. Tolkien's fantasy novel The Lord of the Rings. He is one of the Nine Men that became Nazgûl (Ringwraiths) after receiving Rings of Power from the Dark Lord Sauron. His ring gives him great power, but enslaves him to Sauron and makes him invisible. As a wraith, he had once established himself King of Angmar in the north of Eriador. In the events of the Lord of the Rings, he stabs the bearer of the One Ring, the Hobbit Frodo Baggins, with a Morgul-knife which would reduce its victim to a wraith. Much later, in his final battle, the Lord of the Nazgûl attacks Éowyn with a mace. The Hobbit Merry Brandybuck stabs him with an ancient enchanted Númenórean blade, allowing Éowyn to kill him with her sword.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_933ab94b9e60bccde24b7973db4ae6f38482f85e3526f5cbeb1657d59c57c9f4",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_83e7d5a7851a4a1209d7375d5709ad6d6733abbc2cbf20b21f67e55dc0b85d50",
+      "heading_path": [
+        "Analysis",
+        "From Wizard to Witch-king"
+      ],
+      "normalized_text": "thumb|upright|Scraperboard illustration of the Witch-king by Alexander Korotich, 1981",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_cc6b3bb6acd2bd77d85fdac70be88bd448c0d8424da0c93fb8b5cdac5e7fc7e7",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_83e7d5a7851a4a1209d7375d5709ad6d6733abbc2cbf20b21f67e55dc0b85d50",
+      "heading_path": [
+        "Analysis",
+        "Prophecy both true and false"
+      ],
+      "normalized_text": "thumb|upright|Tolkien's use of prophecy about the Witch-king's death parallels Shakespeare's, where the witches speak both truth and falsehood about Macbeth's death. Painting by Henry Fuseli",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_b009e21d7ffda1e31c6d2207e9e9e71d3056c0c4263038a6fbf9be3d4c32ebc6",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Witch-king_of_Angmar&action=history",
+  "namespace": 0,
+  "page_id": 22041480,
+  "parent_revision_id": 1361170670,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1361189069",
+  "raw_wikitext": "{{good article}}\n{{short description|Character in Tolkien's Middle-earth}}\n{{Use British English|date=July 2023}}\n{{Use dmy dates|date=February 2026}}\n{{Redirect|Pale king|other uses|Pale King (disambiguation){{!}}Pale King}}\n{{For|the fantasy novel by H.E. Edgmon|The Witch King (novel)}}\n{{For|the 2023 fantasy novel by Martha Wells|Witch King (novel){{!}}''Witch King'' (novel)}}\n\nThe '''Lord of the Nazgûl''', also called the '''Witch-king of Angmar''', the '''Pale King''', or '''Black Captain''', is a fictional character in [[J. R. R. Tolkien]]'s fantasy novel ''[[The Lord of the Rings]]''. He is one of the Nine [[Men in Middle-earth|Men]] that became [[Nazgûl]] (Ringwraiths) after receiving [[Rings of Power]] from the Dark Lord [[Sauron]]. His ring gives him great power, but enslaves him to Sauron and makes him invisible. As a wraith, he had once established himself King of Angmar in the north of [[Eriador]]. In the events of ''the Lord of the Rings'', he stabs the bearer of the [[One Ring]], the Hobbit [[Frodo Baggins]], with a Morgul-knife which would reduce its victim to a wraith. Much later, in his final battle, the Lord of the Nazgûl attacks [[Éowyn]] with a [[Mace (bludgeon)|mace]]<!--Tolkien uses this exact word: \"Lord of the Nazgûl and greatest of Sauron's servants, the Witch-king ... He bent over her like a cloud, and his eyes glittered; he raised his mace to kill\"-->. The Hobbit [[Merry Brandybuck]] stabs him with an ancient enchanted [[Númenor|Númenórean]] blade, allowing Éowyn to kill him with her sword. \n\nIn early drafts, Tolkien had called him the \"Wizard King\", and considered making him either a renegade member of the [[Istari]], or an immortal [[Maiar|Maia]], before settling on having him as a mortal Man, corrupted by a Ring of Power given to him by Sauron. Commentators have written that the Lord of the Nazgûl functions at the level of myth when, his own name forgotten, he [[Personifications of death|calls himself Death]] and bursts the gates of Minas Tirith with a battering-ram engraved with [[Magic in Middle-earth|magical spells]]. At a theological level, he embodies [[Christianity in Middle-earth#The nature of evil|a vision of evil]] similar to [[Karl Barth]]'s description of evil as {{lang|de|das Nichtige}}, an active and powerful force that turns out to be empty. The [[prophecy]] that the Lord of the Nazgûl would not die by the hand of Man echoes that made of [[Macbeth (character)|the title character]] in [[William Shakespeare]]'s ''[[Macbeth]]''.\n\n== Fictional history == \n\n{{Sketch Map of Middle-earth|upright=2.5|center|caption=[[Image map]] with clickable links of the north-west of [[Middle-earth]] at the end of the [[Third Age]], showing Arnor in the north of Eriador (left), with the Witch-kingdom of Angmar at the northern end of the Misty Mountains (top centre).}}\n\nThe Witch-king first appears in the [[Second Age]] of [[Middle-earth]]. The Dark Lord [[Sauron]] gave [[Rings of Power]] to powerful Men, including kings of countries in Middle-earth. These confer [[Magic in Middle-earth|magical power]], but also enslave their wearers to the owner of the [[One Ring]], Sauron himself.<ref name=\"Akallabêth\" group=T>{{harvnb|Tolkien|1977}}, \"The Akallabêth\", p. 267. \"Yet Sauron was ever guileful, and it is said that among those whom he ensnared with the Nine Rings three were great lords of Númenórean race.\"</ref><ref name=\"Journey of the Black Riders\" group=T>{{harvnb|Tolkien|1980}}, 4. \"The Hunt for the Ring\" i. \"Of the Journey of the Black Riders\"</ref> \n\nThe Lord of the [[Nazgûl]] appears as the Witch-king of [[Angmar]] during the [[Third Age]] and is instrumental in the destruction of the Northern kingdom of [[Arnor (Middle-earth)|Arnor]].<ref group=T>{{harvnb|Tolkien|1955}}, Appendix A, 1 \"The Numenorean Kings\"</ref> In his notes for translators, Tolkien suggested that the Witch-king of Angmar, ruler of a Northern kingdom with its capital at Carn Dûm, was of [[Númenor|Númenórean]] origin.<ref group=T>Tolkien writes: \"the name and origin of the Witch-king is not recorded, but he was probably of Númenórean descent.\" {{harvnb|Hammond|Scull|2005|p=20}}. Tolkien later removed the passage; it does not appear in the version in [[Jared Lobdell]]'s ''[[A Tolkien Compass]]''.</ref> Nothing is heard of him when Sauron is overthrown by the Last Alliance of Elves and Men late in the Second Age, but his survival is assured by the power of the One Ring.<ref name=\"Appendix B Second Age\" group=T>{{harvnb|Tolkien|1955}}, Appendix B, \"The Tale of Years\", entries in \"The Second Age\"</ref>\n\nOver a thousand years later in the Third Age, the Lord of the Nazgûl leads Sauron's forces against the successor kingdoms of Arnor: Rhudaur, Cardolan, and Arthedain. He destroys all of these, but is eventually defeated by the Elf-lord [[Glorfindel]], who puts him to flight, and speaks the prophecy that \"not by the hand of Man will he fall\".<ref name=\"Gondor and the heirs of Anarion\" group=T>{{harvnb|Tolkien|1955}}, Appendix A, I, iv \"Gondor and the heirs of Anarion\"</ref> He escapes, and returns to [[Mordor]]. There, he gathers the other Nazgûl to prepare for Sauron's return.<ref name=\"Gondor and the heirs of Anarion\" group=T/><ref name=\"Appendix B Third Age\" group=T>{{harvnb|Tolkien|1955}}, Appendix B, \"The Tale of Years\", entries in \"The Third Age\"</ref>\n\nTowards the end of the Third Age, Sauron sends the Witch-king, leading the other Nazgûl, to [[the Shire]] to find and recover the One Ring. He is cloaked and hooded in black; his face cannot be seen; he rides a black horse.<ref group=T>{{harvnb|Tolkien|1954a}}, book 1, ch. 2 \"[[The Shadow of the Past]]\"</ref><ref name=\"Council of Elrond\" group=T>{{harvnb|Tolkien|1954a}}, book 2, ch. 2 \"[[The Council of Elrond]]\"</ref><ref name=\"Three is Company\" group=T>{{harvnb|Tolkien|1954a}} book 1, ch. 3 \"Three is Company\"</ref><ref group=T>{{harvnb|Tolkien|1954a}} book 1, ch. 4 \"A Short Cut to Mushrooms\"</ref> At Weathertop, the Witch-king stabs Frodo, the bearer of the One Ring, in the shoulder with the Morgul-knife, breaking off a piece of it in the [[Hobbit]]'s flesh.<ref name=\"Knife in the Dark\" group=T>{{harvnb|Tolkien|1954a}} book 1, ch. 11 \"A Knife in the Dark\"</ref> Frodo is able to see that the Witch-king is taller than the other Nazgûl, with \"long and gleaming\" hair and a crown on his helmet.<ref name=\"Knife in the Dark\" group=T/> The Witch-king and the other Nazgûl are swept away by the waters of the river [[Bruinen]]. Their horses are drowned and they return to Mordor,<ref group=T>{{harvnb|Tolkien|1954a}} book 1, ch. 12 \"Flight to the Ford\"</ref> to return mounted on hideous flying beasts.<ref name=\"Pelennor Fields\" group=T>{{harvnb|Tolkien|1955}}, book 5, ch. 6, \"The Battle of the Pelennor Fields\"</ref><ref name=\"Letter 211\" group=T>{{harvnb|Carpenter|2023|loc=#211 to Rhona Beare, 14 October 1958 }}</ref>\n\nDuring the [[Battle of the Pelennor Fields]], the Witch-king commands Grond, a [[battering-ram]] engraved with evil spells, to break the gates of Minas Tirith. Being forced to leave the broken gates he retreats to lead the besieging army against the new threat of the Rohirrim, where he is faced by a single warrior, Dernhelm, actually a disguised [[Éowyn]], a noblewoman of [[Rohan (Middle-earth)|Rohan]]; and not far away, [[Merry Brandybuck|Merry]], a hobbit of the Fellowship. Éowyn boldly calls the Nazgûl a \"dwimmerlaik\", telling him to go if he was not deathless.{{efn|\"Dwimmerlaik\" represents a word in [[Rohirric]], the speech of [[Rohan (Middle-earth)|Rohan]], [[Pseudotranslation in The Lord of the Rings|supposedly translated]] into [[Old English]]; Tolkien glosses it in the index as a \"work of [[necromancy]]\", a \"spectre\". It derives from Old English ''(ge)dwimor'', \"phantom, illusion\" and ''-leikr'', the Old Norse ending corresponding to Anglo-Saxon ''-lac'', meaning \"a state or act\".<ref group=T>{{harvnb|Tolkien|1990|page=372}}</ref> [[Tom Shippey]] writes that Tolkien borrowed the word from a Middle English poem, [[Layamon's Brut|Layamon's ''Brut'']].<ref>{{harvnb|Shippey|2005|page=394}}</ref>}} He casts back his hood to reveal a crown, but the head that wears it is invisible. Merry's surreptitious stroke with an enchanted [[Middle-earth weapons and armour|Barrow-blade]] brings the Nazgûl to his knees, allowing Éowyn, the niece of [[Théoden]], to drive her sword between his crown and mantle.<ref name=\"Pelennor Fields\" group=T/> Thus the Witch-king is destroyed by a woman and a Hobbit, fulfilling Glorfindel's prophecy.<ref name=\"Gondor and the heirs of Anarion\" group=T/> Both weapons that pierced him disintegrate, and both assailants are stricken by the Black Breath, which causes a cold paralysis, terror, and often death.<ref name=\"Pelennor Fields\" group=T/>\n\n== Analysis ==\n\n=== From Wizard to Witch-king ===\n\n[[File:Witch-king of Angmar by Alexander Korotich 1981.jpg|thumb|upright|[[Scraperboard]] illustration of the Witch-king by [[Alexander Korotich]], 1981]]\n\nMegan N. Fontenot, on ''[[Tor.com]]'', writes that in early drafts, Tolkien names him \"the Wizard King\", so powerful in wizardry that his opponent [[Gandalf]] is unable to counter him unaided. In early drafts of \"[[The Council of Elrond]]\", Gandalf explains that his enemy was \"of old the greatest of all the wizards of Men\". In a later draft, Tolkien adds that the Wizard King was also \"a great king of old\" and the \"fell captain of the Nine [Riders]\"; Fontenot glosses \"fell\" as implying \"ravenous cruelty\" and \"ruthless ... savagery\".<ref group=T>{{harvnb|Tolkien|1989}}<!--Treason of Isengard-->, pp. 9, 116, 132, 149</ref><ref name=\"Fontenot 2019\">{{cite web |last=Fontenot |first=Megan N. |title=Exploring the People of Middle-earth: The Witch-King of Angmar, Lord of the Nazgûl |url=https://www.tor.com/2019/10/31/exploring-the-people-of-middle-earth-the-witch-king-of-angmar-lord-of-the-nazgul/ |website=[[Tor.com]] |access-date=29 July 2023 |date=31 October 2019}}</ref> \n\nLater, in a draft of \"The Siege of Gondor\", Tolkien makes the Wizard King \"a renegade of [Gandalf's] own order\" from Númenor.<ref name=\"Fontenot 2019\"/> In the manuscript of his <!--\"Nomenclature\"-->[[Translations of The Lord of the Rings#Guide|notes for translators]], Tolkien suggested that the Witch-king of Angmar was most likely of [[Númenór]]ean origin.<ref>{{cite book |last1=Hammond |first1=Wayne G. |author1-link=Wayne G. Hammond |last2=Scull |first2=Christina |author2-link=Christina Scull |title=[[The Lord of the Rings: A Reader's Companion]] |year=2005 |page=20 |publisher=[[HarperCollins]] |isbn=978-0-00-720907-1 }}</ref> Fontenot comments that this could make him both a [[Maiar in Middle-earth|Maia]] rather than a [[Men in Middle-earth|Man]], and originally one of the [[Istari]], or, as she states, \"something decidedly other\".<ref name=\"Fontenot 2019\"/> But Tolkien then reduces the Wizard King's power, so that Gandalf is able to tell Pippin as they wait for the attack on Gondor that \"In him I am not overmatched\", and that the Wizard King's main power is to inspire fear at a distance.<ref name=\"Fontenot 2019\"/> At some stage, too, he renames the enemy the Witch-king; Fontenot suggests this was to distinguish more clearly between him and the Wizards like Gandalf and Saruman. Tolkien had thus explored making him a wizard (Istari or otherwise) or an immortal Maia, before settling on a \"a human king whose lust for power got the better of his good judgment.\"<ref name=\"Fontenot 2019\"/> She wonders what he might have been like before he accepted a [[Rings of Power|Ring of Power]] from Sauron, noting that he was seemingly filled with \"possessiveness, greed, lust, and a desire for dominance\", all markers of evil in Tolkien's scheme of things.<ref group=T>{{harvnb|Tolkien|1990}}<!--War of the Ring-->, pp. 326, 331</ref><ref name=\"Fontenot 2019\"/>\n\n=== Evil, the absence of good ===\n\n{{further|Evil in Middle-earth}}\n\n{{quote box|quote=In rode the Lord of the Nazgûl. A great black shape against the fires beyond he loomed up, grown to a vast menace of despair. In rode the Lord of the Nazgûl, under the archway that no enemy ever yet had passed, and all fled before his face.<br/>\n&nbsp; &nbsp; &nbsp; All save one. There waiting, silent, and still in the space before the Gate, sat Gandalf upon Shadowfax: Shadowfax who alone among the free horses of the earth endured the terror, unmoving, steadfast as a graven image in Rath Dínen.<br/> \n&nbsp; &nbsp; &nbsp;  \"You cannot enter here\", said Gandalf, and the huge shadow halted. \"Go back to the abyss prepared for you! Go back! Fall into the nothingness that awaits you and your Master. Go!\"<br/> \n&nbsp; &nbsp; &nbsp; The Black Rider flung back his hood, and behold! he had a kingly crown; and yet upon no head visible was it set. The red fires shone between it and the mantled shoulders vast and dark. From a mouth unseen there came a deadly laughter. <br/> \n&nbsp; &nbsp; &nbsp; \"Old fool!\" he said. \"Old fool! This is my hour. Do you not know Death when you see it? Die now and curse in vain!\" And with that he lifted high his sword and flames ran down the blade... |source=\"The Siege of Gondor\"<ref name=\"Siege of Gondor\" group=T/>\n|width=45%|align=right}}\n\nThe Tolkien scholar [[Tom Shippey]] writes that the Lord of the Nazgûl hovers close to being an abstraction, \"a vast menace of despair ... a huge shadow\",<ref name=\"Siege of Gondor\" group=T>{{harvnb|Tolkien|1955}}, book 5, ch. 4, \"The Siege of Gondor\"</ref> actually calling himself Death: \"Old fool! This is my hour. Do you not know Death when you see it?\"<ref name=\"Siege of Gondor\" group=T/><ref name=\"Shippey 2005 Siege\"/> The scene forms, too, a picture of the \"unexistence of evil\",<ref name=\"Shippey 2005 Siege\"/> based on the [[Boethian]] philosophy that God is all-powerful, so evil is not the equal and opposite of good, but simply its absence:<ref name=\"Shippey 2005 Boethian\">{{harvnb|Shippey|2005|pages=131–133}}</ref> he forms \"a huge shadow\".<ref name=\"Shippey 2005 Siege\">{{harvnb|Shippey|2005|pages=242–243}}</ref>\n\nThe theologian [[George Hunsinger]] compares Tolkien's depiction of the Witch-king to the theologian [[Karl Barth]]'s analysis of evil. Barth's conception is embodied in his term {{lang|de|das Nichtige}}, \"nothingness\", which Hunsinger glosses as \"something dynamic and sinister ... an active cosmic power, a power of destruction, a power of chaos, negation, and ruin.\"<ref name=\"Hunsinger 2020\"/> The power of {{lang|de|das Nichtige}} is both \"outwardly repulsive\" and in Barth's words \"intrinsically evil\"; it can be described but not explained, and is defeated by God; it is wholly evil and serves no good purpose. It is both fearful and empty.<ref name=\"Hunsinger 2020\"/> \n\nHunsinger states that Tolkien's account of the Witch-king as he confronts Gandalf at the gate of Minas Tirith \"captures something of Barth's notion of {{lang|de|das Nichtige}}.\"<ref name=\"Hunsinger 2020\"/> He finds it especially relevant that the Witch-king is \"above all ... actual and yet empty at the same time\", and comments that Tolkiens \"dead but undead Black Rider is as good a symbol as any ... for Barth's impossible possibility.\"<ref name=\"Hunsinger 2020\"/>\n\nSimilarly, Hunsinger finds Tolkien's description of how Éowyn kills the Witch-king \"an image for the paradox of evil as something powerful and yet hollow at the same time.\" He notes that her sword shatters with her final stroke, but of her defeated foe, \"nothing is left\" in the empty mantle and hauberk.<ref name=\"Hunsinger 2020\">{{cite book |last=Hunsinger |first=George |chapter=Barth and Tolkien |title=Wiley Blackwell Companion to Karl Barth |publisher=[[Wiley-Blackwell]] |year=2020 |isbn=978-1-119-15656-7 |pages=693–700}}</ref>\n\nThe Episcopal priest and theologian [[Fleming Rutledge]] writes that whereas the \"pale king\", the invisible Witch-king of Angmar, is striving to kill Frodo, the real king, [[Aragorn]], who has been out of sight, in disguise as a [[Ranger (Middle-earth)|Ranger]], is doing all he can to heal him: the two kings are opposites.<ref name=\"Rutledge 2003\">{{cite book |last=Rutledge |first=Fleming |author-link=Fleming Rutledge |title=The battle for Middle-Earth: Tolkien's divine design in Lord of the rings |publisher=[[William B. Eerdmans Publishing Company|William B. Eerdmans]] |year=2003 |isbn=978-0-8028-2497-4 |oclc=52559213 |pages=85, 96}}</ref> She writes also that while the enemy visible to Gondor is the Men of [[Harad]] and the [[Easterling (Middle-earth)|Easterlings]], the real enemy is personified by the Witch-king.<ref name=\"Rutledge 2003\"/>\n\n{| style=\"margin-left: auto; margin-right: auto; border: none;\" class=\"wikitable\"\n|+ [[Fleming Rutledge]]'s comparison of the Witch-king and [[Aragorn]]<ref name=\"Rutledge 2003\"/>\n|-\n! Character !! Kingship !! Goal !! Visibility\n|-\n| Witch-king || Was King of Angmar || To kill the ring-bearer [[Frodo]] || Actually invisible\n|-\n| [[Aragorn]] || Has claim to be King of [[Gondor]] || To heal Frodo || Has been out of sight as a [[Ranger (Middle-earth)|Ranger]]\n|}\n\n=== Prophecy both true and false ===\n\n{{further|Shakespeare's influence on Tolkien}}\n\n[[File:Fuseli - Macbeth and the Witches.jpg|thumb|upright|Tolkien's use of prophecy about the Witch-king's death [[Shakespeare's influence on Tolkien|parallels Shakespeare's]], where the witches speak both truth and falsehood about [[Macbeth (character)|Macbeth]]'s death.<ref name=\"Shippey 2005 p205\"/> Painting by [[Henry Fuseli]]]]\n\nJulaire Andelin, in ''[[The J. R. R. Tolkien Encyclopedia]]'', writes that [[prophecy in Middle-earth]] depended on characters' understanding of the [[Music of the Ainur]], the divine plan for [[Arda (Middle-earth)|Arda]], and was often ambiguous. Thus, Glorfindel's prophecy \"not by the hand of Man will [the Lord of the Nazgûl] fall\" did not lead the Lord of the Nazgûl to suppose that he would die at the hands of a woman and a hobbit.<ref name=\"Gondor and the heirs of Anarion\" group=T/><ref>{{cite encyclopedia |last=Andelin |first=Julaire |title=Prophecy |editor-last=Drout |editor-first=Michael D. C. |editor-link=Michael D. C. Drout |encyclopedia=[[The J. R. R. Tolkien Encyclopedia]] |year=2013 |orig-year=2007 |publisher=[[Routledge]] |isbn=978-0-415-86511-1 |pages=544–545}}</ref>\n\nShippey states that the prophecy, and the Witch-king's surprise at finding Dernhelm to be a woman, [[Shakespeare's influence on Tolkien#Macbeth|parallel the witches' statement]] to [[Macbeth (character)|Macbeth]] in [[Shakespeare]]'s play of that name that he may \"laugh to scorn / The power of man, for none of woman born / Shall harm Macbeth\" (Act 4, scene 1), and Macbeth's shock at learning that Macduff \"was from his mother's womb / Untimely ripp'd\" (Act 5, scene 8), as Macduff was born by [[Caesarean section]]. Thus, Shippey notes, despite Tolkien's stated dislike of [[Shakespeare]]'s treatment of myth, he read ''[[Macbeth]]'' closely.<ref name=\"Shippey 2005 p205\">{{harvnb|Shippey|2005|pp=205–206}}</ref>\n\nThe Tolkien scholar [[Michael Drout]] identifies a further parallel with Shakespeare, one of several allusions to ''[[King Lear]]'' in ''The Lord of the Rings''. The Witch-king says \"Come not between the Nazgûl and his prey\", as the mad Lear says \"Come not between the dragon and his wrath\".<ref>{{cite journal |last=Drout |first=Michael D. C. |author-link=Michael Drout |title=Tolkien's Prose Style and its Literary and Rhetorical Effects |journal=[[Tolkien Studies]] |date=2004 |volume=1 |issue=1 |pages=137–163 |doi=10.1353/tks.2004.0006 |s2cid=170271511 |doi-access=free }}</ref>\n\n== Adaptations ==\n\nIn [[Peter Jackson]]'s 2001–2003 [[The Lord of the Rings (film series)|''The Lord of the Rings'' film trilogy]], during the siege of Minas Tirith, the Witch-king wears a distinctive helmet over his hood resembling a mask and a crown, rather than the crown worn underneath his hood in the book.<ref>{{cite web |last=Dembrow |first=Dylan |title=Lord Of The Rings: 20 Strangest Details About Witch-King's Anatomy |url=https://screenrant.com/lord-rings-witch-king-anatomy-trivia-details/ |website=ScreenRant |date=4 November 2018 |quote=To better distinguish him from his fellow Nazgul, the Witch-king was given additional armor and a large, pointed helm. In the novels, whenever his hood is thrown back, he is described as wearing a king's crown, which floats atop his invisible head and his burning eyes of fire.}}</ref> The Witch-king's mount is largely responsible for the death of Théoden and his horse Snowmane, a departure from the book. As confirmed in the films' [[audio commentary]], the design of the monsters was based largely on illustrations by John Howe.<ref name=\"Dellamorte 2011\">{{cite web |last=Dellamorte |first=Andrew |title=The Lord of the Rings: The Motion Picture Trilogy: Extended Edition Blu-ray Review |url=https://collider.com/lord-of-the-rings-extended-edition-blu-ray-review/ |website=Collider |access-date=11 March 2020 |date=20 June 2011}}</ref><ref name=\"Conlogue 2003\">See also {{cite news |last=Conlogue |first=Ray |title=Tolkien's Gentlemanly Art of War |url=https://www.theglobeandmail.com/arts/tolkiens-gentlemanly-art-of-war/article18440172/ |work=The Globe and Mail |date=16 December 2003}}</ref> \n<!--\n[[File:Darktower.jpg|thumb|upright=0.6|[[John Howe (illustrator)|John Howe]]'s illustration of the Witch-king's flying steed drove the design of the monsters in Peter Jackson's films.<ref name=\"Dellamorte 2011\"/>]]-->\n\nIn the first film of Jackson's 2012–2014 [[The Hobbit (film series)|''The Hobbit'' film trilogy]], the Wizard [[Radagast]] briefly encounters the Witch-king while investigating the forest fortress of [[Dol Guldur]].<ref>{{cite web |last=LaSala |first=Jeff |title=Extending The Desolation of Smaug: More Is More |url=https://www.tor.com/2014/11/14/more-is-more-extending-the-desolation-of-smaug/ |publisher=[[Tor.com]] |access-date=21 May 2020 |date=14 November 2014}}</ref>\n\nPéter Kristóf Makai, in ''[[A Companion to J. R. R. Tolkien]]'', writes that the 1976 [[Middle Earth (board game)|board game ''Middle Earth'']] provided the Witch-king with a choice of nine spells, against Gandalf's eleven. Some of these were shared, such as the ability to project a defensive lightning-bolt.<ref>{{cite book |last=Makai |first=Péter Kristóf |chapter=Games and Gaming: Quantasy |chapter-url=https://www.researchgate.net/publication/277700037 |title=[[A Companion to J. R. R. Tolkien]] |year=2014 |pages=530–544 |publisher=John Wiley & Sons |isbn=978-0-4706-5982-3 }}</ref>\n<!--\n    Please do not add anything here without citing a reliable source, it will be removed.\n-->\n\n== Notes ==\n\n{{notelist}}\n\n== References ==\n\n=== Primary ===\n\n{{reflist|group=T|28em}}\n\n=== Secondary ===\n{{reflist|28em}}\n\n=== Sources ===\n\n* {{ME-ref|Letters}} <!--Carpenter 1981-->\n* {{ME-ref|ROAD}}    <!--Shippey 2005-->\n* {{ME-ref|FOTR}}    <!--books 1-2 -->\n* {{ME-ref|ROTK}}    <!--books 5-6 -->\n* {{ME-ref|Silm}}    <!--Tolkien 1977-->\n* {{ME-ref|UT}}      <!--Tolkien 1980-->\n* {{ME-ref|TI}}      <!--Tolkien 1989-->\n* {{ME-ref|WotR}}    <!--Tolkien 1990-->\n* {{ME-ref|RC}}      <!--Hammond Scull 2005-->\n\n{{Lord of the Rings}}\n\n[[Category:Middle-earth Men]]\n[[Category:Fictional undead]]\n[[Category:The Lord of the Rings characters]]\n[[Category:Ring-bearers]]\n[[Category:Fictional kings]]",
+  "redirect_chain": [],
+  "revision_id": 1361189069,
+  "revision_timestamp": "2026-06-26T07:13:33Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "From Wizard to Witch-king"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "From Wizard to Witch-king"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Evil, the absence of good"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Evil, the absence of good"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Evil, the absence of good"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Evil, the absence of good"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Evil, the absence of good"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Evil, the absence of good"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Evil, the absence of good"
+      ],
+      "paragraph_ordinal": 7,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Evil, the absence of good"
+      ],
+      "paragraph_ordinal": 8,
+      "reason": "excluded by extractor policy: table",
+      "structure_type": "table"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Prophecy both true and false"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Prophecy both true and false"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Prophecy both true and false"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Prophecy both true and false"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Notes"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

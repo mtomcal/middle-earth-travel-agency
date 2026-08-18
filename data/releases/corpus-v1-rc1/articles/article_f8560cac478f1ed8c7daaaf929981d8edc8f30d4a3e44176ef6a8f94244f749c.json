@@ -1,0 +1,656 @@
+{
+  "article_artifact_id": "article_f8560cac478f1ed8c7daaaf929981d8edc8f30d4a3e44176ef6a8f94244f749c",
+  "canonical_title": "Rohan, Middle-earth",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_f8560cac478f1ed8c7daaaf929981d8edc8f30d4a3e44176ef6a8f94244f749c",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Rohan is a fictional kingdom of Men in J. R. R. Tolkien's fantasy setting of Middle-earth. Known for its horsemen, the Rohirrim, Rohan provides its ally Gondor with cavalry. Its territory is mainly grassland. The Rohirrim call their land the Mark or the Riddermark, names recalling that of the historical kingdom of Mercia, the region of Western England where Tolkien lived.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_ed5ee1767624b8b8d82adaff0226a8b1f3dd891d1d5b0c265e1ca4c4407b1984",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_f8560cac478f1ed8c7daaaf929981d8edc8f30d4a3e44176ef6a8f94244f749c",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Within the plot of The Lord of the Rings, Rohan plays a critical role in the action—first against the wizard Saruman in the Battle of the Hornburg, then in the climactic Battle of the Pelennor Fields. There, Théoden leads the Rohirrim to victory against the forces of Mordor; he is killed when his horse falls, but his niece Éowyn kills the leader of the Ringwraiths.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_2af373b717f4c8d51a4765f5e94585aefc713d01d94bc351cde339c06033b8d4",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_f8560cac478f1ed8c7daaaf929981d8edc8f30d4a3e44176ef6a8f94244f749c",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Tolkien grounded Rohan in elements inspired by Anglo-Saxon tradition, poetry, and linguistics, specifically in its Mercian dialect, in everything but its use of horses. Tolkien used Old English for the kingdom's language and names, pretending that this was in translation of Rohirric. Meduseld, the hall of King Théoden, is modelled on Heorot, the great hall in Beowulf.",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_70cf62a957579d265edbcfbe15c89e8cc708b6e8a1ee61f97c94d07ff4e4ca55",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_f8560cac478f1ed8c7daaaf929981d8edc8f30d4a3e44176ef6a8f94244f749c",
+      "heading_path": [
+        "Etymology"
+      ],
+      "normalized_text": "thumb|upright=0.6|Tolkien stated that there was no link between Rohan and the noble family of Brittany, though he borrowed the name. Stained-glass window depicting Marguerite de Rohan (c. 1330–1406)",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_7f7d78b9bc8d495ed0df5034056ec8cbd798958949bd57da42b3377c8bc25836",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_f8560cac478f1ed8c7daaaf929981d8edc8f30d4a3e44176ef6a8f94244f749c",
+      "heading_path": [
+        "Etymology"
+      ],
+      "normalized_text": "Tolkien's own account, in an unsent letter, gives both the fictional and the actual etymologies of Rohan:",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_9f8e65511364051dc0a1dfbfd6f5b0614bc4d7340ad66af5313a614672923d21",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_f8560cac478f1ed8c7daaaf929981d8edc8f30d4a3e44176ef6a8f94244f749c",
+      "heading_path": [
+        "Etymology"
+      ],
+      "normalized_text": "{{blockquote|Rohan is stated (III 391, 394) to be a later softened form of Rochand. It is derived from Elvish *rokkō ‘swift horse for riding’ (Q[uenya] rocco, S[indarin] roch) + a suffix frequent in names of lands [e.g. Beleriand, Ossiriand]. ...",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_14ff8bf3b1d2ca306636fe2df82775875c900a63fdfb8da204c1ff25dd613153",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_f8560cac478f1ed8c7daaaf929981d8edc8f30d4a3e44176ef6a8f94244f749c",
+      "heading_path": [
+        "Geography"
+      ],
+      "normalized_text": "thumb|upright=2.5|Sketch map of part of Middle-earth in the Third Age. Rohan is top centre, below the southern end of the Misty Mountains and Fangorn forest, and west of the River Anduin.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_3d2ea8c646bcf9bded269f8e23c9344db257e3ae1d813b4ca890bbfb309d58f8",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_f8560cac478f1ed8c7daaaf929981d8edc8f30d4a3e44176ef6a8f94244f749c",
+      "heading_path": [
+        "Geography",
+        "Capital"
+      ],
+      "normalized_text": "thumb|left|Mead hall at Borg, Norway",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_e94b951e4eef6e2404344ae9fb2f04cb94ca6eee614779e9eaca9428fd1f4423",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_f8560cac478f1ed8c7daaaf929981d8edc8f30d4a3e44176ef6a8f94244f749c",
+      "heading_path": [
+        "Culture",
+        "People"
+      ],
+      "normalized_text": "thumb|upright=1.35|Tolkien stated that the styles of the Bayeux Tapestry, showing horsemen fighting with spears and swords, and armoured with mail shirts and iron helmets, fitted the Rohirrim \"well enough\".",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_5a79c4b6d9834cc92c7f8f6bc30ac4eeef45585a37ab0771a6c10eac9e223cac",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_f8560cac478f1ed8c7daaaf929981d8edc8f30d4a3e44176ef6a8f94244f749c",
+      "heading_path": [
+        "Culture",
+        "People"
+      ],
+      "normalized_text": "In response to a query about clothing styles in Middle-earth, Tolkien wrote:",
+      "paragraph_ordinal": 6,
+      "passage_id": "passage_53c9d57507f7a02793e7ec5b0b9dafaf7daa86270087ffd5550ac5ef62e47d00",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_f8560cac478f1ed8c7daaaf929981d8edc8f30d4a3e44176ef6a8f94244f749c",
+      "heading_path": [
+        "Culture",
+        "Horses and warfare"
+      ],
+      "normalized_text": "thumb|upright|left|Anglo-Saxon arms and chainmail armour",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_ffcefcd11935be71bb474cdcce0ab7b4bd4ca02620829ac506dc9193d8127dc0",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_f8560cac478f1ed8c7daaaf929981d8edc8f30d4a3e44176ef6a8f94244f749c",
+      "heading_path": [
+        "Culture",
+        "Language"
+      ],
+      "normalized_text": "\"Thus spoke a forgotten poet long ago in Rohan, recalling how tall and fair was Eorl the Young, who rode down out of the North,\" Aragorn explains, after singing the Lament.",
+      "paragraph_ordinal": 7,
+      "passage_id": "passage_56b4f2588a99ab0640aa99b556c25743964b597cb27d0eb8b319d1578ef8998a",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_f8560cac478f1ed8c7daaaf929981d8edc8f30d4a3e44176ef6a8f94244f749c",
+      "heading_path": [
+        "History",
+        "Early history"
+      ],
+      "normalized_text": "In 2509, Cirion the Steward of Gondor summoned the Éothéod to help repel an invasion of Men from Rhûn and Orcs from Mordor. Eorl the Young, lord of the Éothéod, answered the summons, arriving unexpected at a decisive battle on the Field of Celebrant, routing the orc army. As a reward, Éorl was given the Gondorian province of Calenardhon (except for Isengard).",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_e177148aa1e943b53ebc7b6479241c82ab99aaa56977e5b24f22346d12ac32e8",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_f8560cac478f1ed8c7daaaf929981d8edc8f30d4a3e44176ef6a8f94244f749c",
+      "heading_path": [
+        "History",
+        "Kingdom of Rohan"
+      ],
+      "normalized_text": "In 2758, Rohan was invaded by Dunlendings under Wulf, son of Freca, of mixed Dunland and Rohan blood. The King, Helm Hammerhand, took refuge in the Hornburg until help from Gondor and Dunharrow arrived a year later. Soon after this Saruman took over Isengard, and was welcomed as an ally.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_5102bade8044e8fd2e7b67bfcf593b3ff2f4d8dc500c2cfe1489d8fc5681a22d",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_f8560cac478f1ed8c7daaaf929981d8edc8f30d4a3e44176ef6a8f94244f749c",
+      "heading_path": [
+        "Analysis"
+      ],
+      "normalized_text": "The Tolkien scholar Thomas Honegger, agreeing with Shippey's description of the Rohirrim as \"Anglo-Saxons on Horseback\", calls the sources for them \"quite obvious to anyone familiar with Anglo-Saxon literature and culture\". The resemblances, according to Honegger, include masterly horsemanship, embodying the Old English saying Éorl sceal on éos boge, éored sceal getrume rídan (\"The leader shall on horse's back, warband shall ride in a body\"). The Riders are a Germanic warrior-society, exemplifying the \"northern heroic spirit\", like the Anglo-Saxons. But the \"crucial\" fact is the language; Honegger notes that Tolkien had represented Westron speech as modern English; since Rohan spoke a related but older language, Old English was the natural choice in the same style; Tolkien's 1942 table of correspondences also showed that the language of the people of Dale was represented by Norse. Honegger notes that this does not equate the Rohirrim with the Anglo-Saxons (on horseback or not), but it does show a strong connection, making them \"the people most dear to Tolkien and all medievalists.\"",
+      "paragraph_ordinal": 6,
+      "passage_id": "passage_8b3365e1079013c9dfc07e64a4de2fd6cf821bcea7d378dce8d283ed8a8a9ca5",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Rohan%2C_Middle-earth&action=history",
+  "namespace": 0,
+  "page_id": 63469,
+  "parent_revision_id": 1339988601,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1358629215",
+  "raw_wikitext": "{{Short description|Fictional location in Middle-earth}}\n{{good article}}\n{{Use British English|date=May 2021}}\n{{Infobox fictional location\n| name         = Rohan\n| series       = [[Middle-earth]]\n| image        = Flag of the Kingdom of Rohan No Border.svg\n| caption      = Artist's impression of the flag of Rohan<ref group=T>{{harvnb|Return of the King|loc=Book VI Ch. 4, The Field of Cormallen|ref={{harvid|Tolkien|1955}}}}: \"white on green, a great horse running free\"</ref>\n| alt_name     = the Riddermark, Calenardhon, the Mark\n| type         = Adopted home of the Rohirrim\n| located_in   = North-west Middle-earth\n| blank_label1 = Lifespan\n| blank_data1  = Founded {{ME-date|TA|2510}}\n| blank_label2 = Founder\n| blank_data2  = Eorl the Young\n| ruler        = Kings of Rohan\n| first        = ''[[The Two Towers]]''\n| blank_label3 = Capital\n| blank_data3  = [[Aldburg]], then [[Edoras]]\n| locations    = [[Edoras]], [[Dunharrow]], [[Helm's Deep]]\n}}\n\n'''Rohan''' is a fictional kingdom of [[Men (Middle-earth)|Men]] in [[J. R. R. Tolkien]]'s fantasy setting of [[Middle-earth]]. Known for its horsemen, the '''Rohirrim''', Rohan provides its ally [[Gondor]] with [[cavalry]]. Its territory is mainly [[grassland]]. The Rohirrim call their land the Mark or the Riddermark, names recalling that of the historical kingdom of [[Mercia]], the region of Western England where Tolkien lived.\n\nWithin the plot of ''[[The Lord of the Rings]]'', Rohan plays a critical role in the action—first against the [[Wizard (Middle-Earth)|wizard]] [[Saruman]] in the [[Battle of the Hornburg]], then in the climactic [[Battle of the Pelennor Fields]]. There, Théoden leads the Rohirrim to victory against the forces of [[Mordor]]; he is killed when his horse falls, but his niece [[Éowyn]] kills the leader of the [[Ringwraith]]s.\n\nTolkien grounded Rohan in elements inspired by [[Anglo-Saxons|Anglo-Saxon]] tradition, poetry, and linguistics, specifically in its [[Mercian dialect]], in everything but its use of horses. Tolkien used [[Old English]] for the kingdom's language and names, [[Pseudotranslation in The Lord of the Rings|pretending that this was in translation]] of Rohirric. Meduseld, the hall of King [[Théoden]], is modelled on [[Heorot]], the great hall in ''[[Beowulf]]''.\n\n== Etymology ==\n\n[[File:ClissonNotreDameRoncierVitrail.jpg|thumb|upright=0.6|Tolkien stated that there was no link between Rohan and the noble family of Brittany, though he borrowed the name.<ref name=\"Tolkien Brittany\" group=T/> [[Stained-glass window]] depicting [[House of Rohan|Marguerite de Rohan]] (c.&nbsp;1330–1406)<!-- and her husband the Constable of [[Clisson]]--> ]]\n\nTolkien's own account, in an unsent letter, gives both the fictional and the actual etymologies of Rohan:\n\n{{blockquote|''Rohan'' is stated (III 391, 394) to be a later softened form of ''Rochand''. It is derived from Elvish ''*rokkō'' ‘swift horse for riding’ ([[Quenya|Q[uenya]]] ''rocco'', [[Sindarin|S[indarin]]] ''roch'') + a suffix frequent in names of lands [e.g. [[Beleriand]], [[Ossiriand]]]. ...\n\n''Rohan'' is a famous name, from [[Brittany]], borne by [[House of Rohan|an ancient proud and powerful family]]. I was aware of this, and liked its shape; but I had also (long before) invented the Elvish horse-word, and saw how Rohan could be accommodated to the linguistic situation as a late Sindarin name of the Mark (previously called ''Calenarðon'' 'the (great) green region') after its occupation by horsemen.  Nothing in the history of Brittany will throw any light on the Éorlingas. ...<ref name=\"Tolkien Brittany\" group=T>{{harvnb|Carpenter|2023|loc=#297 to Mr Rang, August 1967 }}</ref>}}\n\n== Geography ==\n\n{{further|Geography of Middle-earth}}\n\n[[File:Gondor sketch map.svg|thumb|upright=2.5|Sketch map of part of Middle-earth in the Third Age. Rohan is top centre, below the southern end of the Misty Mountains and [[Fangorn]] forest, and west of the River Anduin.]]\n\nIn Tolkien's Middle-earth, Rohan is an inland realm. Its countryside is described as a land of pastures and lush tall grassland which is frequently windswept. The meadows contain \"many hidden pools, and broad acres of [[Cyperaceae|sedge]] waving above wet and treacherous bogs\"<ref group=T>{{harvnb|Two Towers|loc=Book III, Chapter 5 \"The White Rider\"|ref={{harvid|Tolkien|1954}}}}</ref> that water the grasses. The cartographer [[Karen Wynn Fonstad]] calculated Rohan to be 52,763 square miles (136,656&nbsp;km<sup>2</sup>) in area (slightly larger than [[England]]).{{sfn|Fonstad|1994|page=191}}\n\n=== Borders ===\n\n{{anchor|Isengard}}\n\nRohan is bordered to the north by the [[Fangorn]] forest, home to the [[Ent]]s (tree-giants){{efn|[[Old English]] ''ent'' meant \"giant\", as in the phrase ''orþanc enta geweorc'', \"cunning work of giants\".{{sfn|Shippey|2001|p=88}}}} led by [[Treebeard]], and by the great river Anduin, called Langflood by the Rohirrim. To the northeast are the walls of Emyn Muil. After the War of the Ring, the kingdom is extended northwards over the Limlight to the borders of [[Lothlórien]].<ref name=\"ReferenceB\" group=T>{{harvnb|Peoples|loc=\"The making of Appendix A\"|p=273|ref={{harvid|Tolkien|1996}}}}</ref><ref group=T>{{harvnb|Unfinished Tales|loc=\"Cirion and Eorl and the Friendship of Gondor and Rohan\", (ii) The Ride of Eorl|ref={{harvid|Tolkien|1980}}}}</ref> To the east are the mouths of the River Entwash, and the Mering Stream, which separated Rohan from the Gondorian province of Anórien, known to the Rohirrim as Sunlending. To the south lie the [[White Mountains (Middle-earth)|White Mountains (''Ered Nimrais'')]]. To the west are the rivers Adorn and Isen, where Rohan borders the land of the [[Dunlendings]]. To the northwest, just under the southern end of the [[Misty Mountains]], lies the walled circle of Isengard around the ancient tower of Orthanc; at the time of the War of the Ring, it had been taken over by the evil [[Wizard (Middle-Earth)|wizard]] [[Saruman]]. The area of the western border where the Misty Mountains and the White Mountains drew near to each other is known as the Gap of Rohan.<ref name=\"ReferenceB\" group=T/>\n\n{{anchor|Edoras}}\n\n=== Capital ===\n\n{{anchor|Eorl the Young}}\n\nThe capital of Rohan is the fortified town of '''Edoras''', on a hill in a valley of the [[White Mountains (Middle-earth)|White Mountains]].<ref name=\"King of the Golden Hall\" group=T>{{harvnb|Two Towers|loc=book III ch. 6 \"The King of the Golden Hall\"|ref={{harvid|Tolkien|1954}}}}</ref> \"Edoras\" is Old English for \"enclosures\".<ref>{{harvnb|Bosworth|Toller|1898}}: [http://bosworth.ff.cuni.cz/009456 eodor]</ref> The town of Edoras was built by Rohan's second King, Brego son of Eorl the Young. The hill on which Edoras is built stands in the mouth of the valley of Harrowdale. The river Snowbourn flows past the town on its way east towards the Entwash. The town is protected by a high wall of timber.\n\n{{anchor|Meduseld}}\n\n[[File:Viking longhouse - Borg 01.jpg|thumb|left|[[Mead hall]] at [[Borg, Norway]]]]\n\n'''Meduseld''', the Golden Hall of the Kings of Rohan, is in the centre of the town at the top of the hill.<ref name=\"King of the Golden Hall\" group=T/> \"Meduseld\", Old English for \"[[mead hall]]\",<ref>{{harvnb|Bosworth|Toller|1898}}: [http://bosworth.ff.cuni.cz/022577 medu-seld]</ref> is meant to be a translation of an unknown Rohirric word with the same meaning. Meduseld is based on the mead hall [[Heorot]] in ''[[Beowulf]]''; it is a large hall with a thatched roof that appears golden from far off. The walls are richly decorated with tapestries depicting the history and legends of the Rohirrim, and it serves as a house for the King and his kin, a meeting hall for the King and his advisors, and a gathering hall for ceremonies and festivities. It is at Meduseld that [[Aragorn]], [[Gimli (Middle-earth)|Gimli]], [[Legolas]], and [[Gandalf]] meet with King [[Théoden]].<ref name=\"King of the Golden Hall\" group=T/> Legolas describes Meduseld in a line that [[Beowulf and Middle-earth|directly translates a line of ''Beowulf'']], \"The light of it shines far over the land\", representing ''líxte se léoma ofer landa fela''.<ref>{{harvnb|Shippey|2005|p=141}}: it is line 311 of ''[[Beowulf]]''.</ref> The hall is [[Anachronism in Middle-earth|anachronistically]] described as having [[Louver|louvres]] to remove the smoke, derived from [[William Morris]]'s 1889 ''[[The House of the Wolfings]]''.{{sfn|Wynne|2006|p=575}}<ref>{{cite book |last=Morris |first=William |author-link=William Morris |title=The House of the Wolfings |date=1904 |orig-year=1889 |publisher=[[Longmans, Green, and Co.]] |chapter=Chapter 1 |url=http://www.gutenberg.org/files/2885/2885-h/2885-h.htm |quote=In the aisles were the sleeping-places of the Folk, and down the nave under the crown of the roof were three hearths for the fires, and above each hearth a luffer or smoke-bearer to draw the smoke up when the fires were lighted.}}</ref>{{Clear}}\n\n=== Other settlements ===\n\n{{anchor|Firienfeld|Dunharrow|Harrowdale|Snowbourne|Aldburg}}\n\nUpstream from Edoras, deeper into Harrowdale, are the hamlets of Upbourn and Underharrow. At the head of [[Dunharrow]] (from Old English ''Dûnhaerg'', \"the heathen fane on the hillside\"<ref>{{harvnb|Lobdell|1975|p=183}}</ref>) is a refuge, Firienfeld, in the White Mountains.<ref name=\"The Muster of Rohan\" group=T>{{harvnb|Two Towers|loc=Book III, Chapter 5 \"The Muster of Rohan\"|ref={{harvid|Tolkien|1954}}}}</ref> Aldburg, capital of the Eastfold, is the original settlement of Eorl the Young. The Hornburg, a major fortress guarding the western region, is in [[Helm's Deep]], a valley in the White Mountains.<ref name=\"Helm's Deep\" group=T>{{harvnb|Two Towers|loc=Book III, Chapter 7 \"Helm's Deep\"|ref={{harvid|Tolkien|1954}}}}</ref>\n\n=== Regions ===\n\nThe kingdom of Rohan, also called the Mark, is primarily divided into two regions, the East-mark and the West-mark. They are each led by a marshal of the kingdom. Rohan's capital, Edoras, lies in a small but populous region in the centre south of the kingdom, the Folde.<ref group=T>{{harvnb|Nomenclature|p=771|ref={{harvid|Tolkien|1967}}}}</ref> In an earlier concept, Rohan's capital region was called the King's Lands, of which the Folde was a sub-region to the south-east of Edoras.<ref group=T>{{harvnb|Unfinished Tales|loc=part 3, ch. V. Appendix (i)|p=367|ref={{harvid|Tolkien|1980}}}}</ref> North of the Folde, the boundary between the East-mark and West-mark runs along the Snowbourn River and the Entwash.<ref group=T>{{harvnb|Unfinished Tales|loc=part 3, ch. V. Appendix (i), footnote|p=367|ref={{harvid|Tolkien|1980}}}}</ref> Most of the rest of Rohan's population is spread along the foothills of the [[White Mountains (Middle-earth)|White Mountains]] in both directions from the Folde. In the West-mark the Westfold extends along the mountains to [[Helm's Deep]] (the defensive centre of Westfold) and to the Gap of Rohan. Beyond the Gap of Rohan lies the West Marches, the kingdom's far west borderland.<ref name=\"Helm's Deep\" group=T/> The Eastfold extends along the White Mountains in the opposite direction (and was thus a part of the East-mark). It is bound by the Entwash to the north. Its eastern borderland is called the Fenmarch; beyond this lies the Kingdom of Gondor.<ref name=\"Road to Isengard\" group=T>{{harvnb|Two Towers|loc=book III, ch. 8 \"Road to Isengard\"|ref={{harvid|Tolkien|1954}}}}</ref>\n\nThe centre of Rohan is a large plain, divided by the Entwash into the East Emnet and the West Emnet.<ref group=T>{{harvnb|Nomenclature|pp=769, 778|ref={{harvid|Tolkien|1967}}}}</ref> These regions fell respectively into the East-mark and the West-mark. The northernmost region of Rohan, and the least populous, is the Wold. The Field of Celebrant (named for a synonym of the River [[Silverlode]]), even further north, is added to Rohan after the [[War of the Ring]].<ref group=T>{{harvnb|Peoples|loc=part 1, ch. IX (iii)|p=273|ref={{harvid|Tolkien|1996}}}}</ref>\n\n== Culture ==\n\n{{further|Beowulf in Middle-earth#Rohan}}\n\n=== People ===\n\n[[File:Uffington-White-Horse-sat.jpg<!--File:Uffington White Horse layout.png-->|thumb|left|The [[Uffington White Horse]], from where according to the Tolkien scholar [[Tom Shippey]] the [[Heraldry of Middle-earth#Men|emblem of the House of Éorl]] – a \"white horse upon green\" – is derived.<ref name=\"Shippey banner\">{{harvnb|Shippey|2005|p=150}}</ref>]]\n\nThe Rohirrim are distantly related to the [[Dúnedain]] of [[Gondor]], having descended from the same place. Unlike the inhabitants of Gondor, who are portrayed as enlightened and highly civilized, the Rohirrim are shown as being at a lower level of enlightenment.<ref>{{cite book |title=The Mythology of Middle-earth |first=Ruth S. |last=Noel |page=81 |year=1977 |publisher=[[Houghton Mifflin]] |isbn=978-0-39525-006-8}}</ref>\n\nThe names and many details of Rohirric culture are derived from Germanic cultures, particularly that of the [[Anglo-Saxons]] and their Old English language, towards which Tolkien felt a strong affinity. Anglo-Saxon England was defeated by the cavalry of the Normans at the [[Battle of Hastings]], and some Tolkien scholars have suggested that the Rohirrim are Tolkien's wishful version of an Anglo-Saxon society that retained a \"rider culture\", and would have been able to resist such an invasion.<ref name=\"Honegger 2011\">{{cite book |last1=Honegger |first1=Thomas |author1-link=Thomas Honegger |editor-last=Fisher |editor-first=Jason |editor-link=Jason Fisher |chapter=The Rohirrim: 'Anglo-Saxons on Horseback'? An inquiry into Tolkien's use of sources |title=Tolkien and the Study of His Sources: Critical Essays |date=2011 |pages=116–132 |url=https://www.academia.edu/12236274 |publisher=[[McFarland (publisher)|McFarland]]}}</ref> The Tolkien scholar [[Tom Shippey]] notes that Tolkien derived the [[Heraldry of Middle-earth#Men|emblem of the House of Éorl]], a \"white horse upon green\", from the [[Uffington White Horse]] carved into the grass of the [[chalk]] downs in England.<ref name=\"Shippey banner\"/>\n\n[[File:Bayeux Tapestry Scene 52 (infantry and cavalry styles).png|thumb|upright=1.35<!--format for low image-->|Tolkien stated that the styles of the [[Bayeux Tapestry]], showing horsemen fighting with spears and swords, and armoured with mail shirts and iron helmets, fitted the Rohirrim \"well enough\".<ref name=\"Letter 211\" group=T/>]]\n\nWhile Tolkien represents the Rohirrim with Anglo-Saxon culture and language, their ancestors are given Gothic attributes. The names of Rhovanion's royal family (ancestors to the Rohirrim<ref name=\"Tolkien Gothic\" group=T/>) include such names as Vidugavia, Vidumavi and Vinitharya, which are of [[Gothic language|Gothic]] origin. Vidugavia specifically has been seen as a synonym for [[Vitiges]], king of the [[Ostrogoths]] in Italy from 536 to 540.<ref>{{cite book |first=Jane |last=Chance |author-link=Jane Chance |title=Tolkien and the Invention of Myth: A Reader |title-link=Tolkien and the Invention of Myth |pages=107–108 |publisher=[[University Press of Kentucky]] |year=2004 |isbn=978-0-8131-2301-1}}</ref> Tolkien saw this as [[Pseudotranslation in The Lord of the Rings#Complex implications|a parallel with the real-world relationship between Old English]] and [[Gothic language|Gothic]].<ref>{{harvnb|Solopova|2009|p=51}}</ref>\n\nIn response to a query about clothing styles in [[Middle-earth]], Tolkien wrote:\n\n{{blockquote|The Rohirrim were not \"medieval\", in our sense. The styles of the [[Bayeux Tapestry]] (made in England) fit them well enough, if one remembers that the kind of tennis-nets [the] soldiers seem to have on are only a clumsy conventional sign for [[Mail (armour)|chainmail]] of small rings.<ref name=\"Letter 211\" group=T>{{harvnb|Carpenter|2023|loc=No. 211 to Rhona Beare, 14 October 1958 }}</ref>}}\n\n=== Horses and warfare ===\n\n[[File:91e6dd9c06a36603214fcbe787c1169b--anglo-saxon-chain-mail.jpg|thumb|upright|left|Anglo-Saxon arms and [[chainmail]] armour]]\n\nThe armies of Rohan were largely horsemen. The basic tactical unit was the ''éored'', Old English for \"a unit of cavalry, a troop\",<ref name=\"eored\">{{harvnb|Bosworth|Toller|1898}}: [http://bosworth.ff.cuni.cz/009509 eóred], troop [of cavalry]</ref> which at the time of the [[War of the Ring]] had a nominal strength of 120 riders.<ref group=T>{{harvnb|Unfinished Tales|loc=n. 26|p=326|ref={{harvid|Tolkien|1980}}}}</ref>\n\n{{anchor|Warning beacons of Gondor}}\nIn time of war, every able man was obliged to join the Muster of Rohan. Rohan was bound by the Oath of Éorl to help [[Gondor]] in times of peril, and the latter asked for their aid through the giving of the [[Red Arrow (Middle-earth)|Red Arrow]]. This has a historical antecedent in the Old English poem ''[[Elene (poem)|Elene]]'', in which [[Constantine the Great]] summoned an army of mounted [[Visigoths]] to his aid against the [[Huns]] by sending an arrow as a \"token of war\".<ref>{{cite web |last=Howard |first=Scott |title=Recreating Beowulf's 'Pregnant Moment of Poise': Pagan Doom and Christian Eucatastrophe Made Incarnate in the Dark Age Setting of The Lord of the Rings |publisher=University of Montana |url=https://scholarworks.umt.edu/cgi/viewcontent.cgi?article=1824&context=etd |date=21 March 2008}}</ref> Gondor could also call the Rohirrim in need by lighting the [[Beacon (signal fire)|warning beacons]] of Gondor<!--redirects here-->, seven  signal fires along the White Mountains from [[Minas Tirith]] to the Rohan border: ''Amon Dîn'', ''Eilenach'', ''Nardol'', ''Erelas'', ''Min-Rimmon'', ''Calenhad'' and ''Halifirien''.<ref name=\"Beacon-Hills\" group=T>{{cite web |last1=Tolkien |first1=J. R. R. |last2=Hostetter |first2=Carl F. |author2-link=Carl F. Hostetter |last3=Tolkien |first3=Christopher |author3-link=Christopher Tolkien |title=The Rivers and Beacon - hills of Gondor |url=https://epdf.pub/the-rivers-and-beacon-hills-of-gondor105fd73767942352604c470bca4fe66679457.html |publisher=EPDF |date=2001}}<!--Part was published in ''[[Vinyar Tengwar]]'', No. 42, July 2001.--></ref>\n\n[[File:Beacon Hill, Leicestershire.jpg|thumb|[[Beacon#For defensive communications|Signal beacons]] like those between Gondor and Rohan were once used in England, as at [[Beacon Hill, Leicestershire]].<ref>{{cite encyclopedia |chapter=Beacon |title=[[National Cyclopaedia of Useful Knowledge|The National Cyclopaedia of Useful Knowledge]] |volume=III |year=1847 |publisher=[[Charles Knight (publisher)|Charles Knight]] |location=London |page=25}}</ref>]]\n\nAt the start of the [[War of the Ring]] a Full Muster would have been over 12,000 riders.<ref group=T>{{harvnb|Unfinished Tales|p=315|ref={{harvid|Tolkien|1980}}}}: \"a Full Muster would probably have produced many more than twelve thousand riders\"</ref> Among the horses of the Rohirrim were the famed ''mearas'', the noblest and fastest horses that ever roamed [[Arda (Middle-earth)|Arda]]. It was because of the close affiliation with horses, both in war and peace, that they received their name.<ref group=T>{{harvnb|Unfinished Tales|loc=part 3 ch. 2(iii)|p=307|ref={{harvid|Tolkien|1980}}}}</ref>\n\n=== Language ===\n\n{{further|Languages constructed by J. R. R. Tolkien|Poetry in The Lord of the Rings}}\n\nTolkien generally called the language simply \"the language of Rohan\" or \"of the Rohirrim\". The adjectival form \"Rohirric\" is common; Tolkien once also used \"Rohanese\".<ref name=\"Beacon-Hills\" group=T/> Like many languages of [[Man (Middle-earth)|Men]], it is akin to [[Adûnaic]], the language of [[Númenóreans]], and therefore to the [[Westron]] or Common Speech.{{sfn|Solopova|2009|p=84}}\n\n[[File:Linguistic Map of Middle-Earth.svg|thumb|left|upright=1.35|Tolkien invented parts of [[Middle-earth]] to resolve the linguistic puzzle he had accidentally created by using different European languages for those of peoples in his legendarium, [[Pseudotranslation in The Lord of the Rings|pretending that he had translated the Middle-earth languages]].{{sfn|Shippey|2005|pp=131–133}}<ref name=\"Letters Languages\" group=T>''[[Letters of J. R. R. Tolkien|Letters]]'', #144, to [[Naomi Mitchison]], 25 April 1954</ref>]]\n\nThe Rohirrim called their homeland the ''Riddermark,'' a modernization by Tolkien of Old English ''Riddena-mearc'', meaning, according to the Index to ''The Lord of the Rings'', \"the border country of the knights\"; also ''Éo-marc'', the ''Horse-mark'', or simply the ''[[Marches|Mark]]''.<ref>{{harvnb|Bosworth|Toller|1898}}: [http://bosworth.ff.cuni.cz/022482 mearc]</ref> They call themselves the ''Éorlingas'', the Sons of Éorl. Tolkien rendered the language of the Riders of Rohan, [[Rohirric]], as the [[Mercian dialect]] of Old English. Even words and phrases that were printed in [[English language|modern English]] showed a strong Old English influence.<ref group=T>{{harvnb|Return of the King|loc=Appendix F, On Translation|ref={{harvid|Tolkien|1955}}}}</ref> This solution occurred to Tolkien <!--in 1942--> when he was searching for an explanation of the [[Edda]]ic names of the dwarves already published in ''[[The Hobbit]]''.{{sfn|Shippey|2005|pp=131–133}} Tolkien, a [[philologist]], with a special interest in [[Germanic languages]], [[Pseudotranslation in The Lord of the Rings|pretended that the names and phrases of Old English were translated]] from Rohirric, just as the English used in [[The Shire]] was supposedly translated from Middle-earth's [[Westron|Westron or Common Speech]].{{sfn|Shippey|2005|pp=131–133}}<ref name=\"Letters Languages\" group=T/> Examples include ''éored''<ref name=\"eored\"/> and ''mearas''.<ref name=\"mearas\">{{harvnb|Bosworth|Toller|1898}}: [http://bosworth.ff.cuni.cz/022508 mearh], horse, cf. modern English \"mare\".</ref> The Riders' names for the cunningly-built tower of Isengard, Orthanc, and for the Ents, the tree-giants of Fangorn forest, are similarly Old English, both being found in the phrase ''orþanc enta geweorc'', \"cunning work of giants\" in the poem ''[[The Ruin]]'',{{sfn|Cusack|2011|page=172}} though Shippey suggests that Tolkien may have chosen to read the phrase also as \"Orthanc, the Ent's fortress\".{{sfn|Shippey|2001|p=88}}\n\n{{anchor|The Wanderer}}\nIn ''[[The Two Towers]]'', chapter 6, the Riders of Rohan are introduced before they are seen, by [[Aragorn]], who chants in the language of the Rohirrim words \"in a slow tongue unknown to the [[Elf (Middle-earth)|Elf]] and the [[Dwarf (Middle-earth)|Dwarf]]\", a ''[[Lai (poetic form)|lai]]'' that [[Legolas]] senses \"is laden with the sadness of Mortal [[Man (Middle-earth)|Men]]\". The song is called the ''Lament of the Rohirrim''. To achieve a resonant sense of the lost past, the now-legendary time of a peaceful alliance of the Horse-lords with the realm of [[Gondor]], Tolkien adapted the short ''[[Ubi sunt]]'' (\"Where are they?\") passage of the Old English poem ''[[The Wanderer (Old English poem)|The Wanderer]]''.<ref name=\"Shippey Wanderer\">{{harvnb|Shippey|2005|pages=139–149}}</ref>{{sfn|Sipahi|2016|pages=43–46}}{{sfn|Lee|Solopova|2005|pages=47–48, 195–196}}{{sfn|Lee|2009|page=203}}{{Clear}}\n\n{| class=\"wikitable\" style=\"margin:1em auto;\"\n|+ Tolkien adapted the ''[[Ubi sunt]]'' passage of the [[Old English]] poem ''The Wanderer'' to create a song of Rohan.<ref name=\"Shippey Wanderer\"/>\n|-\n! ''[[The Wanderer (Old English poem)|The Wanderer]]''<br/>92–96 !! ''The Wanderer''<br/>in modern English !! ''Lament of the Rohirrim''<br/>by J. R. R. Tolkien<ref name=\"Lament\" group=T>{{harvnb|Two Towers|loc=ch. 6|ref={{harvid|Tolkien|1954}}}}</ref>\n|-\n| ''Hwær cwom mearg? Hwær cwom mago?<br/>Hwær cwom maþþumgyfa?<br/>Hwær cwom symbla gesetu?\t<br/>Hwær sindon seledreamas?<br/>Eala beorht bune!<br/>Eala byrnwiga!<br/>Eala þeodnes þrym!<br/>Hu seo þrag gewat,<br/>genap under nihthelm,<br/>swa heo no wære.''\n| Where is the horse? where the rider?<br/>Where the giver of treasure?<br/>Where are the seats at the feast?<br/>Where are the revels in the hall?<br/>Alas for the bright cup!<br/>Alas for the mailed warrior!<br/>Alas for the splendour of the prince!<br/>How that time has passed away,<br/>dark under the cover of night,<br/>as if it had never been. \n| Where now the horse and the rider? Where is the horn that was blowing?<br/>Where is the [[Middle-earth weapons and armour#Helmets|helm]] and the [[hauberk]], and the bright hair flowing?<br/>Where is the hand on the harp-string, and the red fire glowing?<br/>Where is the spring and the harvest and the tall [[Wheat|corn]] growing?<br/>They have passed like rain on the mountain, like a wind in the meadow;<br/>The days have gone down in the West behind the hills into shadow.<br/>Who shall gather the smoke of the dead wood burning?<br/>Or behold the flowing years from [[Belegaer|the Sea]] returning?\n|}\n\n\"Thus spoke a forgotten poet long ago in Rohan, recalling how tall and fair was Eorl the Young, who rode down out of the North,\" Aragorn explains, after singing the ''Lament''.<ref name=\"Lament\" group=T/>\n\n== History ==\n\n=== Early history ===\n\nIn the 13th century of the [[Third Age]], the Kings of Gondor made close alliances with the Northmen of [[Rhovanion]], a people said in ''The Lord of the Rings'' to be akin to the [[Three Houses of Men]] (later the [[Dúnedain]]) from the [[First Age]]. In the 21st century, a remnant tribe of such Northmen, the '''Éothéod''', moved from the valleys of [[Geography of Middle-earth#Rhovanion|Anduin]] to the northwest of [[Mirkwood]], disputing with the [[Dwarf (Middle-earth)|Dwarves]] over the treasure-hoard of [[Scatha the Worm|Scatha the dragon]].<ref name=\"House of Éorl\" group=T>{{harvnb|Return of the King|loc=Appendix A, II The House of Éorl|ref={{harvid|Tolkien|1955}}}}</ref>\n\nIn 2509, Cirion the [[Steward of Gondor]] summoned the Éothéod to help repel an invasion of Men from [[Rhûn]] and [[Orc (Middle-earth)|Orcs]] from [[Mordor]]. Eorl the Young, lord of the Éothéod, answered the summons, arriving unexpected at a decisive battle on the Field of Celebrant, routing the orc army. As a reward, Éorl was given the Gondorian province of [[Calenardhon]] (except for Isengard).<ref name=\"House of Éorl\" group=T/>\n\n=== Kingdom of Rohan ===\n\n[[File:Gamla uppsala viking grave mounds - panoramio.jpg|thumb|upright=1.7|Line of Viking royal [[grave mound]]s at [[Gamla Uppsala]], like those at Edoras{{sfn|Shippey|2001|p=97}}]]\n\nEorl the Young founded the Kingdom of Rohan in the former Calenardhon; the royal family was known as the House of Eorl. The first line of kings lasted for 249 years, until the ninth king Helm Hammerhand died. His sons had been killed earlier, and his nephew Fréaláf Hildeson began the second line of kings, which lasted until the end of the Third Age. The two lines of kings are buried in two lines of [[grave mound]]s below the royal hall at Edoras,<ref name=\"House of Éorl\" group=T/> like those at [[Gamla Uppsala]] in Sweden, or [[Sutton Hoo]] in England.{{sfn|Shippey|2001|p=97}}\n\nIn 2758, Rohan was invaded by [[Dunland|Dunlendings]] under Wulf, son of Freca, of mixed Dunland and Rohan blood. The King, Helm Hammerhand, took refuge in the [[Helm's Deep|Hornburg]] until help from [[Gondor]] and [[Dunharrow]]  arrived a year later. Soon after this [[Saruman]] took over Isengard, and was welcomed as an ally.<ref name=\"House of Éorl\" group=T/>\n\n=== War of the Ring ===\n[[Saruman]] used his influence through the traitor [[Grima Wormtongue]] to weaken [[Théoden]]. Saruman then launched an invasion of Rohan, with victory in early battles at the Fords of Isen, killing Théoden's son, Théodred.<ref name=\"Chronology\" group=T>{{harvnb|Return of the King|loc=Appendix B \"The Great years\"|ref={{harvid|Tolkien|1955}}}}</ref> Saruman was defeated at the [[Battle of the Hornburg]], where the tree-like [[Huorn]]s came from the forest of Fangorn to help the Rohirrim.<ref name=\"Helm's Deep\" group=T/>\n\nThéoden then rode with his army to [[Minas Tirith]], helping to break its siege in the [[Battle of the Pelennor Fields]] and killing the leader of the [[Haradrim]], but was killed when his horse fell. He was succeeded by his nephew [[Éomer]]. His niece [[Éowyn]] and the hobbit [[Merry Brandybuck]] killed the [[Witch-king of Angmar|Lord of the Nazgûl]].<ref name=\"Siege of Gondor\" group=T>{{harvnb|Return of the King|loc=Siege of Gondor|ref={{harvid|Tolkien|1955}}}}</ref>\n\nÉomer rode with the armies of [[Gondor]] to the [[Black Gate (Middle-earth)|Black Gate]] of Mordor and took part in the [[Battle of the Morannon]] against the forces of [[Sauron]]. At this time, the destruction of the [[One Ring|Ruling Ring]] in Mount Doom ended the battle and the war.<ref group=T>{{harvnb|Return of the King|loc=\"The Black Gate Opens\", and \"The Field of Cormallen\"|ref={{harvid|Tolkien|1955}}}}</ref> Éowyn married [[Faramir]], Prince of [[Ithilien]].<ref group=T>{{harvnb|Return of the King|loc=\"The Steward and the King\"|ref={{harvid|Tolkien|1955}}}}</ref>\n\n== Analysis ==\n\n[[File:Cavalier Garde Républicaine trois-quart dos.jpg|thumb|upright|A [[panache]], the horsetail plume on a cavalry helmet (here, the French [[Garde Républicaine]]), and according to [[Tom Shippey]] the name for Rohan's defining \"virtue of sudden onset\", since it streams dramatically in a cavalry charge.{{sfn|Shippey|2005|pp=142–145}}]]\n\n{{further|Beowulf and Middle-earth}}\n\nThe Tolkien scholar [[Jane Chance]] writes that Théoden is transformed by Gandalf into a good bold \"Germanic king\"; she contrasts this with the failure of \"the proud [[Beorhtnoth]]\" in the Old English poem ''[[The Battle of Maldon]]''. In her view, in the account of the battle of Helm's Deep, the fortress of the Riddermark, Tolkien is emphasising the Rohirrim's physical prowess.<ref name=\"Nitzsche 1980\">{{cite book |last=Nitzsche |first=Jane Chance |author-link=Jane Chance |title=Tolkien's Art |date=1980 |orig-year=1979 |publisher=[[Papermac]] |isbn=0-333-29034-8 |pages=114–118}}</ref>\n\nJane Ciabattari writes on [[BBC]] Culture that [[Women in The Lord of the Rings#Éowyn|Lady Éowyn's fear of being caged]] rather than \"doing great deeds\" by riding to battle with the Rohirrim resonated with 1960s [[Feminism|feminists]], contributing to the success of ''Lord of the Rings'' at that time.<ref name=\"Ciabattari 2014\">{{cite web |last1=Ciabattari |first1=Jane |title=Hobbits and hippies: Tolkien and the counterculture |website=[[BBC]] Culture |url=http://www.bbc.com/culture/story/20141120-the-hobbits-and-the-hippies |date=20 November 2014}}</ref>\n\nThe philologist and Tolkien scholar [[Tom Shippey]] notes that the Riders of Rohan are, despite Tolkien's protestations, much like the ancient English (the Anglo-Saxons), but that they differed from the ancient English in having a culture based on horses. They use many Old English words related to horses; their name for themselves is ''Éotheod'', horse-people, and the names of riders like Éomund, Éomer, and Éowyn begin with the word for \"horse\", ''eo[h]''.<ref name=\"Shippey eo(h)\">{{harvnb|Shippey|2005|page=140}}</ref> In Shippey's view, a defining virtue of the Riders is [[panache]], which he explains means both \"the white horsetail on [Éomer's] helm floating in his speed\" and \"the virtue of sudden onset, the dash that sweeps away resistance.\"{{sfn|Shippey|2005|pp=142–145}} Shippey notes that this allows Tolkien to display Rohan both as English, based on their Old English names and words like ''éored'' (\"troop of cavalry\"), and as \"alien, to offer a glimpse of the way land shapes people\".{{sfn|Shippey|2005|pp=142–145}} \nShippey states further that \"the Mark\" (or the Riddermark{{sfn|Hammond|Scull|2005|p=248}}), the land of the Riders of Rohan – all of whom have names in the Mercian dialect of Old English, was once the usual term for central England, and it would have been pronounced and written \"marc\" rather than the West Saxon \"mearc\" or the Latinized \"Mercia\".{{sfn|Shippey|2005|pp=111, 139–140}}\n\nThe Tolkien scholar [[Thomas Honegger]], agreeing with Shippey's description of the Rohirrim as \"Anglo-Saxons on Horseback\", calls the sources for them \"quite obvious to anyone familiar with Anglo-Saxon literature and culture\".<ref name=\"Honegger 2011\"/> The resemblances, according to Honegger, include masterly horsemanship, embodying the Old English saying ''Éorl sceal on éos boge, éored sceal getrume rídan'' (\"The leader shall on horse's back, warband shall ride in a body\").<ref name=\"Honegger 2011\"/> The Riders are a Germanic warrior-society, exemplifying the \"northern heroic spirit\", like the Anglo-Saxons.<ref name=\"Honegger 2011\"/> But the \"crucial\" fact is the language; Honegger notes that Tolkien had [[Pseudotranslation in The Lord of the Rings|represented Westron speech as modern English]]; since Rohan spoke a related but older language, Old English was the natural choice in the same style; Tolkien's 1942 table of correspondences also showed that the language of the people of Dale was represented by [[Old Norse|Norse]]. Honegger notes that this does not equate the Rohirrim with the Anglo-Saxons (on horseback or not), but it does show a strong connection, making them \"the people most dear to Tolkien and all medievalists.\"<ref name=\"Honegger 2011\"/>\n\n[[File:Pre-Rohirric, Westron, Gothic, Old English, Modern English.svg|thumb|upright=1.75|center|The mapping of [[Old English]] to Modern English is like the mapping of [[Rohirric]] to [[Westron]], and Tolkien uses the two Germanic languages [[Pseudotranslation in The Lord of the Rings|to represent the two Middle-earth languages]].<ref name=\"Tolkien Rohanese\" group=T>{{harvnb|Tolkien|2001|p=8}}</ref> Further, Tolkien uses [[Gothic language|Gothic]] names for the early leaders of the Northmen of Rhovanion, ancestors of Rohan.<ref name=\"Tolkien Gothic\" group=T>{{harvnb|Tolkien|1980|p=311}}</ref>{{sfn|Smith|2020|pp=202–214}} ]]\n\n== Portrayal in adaptations ==\n\n{{ multiple image | align=right | direction=vertical | total_width=220 | image1=Edoras.jpg  | caption1=Edoras in ''The Lord of the Rings'' films | image2=Mount Sunday, Canterbury, New Zealand, June 2007 (cropped for film still comparison)).jpg  | caption2=[[Mount Sunday]], New Zealand |footer = }}\n\n{{See also|Mount Sunday}}\n\nFor [[Peter Jackson]]'s [[The Lord of the Rings (film series)|''The Lord of the Rings'' film trilogy]], the Poolburn Reservoir in [[Central Otago]], New Zealand was used for Rohan scenes.<ref name=\"Rohan Film Location\">{{cite web| title=New Zealand The Home of Middle-earth |publisher=Film New Zealand |url=http://www.filmnz.com/middleearth/locations/index.html |access-date=2007-04-17 |url-status=dead |archive-url=https://web.archive.org/web/20070403181410/http://www.filmnz.com/middleearth/locations/index.html |archive-date=2007-04-03}}</ref> The theme for Rohan is played on a [[Hardanger fiddle]].<ref>{{cite news |last1=Schremmer |first1=Jessica |title=Scandinavian Hardanger fiddles played in Lord of the Rings soundtracks trending in Australia |url=https://www.abc.net.au/news/2019-05-12/hardanger-fiddle-makers/11100928 |work=ABC News |date=11 May 2019 |quote=Traditionally used to play Norwegian folk repertoire, the Hardanger fiddle gained international fame when played in the soundtracks of The Lord of the Rings, providing the main voice for the Rohan theme.}}</ref> \n\nA fully realised set for Edoras was built on [[Mount Sunday]] in the upper reaches of the [[Rangitata River|Rangitata Valley]], near Erewhon in New Zealand. Some of the set was built digitally, but the main buildings atop the city were built on location; the mountain ranges in the background were part of the actual location shot. The interiors of buildings such as the Golden Hall, however, were located on soundstages in other parts of New Zealand; when the camera is inside of the Golden Hall, looking out the open gates, the image of the on-set Edoras set is digitally inserted into the door-frame. The site was known among the cast and crew for being extremely windy, as can be seen during the film and DVD interviews. After filming, Mount Sunday was returned to its original state, but even with no remaining set the location is a popular [[Tolkien tourism]] destination.<ref>{{cite book |last=Brodie |first=Ian |title=The Lord of the Rings Location Guidebook (Extended ed.) |publisher=[[HarperCollins]] |year=2011 |isbn=978-1-86950-530-1 |location=Auckland}}</ref>\n\n== Notes ==\n\n{{notelist}}\n\n== References ==\n\n=== Primary ===\n\n{{reflist|group=T|24em}}\n\n=== Secondary ===\n\n{{reflist|24em}}\n\n== Sources ==\n\n{{refbegin}}\n* {{cite book |last1=Bosworth |first1=Joseph | author1-link=Joseph Bosworth (scholar) |last2=Toller |first2=T. Northcote |title=[[An Anglo-Saxon Dictionary]] | location=Prague | publisher=[[Charles University]] |year=1898}}\n* {{ME-ref|Letters}} <!--Carpenter 1981-->\n* {{cite book |last=Cusack |first=Carole M. |title=The Sacred Tree: Ancient and Medieval Manifestations |url=https://books.google.com/books?id=kQMrBwAAQBAJ&pg=PA172 |year=2011 |publisher=Cambridge Scholars Publishing |isbn=978-1-4438-3031-7}}\n* {{cite book |last=Fonstad |first=Karen Wynn |author-link=Karen Wynn Fonstad |year=1994 |title=The Atlas of Tolkien's Middle-earth |title-link=The Atlas of Middle-earth |publisher=[[HarperCollins]] |isbn=0-261-10277-X}}\n<!--* {{cite book |first=John |last=Grigsby |authorlink=John Grigsby |title=[[Beowulf and Grendel (book)|Beowulf & Grendel: The Truth Behind England's Oldest Legend]] |publisher=Watkins |year=2005 | isbn=1-84293-153-9}}-->\n* {{cite book |last1=Hammond |first1=Wayne G. |author1-link=Wayne G. Hammond |last2=Scull |first2=Christina |author2-link=Christina Scull |title=The Lord of the Rings: A Reader's Companion |title-link=The Lord of the Rings: A Reader's Companion |publisher=[[HarperCollins]] | year=2005 |isbn=978-0-00-720907-1}}\n* {{cite book |last1=Lee |first1=Stuart D. |author1-link=Stuart D. Lee |last2=Solopova |first2=Elizabeth |author2-link=Elizabeth Solopova |title=The Keys of Middle-earth |title-link=The Keys of Middle-earth |publisher=[[Palgrave Macmillan]] |year=2005 |isbn=978-1137454690}}\n* {{cite journal |last=Lee |first=Stuart D. |author-link=Stuart D. Lee |title=J.R.R. Tolkien and 'The Wanderer' |journal=[[Tolkien Studies]] |year=2009 |volume=6 |issue=1 |pages=189–211|doi=10.1353/tks.0.0060 |s2cid=171082666 }}\n* {{cite book |last=Lobdell |first=Jared |author-link=Jared Lobdell |title=A Tolkien Compass |publisher=Open Court Press | date=1975 |isbn=978-0875483030}}\n* {{cite book |last=Shippey |first=Tom |author-link=Tom Shippey |title=[[The Road to Middle-Earth]] |date=2005 |edition=Third |orig-year=1982 |publisher=[[HarperCollins|Grafton (HarperCollins)]] |isbn=978-0261102750}}\n* {{cite book |last=Shippey |first=Tom |author-link=Tom Shippey |title=[[J. R. R. Tolkien: Author of the Century]] |date=2001 |publisher=[[HarperCollins]] |isbn=978-0261-10401-3}} \n* {{cite book |last=Sipahi |first=Peri |title='A Mighty Matter of Legend': Tolkien's Rohirrim. A Source Study |url=https://books.google.com/books?id=9lR4DwAAQBAJ&pg=PA44 |year=2016 |publisher=Tectum Wissenschaftsverlag |isbn=978-3-8288-6568-6}}\n* {{cite book |last=Smith |first=Arden R. |author-link=Arden R. Smith |chapter=Invented Languages and Writing Systems |editor-last=Lee |editor-first=Stuart D. |editor-link=Stuart D. Lee |title=[[A Companion to J. R. R. Tolkien]] |date=2020 |orig-year=2014 |publisher=[[Wiley Blackwell]] |isbn=978-1119656029 |oclc=1183854105 |pages=202–214}}\n* {{ME-ref|LMH}} <!--Solopova, Languages Myths & History-->\n* {{ME-ref|TT}}   <!--1954-->\n* {{ME-ref|RotK}} <!--1955-->\n* {{cite book |last=Tolkien |first=J. R. R. |author-link=J. R. R. Tolkien |date=1967 |title=[[Translations of The Lord of the Rings#Tolkien's Guide to the Names in The Lord of the Rings|Nomenclature of The Lord of the Rings]]}} reprinted in [[Wayne G. Hammond|Hammond, Wayne G.]]; [[Christina Scull|Scull, Christina]] (2005), ''[[The Lord of the Rings: A Reader's Companion]]'', [[HarperCollins]], {{ISBN|0-00-720907-X}}.\n* {{ME-ref|UT}}   <!--1980-->\n* {{ME-ref|PoME}} <!--1996-->\n* {{cite journal |last=Tolkien |first=J. R. R. |author-link=J. R. R. Tolkien |title=The Rivers and Beacon-hills of Gondor |editor-last=Hostetter |editor-first=Carl F. |editor-link=Carl F. Hostetter |journal=[[Vinyar Tengwar]] |issue=42 |date=July 2001 |page=8}}\n* {{cite encyclopedia|last=Wynne |first=Hilary |chapter=Rohan  |pages=575–576 |title=[[The J. R. R. Tolkien Encyclopedia|The J. R. R. Tolkien Encyclopedia: Scholarship and Critical Assessment]] |editor=Drout, Michael D. C. | isbn=0-415-96942-5 |publisher=[[Routledge]] |year=2006 |editor-link=Michael D. C. Drout}}\n{{refend}}\n\n{{The Lord of the Rings}}\n{{Middle-earth}}\n\n[[Category:Middle-earth realms]]\n[[Category:Fictional kingdoms]]",
+  "redirect_chain": [
+    {
+      "source_title": "Edoras",
+      "target_title": "Rohan, Middle-earth"
+    }
+  ],
+  "revision_id": 1358629215,
+  "revision_timestamp": "2026-06-09T23:06:02Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Etymology"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Borders"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Borders"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Borders"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Capital"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Capital"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Capital"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Capital"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Other settlements"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Other settlements"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Regions"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Geography",
+        "Regions"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Culture"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Culture",
+        "People"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Culture",
+        "People"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Culture",
+        "People"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Culture",
+        "People"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Culture",
+        "People"
+      ],
+      "paragraph_ordinal": 7,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Culture",
+        "Horses and warfare"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Culture",
+        "Horses and warfare"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Culture",
+        "Horses and warfare"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Culture",
+        "Horses and warfare"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Culture",
+        "Language"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Culture",
+        "Language"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Culture",
+        "Language"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Culture",
+        "Language"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Culture",
+        "Language"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Culture",
+        "Language"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: table",
+      "structure_type": "table"
+    },
+    {
+      "heading_path": [
+        "History",
+        "Early history"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "History",
+        "Kingdom of Rohan"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "History",
+        "Kingdom of Rohan"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "History",
+        "War of the Ring"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "History",
+        "War of the Ring"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "History",
+        "War of the Ring"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 7,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Portrayal in adaptations"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Portrayal in adaptations"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Portrayal in adaptations"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Portrayal in adaptations"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Notes"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

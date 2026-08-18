@@ -1,0 +1,361 @@
+{
+  "article_artifact_id": "article_09fbe31cc1da4059ac96a29f55a6b74fd1299706052dfdc35d2c58ce55b16c9b",
+  "canonical_title": "Arwen",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_09fbe31cc1da4059ac96a29f55a6b74fd1299706052dfdc35d2c58ce55b16c9b",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Arwen Undómiel is a fictional character in J. R. R. Tolkien's Middle-earth legendarium. She appears in the novel The Lord of the Rings. Arwen is one of the half-elven who lived during the Third Age; her father was Elrond half-elven, lord of the Elvish sanctuary of Rivendell, while her mother was the Elf Celebrían, daughter of the Elf-queen Galadriel, ruler of Lothlórien. She marries the Man Aragorn, who becomes King of Arnor and Gondor.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_fdde9f5124d476dfcf998e9fedecdc9129c14ac57a9e4ec15c7e4f0f80f831c2",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_09fbe31cc1da4059ac96a29f55a6b74fd1299706052dfdc35d2c58ce55b16c9b",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "In Peter Jackson's film adaptation of The Lord of the Rings, Arwen is played by Liv Tyler. She plays a more active role in the film than in the book, personally rescuing the Hobbit Frodo from the Black Riders at the Fords of Bruinen (a role played by Glorfindel in the book).",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_cb4a20fa38859574653a88249b3039de1b064a5e4d50e0988240e7f16f562a49",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_09fbe31cc1da4059ac96a29f55a6b74fd1299706052dfdc35d2c58ce55b16c9b",
+      "heading_path": [
+        "Fictional biography",
+        "Narrative"
+      ],
+      "normalized_text": "Arwen serves as inspiration and motivation for Aragorn, who must become King of both Arnor and Gondor before Elrond will allow her to marry him. \"The Tale of Aragorn and Arwen\" relates that Aragorn and Arwen had a son, Eldarion, and at least two unnamed daughters. One year after Aragorn's death, Arwen dies at the age of 2,901.",
+      "paragraph_ordinal": 8,
+      "passage_id": "passage_ce1ad226eeeda521cfb361fac9c246c24d9826d7067f355e98e19e47575ddb7a",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_09fbe31cc1da4059ac96a29f55a6b74fd1299706052dfdc35d2c58ce55b16c9b",
+      "heading_path": [
+        "Fictional biography",
+        "Relationships"
+      ],
+      "normalized_text": "Arwen was a distant relative of her husband Aragorn. Aragorn's ancestor, Elros Tar-Minyatur, the first King of Númenor, was her father Elrond's brother, who chose to live as a Man rather than as one of the Eldar. Arwen became Queen of the Reunited Kingdom of Arnor and Gondor when she married Aragorn, who was of the line of the Kings of Arnor. By their marriage, the lines of the Half-elven were reunited. Their union served, too, to unite and preserve the bloodlines of the three kings of the high Elves (Ingwë, Finwë, and the brothers Olwë and Elwë) as well as the only line with Maiarin blood through Arwen's great-great-great grandmother, Melian, Queen of Doriath.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_6331f6105d7337d1bd779231dbd674502d4d8f26529a542b69dc7b5ce5ece856",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_09fbe31cc1da4059ac96a29f55a6b74fd1299706052dfdc35d2c58ce55b16c9b",
+      "heading_path": [
+        "Adaptations",
+        "Peter Jackson's film series"
+      ],
+      "normalized_text": "thumb|left|upright|Liv Tyler plays Arwen in Peter Jackson's The Lord of the Rings film trilogy.",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_79a1fb99912b006240acb9f5a26c98e13568a75e58dbaca7ddcf346858a9a85f",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_09fbe31cc1da4059ac96a29f55a6b74fd1299706052dfdc35d2c58ce55b16c9b",
+      "heading_path": [
+        "Adaptations",
+        "Peter Jackson's film series"
+      ],
+      "normalized_text": "thumb|upright=1.35|The film scene \"Arwen's vision\" borrows visually from Riders of the Sidhe by John Duncan, 1911.",
+      "paragraph_ordinal": 5,
+      "passage_id": "passage_c7bbe739a9e809cb00d9cb61ebfe258b0c0506866a0f36954806fbb205f0b8a4",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Arwen&action=history",
+  "namespace": 0,
+  "page_id": 63463,
+  "parent_revision_id": 1338434346,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1338449195",
+  "raw_wikitext": "{{Short description|Fictional half-elf in Tolkien's Middle-Earth}}\n{{About |the fictional character}}\n{{Good article}}\n{{Infobox character\n | name        = Arwen\n | image       = File:Arwen by Anna Kulisz.jpg\n | caption     = Arwen sewing [[Aragorn]]'s banner of the White Tree of [[Gondor]] by Anna Kulisz, inspired by [[Edmund Leighton]]'s 1911 ''[[:File:Leighton-Stitching the Standard.jpg|Stitching the Standard]]''\n | series      = [[J. R. R. Tolkien|Tolkien]] \n | race        = Half-elven (chosen mortality)\n | spouse      = [[Aragorn]]\n | children    = Eldarion, daughters\n | lbl24       = Book(s)\n | data24      = ''[[The Fellowship of the Ring]]'' (1954)<br/>''[[The Return of the King]]'' (1955)<br/>''[[Unfinished Tales]]'' (1980)\n}}\n\n'''Arwen Undómiel''' is a fictional character in [[J. R. R. Tolkien]]'s [[Middle-earth]] [[legendarium]]. She appears in the novel ''[[The Lord of the Rings]]''. Arwen is one of the [[half-elven]] who lived during the [[Third Age]]; her father was [[Elrond]] half-elven, lord of the Elvish sanctuary of [[Rivendell]], while her mother was the [[Elf (Middle-earth)|Elf]] Celebrían, daughter of the Elf-queen [[Galadriel]], ruler of [[Lothlórien]]. She marries the Man [[Aragorn]], who becomes King of Arnor and [[Gondor]].\n\nIn [[Peter Jackson]]'s [[The Lord of the Rings (film series)|film adaptation of ''The Lord of the Rings'']], Arwen is played by [[Liv Tyler]]. She plays a more active role in the film than in the book, personally rescuing the [[Hobbit]] [[Frodo Baggins|Frodo]] from the [[Black Riders]] at the Fords of Bruinen (a role played by [[Glorfindel]] in the book).\n\n== Fictional biography ==\n\n=== Narrative ===\n\n{{main|The Tale of Aragorn and Arwen{{!}}\"The Tale of Aragorn and Arwen\"}}\n\nArwen was the youngest child of [[Elrond]], lord of the Elvish sanctuary of [[Rivendell]] and leader of the High Elves remaining in [[Middle-earth]] at the end of the [[Third Age]], and [[Celebrían]], daughter of [[Galadriel]], ruler of the Elvish forest realm of [[Lothlórien]]. Her elder brothers were the twins Elladan and Elrohir.<ref group=T>{{harvnb|Tolkien|1955}} Appendix A: Annals of the Kings and Rulers</ref> Her name ''\"Ar-wen\"'' means 'noble maiden' in [[Sindarin]].<ref>{{cite book |first1=Wayne G. |last1=Hammond |author-link=Wayne G. Hammond |first2=Christina |last2=Scull |author2-link=Christina Scull |title=[[The Lord of the Rings: A Reader's Companion]] |publisher=HarperCollins |page=205}}</ref> She was given the name \"Evenstar\" as the most beautiful of the last generation of [[Calaquendi|High Elves]] in [[Middle-earth]].<ref group=T>{{harvnb|Tolkien|1954a}} book 2, ch. 1 \"Many Meetings\"</ref>\n\n{{Quote box |\n |quote  = Arwen said: \"Dark is the Shadow, and yet my heart rejoices; for you, Estel, shall be among the great whose valour will destroy it.\"<br/>\nBut Aragorn answered: \"Alas! I cannot foresee it, and how it may come to pass is hidden from me. Yet with your hope I will hope. And the Shadow I utterly reject. But neither, lady, is the Twilight for me; for I am mortal, and if you will cleave to me, Evenstar, then the Twilight you must also renounce.\"<br/>\nAnd she stood then as still as a white tree, looking into the West, and at last she said: \"I will cleave to you, [[Dúnadan]], and turn from the Twilight. Yet there lies the land of my people and the long home of all my kin.\" She loved her father dearly.\n  |author = [[J.R.R. Tolkien]]\n  |source = ''[[The Lord of the Rings]]'', Appendix A, part I (v) \"[[The Tale of Aragorn and Arwen]]\"\n  |width  = 40%\n  |align  = right\n}}\n\nAs told in \"[[The Tale of Aragorn and Arwen]]\", an appendix to ''The Lord of the Rings'', in his twentieth year [[Aragorn]] met Arwen for the first time in [[Rivendell]], where he lived under Elrond's protection. Arwen, then over 2,700 years old, had recently returned to her father's home after living with her grandmother, Galadriel, in Lothlórien. Aragorn fell in love with Arwen at first sight. Thirty years later, the two were reunited in Lothlórien. Arwen reciprocated Aragorn's love, and on the mound of Cerin Amroth they committed themselves to marrying each other. In making that choice, Arwen gave up the Elvish immortality available to her as a daughter of Elrond, and agreed to remain in Middle-earth instead of travelling to the [[Undying Lands]].<ref name=\"Tale\" group=T>{{harvnb|Tolkien|1955}} Appendix A, part I (v) \"[[The Tale of Aragorn and Arwen]]\"</ref>\n\nArwen first appears in the text of ''The Lord of the Rings'' in Rivendell, shortly after [[Frodo Baggins]] wakes in the House of Elrond: she sits beside her father at the celebratory feast.<ref group=T>{{harvnb|Tolkien|1954a}} book 2, ch. 2 \"[[The Council of Elrond]]\"</ref> When the [[Fellowship of the Ring (characters)|Fellowship of the Ring]] comes to Lothlórien, Aragorn remembers his earlier meeting with Arwen and pauses in reverence.<ref group=T name=\"lothlórien\">{{harvnb|Tolkien|1954a}} book 2, ch. 6 \"Lothlórien\"</ref>\n\nShortly before Aragorn takes the [[Paths of the Dead]], he is joined by a contingent of his people accompanied by Arwen's brothers, Elladan and Elrohir, who bring him a gift from Arwen: a banner of black cloth.<ref group=T>{{harvnb|Tolkien|1955}} book 5, ch. 2 \"The Passing of the Grey Company\"</ref> The banner is unfurled at the [[Battle of the Pelennor Fields]] to reveal the emblem of [[Elendil]] figured in ''[[mithril]]'', gems, and gold; this becomes the first triumphant public announcement of the king's return.<ref group=T name=\"Pelennor Fields\">{{harvnb|Tolkien|1955}} book 5, ch. 6 \"The Battle of the Pelennor Fields\"</ref>\n\nAfter the ring is destroyed, Aragorn becomes king of Arnor and [[Gondor]]. Arwen arrives at [[Minas Tirith]], and they are married.<ref group=T name=\"Steward and King\">{{harvnb|Tolkien|1955}} book 6, ch. 5 \"The Steward and the King\"</ref> She gives Frodo the Evenstar: her necklace with a white stone, to aid him when his injuries trouble him.<ref group=T name=\"Many Partings\">{{harvnb|Tolkien|1955}} book 6, ch. 6 \"Many Partings\"</ref>\n\nArwen serves as inspiration and motivation for Aragorn, who must become King of both Arnor and Gondor before Elrond will allow her to marry him.<ref name=\"Tale\" group=T/> \"The Tale of Aragorn and Arwen\" relates that Aragorn and Arwen had a son, Eldarion, and at least two unnamed daughters. One year after Aragorn's death, Arwen dies at the age of 2,901.<ref name=\"Tale\" group=T/>\n\n=== Relationships ===\n\nThrough her father, Elrond, Arwen was the granddaughter of [[Eärendil]] the Mariner (the second of the [[Half-elf|Half-elven]]), great-granddaughter of [[Tuor]] of [[Gondolin]], and therefore a direct descendant of the ancient House of Hador. Through her great-grandmother, [[Idril Celebrindal|Idril]], Arwen was a descendant of King Turgon of the [[Noldor]]. Through her mother, she was the granddaughter of the Elf-queen [[Galadriel]] of [[Lothlórien]].<ref group=T>{{harvnb|Tolkien|1977}} \"Of the Rings of Power and the Third Age\": Family Trees I and II: \"The house of Finwë and the Noldorin descent of Elrond and Elros\", and \"The descendants of Olwë and Elwë\"</ref> Through both of her parents, Arwen was a direct descendant of the ancient Elven House of [[Finwë and Míriel|Finwë]]. Furthermore, Arwen was a descendant of [[Beren]] and [[Lúthien]], whose [[The Tale of Beren and Lúthien|story]] resembled hers. Indeed, Arwen was held to be the reappearance in likeness of Lúthien, fairest of all the [[Elves (Middle-earth)|Elves]], who was called Nightingale (''Tinúviel'').<ref name=\"Tale\" group=T/>\n\nArwen was a distant relative of her husband Aragorn.<ref name=\"Tale\" group=T/> Aragorn's ancestor, Elros Tar-Minyatur, the first King of [[Númenor]], was her father Elrond's brother, who chose to live as a [[Man (Middle-earth)|Man]] rather than as one of the Eldar. Arwen became Queen of the Reunited Kingdom of Arnor and Gondor when she married Aragorn, who was of the line of the Kings of Arnor. By their marriage, the lines of the Half-elven were reunited. Their union served, too, to unite and preserve the bloodlines of the three kings of the high Elves (Ingwë, Finwë, and the brothers Olwë and [[Elwë]]) as well as the only line with [[Maia (Middle-earth)|Maiarin]] blood through Arwen's great-great-great grandmother, [[Melian (Middle-earth)|Melian]], Queen of [[Doriath (Middle-earth)|Doriath]].<ref group=T name=\"Temp RotK\"/>\n\n{{Half-elven family tree}}\n\n== Analysis ==\n\n{{further|Women in The Lord of the Rings}}\n\nAs related in ''[[The History of Middle-earth]]'', Tolkien conceived the character of \"Elrond's daughter\" late in the writing.<ref name=\"warofthering\" group=T>{{harvnb|Tolkien|1990}} p. 370 \"Finduilas Elrond's daughter\"</ref><ref name=\"saurondefeated\" group=T>{{harvnb|Tolkien|1992}} pp. 59, 66-67 \"Many Partings\"</ref> Prior to this, he had considered having Aragorn marry [[Éowyn]] of the royal family of [[Rohan (Middle-earth)|Rohan]].<ref name=\"treason\" group=T>{{harvnb|Tolkien|1989}} pp. 83-84</ref><ref name=\"Fontenot 2020\">{{cite web |last=Fontenot |first=Megan N. |title=Exploring the People of Middle-earth: Arwen Undómiel, Evenstar of Her People |url=https://www.tor.com/2020/10/29/exploring-the-people-of-middle-earth-arwen-undomiel-evenstar-of-her-people/comment-page-1/ |publisher=[[Tor.com]] |access-date=25 March 2021 |date=29 October 2020}}</ref>\n\nArwen is depicted as extremely beautiful; she is in Melissa Hatcher's view in ''[[Mythlore]]'' \"a symbol of the unattainable, a perfect match for the unattainable Aragorn in Éowyn's eyes.\"<ref name=\"Hatcher 2007\">{{cite journal |last=Hatcher |first=Melissa McCrory |year=2007 |title=Finding Woman's Role in The Lord of the Rings |journal=[[Mythlore]] |volume=25 |issue=3 |at=article 5 |url=https://dc.swosu.edu/mythlore/vol25/iss3/5}}</ref> Carol Leibiger wrote in the ''[[J.R.R. Tolkien Encyclopedia]]'' that Arwen's lack of involvement follows the general Elvish pattern, already established in ''[[The Silmarillion]]'' and continued in ''The Lord of the Rings'', of retreating to safe havens.<ref name=\"Leibiger 2013\">{{cite encyclopedia |last=Leibiger |first=Carol A. |editor-last=Drout |editor-first=Michael D. C. |editor-link=Michael D. C. Drout |title=Women in Tolkien's Works |encyclopedia=[[The J. R. R. Tolkien Encyclopedia]] |year=2013 |orig-year=2007 |publisher=[[Routledge]] |isbn=978-0-415-86511-1 |pages=710–712}}</ref>\n\nThe scholar of English literature Nancy Enright wrote that Arwen, like [[Christ]], is an immortal who voluntarily chooses mortality out of love, in her case for Aragorn. She granted that Arwen is not a conspicuous character, and unlike Éowyn does not ride into battle, but stated that her inner power is \"subtly conveyed\" and present throughout the novel.<ref name=\"Enright 2007\">{{cite journal |last=Enright |first=Nancy |title=Tolkien's Females and the Defining of Power |journal=[[Renascence (journal)|Renascence]] |volume=59 |issue=2 |year=2007 |pages=93–108 |issn=0034-4346 |doi=10.5840/renascence200759213}}</ref>\n\n==Adaptations==\n\n=== Peter Jackson's film series ===\n\n[[File:LivTylerLOTR03.jpg|thumb|left|upright|[[Liv Tyler]] plays Arwen in [[Peter Jackson]]'s [[The Lord of the Rings (film series)|''The Lord of the Rings'' film trilogy]]. ]]\n\nIn [[Peter Jackson]]'s [[The Lord of the Rings (film series)|''The Lord of the Rings'' film trilogy]], Arwen is played by [[Liv Tyler]]. The films give her a more prominent role than her literary counterpart.<ref name=\"page 2\">{{cite web |url=http://www.people.com/people/liv_tyler/biography/0,,20170146_10,00.html |title=Liv Tyler Biography |page=2 |access-date=23 June 2008 |work=[[People (magazine)|People]] |archive-url=https://web.archive.org/web/20080703044546/http://www.people.com/people/liv_tyler/biography/0,,20170146_10,00.html |archive-date=3 July 2008 |url-status=live}}</ref><ref>{{cite magazine |url=https://www.ew.com/ew/article/0,,188155~1~0~whyringsfansshould,00.html |title=Liv and Let Liv |last=Burr |first=Ty |date=12 December 2001 |magazine=[[Entertainment Weekly]] |access-date=8 January 2009 |archive-url=https://web.archive.org/web/20090201150758/http://www.ew.com/ew/article/0,,188155~1~0~whyringsfansshould,00.html |archive-date=1 February 2009 |url-status=dead}}</ref><ref name=\"Shippey 2005\"/> \nIn the first film, Arwen searches for Aragorn and single-handedly rescues [[Frodo Baggins]] from the [[Black Riders]] at [[Bruinen]], thwarting them with a sudden flood, summoned by an incantation.<ref name=\"Shippey 2005\"/><ref name=\"Derdzinski 2002\"/> During this flight, Arwen wields the sword [[Hadhafang]], which according to film merchandise was once wielded by her father and had belonged to his grandmother [[Idril Celebrindal]].<ref name=\"Derdzinski 2002\">{{cite web |url=http://www.elvish.org/gwaith/movie_inscriptions.htm#arwensword |title=Language in the Lord of the Rings movie  |editor-first=Ryszard  |editor-last=Derdzinski |year=2002 |access-date=2 December 2012 |archive-url=https://web.archive.org/web/20020811162003/http://www.elvish.org/gwaith/movie_inscriptions.htm |archive-date=11 August 2002 |url-status=live}}</ref>\n\nIn the film adaptation of ''[[The Lord of the Rings: The Two Towers|The Two Towers]]'', the injured Aragorn is revived by a dream or vision of Arwen, who kisses him and asks the [[Valar]] to protect him.<ref name=\"Shippey 2005\">{{cite book |last=Shippey |first=Tom |author-link=Tom Shippey |title=[[The Road to Middle-Earth]] |date=2005 |edition=Third |orig-year=1982 |publisher=[[HarperCollins]] |isbn=978-0261102750 |pages=413, 418–419}}</ref>\n\nIn the film, Arwen does not send Aragorn the banner she has made; instead, Elrond takes the sword Narsil, reforged as [[Andúril]], to Aragorn at [[Dunharrow]], and tells him that Arwen's fate has become bound to the [[One Ring]], and that she is dying. The Tolkien scholar [[Janet Brennan Croft]] comments that Jackson makes Arwen passive, denying her independence of mind; from being a constant support, she is a distraction, even a temptation, to Aragorn, whom Croft likens to \"the American Superhero\", and their marriage, in the book a sign of his rightful kingship, is in the film something he accepts as if he was condemned to it.<ref name=\"Croft 2011\">{{cite book |last=Croft |first=Janet Brennan |author-link=Janet Brennan Croft |chapter=Jackson's Aragorn and the American Superhero |editor1-last=Bogstad |editor1-first=Janice M. |editor2-last=Kaveny |editor2-first=Philip E. |title=[[Picturing Tolkien]] |chapter-url=https://books.google.com/books?id=jNjKrXRP0G8C&pg=PA219 |year=2011 |publisher=McFarland |isbn=978-0-7864-8473-7 |pages=219–220}}</ref><ref>{{cite book |last=Thompson |first=Kristin |chapter=Gollum Talks to himself |editor1-last=Bogstad |editor1-first=Janice M. |editor2-last=Kaveny |editor2-first=Philip E. |title=[[Picturing Tolkien]] |chapter-url=https://books.google.com/books?id=jNjKrXRP0G8C&pg=PA41 |year=2011 |publisher=McFarland |isbn=978-0-7864-8473-7 |page=41}}</ref>\n\n[[File:John Duncan (1911) Riders of the Sidhe.jpg|thumb|upright=1.35|The film scene \"Arwen's vision\" borrows visually from ''Riders of the Sidhe'' by [[John Duncan (painter)|John Duncan]], 1911.<ref name=\"Fimi 2011\"/>]]\n\nIn the extended version, Elrond asks Arwen, in Elvish with English subtitles, to accompany him to safety in [[Valinor]], away from Middle-earth.<ref>{{cite book |last1=Ford |first1=Judy Ann |last2=Reid |first2=Robin Anne |author2-link=Robin Anne Reid |chapter=Into the West |editor1-last=Bogstad |editor1-first=Janice M. |editor2-last=Kaveny |editor2-first=Philip E. |title=[[Picturing Tolkien]] |chapter-url=https://books.google.com/books?id=jNjKrXRP0G8C&pg=PA174 |year=2011 |publisher=McFarland |isbn=978-0-7864-8473-7 |page=174}}</ref>\n\nThe Tolkien scholar [[Dimitra Fimi]] comments that the procession of Elves in the scene \"Arwen's vision\" in the extended version borrows visually from the \"Celtic\" imagery of [[John Duncan (painter)|John Duncan]]'s 1911 [[Pre-Raphaelite]] painting ''Riders of the Sidhe''.<ref name=\"Fimi 2011\">{{cite book |last=Fimi |first=Dimitra |author-link=Dimitra Fimi |chapter=Filming Folklore |editor1-last=Bogstad |editor1-first=Janice M. |editor2-last=Kaveny |editor2-first=Philip E. |title=[[Picturing Tolkien]] |chapter-url=https://books.google.com/books?id=jNjKrXRP0G8C&pg=PA90 |year=2011 |publisher=McFarland |isbn=978-0-7864-8473-7 |page=90}}</ref> \n<!--In scene 60 of ROTK, -->Sauron uses the [[Palantír]] to show Aragorn a dying Arwen (a scene from the future) in the hope of weakening his resolve.<ref name=\"Croft 2011\"/>\n\nThe films portray Arwen as becoming human through her love for Aragorn; as in the novel, she follows the choice of her ancestor Lúthien to become a mortal woman for the love of a mortal man.<ref name=\"Shippey 2005\"/><ref name=\"Enright 2007\"/> The films introduce a jewelled pendant called the ''Evenstar'' which Arwen gives to Aragorn as a token of their love. A similar pendant appears in [[Marion Zimmer Bradley]]'s short story ''The Jewel of Arwen'', although in that story Arwen gives it to \"the Ring-Bearer\" rather than to Aragorn.{{efn|This story appears in all the fantasy trilogies in [http://www.isfdb.org/cgi-bin/title.cgi?5357 the ISFDB list].}} In Tolkien's novel, Arwen gives Frodo \"a white gem like a star...hanging upon a silver chain\" before he leaves Minas Tirith, saying, \"When the memory of the fear and the darkness troubles you...this will bring you aid\".<ref group=T name=\"Many Partings\"/>\n\nIn earlier versions of the script, Arwen fought in the [[Battle of the Hornburg|Battle of Helm's Deep]] and brought the sword Andúril to Aragorn. Some scenes of Arwen fighting in Helm's Deep were filmed before both the film's writers (with Liv Tyler's approval) reconsidered the change and deleted her from the sequence.<ref>[[Peter Jackson]]. (2005). ''The Lord Of The Rings - The Two Towers - Extended Edition Appendices'' [DVD].</ref> The critic [[John D. Rateliff]] wrote approvingly of the deletion of what he calls \"Arwen, [[Xena: Warrior Princess|Warrior Princess]]\", even though it came \"at the cost of reducing her to a sort of [[The Lady of Shalott|Lady of Shallott]] languishing for most of the final two films\".<ref>{{cite book |last=Rateliff |first=John D. |author-link=John D. Rateliff |chapter=Two Kinds of Absence |editor1-last=Bogstad |editor1-first=Janice M. |editor2-last=Kaveny |editor2-first=Philip E. |title=Picturing Tolkien: Essays on Peter Jackson's The Lord of the Rings Film Trilogy |chapter-url=https://books.google.com/books?id=jNjKrXRP0G8C&pg=PA65 |year=2011 |publisher=McFarland |isbn=978-0-7864-8473-7 |pages=65–66}}</ref>\n\nIn the [[Mythopoeic Society]]'s  ''[[Tolkien on Film|Tolkien on Film: Essays on Peter Jackson's The Lord of the Rings]]'', Cathy Akers-Jordan, Victoria Gaydosik, [[Jane Chance]], and Maureen Thum all contend that the portrayal of Arwen and other women in the Jackson films is thematically faithful to or compatible with Tolkien's writings, despite the differences.<ref name=\"akers-jordan\">{{cite book |last=Akers-Jordan |first=Cathy |chapter=Fairy Princess or Tragic Heroine? The Metamorphosis of Arwen Undomiel in Peter Jackson's The Lord of the Rings Films |title=Tolkien on Film: Essays on Peter Jackson's The Lord of the Rings |title-link=Tolkien on Film |editor-last=Croft |editor-first=Janet Brennan |editor-link=Janet Brennan Croft |publisher=[[Mythopoeic Society|Mythopoeic Press]] |date=2005 |isbn=1-887726-09-8}}</ref><ref name=\"chance\">{{cite book |last=Chance |first=Jane |author-link=Jane Chance |chapter=Tolkien's Women (and Men): The Films and the Books |title=Tolkien on Film: Essays on Peter Jackson's The Lord of the Rings |title-link=Tolkien on Film |editor-last=Croft |editor-first=Janet Brennan |editor-link=Janet Brennan Croft |publisher=[[Mythopoeic Society|Mythopoeic Press]] |date=2005 |isbn=1-887726-09-8}}</ref><ref name=\"gaydosik\">{{cite book |last=Gaydosik |first=Victoria |chapter=The Transformation of Tolkien's Arwen and the Abandonment of the Psyche Archetype: The Lord of the Rings on the Page and on the Screen |title=Tolkien on Film: Essays on Peter Jackson's The Lord of the Rings |title-link=Tolkien on Film |editor-last=Croft |editor-first=Janet Brennan |editor-link=Janet Brennan Croft |publisher=[[Mythopoeic Society|Mythopoeic Press]] |location=East Lansing, Michigan |date=2005 |isbn=1-887726-09-8}}</ref><ref name=\"thum\">{{cite book |last=Thum |first=Maureen |chapter=The 'Sub-Subcreation' of Galadriel, Arwen, and Éowyn: Tolkien's Women and The Lord of the Rings |title=Tolkien on Film: Essays on Peter Jackson's The Lord of the Rings |title-link=Tolkien on Film |editor-last=Croft |editor-first=Janet Brennan |editor-link=Janet Brennan Croft |publisher=[[Mythopoeic Society|Mythopoeic Press]] |date=2005 |isbn=1-887726-09-8}}</ref>\n\n=== Other ===\n\n<!--\nArwen does not appear in [[Ralph Bakshi]]'s 1978 adaptation of ''[[The Lord of the Rings (1978 film) |The Lord of the Rings]]'', nor in the 1980 [[Rankin-Bass]] adaptation of ''[[The Return of the King (1980 film) |The Return of the King]]''. \n-->\nIn the [[The Lord of the Rings (1981 radio series)|1981 BBC radio serialisation of ''The Lord of the Rings'']], Arwen is voiced by Sonia Fraser.<ref>{{cite web |title=Riel Radio Theatre — The Lord of the Rings, Episode 2 |url=https://radioriel.org/content/daily-programme/riel-radio-theatre-the-lord-of-the-rings-episode-2/ |publisher=Radioriel |access-date=18 May 2020 |date=15 January 2009 |archive-date=15 January 2020 |archive-url=https://web.archive.org/web/20200115144511/https://www.radioriel.org/content/daily-programme/riel-radio-theatre-the-lord-of-the-rings-episode-2/ |url-status=dead }}</ref> In the [[Lord of the Rings (theatre)|musical theatre adaptation of ''Lord of the Rings'']], Arwen, played in London in 2007 by [[Rosalie Craig]], sings the Prologue, and three musical numbers: \"The Song of Hope\", \"Star of Eärendil\" (with the Elven chorus) and \"The Song of Hope Duet\" (with Aragorn).<ref>{{cite web |title=The Lord of the Rings |url=https://www.guidetomusicaltheatre.com/shows_l/lordoftherings.html |website=The Guide to Musical Theatre |access-date=19 July 2020}}</ref><ref>{{cite web |title=Lord of the Rings cast confirmed! |url=https://www.londontheatre.co.uk/theatre-news/news/lord-of-the-rings-cast-confirmed |website=London Theatre |access-date=19 July 2020 |date=15 January 2007}}</ref> In the 2009 [[fan film]] ''[[The Hunt for Gollum]]'', Arwen is played by [[Rita Ramnani]].<ref>{{cite web |title=The Hunt for Gollum |url=http://film-directory.britishcouncil.org/the-hunt-for-gollum |publisher=[[British Council]] |access-date=19 July 2020}}</ref><ref>{{cite web |title=The Hunt for Gollum, kortfilm fra 2009 |url=https://filmfront.no/utgivelse/26599/the-hunt-for-gollum |website=FilmFront |access-date=19 July 2020}}</ref>\n\nThe [[Lord of the Rings (board game)|''Lord of the Rings'' board game]] made use of a rendition of Arwen by Jackson's conceptual designer, the illustrator [[John Howe (illustrator)|John Howe]]; the work was inspired by the French actress [[Isabelle Adjani]].<ref>{{cite web |last=Howe |first=John |author-link=John Howe (illustrator) |url=http://www.john-howe.com/portfolio/gallery/details.php?image_id=112 |title=Arwen |work=Illustrator John Howe |date=9 September 2011 |access-date=18 September 2012}}</ref>\n\n== Notes ==\n\n{{notelist}}\n\n== References==\n\n=== Primary ===\n\n{{reflist|group=T}}\n\n=== Secondary ===\n\n{{reflist}}\n\n== Sources ==\n\n* {{ME-ref|FOTR}}\n* {{ME-ref|ROTK}}\n* {{ME-ref|Silm}}\n* {{ME-ref|TI}}\n* {{ME-ref|WR}}\n* {{ME-ref|SD}}\n\n{{Lord of the Rings}}\n{{Elves}}\n\n[[Category:Female characters in film]]\n[[Category:Female characters in literature]]\n[[Category:Fictional female warriors]]\n[[Category:Fictional queens]]\n[[Category:Literary characters introduced in 1954]]\n[[Category:The Lord of the Rings characters]]\n[[Category:Middle-earth Half-elven]]\n[[Category:Fictional swordfighters]]\n<!--please don't add categories about types of name: this article is not about the name Arwen but about the Tolkien character, thanks-->",
+  "redirect_chain": [],
+  "revision_id": 1338449195,
+  "revision_timestamp": "2026-02-15T06:07:36Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography",
+        "Narrative"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography",
+        "Narrative"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography",
+        "Narrative"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography",
+        "Narrative"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography",
+        "Narrative"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography",
+        "Narrative"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography",
+        "Narrative"
+      ],
+      "paragraph_ordinal": 7,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography",
+        "Relationships"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography",
+        "Relationships"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Peter Jackson's film series"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Peter Jackson's film series"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Peter Jackson's film series"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Peter Jackson's film series"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Peter Jackson's film series"
+      ],
+      "paragraph_ordinal": 7,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Peter Jackson's film series"
+      ],
+      "paragraph_ordinal": 8,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Peter Jackson's film series"
+      ],
+      "paragraph_ordinal": 9,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Peter Jackson's film series"
+      ],
+      "paragraph_ordinal": 10,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Other"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations",
+        "Other"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Notes"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

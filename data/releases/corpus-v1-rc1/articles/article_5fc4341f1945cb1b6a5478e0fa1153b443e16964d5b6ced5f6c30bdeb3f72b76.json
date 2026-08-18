@@ -1,0 +1,260 @@
+{
+  "article_artifact_id": "article_5fc4341f1945cb1b6a5478e0fa1153b443e16964d5b6ced5f6c30bdeb3f72b76",
+  "canonical_title": "Legolas",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_5fc4341f1945cb1b6a5478e0fa1153b443e16964d5b6ced5f6c30bdeb3f72b76",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Commentators have noted that Legolas serves as a typical Elf in the story, demonstrating more-than-human abilities such as seeing farther than anyone else in Rohan and sensing the memory of a long-lost Elvish civilisation in the stones of Hollin.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_968cc0c0d83377bc8edc9ffd366372d33edbb7ee460d21030edeb9937b289471",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_5fc4341f1945cb1b6a5478e0fa1153b443e16964d5b6ced5f6c30bdeb3f72b76",
+      "heading_path": [
+        "Adaptations"
+      ],
+      "normalized_text": "upright|thumb|left|Legolas in Ralph Bakshi's 1978 animated version of The Lord of the Rings",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_ef90283e687dca7f9709fd24ccb9ee44f0dc7aa2fb2eea996428074196f8135d",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_5fc4341f1945cb1b6a5478e0fa1153b443e16964d5b6ced5f6c30bdeb3f72b76",
+      "heading_path": [
+        "Adaptations"
+      ],
+      "normalized_text": "thumb|Orlando Bloom as Legolas in Peter Jackson's The Lord of the Rings: The Two Towers",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_ce3794d82c57bfc079fb369f6abae1bd76aba6829ad4c7fc55f1a3ad09f20a34",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Legolas&action=history",
+  "namespace": 0,
+  "page_id": 23140382,
+  "parent_revision_id": 1361169623,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1361189151",
+  "raw_wikitext": "{{short description|Fictional elf from Tolkien's legendarium}}\n{{good article}}\n{{Infobox character\n| name        = Legolas\n| image       = <!--NO FAN ART HERE, THANKS - YES, THIS MEANS YOU!-->\n| series      = [[The Lord of the Rings]]\n| alias       = Greenleaf  (''Legolas'' translated<br />into English)\n| race        = Sindar [[Elf (Middle-earth)|Elf]]\n| gender      = Male\n| lbl24       = Book(s)\n| data24      = ''[[The Lord of the Rings]]''\n| home        = [[Mirkwood]]\n| affiliation = [[Company of the Ring]]\n}}\n<!--\n       NO FAN ART HERE, THANKS\n-->\n'''Legolas''' ({{IPA|sjn|ˈlɛɡɔlas|lang}}) is a fictional character in [[J. R. R. Tolkien]]'s ''[[The Lord of the Rings]]''. He is a Sindar [[Elf (Middle-earth)|Elf]] of the [[Mirkwood|Woodland Realm]] and son of its king, Thranduil, becoming one of the nine members of the [[Fellowship of the Ring (characters)|Fellowship]] who set out to destroy the [[One Ring]]. Though Dwarves and Elves are traditionally rivals, he and the [[Dwarf (Middle-earth)|Dwarf]] [[Gimli (Middle-earth)|Gimli]] form a close friendship during their travels together.\n\nCommentators have noted that Legolas serves as a typical Elf in the story, demonstrating more-than-human abilities such as seeing farther than anyone else in [[Rohan (Middle-earth)|Rohan]] and sensing the memory of a long-lost Elvish civilisation in the stones of [[Geography of Middle-earth#Hollin|Hollin]].\n\n== Fictional history ==\n\nLegolas is the son of [[Thranduil]], King of the Woodland Realm of Northern [[Mirkwood]],<ref group=T name=\"council\">{{harvnb|Tolkien|1954a}}, book 2, ch. 2 \"[[The Council of Elrond]]\"</ref> who appeared as \"the Elvenking\" in ''[[The Hobbit]]''.<ref group=T name=\"hobbit\">{{harvnb|Tolkien|1937}}, ch. 8 \"Flies and Spiders\"</ref> Thranduil, one of the [[Sindar]] or \"Grey Elves\",<ref group=T>{{harvnb|Tolkien|1980}}, \"The History of Galadriel and Celeborn\", \"Appendix B: The Sindarin Princes of the Silvan Elves\"</ref> ruled over the Silvan Elves or \"Wood-elves\" of Mirkwood.<ref group=T name=\"council\"/>\n\nLegolas is introduced at the [[Council of Elrond]] in [[Rivendell]], where he came as a messenger from his father to discuss [[Gollum]]'s escape from their guard.<ref group=T name=\"council\" /> Legolas was chosen to be a member of the [[Fellowship of the Ring (characters)|Fellowship of the Ring]], charged with destroying the [[One Ring]]. He accompanied the other members in their travels from Rivendell to [[Amon Hen]].<ref group=T name=\"ring goes south\">{{harvnb|Tolkien|1954a}}, book 2, ch. 3 \"The Ring Goes South\"</ref> When the fellowship was trapped by a snowstorm while crossing the [[Misty Mountains]], Legolas scouted ahead, running lightly over the snow, and told [[Aragorn]] and [[Boromir]] that the thick snow they were trying to push through was only a narrow wall.<ref group=T name=\"ring goes south\"/> Back in the lowlands of Hollin, Legolas helped fend off an attack by [[Saruman]]'s [[warg]]s. [[Gandalf]] then led the fellowship on a journey underground through [[Moria (Middle-earth)|Moria]].<ref group=T>{{harvnb|Tolkien|1954a}}, book 2, ch. 4 \"A Journey in the Dark\"</ref> In Moria, Legolas helped fight off [[Orc]]s and recognized \"[[Durin's Bane]]\" as a [[Balrog]].<ref group=T name=\"bridge\">{{harvnb|Tolkien|1954a}}, book 2, ch. 5 \"The Bridge of Khazad-dûm\"</ref> After Gandalf's fall, Aragorn led the Fellowship to the Elven realm of [[Lothlórien]]. Legolas spoke to the Elf-[[wikt:sentry|sentries]] there on behalf of the Fellowship.<ref group=T name=\"lothlorien\">{{harvnb|Tolkien|1954a}}, book 2, ch. 6 \"Lothlórien\"</ref>\n\nThere was initially friction between Legolas and the [[Dwarf (Middle-earth)|Dwarf]] [[Gimli (Middle-earth)|Gimli]], because of the ancient quarrel between Elves and Dwarves, rekindled by Thranduil's treatment of Gimli's father Glóin.<ref group=T name=\"hobbit\"/> Legolas and Gimli became friends when Gimli greeted [[Galadriel]] respectfully.<ref group=T name=\"lothlorien\"/> When the fellowship left Lothlórien, Galadriel gave the members gifts; Legolas received a [[longbow]],<ref group=T name=\"farewell to lorien\">{{harvnb|Tolkien|1954a}}, book 2, ch. 8 \"Farewell to Lórien\"</ref> which he used to bring down a [[Nazgûl]]'s flying steed in the dark with one shot.<ref group=T name=\"great river\">{{harvnb|Tolkien|1954a}}, book 2, ch. 9 \"The Great River\"</ref>\n\nAfter [[Boromir]]'s death and the capture of [[Merry Brandybuck]] and [[Pippin Took]] by [[Orc (Middle-earth)|orcs]], Legolas, Aragorn, and Gimli set out across [[Rohan (Middle-earth)|Rohan]] in pursuit of the two captured [[hobbit]]s.<ref group=T name=\"boromir\">{{harvnb|Tolkien|1954}}, book 3, ch. 1 \"The Departure of Boromir\"</ref>  In the forest of [[Fangorn]] Legolas and his companions met Gandalf, resurrected as \"Gandalf the White\", who delivered a message to Legolas from Galadriel. Legolas interpreted this as foretelling the end of his stay in Middle-earth:\n\n: Legolas Greenleaf long under tree,\n: In joy thou hast lived, Beware of the Sea!\n: If thou hearest the cry of the gull on the shore,\n: Thy heart shall then rest in the forest no more.<ref group=T name=\"white rider\">{{harvnb|Tolkien|1954}}, book 3, ch. 5 \"The White Rider\"</ref>\n\nThe three met with the [[Rohan (Middle-earth)#People|Riders of Rohan]], fought in the [[Battle of Helm's Deep]], and witnessed Saruman's downfall at [[Isengard]], where they were reunited with Merry and Pippin.<ref group=T name=\"helm's deep\">{{harvnb|Tolkien|1954}}, book 3, ch. 7 \"Helm's Deep\"</ref>\n\nLegolas and Gimli accompanied Aragorn and the [[Rangers of the North|Grey Company]] on the [[Paths of the Dead]].<ref group=T name=\"Grey Company\">{{harvnb|Tolkien|1955}}, book 5, ch. 2 \"The Passing of the Grey Company\"</ref> After Aragorn summoned the Dead of Dunharrow to fight for him, Legolas saw them terrify the [[Corsairs of Umbar]] from their ships at [[Pelargir]]. Galadriel's [[Prophecy in The Lord of the Rings|prophecy]] was fulfilled: as Legolas heard the cries of seagulls, he experienced the Sea-longing — the desire to sail west to [[Valinor]], the \"Blessed Realm\", latent among his people.<ref group=T name=\"last debate\">{{harvnb|Tolkien|1955}}, book 5, ch. 9 \"The Last Debate\"</ref> He fought in the [[Battle of the Pelennor Fields]]<ref group=T name=\"pelennor\">{{harvnb|Tolkien|1955}}, book 5, ch. 6 \"The Battle of the Pelennor Fields\"</ref> and [[Battle of the Morannon|at the Black Gate]],<ref group=T name=\"black gate\">{{harvnb|Tolkien|1955}}, book 5, ch. 10 \"The Black Gate Opens\"</ref> and watched as Sauron was defeated and [[Barad-dûr]] collapsed.<ref group=T name=\"cormallen\">{{harvnb|Tolkien|1955}}, book 6, ch. 4 \"The Field of Cormallen\"</ref>\n\nAfter the destruction of the One Ring, Legolas remained in [[Minas Tirith]] for Aragorn's coronation and marriage to [[Arwen]]. Later, Legolas and Gimli travelled together through [[Fangorn]] forest and to the [[Glittering Caves of Aglarond]], as Legolas had promised Gimli.<ref group=T name=\"many partings\">{{harvnb|Tolkien|1955}}, book 6, ch. 6 \"Many Partings\"</ref> Eventually<ref group=T name=\"cormallen\"/> Legolas brought south many Silvan Elves, and they dwelt in [[Ithilien]], and it became once again the \"fairest country in all the westlands.\"<ref group=T name=\"Appendix A\">{{harvnb|Tolkien|1955}}, \"Appendix A, Annals of the Kings and Rulers\"</ref> They stayed in Ithilien for \"a hundred years of Men.\"<ref group=T name=\"cormallen\"/> After Aragorn dies, Legolas built a small ship and sailed West, reportedly taking Gimli with him.<ref group=T name=\"Appendix A\"/>\n\n== Analysis ==\n\nThe name ''Legolas Greenleaf'' first appeared in \"[[The Fall of Gondolin]]\", one of the \"[[The Book of Lost Tales|Lost Tales]]\", circa 1917. The character, who guides survivors of the sack of the city to safety, is mentioned only once.<ref group=T name=\"gondolin\">{{harvnb|Tolkien|1984b}}, ''[[The Fall of Gondolin]]''</ref>\n\nThe Tolkien scholar [[Christina Scull]] calls Legolas's friendship with the Dwarf Gimli \"the greatest reconciliation theme in the book\", given the distrust between their races since the [[First Age]], when as she notes the Dwarves sacked [[Menegroth]]. Scull notes the tension when Legolas speaks of the \"sorrow\" after the Dwarves awakened evil in the Misty Mountains; and again when Gimli refuses a blindfold, and Legolas curses the \"stiff necks\" of the Dwarves. From there, the reconciliation forms a sharp contrast, after the Elf-lady Galadriel grants Gimli a strand of her hair; and Legolas finally accepts that Gimli has bested him in speech with his praise for the glittering Caves of Aglarond.<ref name=\"Scull 1996\">{{cite journal |last1=Scull |first1=Christina |title=Open Minds, Closed Minds in ''The Lord of the Rings'' |journal=[[Mythlore]] |date=15 October 1996 |volume=21 |issue=2 |at=article 24 |url=https://dc.swosu.edu/cgi/viewcontent.cgi?article=2141&context=mythlore}}</ref> Christina Casagrande comments that the friendship is fully mutual, as on occasion it is Gimli that follows Legolas, and on occasion the reverse; and the pattern is repeated by other pairs of characters, as in Mark Brian's words \"Casagrande delightfully points out that even Sam is temporarily exalted to the office of 'master' [normally Frodo's role in the relationship] between [[Shelob]]'s cave and the storming of [[Cirith Ungol]].\"<ref name=\"Brians 2022\">{{cite journal |last=Brians |first=Mark A. |title=Friendship in ''The Lord of the Rings'' by Cristina Casagrande |journal=[[Mythlore]] |date=2022 |volume=41 |issue=1 |at=Article 18 |url=https://dc.swosu.edu/cgi/viewcontent.cgi?article=3143&context=mythlore}}</ref>\n\nHannah Mendro notes of the friendship of Legolas and Gimli that \"one of the last notes in the [[Red Book of Westmarch|Red Book]]\" describes it as \"greater than any that has been between Elf and Dwarf. If this is true, then it is strange indeed: that a Dwarf should be willing to leave Middle-earth for any love, or that the Eldar should receive him, or that the Lords of the West should permit it. But it is said that Gimli went also out of desire to see again the beauty of Galadriel; and it may be that she, being mighty among the Eldar, obtained this grace for him. More cannot be said of this matter\".<ref name=\"Mendro 2023\"/> Mendro comments that the friendship is \"both strange and comforting, intensely intimate and oddly private, deeply committed and yet riddled with gaps. All of this makes them perfect candidates for [[Sexuality in The Lord of the Rings|a queer reading]]\".<ref name=\"Mendro 2023\"/> Mendro observes that the friendship comes into being largely out of sight, as Legolas and Gimli often walk together in the forest of Lothlórien, to the surprise of the rest of [[the Company of the Ring|the Company]].<ref name=\"Mendro 2023\"/> The relationship is evidently close, and kept private.<ref name=\"Mendro 2023\"/> Mendro comments that the pair are in a way \"the least significant members\" of the Company, without the leadership role of Gandalf, the kingly destiny of Aragorn, or the Sauron-defeating roles of the Hobbits. They are, she writes, present at one event after another, but responding mainly to each other. This creates \"both the queer potential and the queer deniability\" of their relationship.<ref name=\"Mendro 2023\">{{cite journal |last=Mendro |first=Hannah |title='Wondered at this Change': Queer Potential and Telling Silence in the Relationship of Legolas and Gimli |journal=[[Journal of Tolkien Research]] |date=2023 |volume=18 |issue=2 |page=Article 8 |url=https://scholar.valpo.edu/cgi/viewcontent.cgi?article=1374&context=journaloftolkienresearch}}</ref>\n\nThe medievalists [[Stuart D. Lee]] and [[Elizabeth Solopova]] note that Legolas's lament over the stones of the Elvish land of [[Geography of Middle-earth#Hollin|Hollin]]: \"Only I hear the stones lament them: ''deep they delved us, fair they wrought us, high they builded us; but they are gone,''\"<ref group=T name=\"ring goes south\"/> recalls the [[Old English]] poem ''[[The Ruin (poem)|The Ruin]]''.<ref>{{cite book |last1=Lee |first1=Stuart D. |author1-link=Stuart D. Lee |last2=Solopova |first2=Elizabeth |author2-link=Elizabeth Solopova |title=The Keys of Middle-earth: Discovering Medieval Literature Through the Fiction of J. R. R. Tolkien |title-link=The Keys of Middle-earth |date=2005 |publisher=[[Palgrave Macmillan|Palgrave]] |isbn=978-1403946713 |pages=133, 140–141}}</ref> \nThe Tolkien critic [[Paul H. Kocher|Paul Kocher]] writes of the same passage that it shows how Elves such as Legolas have senses keener than mortal Men: he can see further and can even hear the stones lamenting the passing of the Elves. In Kocher's view, Legolas is an \"emissary for the Elves\", as Gimli is for the dwarves; he suggests that the point Tolkien was making was that Legolas was a typical young elf.<ref>{{cite book |last=Kocher |first=Paul |author-link=Paul H. Kocher |title=Master of Middle-earth: The Achievement of J.R.R. Tolkien |title-link=Master of Middle-earth |date=1974 |orig-year=1972 |publisher=[[Penguin Books]] |isbn=0140038779 |pages=83–86}}</ref>\n\nThe Tolkien scholar [[Tom Shippey]] observes that Legolas, describing the great hall of [[Meduseld]] in the capital of Rohan, too far off for any but an Elf to make out clearly, speaks a line which is [[Beowulf and Middle-earth|a direct translation of one from ''Beowulf'']]: \"The light of it shines far over the land\", ''líxte se léoma ofer landa fela''.<ref group=T name=\"King of the Golden Hall\">{{harvnb|Tolkien|1954}}, book 3, ch. 6 \"The King of the Golden Hall\"</ref><ref>''[[Beowulf]]'', line 311</ref><ref>{{cite book |last=Shippey |first=Tom |author-link=Tom Shippey |title=[[The Road to Middle-Earth]] |date=2005 |edition=Third |orig-year=1982 |publisher=[[HarperCollins]] |isbn=978-0261102750 |page=141}}</ref>\n\n== Adaptations ==\n\n[[File:BakshiLegolas.JPG|upright|thumb|left|Legolas in [[Ralph Bakshi]]'s 1978 animated version of ''[[The Lord of the Rings (1978 film)|The Lord of the Rings]]'']]\n\nLegolas was voiced by [[Anthony Daniels]] in [[Ralph Bakshi]]'s [[1978 in film|1978]] animated version of ''[[The Lord of the Rings (1978 film)|The Lord of the Rings]]''.<ref>{{cite web |title=The Lord of the Rings |url=http://www.ralphbakshi.com/films.php?film=thelordoftherings |archive-url=https://web.archive.org/web/20060823100525/http://www.ralphbakshi.com/films.php?film=thelordoftherings |url-status=dead |archive-date=23 August 2006 |website=[[Ralph Bakshi]] |access-date=7 April 2020}}</ref> In the film, he takes [[Glorfindel]]'s place in the \"Flight to the Ford\"; he meets Aragorn and the hobbits on their way to Rivendell and sets Frodo on his horse before Frodo is chased by the Nazgûl to the ford of [[Bruinen]].<ref>{{cite web |last1=Esmerelda |first1=Jade Nicolette |title=Lord Of The Rings: 15 Things You Never Knew About Legolas |url=https://screenrant.com/legolas-lord-of-the-rings-hobbit-trivia-facts/ |publisher=ScreenRant |access-date=8 April 2020 |date=17 February 2017 |archive-date=7 August 2022 |archive-url=https://web.archive.org/web/20220807121514/https://screenrant.com/legolas-lord-of-the-rings-hobbit-trivia-facts/ |url-status=dead }}</ref>\n\n[[File:Legolas600ppx.jpg|thumb|[[Orlando Bloom]] as Legolas in [[Peter Jackson]]'s ''[[The Lord of the Rings: The Two Towers]]'']]\n\nLegolas was voiced by [[David Collings]] in the [[The Lord of the Rings (1981 radio series)|1981 BBC Radio 4 adaptation]].<ref name=\"Sibley\">{{cite web |last=Sibley |first=Brian |author-link=Brian Sibley |title=THE RING GOES EVER ON: The Making of BBC Radio's The Lord of the Rings |url=http://briansibleytheworks.blogspot.com/2008/01/this-page-is-still-under-construction_23.html |publisher=[[Brian Sibley]] |access-date=24 February 2020 |archive-date=16 August 2019 |archive-url=https://web.archive.org/web/20190816113635/http://briansibleytheworks.blogspot.com/2008/01/this-page-is-still-under-construction_23.html<!--authoritative blog of the production's scriptwriter--> |url-status=live}}</ref> In the 1993 Finnish [[miniseries]] ''[[Hobitit]]'' he was portrayed by [[Ville Virtanen (actor)|Ville Virtanen]].<ref>{{cite web |last=Melanen |first=Sini-Maria |title=Nyt ei tarvitse todistella enää mitään |trans-title=Now there is no need to prove anything anymore |url=https://www.uljas.net/nyt-ei-tarvitse-todistella-enaa-mitaan/ |website=Uljas |language=fi |access-date=5 June 2020 |date=27 January 2017 |quote=Virtanen on näytellyt rikospoliisi Miettistä tv-sarjassa ”Kylmäverisesti sinun”, Legolasia fantasiaseikkailussa ”Hobitit” ja nuivaa aviomiestä komediassa ”Ei kiitos”. |archive-url=https://web.archive.org/web/20200605084938/https://www.uljas.net/nyt-ei-tarvitse-todistella-enaa-mitaan/ |archive-date=5 June 2020 |url-status=live}}</ref>\n\nIn [[Peter Jackson]]'s [[The Lord of the Rings (film series)|''The Lord of the Rings'' movie trilogy]] ([[2001 in film|2001]]–[[2003 in film|2003]]), Legolas was portrayed by [[Orlando Bloom]]. He was presented as an unstoppable fighter, performing dramatic feats of battle.<ref>{{cite magazine |last=Lane |first=Anthony |title=Full Circle: 'The Lord of the Rings: The Return of the King' |url=https://www.newyorker.com/magazine/2004/01/05/full-circle-8 |access-date=23 March 2020 |magazine=[[The New Yorker]] |issue=January 2004 |date=29 December 2003}}</ref> Bloom reprised this role in Jackson's 2013 release ''[[The Hobbit: The Desolation of Smaug]]''<ref name=\"Ward\">{{cite magazine |url=http://insidemovies.ew.com/2011/05/27/orlando-bloom-joins-hobbit/ |title=Orlando Bloom joins 'Hobbit,' has not aged, according to Peter Jackson |first=Kate |last=Ward |magazine=[[Entertainment Weekly]] |date=27 May 2011 |access-date=5 June 2020 |archive-url=https://web.archive.org/web/20160608144904/https://movieweb.com/orlando-bloom-talks-the-return-of-legolas-in-the-hobbit-the-desolation-of-smaug/ |archive-date=8 June 2016 |url-status=live}}</ref> and again for the 2014 follow-up ''[[The Hobbit: The Battle of the Five Armies]]''. Legolas's role in ''The Hobbit'' films is an addition, as he did not appear in the novel. He is attracted to the non-canon elf-woman [[Tauriel]].<ref>{{cite web |last=Orange |first=B. Alan |title=Orlando Bloom Talks The Return of Legolas in The Hobbit: The Desolation of Smaug |publisher=MovieWeb |url=https://movieweb.com/orlando-bloom-talks-the-return-of-legolas-in-the-hobbit-the-desolation-of-smaug/ |access-date=8 April 2020 |date=18 October 2013}}</ref>\n\nIn the [[West End theatre|West End]] musical, ''[[Lord of the Rings (musical)|The Lord of the Rings: The Musical]]'', Legolas was portrayed by Michael Rouse.<ref>{{cite web |title=Lord of the Rings cast confirmed! |url=https://www.londontheatre.co.uk/theatre-news/news/lord-of-the-rings-cast-confirmed |publisher=London Theatre |access-date=7 April 2020 |date=17 January 2007}}</ref> Legolas appeared as a playable character in ''[[Lego Dimensions]]'' as an expansion character, bundled with an arrow launcher.<ref>{{cite web |last=Acuna |first=Kirsten |title=It will cost you nearly $800 to get the full experience of the new LEGO video game |url=https://www.businessinsider.com/lego-dimensions-video-game-expansion-packs-2015-9?r=US&IR=T |publisher=[[Business Insider]] |access-date=7 April 2020 |date=30 September 2015}}</ref>\n\n==References==\n\n===Primary===\n\n{{reflist|group=T|28em}}\n\n=== Secondary ===\n\n{{reflist|28em}}\n\n== Sources ==\n\n* {{ME-ref|TH}}\n* {{ME-ref|FOTR}}\n* {{ME-ref|TT}}\n* {{ME-ref|ROTK}}\n* {{ME-ref|UT}}\n* {{ME-ref|BOLT2}}\n\n{{Lotr}}\n{{Elves}}\n\n[[Category:Grey Elves]]\n[[Category:Teleri]]\n[[Category:Fictional archers]]\n[[Category:The Lord of the Rings characters]]\n[[Category:Literary characters introduced in 1954]]\n[[Category:Adventure film characters]]\n[[Category:Male characters in literature]]\n[[Category:Male characters in film]]\n\n[[de:Figuren in Tolkiens Welt#Legolas]]",
+  "redirect_chain": [],
+  "revision_id": 1361189151,
+  "revision_timestamp": "2026-06-26T07:14:41Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: list",
+      "structure_type": "list"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 7,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history"
+      ],
+      "paragraph_ordinal": 8,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "Sources"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

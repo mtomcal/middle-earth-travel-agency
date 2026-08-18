@@ -1,0 +1,313 @@
+{
+  "article_artifact_id": "article_f1fd1576b0ffbec956267d7672703dd0072a8e45c35368469119c1a72f11990d",
+  "canonical_title": "Gimli (Middle-earth)",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_f1fd1576b0ffbec956267d7672703dd0072a8e45c35368469119c1a72f11990d",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Scholars have commented that Gimli is unlike other dwarves in being free from their characteristic greed for gold. They note, too, that he is unique in being granted the gift of Galadriel's hair, something that she had refused to Fëanor. The events recall the Norse legend Njáls saga, where a gift of hair is refused, with fateful consequences.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_186e362972f1dfe6d05b40bfdf72a87df3d2928a43413f4e49d6c4514e9650b2",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_f1fd1576b0ffbec956267d7672703dd0072a8e45c35368469119c1a72f11990d",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Gimli was voiced by David Buck in Ralph Bakshi's 1978 animated version of The Lord of the Rings. Gimli does not appear in Rankin/Bass's 1980 animated version of The Return of the King. In Peter Jackson's film trilogy, Gimli is played by the Welsh actor John Rhys-Davies, using a Scottish accent.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_9c90ff5a2e9fc9a30c23f21379ca3bceeddd38b46acc7be8c5f72301f319014e",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_f1fd1576b0ffbec956267d7672703dd0072a8e45c35368469119c1a72f11990d",
+      "heading_path": [
+        "Adaptations"
+      ],
+      "normalized_text": "thumb|left|upright|Gimli in Ralph Bakshi's animated version of The Lord of the Rings",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_db22357fdf5bf1e03166af2278b2a97de246e7cca37223c724ae5a70ee5bd882",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_f1fd1576b0ffbec956267d7672703dd0072a8e45c35368469119c1a72f11990d",
+      "heading_path": [
+        "Adaptations"
+      ],
+      "normalized_text": "thumb|John Rhys-Davies as Gimli in Peter Jackson's The Lord of the Rings: The Fellowship of the Ring",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_a70893f8575cf5c654de5886a58c9abdeb3c04d06cc6022a14abc8a8d679552c",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Gimli_(Middle-earth)&action=history",
+  "namespace": 0,
+  "page_id": 20599055,
+  "parent_revision_id": 1361167363,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1361189213",
+  "raw_wikitext": "{{Short description|Fictional Dwarf in The Lord of the Rings}}\n{{good article}}\n{{Infobox character\n| name        = Gimli son of Glóin\n| series      = [[J. R. R. Tolkien|Tolkien]]\n| alias       = Elf-friend<br/> Lockbearer <br/>Lord of the Glittering Caves\n| race        = [[Dwarf (Middle-earth)|Dwarf]]\n| lbl24       = Books\n| data24      = ''[[The Fellowship of the Ring]]'' (1954)<br/> ''[[The Two Towers]]'' (1955)<br/> ''[[The Return of the King]]'' (1956)<br/> ''[[Unfinished Tales]]'' (1980)\n| affiliation = [[Company of the Ring]]\n}}\n'''Gimli''' is a fictional character in [[J. R. R. Tolkien]]'s [[Middle-earth]], appearing in ''[[The Lord of the Rings]]''. A [[Dwarf (Middle-earth)|dwarf]] warrior, he is the '''son of Glóin''', a member of [[Thorin Oakenshield|Thorin]]'s company in Tolkien's earlier book ''[[The Hobbit]]''. He represents the race of Dwarves as a member of the [[Fellowship of the Ring (characters)|Fellowship of the Ring]]. As such, he is one of the primary characters in the story. In the course of the adventure, Gimli aids the [[Ring-bearer]] [[Frodo Baggins]], participates in the [[War of the Ring]], and becomes close friends with [[Legolas]], overcoming an ancient enmity of Dwarves and [[Elf (Middle-earth)|Elves]].\n\nScholars have commented that Gimli is unlike other dwarves in being free from their characteristic greed for gold. They note, too, that he is unique in being granted the gift of [[Galadriel]]'s hair, something that she had refused to [[Fëanor]]. The events recall the Norse legend ''[[Njáls saga]]'', where a gift of hair is refused, with fateful consequences.\n\nGimli was voiced by [[David Buck]] in [[Ralph Bakshi]]'s 1978 animated version of ''[[The Lord of the Rings (1978 film)|The Lord of the Rings]]''. Gimli does not appear in [[Rankin/Bass Animated Entertainment|Rankin/Bass]]'s [[The Return of the King (1980 film)|1980 animated version]] of ''The Return of the King''.<!-- He is portrayed by Tomi Salmela in the 1993 Finnish [[miniseries]] ''[[Hobitit]]''.--> In [[Peter Jackson]]'s [[The Lord of the Rings (film series)|film trilogy]], Gimli is played by the [[Welsh people|Welsh]] actor [[John Rhys-Davies]], using a [[Scottish people|Scottish]] accent.<!--this is discussed and cited below in the article-->\n\n== Fictional biography ==\n{{further|The Lord of the Rings#Plot}}\n\nGimli was born in the [[Ered Luin]] in the [[Third Age]], son of [[Glóin]]. Gimli had wanted to accompany his father on the quest to reclaim [[Erebor]], but at age 62 he was deemed too young.<ref group=T>{{harvnb|Tolkien|1980}}, part 3 \"The Third Age\", ch. 3 \"The Quest of Erebor\" <!--p=336--></ref> He was a remote descendant of [[Durin|Durin the Deathless]], chief of the Seven [[Fathers of the Dwarves]] and ancestor of the [[Dwarf (Middle-earth)#Origins|Longbeards]]. Gimli was of the royal line, but not close to the succession; he was the third cousin once removed of [[Dáin II]] Ironfoot.<ref group=T name=\"Durin's Folk\"/><ref group=T name=\"Bridge of Khazad-dûm\">{{harvnb|Tolkien|1954a}}, book 2, ch. 5 \"The Bridge of Khazad-dûm\"</ref>\n\nGimli is first seen with Glóin at the [[Council of Elrond]]; they tell the Council that the Dark Lord [[Sauron]] is searching for Bilbo, and ask [[Elrond]]'s advice. They learn that [[Frodo Baggins]] is now the bearer of the [[One Ring]]. The Council decides to destroy it by casting it into [[Mount Doom]]. Frodo volunteers for the task;<ref group=T name=\"Council of Elrond\">{{harvnb|Tolkien|1954a}}, book 2, ch. 2 \"[[The Council of Elrond]]\"</ref> Gimli is [[Fellowship of the Ring (characters)|among those chosen to help him]].<ref group=T name=\"Ring goes South\">{{harvnb|Tolkien|1954a}}, book 2, ch. 3 \"The Ring Goes South\"</ref> There is friction between Gimli and the [[Elf (Middle-earth)|elf]] [[Legolas]] as their races bear an old grudge against each other.<ref group=T>{{harvnb|Tolkien|1954a}}, book 2, ch. 4 \"A Journey in the Dark\"</ref>\n\nWhen the company is forced to enter the ancient underground Dwarf-realm, the Mines of Moria, Gimli is at first enthusiastic, hoping to find Balin there.<ref group=T name=\"Ring goes South\"/> However, Moria is still inhabited by [[Orc (Middle-earth)|Orcs]], [[Cave Trolls]], and a [[Balrog]]: Balin and his folk have all been killed. The Fellowship finds his tomb in the Chamber of Mazarbul; Orcs attack, and they have to fight their way out.<ref name=\"A Journey in the Dark\" group=T>{{harvnb|Tolkien|1954a}}, book 2, ch. 4 \"A Journey in the Dark\"</ref> [[Aragorn]] leads the company to [[Lothlórien]], populated by Elves hostile to Dwarves. Gimli refuses to be blindfolded, risking a conflict, so Aragorn has the entire Fellowship blindfolded.<ref group=T name=\"lothlorien\">{{harvnb|Tolkien|1954a}}, book 2, ch. 6 \"Lothlórien\"</ref>\n\nGimli's opinion of Elves changes when he meets [[Galadriel]], co-ruler of Lothlórien: her beauty, kindness, and understanding impress him so much that, when given the opportunity to ask for whatever he wishes, he responds that being able to see her and hear her gentle words is gift enough. When pressed, he admits that he desires a single strand of her golden hair, to be an heirloom of his house, but that he could not ask for such a gift. Galadriel is so moved by his bold yet courteous request that she gives him not one, but three of her hairs.{{efn|A similar request had been made, thousands of years previously, by Galadriel's uncle [[Fëanor]], greatest of the [[Noldor]]in Elves (whose creation of the [[Silmaril]]s may have been inspired by that same silver-gold hair). Galadriel refused Fëanor's request, but she grants Gimli's, perhaps because of his humility.<ref group=T>{{harvnb|Tolkien|1980}}, part 2, ch. 4 \"The History of Galadriel and [[Celeborn]]\"</ref>}} Gimli's gesture of respect and humility towards Galadriel changes Legolas' opinion of him, and they become firm friends.<ref group=T name=\"farewell to lorien\">{{harvnb|Tolkien|1954a}}, book 2, ch. 8 \"Farewell to Lórien\"</ref>\n\nAt [[Amon Hen]], the company is divided, and Gimli joins Legolas and Aragorn in pursuing [[Merry Brandybuck|Merry]] and [[Pippin Took|Pippin]] who have been captured by Orcs.<ref group=T name=\"boromir\">{{harvnb|Tolkien|1954}}, book 3, ch. 1 \"The Departure of Boromir\"</ref> After running many miles in a few days to the land of [[Rohan (Middle-earth)|Rohan]], they meet [[Éomer]], nephew of Rohan's King [[Théoden]], with a troop of cavalry, which has killed all the Orcs. When Éomer speaks badly of the name Galadriel, Gimli responds harshly, but Aragorn prevents a fight.<ref group=T>{{harvnb|Tolkien|1954}}, book 3, ch. 2 \"The Riders of Rohan\"</ref> Gandalf leads them to Rohan's capital, [[Edoras]], where he rouses Théoden to war against [[Saruman]].<ref group=T>{{harvnb|Tolkien|1954}}, book 3, ch. 6 \"The King of the Golden Hall\"</ref> Gimli proves his valour in combat in the [[Battle of Helm's Deep]]. He and Legolas engage in an Orc-slaying contest (Gimli wins by one; he kills 42 to Legolas's 41). Gimli saves Éomer's life by killing two orcs and driving off two others.<ref group=T name=\"helm's deep\">{{harvnb|Tolkien|1954}}, book 3, ch. 7 \"Helm's Deep\"</ref> Later, Gimli's vivid description of the [[Battle of Helm's Deep#Fictional geography|Glittering Caves of Aglarond]] moves Legolas to promise to visit the caves when the [[War of the Ring|War]] is over;<ref group=T>{{harvnb|Tolkien|1954}}, book 3, ch. 8 \"The Road to Isengard\"</ref> and eventually they make the visit together.<ref group=T>{{harvnb|Tolkien|1955}}, book 6, ch. 6 \"Many Partings\"</ref> After the battle, Gimli witnesses Gandalf casting Saruman out of the Order of Wizards; he sees through Saruman's lies with the words \"This wizard's words stand on their heads\".<ref group=T>{{harvnb|Tolkien|1954}}, book 3, ch. 10 \"The Voice of Saruman\"</ref>\n\nGimli accompanies Aragorn on the [[Paths of the Dead]],<ref group=T name=\"Grey Company\">{{harvnb|Tolkien|1955}}, book 5, ch. 2 \"The Passing of the Grey Company\"</ref> and the battles at [[Pelargir]] and the [[Battle of the Pelennor Fields|Pelennor Fields]].<ref group=T name=\"pelennor\">{{harvnb|Tolkien|1955}}, book 5, ch. 6 \"The Battle of the Pelennor Fields\"</ref> He takes part in the final battle against Sauron, the [[Battle of the Morannon]] in front of the [[Black Gate (Middle-earth)|Black Gate]]. There he recognizes Pippin Took's feet underneath a fallen troll, saving his life.<ref group=T name=\"black gate\">{{harvnb|Tolkien|1955}}, book 5, ch. 10 \"The Black Gate Opens\"</ref><ref group=T name=\"cormallen\">{{harvnb|Tolkien|1955}}, book 6, ch. 4 \"The Field of Cormallen\"</ref>\n\nAfter the destruction of the Ring, Gimli leads many Dwarves south to [[Helm's Deep|Aglarond]], becoming the first Lord of the Glittering Caves. They build \"great works\" in Rohan and Gondor, and replace the ruined gate of Minas Tirith with one made of ''[[mithril]]'' and steel.<ref group=T>{{harvnb|Tolkien|1955}}, Appendix A, part 3.</ref> After Aragorn's death, Gimli (then 262 years old) sails with Legolas into the West, becoming the first Dwarf in the [[Undying Lands]].<ref group=T>{{harvnb|Tolkien|1955}}, Appendix B, \"Later Events Concerning the Members of the Fellowship of the Ring\"</ref>\n\n== Family tree ==\n{{Durin's Folk}}\n\n== Concept and creation ==\n\n{{further|Dwarves in Middle-earth#Concept and creation}}\n\n[[File:Gimli son of Gloin by Perrie Nicholas Smith.jpg|thumb|Fan art of \"Gimli son of Glóin\". [[Dimitra Fimi]] notes the small leap required for fan activity to switch from book-based to film-based.<ref name=\"Fimi 2011\">{{cite book |last=Fimi |first=Dimitra |author-link=Dimitra Fimi |chapter=Filming Folklore: Adapting Fantasty for the Big Screen through Peter Jackson's ''The Lord of the Rings'' |editor1-last=Bogstad |editor1-first=Janice M. |editor2-last=Kaveny |editor2-first=Philip E. |title=[[Picturing Tolkien]] |chapter-url=https://books.google.com/books?id=jNjKrXRP0G8C&pg=PA84 |year=2011 |publisher=[[McFarland & Company|McFarland]] |isbn=978-0-7864-8473-7 |pages=84–101}}</ref>]]\n\nThe name ''Gimli'' first appeared in Tolkien's works in \"The Tale of Tinúviel\", the earliest version of the story of [[Beren]] and [[Lúthien|Lúthien Tinúviel]], found in the second volume of ''[[The Book of Lost Tales]]''. Here, the name belongs to an aged elf, a prisoner along with Beren in the kitchens of Tevildo, Prince of Cats (forerunner of [[Sauron]]).<ref group=T>{{harvnb|Tolkien|1984b}}, volume 2, ch. 1 \"The Tale of Tinúviel\".</ref> During the writing of ''The Lord of the Rings'', as told in ''[[The History of The Lord of the Rings|The Return of the Shadow]]'', Gimli's character was first named ''Frar'', then ''Burin'', and he was the son of Balin.<ref group=T>{{harvnb|Tolkien|1988}}, [part 4] \"The Story Continued\", ch. 23 \"In the House of Elrond\"</ref>\n\n== Analysis ==\n\nThe Tolkien scholar [[Tom Shippey]] writes that Tolkien has Gimli \"swap grim [[Proverbs in The Lord of the Rings|proverbs]]\" with Elrond. Shippey comments that dwarvish heroism is expressed in their veiled speech, as seen also with King Dáin's stubborn replies to the messenger of [[Mordor]]. He sees these examples as unified by \"delight in the contrast between passionate interior and polite or rational expression; the weakness of the latter is an index of the strength of the former\".<ref>{{cite book |last=Shippey |first=Tom |author-link=Tom Shippey |title=[[The Road to Middle-earth]] |year=1992 |publisher=Allen & Unwin |isbn=978-0261102750 |page=137}}</ref>\n\nWriting in ''[[Mallorn (journal)|Mallorn]]'', the journal of the Tolkien Society, Lilian Darvell states that Gimli's request for a gift of Galadriel's hair is to be contrasted with [[Fëanor]]'s earlier request of the same gift, described in \"The History of Galadriel and Celeborn\", in ''[[Unfinished Tales]]''<!--page 296-->.<ref name=\"History of Galadriel and Celeborn\" group=T>{{harvnb|Tolkien|1980}}, \"The History of Galadriel and Celeborn\".</ref><ref name=\"Darvell 2015\"/>  Galadriel rejected Fëanor's request, though he made it three times. Darvell comments that given Galadriel's ability to see into people's hearts, and the darkness she saw in Fëanor, she must have seen something better in Gimli than in \"one of the greatest of the [[Noldor]]\".<ref name=\"Darvell 2015\">{{cite journal |last1=Darvell |first1=Lilian |title='Beautiful and Terrible': The Significance of Galadriel's Hair in The Lord of the Rings and Unfinished Tales |journal=[[Mallorn]] |date=Winter 2015 |issue=56 |pages=22–24 |jstor=48614834}}</ref> Darvell notes that the gift of hair has echoes in both literature, as in ''[[Berenice II|Berenice]] [[Aetia (Callimachus)|and the Lock]]'' by [[Callimachus]] and [[Catullus]] and ''[[The Rape of the Lock]]'' by [[Alexander Pope]], and in Norse legend.<ref name=\"Darvell 2015\"/> In ''[[Njáls saga]]'', Gunnarr's bowstring breaks in a desperate battle; he asks his wife Hallgerðr for two hairs to use as a replacement, but she refuses because he had once struck her, and he is killed. Darvell comments that Galadriel's refusal does not kill Fëanor, but it does result in a distancing, which might have led him to refuse to send ships to rescue her from [[Númenor]].<ref name=\"History of Galadriel and Celeborn\" group=T/><ref name=\"Darvell 2015\"/>\n\nThe scholars of [[international relations]] Abigail Ruane and [[Patrick James (professor)|Patrick James]] view Gimli as an exemplar of \"[[Liberal institutionalism|neoliberal institutionalists]]\" within the [[economy of Middle-earth]], since his \"people avidly pursue gold and treasure\".<ref name=\"Ruane James 2008\">{{cite journal |last1=Ruane |first1=Abigail E. |last2=James |first2=Patrick |title=The International Relations of Middle-earth: Learning from The Lord of the Rings |journal=International Studies Perspectives |date=2008 |issue=4|volume=9 |pages=377–394 |url=https://www.researchgate.net/publication/229685604|doi=10.1111/j.1528-3585.2008.00343.x}}</ref> In their view, he and his Dwarves also illustrate the interdependence of nations through their networks of trade and allies; the varied \"relationships among Dwarves, Elves, and Men provide a foundation upon which to build and [to] ally against Sauron and illustrate how complex interdependence can reduce perceptions of insecurity and create opportunities for cooperation rather than conflict.\"<ref name=\"Ruane James 2008\"/>\n<!--[[File:Smaug par David Demaret.jpg|thumb|Gimli, alone of all the Dwarves, was immune to the dragon-sickness, caused by the spells bound around the dragon's golden hoard.<ref name=\"Robbins 2015\"/>]]-->\n\nThe Tolkien scholar John Miller writes that like the Elves, the Dwarves have withdrawn from history and become subject to \"an increased aesthetic sensibility\",<ref name=\"Miller 2016\">{{cite journal |last=Miller |first=John |date=Spring–Summer 2016 |title=Mapping Gender in Middle-earth |journal=[[Mythlore]] |volume=34 |issue=2  |pages=133–152 |url=https://dc.swosu.edu/mythlore/vol34/iss2/9}}</ref> exemplified by Gimli's lyrical description of the Glittering Caves of Aglarond. Miller argues that as well as praising the beauty of the caves, Gimli's account \"emphasizes their stillness, their abstraction from the history marching along outside\".<ref name=\"Miller 2016\"/> He suggests that the dwarvish love of hand-crafted workmanship could be a pre-modern aesthetic, an immature or adolescent appreciation compared to that of Elves or Men.<ref name=\"Miller 2016\"/>\n\nThe philologist Susan Robbins writes in ''Žmogus ir žodis'' that with the words \"I say to you, Gimli son of Glóin, that your hands shall flow with gold, yet over you gold shall have no dominion\", Galadriel gives Gimli, alone of all the Dwarves, immunity to the dragon-sickness. Robbins defines this as \"bewilderment or confusion that makes one so greedy for ... gold that one would rather starve to death [for] rather than give any of it up\",<ref name=\"Robbins 2015\">{{cite journal | last=Robbins | first=Susan | title=Old English, Old Norse, Gothic: Sources of Inspiration and Creativity for J. R. R. Tolkien's The Hobbit and The Lord of the Rings | journal=Žmogus ir žodis (Man and the Word) | publisher=Vytautas Magnus University | volume=17 | issue=3 | date=2015-12-15 | issn=1392-8600 | doi=10.15823/zz.2015.12 | pages=66–76| doi-access=free }}</ref> the fate that overwhelmed the Dwarf [[Thorin Oakenshield]] and the human [[Master of Lake-town|Master of Laketown]] in ''[[The Hobbit]]''. She notes that Tolkien stated that the dragon-sickness, the effect of the magic spells placed on [[Smaug]]'s golden hoard, had been derived from line 3052 of the [[Old English]] poem ''[[Beowulf]]'': {{lang|ang|iúmonna gold galdre bewunden}}, \"the gold of men of long ago enmeshed in enchantment\".<ref name=\"Robbins 2015\"/>\n\n== Adaptations ==\n\n[[File:Bakshi Gimli.jpg|thumb|left|upright|Gimli in [[Ralph Bakshi]]'s animated version of ''[[The Lord of the Rings (1978 film)|The Lord of the Rings]]'']]\n\nGimli was voiced by [[David Buck]] in [[Ralph Bakshi]]'s 1978 animated version of ''[[The Lord of the Rings (1978 film)|The Lord of the Rings]]''. Here he is drawn as being almost as tall as the rest of the non-hobbit members of the Fellowship.<ref name=\"Beck2005\">{{cite book |last=Beck |first=Jerry |title=The Animated Movie Guide |url=https://books.google.com/books?id=fTI1yeZd-tkC&pg=PA154 |year=2005 |publisher=[[Chicago Review Press]] |isbn=978-1-56976-222-6 |page=154}}</ref> Gimli does not appear in [[Rankin/Bass Animated Entertainment|Rankin/Bass]]'s 1980 [[The Return of the King (1980 film)|animated version of ''The Return of the King'']].<ref>{{cite web |title=The Return of the King (1980 film) |url=https://tolkiengateway.net/wiki/The_Return_of_the_King_(1980_film) |website=Tolkien Gateway |access-date=16 January 2026}}</ref> He is portrayed by Tomi Salmela-Nikunen in the 1993 Finnish [[miniseries]] ''[[Hobitit]]''.<ref>{{cite web |title=Hobitit |url=https://tolkiengateway.net/wiki/Hobitit |website=Tolkien Gateway |access-date=16 January 2026}}</ref>\n\n[[File:Gimli With Axe.jpg|thumb|[[John Rhys-Davies]] as Gimli in [[Peter Jackson]]'s ''[[The Lord of the Rings: The Fellowship of the Ring]]'']]\n\nIn [[Peter Jackson]]'s [[The Lord of the Rings (film series)|film trilogy]], Gimli is played by the [[Welsh people|Welsh]] actor [[John Rhys-Davies]]. [[Brian Sibley]] has asserted that Rhys-Davies used \"his distinctive Welsh-derived accent\" for the character.<ref name=\"Sibley 2013\">{{cite book |last=Sibley |first=Brian |author-link=Brian Sibley |title=The Hobbit: The Desolation of Smaug Official Movie Guide |date=2013 |publisher=[[HarperCollins]] |url=https://books.google.com/books?id=X_YUAgAAQBAJ&pg=PA27 |isbn=978-0007498079 |page=27 |quote=John Rhys-Davies' distinctive Welsh-derived accent for Gimli was adopted by New Zealanders John Callen and Peter Hambleton in portraying characters who are Gimli's father [Gloin] and uncle [Oin].}}</ref> Several other sources state, however, that Rhys-Davies uses a Scottish accent; the Scottish ''[[The Press and Journal]]'' praises him for the \"convincing\" Scottish accent, calling his performance \"raspy, croaky, bearded and brilliant\".<ref>{{cite web |title=The best and worst Scottish accents ever to hit our screens |url=https://www.pressandjournal.co.uk/fp/news/aberdeen-aberdeenshire/419684/worst-best-scottish-accents-ever-filmed/ |publisher=[[The Press and Journal]] |access-date=17 December 2023 |date=5 December 2014}}</ref> Rhys-Davies himself states on ''The Fellowship of the Ring'' extended version DVD that the accent was by intention Scottish, and that it had been his decision to use it.<ref name=\"Rearick 2004\">{{cite journal |last1=Rearick |first1=Anderson |title=Why Is the Only Good Orc a Dead Orc |journal=Inklings Forever: Published Colloquium Proceedings 1997-2016  |date=2004 |volume=4 |page=Article 10 |quote=in the actors’ commentary found on the extended DVD version of The Fellowship of the Ring, John Rhys- Davies describes his decision—not Jackson’s nor Tolkien’s—to add a Scottish accent to his portrayal of Gimli the dwarf.}}</ref> ''[[The New Zealand Herald]]'' quotes Rhys-Davies as saying of Gimli that \"There is a gritty sort of fierce belligerence, and in the end I thought an almost [[Glasgow]] Scottish accent would serve the character.\"<ref name=\"Baillie 2003\">{{cite news |last=Baillie |first=Russell |title=Gimli role that dwarfs the rest |date=December 2003 |url=https://www.nzherald.co.nz/lifestyle/gimli-role-that-dwarfs-the-rest/JLXYYIIEAPPHYKJLBOXL4RVYWA/ |access-date=17 December 2023 |work=[[The New Zealand Herald]]}}</ref>\n\nIn Peter Jackson's films, Gimli's prosaic and blunt style, contrasting with the refined Aragorn and Legolas, provides defusing [[comic relief]], with much of the humour [[heightism|based on his height]],<ref name=\"croft\">{{cite web |url=http://faculty-staff.ou.edu/C/Janet.B.Croft-1/anticipationandflattening.htm |title=The Mines of Moria: 'Anticipation' and 'Flattening' in Peter Jackson's The Fellowship of the Ring |first=Janet Brennan |last=Croft |author-link=Janet Brennan Croft |date=February 2003 |work=Southwest/Texas Popular Culture Association Conference, Albuquerque |publisher=[[University of Oklahoma]] |url-status=dead |archive-url=https://web.archive.org/web/20111031065417/http://faculty-staff.ou.edu/C/Janet.B.Croft-1/anticipationandflattening.htm |archive-date=2011-10-31 }}</ref><ref>{{cite book |last=Flieger |first=Verlyn |author-link=Verlyn Flieger |chapter=Sometimes One Word Is Worth a Thousand Pictures |editor1-last=Bogstad |editor1-first=Janice M. |editor2-last=Kaveny |editor2-first=Philip E. |title=Picturing Tolkien: Essays on Peter Jackson's The Lord of the Rings Film Trilogy |chapter-url=https://books.google.com/books?id=jNjKrXRP0G8C&pg=PA48 |year=2011 |publisher=[[McFarland (publisher)|McFarland]] |isbn=978-0-7864-8473-7 |page=48}}</ref> along with his competitive, if friendly, feud with Legolas, where Gimli consistently finds himself out-achieved.<ref name=\"Bryant2014\">{{cite journal |last=Bryant |first=Brantley L. |title=One does not simply laugh in Middle Earth: Sacrificing humor in Peter Jackson's The Lord of the Rings |journal=Postmedieval: A Journal of Medieval Cultural Studies |volume=5 |issue=2 |year=2014 |pages=184–198 |issn=2040-5960 |doi=10.1057/pmed.2014.6|s2cid=161197262 }}</ref>\n\n<!--On stage, Gimli was portrayed by Elizabeth Harris in the [[Cincinnati]] stage productions of ''The Fellowship of the Ring'' (2001), ''The Two Towers'' (2002), and ''The Return of the King'' (2003) for [[Clear Stage Cincinnati]].<ref>{{cite web |title=ROTK Play in Ohio |url=http://archives.theonering.net/perl/newsview/8/1064801339 |website=TheOneRing.net |access-date=1 September 2020}}</ref>--><!--At Chicago's Lifeline Theatre, Gimli was played on-stage by [[Brooks Darrah]] in ''The Two Towers'' (1999).{{cn|date=September 2020}}-->\nGimli was portrayed by Ross Williams in the 3-hour [[Toronto]] stage production of ''The Lord of the Rings'', which opened in 2006.<ref>{{cite web |title=The Lord Of The Rings |url=https://www.shaunmckenna.me/the-lord-of-the-rings |publisher=Shaun McKenna |access-date=1 September 2020 |quote=The World Premiere production opened at the Princess of Wales Theatre in Toronto on February 4, 2006 and had its press opening on March 23, 2006.}}</ref> In ''[[The Lord of the Rings (musical)|The Lord of the Rings: The Musical]]'', he was played by Sévan Stephan throughout its [[London]] run.<ref>{{cite web |title=Sevan Stephan Broadway and Theatre Credits |url=https://www.broadwayworld.com/people/Sevan-Stephan/ |website=Broadway World |access-date=1 September 2020}}</ref>\n\nThe classical composer [[Craig H. Russell]]'s 1995 ''Middle Earth'' has as its second movement \"Gimli, the Dwarf\"; Russell describes it as sounding \"like a rugged Irish tune\". The piece was originally written for [[string ensemble]], and re-orchestrated for [[symphonic orchestra]].<ref>{{cite AV media |title=4 American Classics Craig Russell: Rhapsody for Horn and Orchestra Middle Earth • Gate City |url=https://www.chandos.net/chanimages/Booklets/NA9168.pdf |type=CD |publisher=Chandos |access-date=3 August 2022}}</ref>\n\n== Notes ==\n{{notelist}}\n\n== References ==\n\n=== Primary ===\n\n{{reflist|group=T}}\n\n=== Secondary ===\n{{reflist|30em}}\n\n=== Sources ===\n\n* {{ME-ref|FOTR}}\n* {{ME-ref|TT}}\n* {{ME-ref|ROTK}}\n* {{ME-ref|UT}}\n* {{ME-ref|BoLT2}}\n* {{ME-ref|ROTS}}\n\n{{The Lord of the Rings}}\n\n{{DEFAULTSORT:Gimli (Middle-earth)}}\n[[Category:Middle-earth Dwarves]]\n[[Category:The Lord of the Rings characters]]\n[[Category:Literary characters introduced in 1954]]\n[[Category:Fictional axefighters]]\n[[Category:Male characters in literature]]\n[[Category:Male characters in film]]",
+  "redirect_chain": [],
+  "revision_id": 1361189213,
+  "revision_timestamp": "2026-06-26T07:15:45Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography"
+      ],
+      "paragraph_ordinal": 7,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography"
+      ],
+      "paragraph_ordinal": 8,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Family tree"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Concept and creation"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Concept and creation"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Concept and creation"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 7,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Notes"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

@@ -1,0 +1,232 @@
+{
+  "article_artifact_id": "article_6b2f1a4ca3218b1a5b0974355f527171c9cb9812a2a8a5b6bd98c3f6dadf1fad",
+  "canonical_title": "Éomer",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_6b2f1a4ca3218b1a5b0974355f527171c9cb9812a2a8a5b6bd98c3f6dadf1fad",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "The name Éomer, meaning \"Horse-famous\" in Old English, is from Beowulf, a work that Tolkien had studied extensively. Despite the evident Old English connection, Tolkien denied that Éomer and the Riders of Rohan directly represented the Anglo-Saxons. Scholars have noted that while written imagery remains ambiguous and can combine suggestions of Gothic and Anglo-Saxon origins, film such as Peter Jackson's Lord of the Rings trilogy inevitably have to choose. When Éomer appears in a helmet recalling the Sutton Hoo helmet, he is plainly Anglo-Saxon.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_412573357eac83f19ec0555a27c94d4e6efd96cc07e71a379191e8bf1366154a",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_6b2f1a4ca3218b1a5b0974355f527171c9cb9812a2a8a5b6bd98c3f6dadf1fad",
+      "heading_path": [
+        "Fictional account",
+        "Main text"
+      ],
+      "normalized_text": "thumb|upright=1.4|Aspects of Éomer such as fighting on horseback and his flaxen hair suggest a Gothic influence. Painting Gizur and the Huns by Peter Nicolai Arbo, 1886",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_de3bcc2d1c7ff7e090b6c9bc417ddf5158afd52fb382fee6809be0c6d77975ac",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_6b2f1a4ca3218b1a5b0974355f527171c9cb9812a2a8a5b6bd98c3f6dadf1fad",
+      "heading_path": [
+        "Fictional account",
+        "Main text"
+      ],
+      "normalized_text": "Éomer is the son of Théodwyn and Éomund. After their parents' death Éomer and his sister Éowyn were adopted by their uncle Théoden, king of the Rohirrim. He is the leader of the forces of Rohan who attack and kill the Uruk-hai who had kidnapped the hobbits Merry Brandybuck and Pippin Took. Against orders, impressed by Aragorn, he helps Aragorn, Gimli and Legolas by lending them horses and guiding them to where the attack had taken place.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_4f54a07939caf62e136c0187bc0511193268fd0f830288ccce3e63e9539bc14a",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_6b2f1a4ca3218b1a5b0974355f527171c9cb9812a2a8a5b6bd98c3f6dadf1fad",
+      "heading_path": [
+        "Fictional account",
+        "Main text"
+      ],
+      "normalized_text": "On his return to Edoras, Éomer reports this meeting to Théoden, and is imprisoned on the orders of Gríma Wormtongue, Théoden's sinister advisor. Aragorn, Gimli and Legolas arrive in Edoras with the wizard Gandalf, who releases the king from Gríma's spell. Éomer is set free and restored to honour. He fights at the battle of Helm's Deep, where the forces of Rohan drive Saruman's army of Orcs and Dunlendings from the walls of the Hornburg, buying enough time for Gandalf to arrive with Erkenbrand and his men of the Westfold of Rohan.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_3941847c3bf21d81e156f66c6877f8433b4ee9b943bcc98b0b43b4f111b910a8",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_6b2f1a4ca3218b1a5b0974355f527171c9cb9812a2a8a5b6bd98c3f6dadf1fad",
+      "heading_path": [
+        "Fictional account",
+        "Main text"
+      ],
+      "normalized_text": "Éomer plays a major role in the Battle of the Pelennor Fields, the pivotal battle of The Return of the King against the forces of the Dark Lord Sauron from Mordor. After leading a successful cavalry charge, he is dismayed to find Théoden mortally wounded. Théoden appoints him King of Rohan with his dying breath. Seeing Éowyn seemingly dead on the battlefield, Éomer throws himself and the remaining Rohirrim at the enemy. Aragorn arrives unexpectedly from Pelargir, and joins forces with Éomer, fulfilling his prediction that they would meet in the midst of their enemies. They rout the Orcs and win the battle.",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_ba1d9e64496d6103c7a782f4f91497a8ec4632b9af3c1689fccb8bb60191a366",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_6b2f1a4ca3218b1a5b0974355f527171c9cb9812a2a8a5b6bd98c3f6dadf1fad",
+      "heading_path": [
+        "Fictional account",
+        "Main text"
+      ],
+      "normalized_text": "Éomer accompanies Aragorn to the Gates of Mordor for the final stand against Sauron, the Battle of the Morannon. This distracts Sauron long enough for the One Ring to be destroyed in Mount Doom, causing his immediate downfall. Théoden is taken back to Edoras to be buried, and Éomer becomes King of the Mark.",
+      "paragraph_ordinal": 5,
+      "passage_id": "passage_abee6388e36d615eb94deccf4ba779d9e0c1b64183165b954bfc38c6a61a2a37",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=%C3%89omer&action=history",
+  "namespace": 0,
+  "page_id": 62761,
+  "parent_revision_id": 1361185371,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1361188868",
+  "raw_wikitext": "{{short description|Fictional character in J. R. R. Tolkien's Middle-earth}}\n{{For|the eponymous figure in Anglo-Saxon legend|legendary kings of the Angles}}\n{{good article}}\n{{Use British English|date=April 2026}}\n{{Use dmy dates|date=April 2026}}\n{{Infobox character\n| name   = Éomer\n| series = [[J. R. R. Tolkien|Tolkien]]\n| alias  = Third Marshal of the Riddermark,<br/>the King of [[Rohan (Middle-earth)|Rohan]]\n| race   = [[Man (Middle-earth)|Men]] of [[Rohan (Middle-earth)|Rohan]]\n| lbl24  = Book(s)\n| data24 = ''[[The Two Towers]]'' (1954)<br/>''[[The Return of the King]]'' (1955)\n}}\n'''Éomer''' is a fictional character in [[J. R. R. Tolkien]]'s [[Middle-earth]]. He appears in ''[[The Lord of the Rings]]'' as a leader of the [[Riders of Rohan]] who serve as cavalry to the army of [[Rohan (Middle-earth)|Rohan]], fighting against [[Mordor]].\n\nThe name Éomer, meaning \"Horse-famous\" in [[Old English]], is from ''[[Beowulf]]'', a work that Tolkien had studied extensively. Despite the evident Old English connection, Tolkien denied that Éomer and the Riders of Rohan directly represented the Anglo-Saxons. Scholars have noted that while [[Tolkien's ambiguity|written imagery remains ambiguous]] and can combine suggestions of [[Goths|Gothic]] and Anglo-Saxon origins, film such as [[Peter Jackson]]'s [[Lord of the Rings film trilogy|''Lord of the Rings'' trilogy]] inevitably have to choose. When Éomer appears in a helmet recalling the [[Sutton Hoo helmet]], he is plainly Anglo-Saxon.\n\n== Fictional account ==\n\n=== Main text ===\n\n[[File:Gizur and the Huns.jpg|thumb|upright=1.4|Aspects of Éomer such as fighting on horseback and his flaxen hair suggest a [[Goths|Gothic]] influence.<ref name=\"Drout 2011\"/> Painting ''Gizur and the Huns'' by [[Peter Nicolai Arbo]], 1886]]\n\nÉomer is the son of Théodwyn and Éomund. After their parents' death Éomer and his sister [[Éowyn]] were adopted by their uncle [[Théoden]], king of the [[Rohan (Middle-earth)#People|Rohirrim]]. He is the leader of the forces of Rohan who attack and kill the [[Uruk-hai]] who had kidnapped the [[hobbit]]s [[Merry Brandybuck]] and [[Pippin Took]]. Against orders, impressed by [[Aragorn]], he helps Aragorn, [[Gimli (Middle-earth)|Gimli]] and [[Legolas]] by lending them horses and guiding them to where the attack had taken place.<ref group=T>''[[The Two Towers]]'', book 3, ch. 2 \"The Riders of Rohan\"</ref>\n\nOn his return to [[Edoras]], Éomer reports this meeting to Théoden, and is imprisoned on the orders of [[Gríma Wormtongue]], Théoden's sinister advisor. Aragorn, Gimli and Legolas arrive in Edoras with the wizard [[Gandalf]], who releases the king from Gríma's spell. Éomer is set free and restored to honour.<ref group=T>''[[The Two Towers]]'', book 3, ch. 6 \"The King of the Golden Hall\"</ref> He fights at the [[battle of Helm's Deep]], where the forces of Rohan drive Saruman's army of [[Orc (Middle-earth)|Orcs]] and [[Dunlendings]] from the walls of the Hornburg, buying enough time for Gandalf to arrive with Erkenbrand and his men of the Westfold of Rohan.<ref group=T>''[[The Two Towers]]'', book 3, ch. 7 \"Helm's Deep\"</ref>\n\nÉomer plays a major role in the [[Battle of the Pelennor Fields]], the pivotal battle of ''[[The Return of the King]]'' against the forces of the Dark Lord [[Sauron]] from [[Mordor]]. After leading a successful cavalry charge, he is dismayed to find Théoden mortally wounded. Théoden appoints him King of Rohan with his dying breath. Seeing Éowyn seemingly dead on the battlefield, Éomer throws himself and the remaining Rohirrim at the enemy. Aragorn arrives unexpectedly from [[Pelargir]], and joins forces with Éomer, fulfilling his prediction that they would meet in the midst of their enemies. They rout the Orcs and win the battle.<ref group=T>''[[The Return of the King]]'', book 5, ch. 6 \"The Battle of the Pelennor Fields\"</ref>\n\nÉomer accompanies Aragorn to the Gates of Mordor for the final stand against Sauron, the [[Battle of the Morannon]].<ref group=T>''[[The Return of the King]]'', book 5, ch. 10 \"The Black Gate Opens\"</ref> This distracts Sauron long enough for the [[One Ring]] to be destroyed in [[Mount Doom]], causing his immediate downfall.<ref group=T>''[[The Return of the King]]'', book 6, ch. 3 \"Mount Doom\"</ref> Théoden is taken back to Edoras to be buried, and Éomer becomes King of the Mark.<ref group=T>''[[The Return of the King]]'', book 6, ch. 6 \"Many Partings\"</ref>\n\n{{anchor|Lothíriel}}\n=== Appendices ===\n\nThe Appendices to ''The Lord of the Rings'' add a few details. In 3021 of the Third Age, Éomer marries Lothíriel, only daughter of [[Imrahil]], prince of [[Dol Amroth]]. She bears him a son, Elfwine the Fair, who becomes King of Rohan after his father. [[Tolkien fan fiction]] imagines many alternative lives for Lothíriel.<ref>{{cite journal |last1=Viars |first1=Karen |last2=Coker |first2=Cait |title=Constructing Lothiriel: Rewriting and Rescuing the Women of Middle-Earth from the Margins |journal=[[Mythlore]] |volume=33 |issue=2 |year=2015 |pages=35–48 |url=https://dc.swosu.edu/mythlore/vol33/iss2/6/}}</ref>\n\n== Analysis ==\nThe name Éomer, meaning \"Horse-famous\" in [[Old English]],<ref>{{ME-ref|LMH|p. 21}}</ref> occurs in ''[[Beowulf]]'', at line 1959, as that of a king descended from [[Offa of Mercia]]. Tolkien [[On Translating Beowulf|had studied ''Beowulf'' extensively]] and [[Beowulf and Middle-earth|drew material from it]] in writing ''[[The Lord of the Rings]]''.<ref>{{ME-ref|Letters|No. 25}} \"Beowulf is among my most valued sources ...\"</ref><ref>{{cite journal |last=Kennedy |first=Michael |journal=Tilkal |issue=1 |title=Tolkien and Beowulf — Warriors of Middle-Earth |year=2001 |publisher=The Australian smial of [[the Tolkien Society]] |url=http://tolharndor.org/tilkal/issue1/beowulf.html |url-status=dead |archive-url=https://web.archive.org/web/20090912054343/http://tolharndor.org/tilkal/issue1/beowulf.html |archive-date=2009-09-12}}</ref>\n\nThe critic [[Paul Harold Kocher|Paul Kocher]] notes that in his first meeting with [[Aragorn]] on the plains of Rohan, Éomer is moved by affection more than just by the policy of the Mark, and indeed he risks both his command and his life by assisting Aragorn, contrary to orders.<ref>{{cite book |last=Kocher |first=Paul |author-link=Paul H. Kocher |title=Master of Middle-earth: The Achievement of J.R.R. Tolkien |title-link=Master of Middle-earth |date=1974 |orig-year=1972 |publisher=[[Penguin Books]] |isbn=0140038779 |page=134}}</ref>\n\nThe Tolkien scholar [[Tom Shippey]] contrasts Éomer's behaviour with that of [[Faramir]], son of the [[Ruling Stewards of Gondor|Ruling Steward]] of [[Gondor]]. In his view, Faramir is courteous, urbane, and civilised where Éomer is \"compulsively truculent\",<ref name=\"Shippey Faramir\"/> in both cases reflecting the character of their nations: Gondor \"a kind of [[Ancient Rome|Rome]]\",<ref name=\"Shippey Faramir\"/> subtle and calculating, Rohan a simple but vigorous [[Anglo-Saxon]] society.<ref name=\"Shippey Faramir\">{{cite book |last=Shippey |first=Tom |author-link=Tom Shippey |title=[[The Road to Middle-Earth]] |date=2005 |publisher=Grafton ([[HarperCollins]]) |isbn=978-0261102750 |edition=Third |orig-year=1982 |pages=146–149}}</ref> In his view, Rohan resembles Anglo-Saxon society in every way, except for one: the Anglo-Saxons did not like to fight on horseback.<ref name=\"Shippey Horses\">{{cite book |last=Shippey |first=Tom |author-link=Tom Shippey |title=[[The Road to Middle-Earth]] |date=2005 |publisher=Grafton ([[HarperCollins]]) |isbn=978-0261102750 |edition=Third |orig-year=1982 |pages=139–141}}</ref>\n\nShippey writes further that prominent at the critical moment of the [[Battle of the Pelennor Fields]], the decisive charge of the Riders of Rohan, is [[panache]], which he explains means both \"the white horsetail on [Eomer's] helm floating in his speed\" and \"the virtue of sudden onset, the dash that sweeps away resistance.\"<ref name=\"Shippey Panache\">{{cite book |last=Shippey |first=Tom |author-link=Tom Shippey |title=[[The Road to Middle-Earth]] |date=2005 |edition=Third |orig-year=1982 |publisher=Grafton ([[HarperCollins]]) |isbn=978-0261102750 |pages=142–145}}</ref> Shippey notes that this allows Tolkien to display Rohan both as English, based on their [[Old English]] names and words like \"''eored''\" (troop of cavalry), and as \"alien, to offer a glimpse of the way land shapes people\".<ref name=\"Shippey Panache\"/>\n\n== Adaptations ==\nIn the 1978 [[The Lord of the Rings (1978 film)|animated adaptation]] of ''The Lord of the Rings'' by [[Ralph Bakshi]], Éomer has no lines and is not fully animated.<ref>{{cite web |last=Gilkeson |first=Austin |title=Ralph Bakshi's Animated The Lord of the Rings Shows the True Perils of Power |url=https://www.tor.com/2018/11/20/ralph-bakshis-animated-the-lord-of-the-rings-shows-the-true-perils-of-power/ |publisher=[[Tor.com]] |access-date=7 May 2020 |date=20 November 2018}}</ref>\n\nIn [[Peter Jackson]]'s [[The Lord of the Rings (film series)|''The Lord of the Rings'' film trilogy]], Éomer was played by the New Zealand actor [[Karl Urban]].<ref>{{cite web |last=Tilly |first=Chris |title=Karl Urban Q&A |url=https://www.ign.com/articles/2010/10/12/karl-urban-qa |publisher=[[IGN]] |access-date=7 May 2020 |date=2 May 2012}}</ref>\n\n{{multiple image\n|image1=EomerFilm.JPG\n|width1=250\n|caption1=[[Karl Urban]] as Éomer in [[Peter Jackson]]'s ''[[The Lord of the Rings: The Two Towers]]''\n|image2=Sutton Hoo helmet 2016.png\n|width2=117\n|caption2=The [[Sutton Hoo helmet]]\n|footer=Éomer's armour in the film is unmistakably [[Anglo-Saxon]].<ref name=\"Drout 2011\"/>}}\n\nThe Tolkien scholar [[Michael Drout]] states that Jackson's film version of Éomer's helmet is plainly based on the [[Sutton Hoo helmet]], \"the single most iconic image of [[Anglo-Saxon culture]]\".<ref name=\"Drout 2011\"/> Tolkien, he notes, had denied that the Riders of Rohan were actually the Anglo-Saxons, though he had made them speak the [[Mercian dialect]] of that language. In a book, Drout states, there can be [[Tolkien's ambiguity|ambiguity about visual images]] which are always partly in the reader's imagination; but a film inevitably reduces that useful ambiguity. Éomer's crest of horsetail, and the riders' flaxen hair give the impression of \"continental [[Goths|Gothic]]\" rather than Anglo-Saxons, but the film collapses that ambiguity. Drout further contrasts Jackson's presentation of Éomer in close-up in his elaborate helmet (scene 11 of ''The Two Towers''), with the later scene of an [[Harad|Easterling]] soldier whose helmet covers his face. Drout writes that this carries the suggestion of \"veiling and [[Orientalism]]\", whereas Éomer's face can be seen between his cheek-guards, making him seem more open and less threatening.<ref name=\"Drout 2011\">{{cite book |last=Drout |first=Michael D. C. |author-link=Michael Drout |editor1-last=Bogstad |editor1-first=Janice M. |editor2-last=Kaveny |editor2-first=Philip E. |chapter=The Rohirrim, the Anglo-Saxons and Appendix F |title=[[Picturing Tolkien]] |chapter-url=https://books.google.com/books?id=jNjKrXRP0G8C&pg=PA257 |year=2011 |publisher=[[McFarland & Company|McFarland]] |isbn=978-0786446360 |pages=248–263}}</ref>\n\n== References ==\n=== Primary ===\n{{reflist|group=T|28em}}\n\n=== Secondary ===\n{{reflist|28em}}\n\n{{Middle-earth}}\n{{The Lord of the Rings}}\n\n{{DEFAULTSORT:Eomer}}\n[[Category:Middle-earth Rohirrim]]\n[[Category:Middle-earth rulers]]\n[[Category:Fictional kings]]\n[[Category:The Lord of the Rings characters]]\n[[Category:Literary characters introduced in 1954]]",
+  "redirect_chain": [
+    {
+      "source_title": "Éomund",
+      "target_title": "Éomer"
+    }
+  ],
+  "revision_id": 1361188868,
+  "revision_timestamp": "2026-06-26T07:10:32Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional account",
+        "Main text"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional account",
+        "Appendices"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

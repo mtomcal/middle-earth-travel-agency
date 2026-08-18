@@ -23,13 +23,16 @@ rejects a snapshot bound to another artifact set, any deferred or undecided
 passage, a mixed source snapshot, an empty lore selection, or an existing
 output path. It never overwrites a retained release.
 
-The command also retains an exact copy of the supplied snapshot as
-`curation.jsonl` beside the manifest. This keeps the release verifiable after
-later curation work produces a new snapshot. The manifest records:
+The command stages and publishes the complete release directory atomically. It
+retains exact copies of the supplied snapshot as `curation.jsonl` and every
+article artifact under `articles/`. This keeps the release verifiable after
+later curation or acquisition work changes the shared corpus. The manifest
+records:
 
 - the release identifier and manifest schema;
 - the pinned Wikimedia source snapshot;
 - the curation rubric, corpus fingerprint, and exact JSONL snapshot digest;
+- the filename, identity, and digest of every article in the curated corpus;
 - each lore-bearing article's identity, revision, and exact artifact digest;
 - the ordered lore passage identifiers for each included article; and
 - article and lore-passage counts.
@@ -44,13 +47,14 @@ Validate the manifest against the exact retained evidence:
 ```bash
 uv run meta corpus validate-release \
   data/releases/corpus-v1-rc1/manifest.json \
-  --articles-dir data/corpus/articles \
+  --articles-dir data/releases/corpus-v1-rc1/articles \
   --curation data/releases/corpus-v1-rc1/curation.jsonl
 ```
 
-Validation rebuilds the expected manifest rather than trusting its counts or
-inventories. It also requires canonical JSON bytes and reports the manifest's
-SHA-256 digest on success.
+Validation captures and rebuilds the expected manifest from exactly the article
+inventory recorded in the manifest, ignoring unrelated additions to a shared
+articles directory. It verifies every retained blob digest, requires canonical
+JSON bytes, and reports the manifest's SHA-256 digest on success.
 
 Commit the manifest and its retained curation snapshot together with any
 release-tooling or curation changes that produced them. Do not edit either

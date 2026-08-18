@@ -1,0 +1,289 @@
+{
+  "article_artifact_id": "article_4304f9be5d316eaaf553759e9a99ca3ed99bcccfcc98b441ca1c02014aaf58b0",
+  "canonical_title": "Elendil",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_4304f9be5d316eaaf553759e9a99ca3ed99bcccfcc98b441ca1c02014aaf58b0",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Tolkien called Elendil a \"Noachian figure\", an echo of the biblical Noah. Elendil escaped from the flood that drowned Númenor, itself an echo of the myth of Atlantis, founding new Númenórean kingdoms in Middle-earth.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_de91259be5556786004bcd521ff8267eab59dbe14fb946eeadbfb5f0554e7306",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_4304f9be5d316eaaf553759e9a99ca3ed99bcccfcc98b441ca1c02014aaf58b0",
+      "heading_path": [
+        "Fictional history",
+        "Biography"
+      ],
+      "normalized_text": "Elendil founded the northern realm of Arnor and its capital city of Annúminas. His sons founded the southern realm of Gondor; Anárion founded the city of Minas Anor (later Minas Tirith) in Anórien, and Isildur founded Minas Ithil (later Minas Morgul) in Ithilien. Elendil was the High King, ruling directly over Arnor and indirectly over Gondor, via its King.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_875df56d3f617c61fab632f5aac972eaf6318db0fa67d1574becf213cd044aa1",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_4304f9be5d316eaaf553759e9a99ca3ed99bcccfcc98b441ca1c02014aaf58b0",
+      "heading_path": [
+        "Analysis",
+        "Biblical echoes"
+      ],
+      "normalized_text": "thumb|upright=0.9|Tolkien compared Elendil to the Biblical Noah, who similarly escaped from the wreck of a civilisation by ship. Fresco in San Maurizio al Monastero Maggiore, Milan",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_91d79177c7f42068f6009b0a3bdbaab61b5c319d28d0521f04af18967fbf7c3f",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_4304f9be5d316eaaf553759e9a99ca3ed99bcccfcc98b441ca1c02014aaf58b0",
+      "heading_path": [
+        "Adaptations"
+      ],
+      "normalized_text": "thumb|upright=1.35|Elendil was played by Peter McKenzie in Peter Jackson's 2001 film The Fellowship of the Ring, fighting a gigantic Sauron to the death.",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_03c247d6fbabc8c1e10da3e90fed2130e17b30006d2126abdc0fe2089e9264a0",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Elendil&action=history",
+  "namespace": 0,
+  "page_id": 145662,
+  "parent_revision_id": 1361173591,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1361189010",
+  "raw_wikitext": "{{short description|Fictional character in J. R. R. Tolkien's Middle-earth}}\n{{good article}}\n{{Use British English|date=May 2022}}\n{{Infobox character\n| name        = Elendil\n| series      = [[Tolkien's legendarium]]\n| race        = [[Man (Middle-earth)|Men]]\n| title       = Lord of [[Andúnië]]<br/>High King of the [[Dúnedain]]<br/>High King of [[Arnor (Middle-earth)|Arnor]] and [[Gondor]]\n| affiliation = {{plainlist|\n* Lords of Andúnië\n* The Faithful\n* Last Alliance of Elves and Men}}\n| weapon      = The sword [[Narsil]]\n| children    = {{plainlist|\n* [[Isildur]]\n* [[Anárion]]}}\n| relatives   = Amandil (father)\n| origin      = [[Númenor]]\n| lbl24       = Book(s)\n| data24      = ''[[The Lord of the Rings]]'' (1954-1955) <br/>''[[The Silmarillion]]'' (1977)<br/>''[[Unfinished Tales]]'' (1980)\n}}\n'''Elendil''' ({{IPA|qya|ɛˈlendil|lang}}) is a fictional character in [[J. R. R. Tolkien]]'s [[Tolkien's legendarium|legendarium]]. He is mentioned in ''[[The Lord of the Rings]]'', ''[[The Silmarillion]]'' and ''[[Unfinished Tales]]''. He was the father of [[Isildur]] and Anárion, last Lord of [[Andúnië]] on the island of [[Númenor]], and having escaped its downfall by sailing to [[Middle-earth]], became the first High King of [[Arnor (Middle-earth)|Arnor]] and [[Gondor]]. In the Last Alliance of Men and Elves, Elendil and [[Gil-galad]] laid siege to the Dark Lord [[Sauron]]'s fortress of [[Barad-dûr]], and fought him hand-to-hand for the [[One Ring]]. Both Elendil and Gil-galad were killed, and Elendil's son [[Isildur]] took the Ring for himself.\n\nTolkien called Elendil a \"Noachian figure\", an echo of the biblical [[Noah]].  Elendil escaped from the flood that drowned [[Númenor]], itself an echo of the myth of [[Atlantis]], founding new Númenórean kingdoms in Middle-earth.\n\n==Fictional history==\n\n=== Biography ===\n\nElendil was born in [[Númenor]], son of Amandil, Lord of Andúnië and leader of the \"Faithful\" (those who remained loyal to the [[Vala (Middle-earth)|Valar]]), who maintained a strong friendship with the [[Elf (Middle-earth)|Elves]] and preserved the old ways against the practices of King [[Ar-Pharazôn]] and [[Sauron]]. His father Amandil had been a great admiral of the Númenórean fleet and a close friend to Ar-Pharazôn in their youth, but as Sauron's influence grew, he resorted to doing what their ancestor [[Eärendil]] had done: sailing to [[Valinor]] and asking for the pardon of the Valar. Amandil was never heard of again, but on his urging, Elendil, his sons [[Isildur]] and Anárion, and their supporters fled the [[downfall of Númenor]] at the end of the [[Second Age]], escaping to [[Middle-earth]] in nine ships. Elendil landed in Lindon, where he was befriended by [[Gil-galad]], the Elven King. The waves carried Isildur and Anárion south to the [[Bay of Belfalas]] and the mouth of the River [[Geography of Middle-earth#Rhovanion|Anduin]].<ref name=\"Of the Rings of Power\" group=T>{{harvnb|Tolkien|1977}}, \"Of the Rings of Power and the Third Age\"</ref> With them the leaders took the ''[[palantír]]i'', the \"Seeing Stones\" that were given to the Lords of Andúnië by the [[Elf (Middle-earth)|Elves]] of [[Tol Eressëa]], and a seedling of Nimloth, the [[White Tree]] of Númenor.<ref name=\"Akallabêth\" group=T>{{harvnb|Tolkien|1977}}, \"[[Akallabêth]]\"</ref>\n\n''[[Unfinished Tales]]'' states that, upon landing in Middle-earth, Elendil proclaimed in [[Quenya]]: {{transliteration|qya|Et Eärello Endorenna utúlien. Sinome maruvan ar Hildinyar tenn' Ambar-metta!}} \"Out of the [[Belegaer|Great Sea]] to Middle-earth I am come. In this place will I abide, and my heirs, unto the ending of the world.\"<ref group=T>{{harvnb|Tolkien|1980}}, Part III, ch. 1 \"[[The Disaster of the Gladden Fields]]\"</ref> His heir and 40th generation descendant in father-to-son line [[Aragorn]] spoke these traditional words again when he took up the crown of Gondor in ''[[The Return of the King]]''.<ref group=T>{{harvnb|Tolkien|1955}}, Book VI, ch. 5 \"The Steward and the King\"</ref>\n\nElendil founded the northern realm of Arnor and its capital city of Annúminas. His sons founded the southern realm of Gondor; Anárion founded the city of [[Minas Anor]] (later Minas Tirith) in [[Anórien]], and Isildur founded [[Minas Ithil]] (later Minas Morgul) in [[Ithilien]]. Elendil was the High King, ruling directly over Arnor and indirectly over Gondor, via its King.<ref name=\"Akallabêth\" group=T/><ref name=\"Of the Rings of Power\" group=T/>\n\nAs explained in ''The Fellowship of the Ring'', [[Sauron]] eventually returned to Middle-earth, establishing a stronghold in [[Mordor]], which was next to Gondor. He attacked, seizing Minas Ithil. Isildur fled north to his father, leaving Anárion in charge of Gondor. Elendil and Isildur returned south, together with Gil-galad and their combined armies, in the Last Alliance of Elves and Men. They defeated Sauron in the Battle of Dagorlad, and laid siege to his stronghold of [[Barad-dûr]]. During this long siege Anárion was killed. Finally, Sauron came out in person to do battle. Gil-galad and Elendil fought him, but both were killed, and [[Narsil|Elendil's sword]] was broken beneath him. Isildur used his father's broken sword to cut the [[One Ring]] from Sauron's hand.<ref group=T>{{harvnb|Tolkien|1954a}}, Book II, ch. 2 \"[[The Council of Elrond]]\"</ref>\n\n=== Line of the Half-elven ===\n{{Half-elven family tree}}\n\n== Analysis ==\n\n=== Biblical echoes ===\n\n{{see also|The Silmarillion#Themes}}\n\n[[File:Milano Chiesa di San Maurizio al Monastero Maggiore Innen Halle der Nonnen Gemälde 3 (corrected).jpg|thumb|upright=0.9|Tolkien compared Elendil to the Biblical [[Noah]], who similarly escaped from the wreck of a civilisation by ship.<ref name=\"Letter 131\" group=T/> Fresco in [[San Maurizio al Monastero Maggiore]], Milan]]\n\n[[Nicholas Birns]], a scholar of literature, notes Elendil's survival of Númenor's fall, an event that recalls to him both Plato's [[Atlantis]] and the Biblical [[fall of man]]; he notes that Tolkien called Elendil a \"Noachian figure\",<ref name=\"Letter 131\" group=T>{{harvnb|Carpenter|2023|loc=Letter #131 to [[Milton Waldman]], late 1951 }}</ref> an echo of the biblical [[Noah]].<ref name=\"Birns 2020\">{{cite journal |last=Birns |first=Nicholas |author-link=Nicholas Birns |title=The Stones and the Book: Tolkien, Mesopotamia, and Biblical Mythopoeia |journal=Tolkien and the Study of His Siurces, ed. Jason Fisher |date=15 July 2011 |page=10 |url=https://www.academia.edu/4850214 |access-date=11 August 2020}}</ref> Tolkien explains that Elendil \"held off\" from the Númenórean rebellion, and had kept ships ready; he \"flees before the overwhelming storm of the wrath of the West [from [[Valinor]]], and is borne high upon the towering waves that bring ruin to the west of the Middle-earth.\"<ref name=\"Letter 131\" group=T/> Birns notes that Elendil, who he calls a hugely important figure in Middle-earth, must be later \"in comparative time\" than Noah; where Noah was a refugee, Elendil was \"an imperialist, a founder of realms\". However, he grants that \"Noachian\" implies a class of people like Noah, and the possibility of different kinds of flood. Birns comments that Middle-earth has its [[Creation (Bible)|Creation]] and [[Noah's flood|Flood]] myths, but not exactly a fall of man. He suggests that Tolkien, as a Catholic, may have been more comfortable working with the forces of nature seen in Creation and Flood, but preferred to leave the fall alone; he notes that both Creation and Flood are found in non-Christian tales from the Middle East, citing the ''[[Epic of Gilgamesh]]'' for the Flood and the [[Enuma Elish]] for Creation.<ref name=\"Birns 2020\"/>\n\nThe priest and Tolkien scholar [[Fleming Rutledge]] writes that Aragorn, narrating the Lay of [[Beren and Lúthien]] to the hobbits, tells them that Lúthien's line \"shall never fail\". Rutledge talks of the \"kings of Númenor, that is Westernesse\", and as they gaze at him, they see that the moon \"climbs behind him as if to crown him\", which Rutledge calls an echo of the [[Transfiguration of Jesus|Transfiguration]]. Rutledge explains that Aragorn is of the line of Elendil and knows he will inherit \"the crown of Elendil and the other Kings of vanished Númenor\", just as Jesus is of the line of [[King David]], fulfilling the prophecy that the line of Kings would not fail.<ref name=\"Rutledge 2004\">{{cite book |last=Rutledge |first=Fleming |author-link=Fleming Rutledge |title=The Battle for Middle-earth: Tolkien's Divine Design in The Lord of the Rings |url=https://books.google.com/books?id=FRiViwMylSUC&pg=PA83 |year=2004 |publisher=[[Wm. B. Eerdmans]] |isbn=978-0-8028-2497-4 |page=83}}</ref>\n\nZak Cramer notes in ''Mallorn'' that Tolkien's middle name, Reuel, means \"God's friend\", and could be written \"El's friend\" with reference to the Hebrew word for \"God\". He speculates that Elendil, \"Elf-friend\", may have been a wordplay on this name.<ref name=\"Cramer 2006\">{{cite journal |last1=Cramer |first1=Zak |title=Jewish Influences in Middle-earth |journal=[[Mallorn (journal)|Mallorn]] |date=2006 |issue=44 (August 2006) |pages=9–16 |jstor=45320162}}</ref>\n\n=== Classical echoes ===\n{{further|Tolkien and the classical world}}\n\nThe classical scholar J. K. Newman compares the myth of Elendil and the defeat of Sauron with [[Jason]]'s taking of the [[Golden Fleece]]. In both, a golden prize is taken; in both, there are evil consequences – Elendil's son Isildur is betrayed and the Ring is lost, leading to the War of the Ring and Frodo's quest; [[Medea]] murders Jason's children.<ref name=\"Newman 2005\">{{cite journal |last=Newman |first=J. K. |title=J.R.R. Tolkien's \"The Lord of the Rings\": A Classical Perspective |journal=Illinois Classical Studies |date=2005 |volume=30 |pages=229–247 |jstor=23065305}}</ref>\n\n=== Germanic echoes ===\n{{further|Tolkien's frame stories|J. R. R. Tolkien's explorations of time travel}}\n\nTolkien wrote in a 1964 letter that the story of Elendil began when [[C. S. Lewis]] and he agreed to write a space travel and a time travel story, respectively. Tolkien's tale was to be called ''Númenor, the Land in the West'', with repeated father–son pairs [[Númenor#Philology|whose names meant \"Bliss-friend\" and \"Elf-friend\"]] each time. It was not completed, but survives as two unfinished time-travel novels, ''[[The Lost Road]]'' and ''[[The Notion Club Papers]]''. The Elf-friends were to be Elwin in present time; Ælfwine ([[Old English]]) around 918 AD; Alboin from \"[[Lombards|Lombardic]] legend\"; and eventually Elendil of Númenor. Tolkien states that he lost interest in the others, and focussed on Elendil, whose story he incorporated into his \"main mythology\".<ref name=\"Letter 257\" group=T>{{harvnb|Carpenter|2023|loc=Letter #257 to Christopher Bretherton, 16 July 1964 }}</ref>{{sfn|Shippey|2005|pp=336-337}} One of Tolkien's correspondents, the scholar of English, Rhona Beare, writes in ''[[Mythlore]]'' that Elendil is a \"remote ancestor\" of Alboin; when Alboin travels back in time he finds Númenor simultaneously familiar and strange, because he can see it both with Elendil's eyes and with his own.<ref name=\"Beare 1996\">{{cite journal |last=Beare |first=Rhona |title=Time Travel |journal=[[Mythlore]] |date=1996 |volume=21 |issue=3 (81, Summer 1996) |pages=33–35 |jstor=26812581}}</ref>\n\n{| style=\"margin-left: auto; margin-right: auto; border: none;\" class=\"wikitable\"\n|+ Names of the [[Tolkien's frame stories|frame story]] characters{{sfn|Shippey|2005|pp=336-337}}\n|-\n! Germanic || [[Old English]] !! Meaning !! Modern name !! [[Quenya]] (in [[Númenor]])\n|-\n| '''''[[Alboin]]''''' || '''''[[Ælfwine]]''''' || Elf-friend || '''Alwin''', Elwin, Aldwin || '''Elendil'''\n|-\n| ''[[Audoin]]'' || ''[[Eadwine]]'' || Bliss-friend || Edwin || Herendil\n|-\n| — || ''Oswine'' || God-friend|| Oswin, cf. Oswald || Valandil (\"[[Valar]]-friend\") \n|}\n\n== Adaptations ==\n[[File:Elendil_in_the_Last_Alliance.jpg|thumb|upright=1.35|Elendil was played by [[Peter McKenzie (actor)|Peter McKenzie]] in [[Peter Jackson]]'s 2001 film ''[[The Lord of the Rings: The Fellowship of the Ring|The Fellowship of the Ring]]'', fighting a gigantic [[Sauron]] to the death.<ref name=\"Pringle 2013\"/><ref name=\"Elvy 2020\"/><ref name=\"Tally 2016\"/>]]\n\nIn [[Peter Jackson]]'s ''[[The Lord of the Rings: The Fellowship of the Ring]]'', Elendil is portrayed by [[Peter McKenzie (actor)|Peter McKenzie]]. He appears briefly in the prologue,<ref name=\"Welch 2021\">{{cite web |last=Welch |first=Alex |title=Precious Amazon's Lord of the Rings series could reveal one kingdom's epic origin story |url=https://www.inverse.com/entertainment/amazon-lord-of-the-rings-show-gondor |website=Inverse |access-date=19 February 2022 |date=25 April 2021}}</ref> where he is killed by Sauron.<ref name=\"Pringle 2013\">{{cite news |last=Pringle |first=Gill |title=Bret McKenzie: Conchord flies into Prejudice |url=https://www.independent.co.uk/arts-entertainment/films/features/bret-mckenzie-conchord-flies-into-prejudice-8827458.html |access-date=11 August 2020 |date=20 September 2013}}</ref> The action differs from the book, where Gil-galad and Elendil heroically defeated Sauron, at the cost of their own lives, allowing Isildur to take the Ring without difficulty. In the film, Sauron defeats Elendil, and Isildur fights Sauron, the action of cutting off his finger and the Ring serving to vanquish Sauron.<ref name=\"Elvy 2020\">{{cite web |last=Elvy |first=Craig |title=Lord of the Rings: Peter Jackson's Movies Made Isildur More Heroic |url=https://screenrant.com/lord-rings-isildur-sauron-fight-movie-change-heroic/ |website=ScreenRant |access-date=19 February 2022 |date=17 October 2020}}</ref><ref name=\"Gateway\">{{cite web |title=Elendil |url=http://tolkiengateway.net/wiki/Elendil |website=[[Tolkien Gateway]] |access-date=19 February 2022}}</ref> Tolkien instructed that \"Sauron should not be thought of as very terrible. The form that he took was that of a more than human stature, but not gigantic\", though he \"could appear as a commanding figure of great strength of body and supremely royal demeanor and countenance.\"<ref group=T>{{harvnb|Carpenter|2023|loc=Letter #246 to Mrs Eileen Elgar, September 1963 }}</ref><ref name=\"Tally 2016\"/> Jackson chooses to make Sauron much larger than Elendil for his final battle. The scholar of English literature [[Robert Tally]] comments that it is ironic that Jackson may have come closest to Tolkien's intentions in the prologue by representing Sauron in humanoid form, while he is a disembodied eye everywhere else in the film series.<ref name=\"Tally 2016\">{{cite book |last=Tally |first=Robert T. |author-link=Robert Tally |chapter=Tolkien's Geopolitical Fantasy: Spatial Narrative in The Lord of the Rings |title=Popular Fiction and Spatiality |publisher=[[Palgrave Macmillan]] |location=New York |year=2016 |pages=125–140 |chapter-url=https://www.academia.edu/31988699}}</ref>\n\nIn the 2022 television series, ''[[The Lord of the Rings: The Rings of Power]]'', Elendil is played by [[Lloyd Owen]].<ref name=\"Coggan 2022\">{{cite magazine |last=Coggan |first=Devan |title=Welcome to Númenor: Get an exclusive look at The Lord of the Rings: The Rings of Power |url=https://ew.com/tv/lord-of-the-rings-the-rings-of-power-numenor-first-look/ |date=13 July 2022 |magazine=[[Entertainment Weekly]] |publisher=Meredith Corporation |access-date=14 July 2022}}</ref><!--we could crop a detail of Elendil on horseback as a fair-use image from this source, with NFUR--> The show introduces Elendil as a Númenórean nobleman, who serves as a sea captain. He is a widower with three adult children: sons Isildur and Anárion, and a daughter Eärien.<ref>{{cite magazine  |last=Coggan |first=Devan |title=Rings of Power star Lloyd Owen talks Elendil and geeking out over Elvish  |date=14 September 2022 |magazine=[[Entertainment Weekly]] |url=https://ew.com/tv/lord-of-the-rings-rings-of-power-lloyd-owen-elendil/ |access-date=17 September 2022}}</ref><ref>{{cite web  |last=Farnell |first=Chris |title=The Rings of Power: What Elendil Means for the Future of Lord of the Rings |date=9 September 2022 |website=[[Den of Geek]] |url=https://www.denofgeek.com/tv/lord-of-the-rings-of-power-elendil-lloyd-owen/ |access-date=17 September 2022}}</ref>\n\n{{s-start}}\n{{s-roy}}\n{{s-bef|before=Ar-Pharazôn the Golden|as=[[Númenor|King of Númenor]]}}\n{{s-ttl|title=High-King of the<br />Númenorean Realms in Exile|years=[[History_of_Arda#Second_Age|SA]] 3320 - 3441}}\n{{s-aft|after=[[Isildur]]|rows=3}}\n{{s-new|first|reason=Kingdom established|rows=2}}\n{{s-ttl|title=[[Arnor (Middle-earth)|King of Arnor]]|years=[[History_of_Arda#Second_Age|SA]] 3320 – 3441}}\n{{s-break}}\n{{s-ttl|title=[[Gondor|King of Gondor]]|years=[[History_of_Arda#Second_Age|SA]] 3320 – 3441|regent1=[[Isildur]] and [[Anárion]]|years1=}}\n{{s-reg|other}}\n{{s-bef|before=Amandil}}\n{{s-ttl|title=Lord of Andúnië|years= [[History_of_Arda#Second_Age|SA]] 3310 - 3319}}\n{{s-vac|extinct|reason=[[The Silmarillion#Akallabêth|Akallabêth]]<br><small>the downfall of Númenor</small>}}\n{{s-end}}\n\n== See also ==\n\n* [[Dúnedain]]\n\n== References ==\n\n=== Primary ===\n\n{{reflist|group=T|28em}}\n\n=== Secondary ===\n{{reflist|28em}}\n\n=== Sources ===\n\n{{Commons category}}\n\n{{refbegin}}\n* {{ME-ref|Letters}}\n* {{ME-ref|ROAD}}\n* {{ME-ref|FOTR}}\n* {{ME-ref|ROTK}}\n* {{ME-ref|Silm}}\n* {{ME-ref|UT}}\n{{refend}}\n\n{{Middle-earth}}\n\n[[Category:Fictional kings]]\n[[Category:Fictional swordfighters in literature]]\n[[Category:Literary characters introduced in 1954]]\n[[Category:Middle-earth Dúnedain]]\n[[Category:Middle-earth rulers]]\n[[Category:The Lord of the Rings characters]]\n[[Category:Cultural depictions of Noah]]",
+  "redirect_chain": [],
+  "revision_id": 1361189010,
+  "revision_timestamp": "2026-06-26T07:12:30Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: list",
+      "structure_type": "list"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "Biography"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "Biography"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "Biography"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional history",
+        "Line of the Half-elven"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Biblical echoes"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Biblical echoes"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Biblical echoes"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Biblical echoes"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Classical echoes"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Classical echoes"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Germanic echoes"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Germanic echoes"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Germanic echoes"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: table",
+      "structure_type": "table"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Adaptations"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "See also"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: list",
+      "structure_type": "list"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

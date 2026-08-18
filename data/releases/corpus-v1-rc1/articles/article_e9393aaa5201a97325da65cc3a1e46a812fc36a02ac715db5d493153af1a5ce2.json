@@ -1,0 +1,283 @@
+{
+  "article_artifact_id": "article_e9393aaa5201a97325da65cc3a1e46a812fc36a02ac715db5d493153af1a5ce2",
+  "canonical_title": "Forests in Middle-earth",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_e9393aaa5201a97325da65cc3a1e46a812fc36a02ac715db5d493153af1a5ce2",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Forests appear repeatedly in J. R. R. Tolkien's fantasy world of Middle-earth. In The Hobbit, Bilbo Baggins and party have adventures in the Trollshaws and in Mirkwood. In The Lord of the Rings, Frodo Baggins and his companions travel through woods in The Shire, and are pursued by Black Riders; to evade them, the party enters the feared Old Forest, where they encounter other hazards. Later the Fellowship comes to the Elvish forest realm of Lothlórien; and after the Fellowship has split up, Frodo and Sam Gamgee travel through Ithilien with its Mediterranean vegetation, while Merry Brandybuck and Pippin Took enter the ancient forest of Fangorn. The Riders of Rohan, on their way to war, are allowed to travel on a secret road through another ancient forest, that of the Drúedain or woses. The Silmarillion, too, features several forests, both in Beleriand which is home to places like the Elvish forest realm of Doriath, protected by the magic of Melian the Maia, and in the south of Valinor, where the Valar liked to hunt in the woods of Oromë.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_84bce797195cba00e260d0e54c1977c3950f0dd4825c581037fc52414c6bb264",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_e9393aaa5201a97325da65cc3a1e46a812fc36a02ac715db5d493153af1a5ce2",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Critics note that Middle-earth was set in the distant past, when primeval forests still existed. Forests play varying roles in his books. In The Hobbit, Mirkwood is the dark forbidding forest of fairy tale. In The Lord of the Rings, scholars suggest that the forests symbolise nature as opposed to industrialisation, but also embody links to fairy tale and folklore, and carry a psychological message.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_9c59fe5fc8e5c247d21e7b0a3fc64a64226e7a52dfa73127180f39c2095baaee",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_e9393aaa5201a97325da65cc3a1e46a812fc36a02ac715db5d493153af1a5ce2",
+      "heading_path": [
+        "Forests",
+        "The Lord of the Rings"
+      ],
+      "normalized_text": "{{quote box|width=40%|title=The Old Forest|\"Are the stories about it true?\" asked Pippin.",
+      "paragraph_ordinal": 1,
+      "passage_id": "passage_0e134d3255e7bae71ec5507533ad3f0783dbd555fa1cb555d1fd02ce13f31e2d",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_e9393aaa5201a97325da65cc3a1e46a812fc36a02ac715db5d493153af1a5ce2",
+      "heading_path": [
+        "Forests",
+        "The Lord of the Rings"
+      ],
+      "normalized_text": "\"I don't know what stories you mean\", Merry answered. \"If you mean the old bogey-stories Fatty's nurses used to tell him ... I should say no .... But the Forest is queer. Everything in it is very much more alive, more aware of what is going on, so to speak, than things are in the Shire. And the trees do not like strangers. They watch you. They are usually content merely to watch you, as long as daylight lasts, and don't do much. Occasionally the most unfriendly ones may drop a branch, or stick a root out, or grasp at you with a long trailer. But at night things can be most alarming, or so I am told. I have only once or twice been in here after dark, and then only near the hedge. I thought all the trees were whispering to each other, passing news and plots along in an unintelligible language; and the branches swayed and groped without any wind. They do say the trees actually move, and can surround strangers and hem them in.\"}}",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_81287dcd080c8660b3a9e9b156e18503f9e1375295b7658355a9b62adb0183b3",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_e9393aaa5201a97325da65cc3a1e46a812fc36a02ac715db5d493153af1a5ce2",
+      "heading_path": [
+        "Analysis",
+        "Dark forbidding forest of fairy tale"
+      ],
+      "normalized_text": "The Tolkien scholars Shelley Saguaro and Deborah Cogan Thacker state that Mirkwood's role in The Hobbit is both to be the dark forbidding forest of fairy tale as Bilbo pursues his quest as in \"a classical quest narrative\", and to have the familiar qualities of a real wood. The forests and trees of The Lord of the Rings are, however, \"much more complex\": trees may change, whether by being \"woken up by Elves\" as were the Ents, or \"going bad\" like some of the trees in the Old Forest. Saguaro and Thacker note that forests recur in fairy stories, as places where the protagonist becomes lost, where witches and woodcutters and wolves live. They recall that in Tree and Leaf, Tolkien's account of fairy tales, such stories are in his words \"unanalysable .. outside Time itself maybe\". Saguaro and Thacker mention the psychoanalyst Bruno Bettelheim's interpretation, that going into the forest \"signifies a psychoanalytic space – a place separated from everyday experience in which to be lost is to be found\", and Jack Zipes's alternative view, based on his analysis of the Brothers Grimm, that the forest makes enchantment possible, because the conventions of society do not apply there.",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_461d2b97797ab4fd61fb152b9182c9545ee2f4bb5e459bfaf0ec940d57fd471c",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Forests_in_Middle-earth&action=history",
+  "namespace": 0,
+  "page_id": 63967265,
+  "parent_revision_id": 1309306013,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1358629633",
+  "raw_wikitext": "{{good article}}\n{{short description|Theme in Tolkien's fiction}}\n{{Use British English|date=June 2023}}\n{{Use dmy dates|date=June 2023}}\n[[File:Lothlorien.jpg|thumb|upright=1.35|Artist's impression of a stand of [[J. R. R. Tolkien]]'s fictional [[Mallorn]] trees with green and silver leaves in the [[Elf (Middle-earth)|Elvish]] stronghold of [[Lothlórien]] ]]\n\nForests appear repeatedly in [[J. R. R. Tolkien]]'s [[fantasy]] world of [[Middle-earth]]. In ''[[The Hobbit]]'', [[Bilbo Baggins]] and party have adventures in the Trollshaws and in [[Mirkwood]]. In ''[[The Lord of the Rings]]'', [[Frodo Baggins]] and his companions travel through woods in [[The Shire]], and are pursued by [[Black Riders]]; to evade them, the party enters the feared [[Old Forest]], where they encounter other hazards. Later the Fellowship comes to the Elvish forest realm of [[Lothlórien]]; and after the Fellowship has split up, Frodo and [[Sam Gamgee]] travel through [[Ithilien]] with its Mediterranean vegetation, while [[Merry Brandybuck]] and [[Pippin Took]] enter the ancient forest of [[Fangorn]]. The Riders of Rohan, on their way to war, are allowed to travel on a secret road through another ancient forest, that of the [[Drúedain]] or woses. ''[[The Silmarillion]]'', too, features several forests, both in [[Beleriand]] which is home to places like the Elvish forest realm of Doriath, protected by the magic of [[Melian in Middle-earth|Melian]] the [[Maiar in Middle-earth|Maia]], and in the south of [[Valinor]], where the [[Valar]] liked to hunt in the woods of [[Oromë]].\n\nCritics note that Middle-earth was set in the distant past, when primeval forests still existed. Forests play varying roles in his books. In ''The Hobbit'', Mirkwood is the dark forbidding forest of [[fairy tale]]. In ''The Lord of the Rings'', scholars suggest that the forests symbolise nature [[Environmentalism in The Lord of the Rings|as opposed to industrialisation]], but also embody links to [[fairy tale]] and [[folklore]], and carry a psychological message.\n\n== Context ==\n\n[[J. R. R. Tolkien]] was a scholar of English literature, a [[philologist]] and [[medievalist]] interested in language and poetry from the [[Middle Ages]], especially that of [[Anglo-Saxon England]] and Northern Europe. His professional knowledge of works such as ''[[Beowulf]]'' shaped his fictional world of [[Middle-earth]], including his fantasy novel ''[[The Lord of the Rings]]''.<ref group=T>{{harvnb|Carpenter|2023|loc=#131}}</ref>{{sfn|Shippey|2005|pp=146–149}} \nMiddle-earth, or more precisely the world of [[Arda (Middle-earth)|Arda]], represents what [[Paul H. Kocher|Paul Kocher]] has called \"our own green and solid Earth at some quite remote epoch in the past.\"{{sfn|Kocher|1974|pp=8–11}}\n\n== Forests ==\n\n{{further|Mirkwood|Trees in Middle-earth}}\n\nTolkien makes use of forests across [[Middle-earth]], from the [[Trollshaws]] and [[Mirkwood]] in ''[[The Hobbit]]'', reappearing in ''[[The Lord of the Rings]]'', to the [[Old Forest]], [[Lothlórien]], [[Fangorn]], and the Mediterranean forest in [[Ithilien]], all of which feature in chapters of ''The Lord of the Rings'', and the great forests of [[Beleriand]], a region of the west of Middle-earth, lost at the end of the First Age, and [[Valinor]], the blessed realm, mentioned in ''[[The Silmarillion]]''. Indeed, while Middle-earth was still \"in a twilight under the stars\", the \"oldest living things had arisen: ... on earth, the shadows of great trees\".<ref name=\"Coming of the Elves\" group=T>{{harvnb|Tolkien|1977}}, \"Quenta Silmarillion\", ch. 3 \"Of the Coming of the Elves and the Captivity of Melkor\"</ref>\n\n<gallery mode=packed heights=250px caption=\"The major forests of Middle-earth, mapped. Forests are shown in green.\">\nFile:Sketch Map of Beleriand.svg|Sketch map of [[Beleriand]] in the [[First Age]]\nFile:Sketch Map of Middle-earth.svg|Sketch map of the north-west of [[Middle-earth]] at the end of the [[Third Age]]\n</gallery>\n\n=== ''The Hobbit'' ===\n\n[[Bilbo Baggins|Bilbo]] and his party travel from his home in [[the Shire]] into the wild, encountering the [[Trolls in Middle-earth|Troll]]s in the Trollshaws, a wooded region, lying north of the East Road between the rivers [[Hoarwell]] and [[Bruinen]]. Described as \"the Trolls' wood\" in the main text, the name \"Trollshaws\" is derived from ''troll'' and ''shaw'', an archaic term for a thicket or small wood.<ref>{{cite book |last1=Hammond |first1=Wayne G. |author-link=Wayne G. Hammond |last2=Scull |first2=Christina |author2-link=Christina Scull |title=The Lord of the Rings: A Reader's Companion |year=2005 |publisher=[[Houghton Mifflin Harcourt|Houghton Mifflin]] |isbn=978-0-00-720907-1 |title-link=The Lord of the Rings: A Reader's Companion |page=lxiii }}</ref>\n\nAfter crossing the [[Misty Mountains]] and the Great River ([[Geography of Middle-earth#Rhovanion|Anduin]]), the party run into difficulty in [[Mirkwood]], a vast and dark forest with stands of [[fir]] trees, and in other places of [[oak]] and [[beech]].{{sfn|Fonstad|1991|p=184}} The wizard [[Gandalf]] calls it \"the greatest forest of the Northern world.\"<ref group=T>{{harvnb|Tolkien|1937}}, ch. 7 \"Queer Lodgings\"</ref> Before it was darkened by evil, it had been called Greenwood the Great.<ref name=\"Of the Rings of Power\" group=T>{{harvnb|Tolkien|1977}}, \"Of the Rings of Power and the Third Age\"</ref>\n\n=== ''The Lord of the Rings'' ===\n\n{{quote box|width=40%|title=The Old Forest|\"Are the stories about it true?\" asked [[Pippin Took|Pippin]].\n\n\"I don't know what stories you mean\", [[Merry Brandybuck|Merry]] answered. \"If you mean the old bogey-stories Fatty's nurses used to tell him ... I should say no .... But the Forest ''is'' queer. Everything in it is very much more alive, more aware of what is going on, so to speak, than things are in the Shire. And the trees do not like strangers. They watch you. They are usually content merely to watch you, as long as daylight lasts, and don't do much. Occasionally the most unfriendly ones may drop a branch, or stick a root out, or grasp at you with a long trailer. But at night things can be most alarming, or so I am told. I have only once or twice been in here after dark, and then only near the hedge. I thought all the trees were whispering to each other, passing news and plots along in an unintelligible language; and the branches swayed and groped without any wind. They do say the trees actually move, and can surround strangers and hem them in.\"<ref name=\"Old Forest\" group=T/>}}\n\nIn ''[[The Lord of the Rings]]'', [[Frodo Baggins]] and his companions travel through familiar woods in [[The Shire]], and are pursued by [[Black Riders]]; to evade them, the party decides to enter the [[Old Forest]].<ref name=\"A Conspiracy Unmasked\" group=T>{{harvnb|Tolkien|1954a}}, book 1, ch. 5 \"A Conspiracy Unmasked\"</ref> It is an [[ancient woodland]] just beyond the eastern borders of [[the Shire]], and somewhat feared by most of the Shire's inhabitants. [[Merry Brandybuck]], who lives in Buckland near the Old Forest, knows a little more than the other [[Hobbit]]s, but none of them are prepared for what happens to them when they try to cross the forest.<ref name=\"Old Forest\" group=T>{{harvnb|Tolkien|1954a}}, book 1, ch. 6 \"The Old Forest\"</ref>\n\n[[Lothlórien]] is the enchanted realm of the [[Elves in Middle-earth|Elves]] who remain in Middle-earth in the Third Age.<ref group=T name=\"Fellowship_Lothlórien, The Mirror of Galadriel\">{{harvnb|Tolkien|1954a|loc=Book 2, ch. 6 \"Lothlórien\", and ch. 7 \"The Mirror of Galadriel\"}}</ref> Its forests include a stand of tall [[Mallorn]] trees,<ref group=T name=\"Unfinished Tales_A Description of Númenor\">{{harvnb|Tolkien|1980|loc=Part 2, ch. 1 \"A Description of [[Númenor]]\"}}</ref> in which the Elves live on high platforms in their tree city of Caras Galadhon.<ref group=T name=\"Farewell to Lórien\">{{harvnb|Tolkien|1954a|loc=Book 2, ch. 8 \"Farewell to Lórien\"}}</ref> The forest, unlike the rest of Middle-earth, has \"no stain\", remaining as things were before the Marring of Arda, and seemingly shining with its own golden light.{{sfn|Aracil|2019}}\n\n[[Merry Brandybuck]] and [[Pippin Took]] enter the ancient forest of [[Fangorn]], at the southern end of the Misty Mountains. It shares its name with the leader of the [[Ent]]s, ancient treelike giants who live there, herding the trees.<ref name=\"Treebeard\" group=T>{{harvnb|Tolkien|1954}}, book 3, ch. 4 \"Treebeard\"</ref> Some of the trees, Huorns, are awakening, [[Tolkien's sentience dilemma|seemingly becoming sentient]], and becoming more like Ents, or are Ents who are falling asleep and becoming more \"treelike\".<ref name=\"Flotsam and Jetsam\" group=T>{{harvnb|Tolkien|1954}}, book 3, ch. 9: \"Flotsam and Jetsam\".</ref>\n\nFrodo and [[Sam Gamgee]] travel through the fertile [[Ithilien]], far to the south of the Shire; it still has attractive Mediterranean forest, despite its proximity to the evil land of [[Mordor]].<ref name=\"Herbs and Stewed Rabbit\" group=T>{{harvnb|Tolkien|1954a}}, book 4, ch. 4 \"Of Herbs and Stewed Rabbit\"</ref><ref name=\"Journey to the Cross-Roads\" group=T>{{harvnb|Tolkien|1954a}}, book 4, ch. 7 \"Journey to the Cross-Roads\"</ref> Critics have [[Tolkien and the classical world|noted its resemblance to Italy]], both in latitude and in its Mediterranean vegetation:<ref name=\"Burton 2021\">{{cite book |last=Burton |first=Philip |title='Eastwards and Southwards': Philological and Historical Perspectives on Tolkien and Classicism |pages=273–304}} in {{harvnb|Williams|2021}}</ref><ref name=\"Jenkyns 1980\">{{cite book |last=Jenkyns |first=Richard |author-link=Richard Jenkyns (professor) |title=The Victorians and Ancient Greece |date=1980 |publisher=Blackwell |location=Oxford |page=49}}</ref> \"Many great trees grew there, ... and groves and thickets there were of [[Tamarix|tamarisk]] and pungent [[terebinth]], of [[olive]] and of [[Myrica|bay]]; and there were [[juniper]]s and [[Myrtus|myrtle]]s\".<ref name=\"Journey to the Cross-Roads\" group=T/>\n\nThe forest of the [[Drúedain]] is ancient, populated by a race who resemble the mythological [[woodwose]]s, the wild men of the woods of Britain and Europe, and who are named as woses by the [[Riders of Rohan]]. The woses, angered by the actions of the enemy, allow the Riders to travel on a secret road through their forest.{{sfn|Shippey|2005|pp=74, 149}}<ref name=\"The Ride of the Rohirrim\" group=T>{{harvnb|Tolkien|1955}}, Book 5, ch. 5, \"The Ride of the Rohirrim\"</ref>\n\n=== ''The Silmarillion'' ===\n\n[[Beleriand]]'s major forests include the Forest of Brethil, the Elvish forest realm of [[Doriath (Middle-earth)|Doriath]], home to the [[Sindar]], and the great southern forest of Taur-im-Duinath, occupying much of East Beleriand.<ref name=\"Beleriand and its Realms\" group=T>{{harvnb|Tolkien|1977|loc=\"Index of Names\"}}</ref> Doriath is protected by the \"girdle of [[Melian in Middle-earth|Melian]]\", a magical defence around [[Thingol]]'s forest kingdom.<ref name=\"Degenerative\">{{cite journal |last=Evans |first=Robley |year=1987 |title=Tolkien's World Creation: Degenerative Recurrence |journal=[[Mythlore]] |volume=14 |issue=1 |at=article 55 |url=https://dc.swosu.edu/cgi/viewcontent.cgi?article=2327&context=mythlore}}</ref>\n\nThe southern part of the blessed realm of [[Valinor]] contains the Woods of [[Oromë]], where the [[Valar|Vala]] liked to hunt.<ref group=T>{{harvnb|Tolkien|1977|loc=ch. 8 \"Of the Darkening of Valinor\"}}</ref>\n\n== Analysis ==\n\n=== Dark forbidding forest of fairy tale ===\n\n{{further|Mirkwood}}\n\n{{quote box|width=40%|title=Fangorn Forest|Even as he spoke the dark edge of the forest loomed up straight before them. Night seemed to have taken refuge under its great trees, creeping away from the coming Dawn. ... [Merry] led the way in under the huge branches of the trees. Old beyond guessing, they seemed. Great trailing beards of lichen hung from them, blowing and swaying in the breeze.<ref name=\"The Uruk-Hai\" group=T>{{harvnb|Tolkien|1954}} Book 3, ch. 3 \"The Uruk-Hai\"</ref>}}\n\nMichael Brisbois, writing in ''[[Tolkien Studies]]'', comments that in ''The Lord of the Rings'', the mainly broadleaf or mixed forests, with coniferous forests on higher ground as at Rivendell and southern Mirkwood, are realistic enough to lead the reader through into \"the hyperreal\" and then into \"the fantastic\".{{sfn|Brisbois|2005}} For the Tolkien scholar [[Tom Shippey]], the mention of Mirkwood is an echo of the [[Norse mythology]] of the ''[[Elder Edda]]'', with the pathless forests of the North over the [[Misty Mountains]] mentioned in one of the poems in the ''Edda'', the ''[[Skirnismal]]''.{{sfn|Shippey|2005|p=80}} Tolkien used the name Mirkwood also of Taur-nu-Fuin in Beleriand (in Dorthonion, to the east of [[Gondolin]]), in the view of Tolkien's biographer [[John Garth (author)|John Garth]] \"deliberately entangl[ing] the two forests.\"{{sfn|Garth|2020|pp=112–131}}\nDamian O'Byrne writes that \"the forests of Middle-earth possess a dark agency of their own; they are malevolent places where paths 'shift and change from time to time in queer fashion'\", while Taur-nu-Fuin is \"a region of such dread and dark enchantment that even the Orcs would not enter it unless need drove them\".{{sfn|O'Byrne|2019}}\n\nThe Tolkien scholars Shelley Saguaro and Deborah Cogan Thacker state that Mirkwood's role in ''The Hobbit'' is both to be the dark forbidding forest of fairy tale as Bilbo pursues his [[quest]] as in \"a classical [[Quests in Middle-earth|quest narrative]]\", and to have the familiar qualities of a real wood. The forests and trees of ''The Lord of the Rings'' are, however, \"much more complex\": trees may change, whether by being \"woken up by Elves\" as were the [[Ent]]s, or \"going bad\" like some of the trees in the Old Forest.<ref name=\"Saguaro Thacker 2013\"/> \nSaguaro and Thacker note that forests recur in fairy stories, as places where the protagonist becomes lost, where witches and woodcutters and wolves live. They recall that in ''[[Tree and Leaf]]'', Tolkien's account of fairy tales, such stories are in his words \"unanalysable .. [[Time in J. R. R. Tolkien's fiction|outside Time itself maybe]]\". Saguaro and Thacker mention the [[psychoanalyst]] Bruno Bettelheim's interpretation, that going into the forest \"signifies a psychoanalytic space – a place separated from everyday experience in which to be lost is to be found\",<ref name=\"Saguaro Thacker 2013\"/> and Jack Zipes's alternative view, based on his analysis of the [[Brothers Grimm]], that the forest makes enchantment possible, because the conventions of society do not apply there.<ref name=\"Saguaro Thacker 2013\"/>\n\n=== Communion with non-industrialized nature ===\n\nTolkien's biographer [[John Garth (author)|John Garth]] writes that the great forests, the \"tree-woven lands\" of Middle-earth, symbolise nature [[Environmentalism in The Lord of the Rings|as opposed to development and industrialisation]], \"against the axe and furnace\".{{sfn|Garth|2020|pp=112–131}} \nTolkien's own position was that the primeval human understanding is, as he wrote in his 1964 book ''[[Tree and Leaf]]'', \"communion with other living things\", now lost.<ref name=\"Saguaro Thacker 2013\"/> \nThe Tolkien scholar [[Paul Harold Kocher|Paul Kocher]] states that Middle-earth is meant to be the Earth itself in the distant past, when the primeval forests still existed, and with them, a wholeness that is also now lost. He adds that a forest like Fangorn \"may be dire and mysterious but its trees are the same [[oak]]s, [[chestnut]]s, [[beech]]es, and [[rowan]]s that make up our woods.\"{{sfn|Kocher|1974|pp=9–15}}\nSaguaro and Thacker write that while it might seem that Tolkien is using forests mainly to represent the natural world, as against the industrial modern world, they are rather \"a multi-layered portrayal, with subtle links to [[fairy tale]] and [[folklore]], and complex psychological symbolism.\"<ref name=\"Saguaro Thacker 2013\">{{cite book |last1=Saguaro |first1=Shelley |last2=Thacker |first2=Deborah Cogan |chapter=Tolkien and Trees |title=J.R.R. Tolkien |series=New Casebooks |date=2013 |publisher=[[Palgrave Macmillan]] |isbn=978-1-137-26399-5 |pages=138–154 |url=http://eprints.glos.ac.uk/791/1/Tolkien%20a |access-date=18 June 2023 |archive-date=20 December 2021 |archive-url=https://web.archive.org/web/20211220161108/https://eprints.glos.ac.uk/791/1/Tolkien%20a |url-status=dead }}</ref>\n\n== References ==\n\n=== Primary ===\n\n{{reflist|group=T|28em}}\n\n=== Secondary ===\n\n{{reflist|28em}}\n\n=== Sources ===\n\n* {{cite book |last=Aracil |first=Leticia Cortina |chapter=8. Shadow Shrouds and Moonlight Veils the Forest as an Existential Scene in Tolkien's Legendarium |editor1-last=Hackett |editor1-first=Jon |editor2-last=Harrington |editor2-first=Sean |title=Beasts of the Forest: Denizens of the Dark Woods |date=2019 |publisher=[[Indiana University Press]] |isbn=978-0-8619-6959-3 |pages=119–132 |url=https://books.google.com/books?id=GDy8DwAAQBAJ }}\n* {{cite journal |last=Brisbois |first=Michael J. |title=Tolkien's Imaginary Nature: An Analysis of the Structure of Middle-earth |journal=[[Tolkien Studies]] |publisher=Project MUSE |volume=2 |issue=1 |year=2005 |issn=1547-3163 |doi=10.1353/tks.2005.0009 |pages=197–216|s2cid=170238657 }}\n* {{ME-ref|Letters}}    <!--Carpenter 1981-->\n* {{cite book |last=Garth |first=John |author-link=John Garth (author) |chapter=Tree-woven Lands |title=The Worlds of J.R.R. Tolkien: The Places that Inspired Middle-earth |publisher=[[Frances Lincoln Publishers]] |location=London |year=2020 |isbn=978-0-71124-127-5 |pages=112–131}}\n* {{ME-ref|AoME}}    <!--Fonstad 1991-->\n* {{cite book |last=Kocher |first=Paul |author-link=Paul H. Kocher |title=Master of Middle-earth: The Achievement of J.R.R. Tolkien |title-link=Master of Middle-earth |date=1974 |orig-year=1972 |publisher=[[Penguin Books]] |isbn=978-0-14003-877-4}}\n* {{cite book |last=O'Byrne |first=Damian |chapter=9. The Fiendish Forests of Middle-earth: Tolkien's Trees as Ominous Adversaries |editor1-last=Hackett |editor1-first=Jon |editor2-last=Harrington |editor2-first=Sean |title=Beasts of the Forest: Denizens of the Dark Woods |date=2019 |publisher=[[Indiana University Press]] |isbn=978-0-8619-6959-3 |pages=133–146 |url=https://books.google.com/books?id=GDy8DwAAQBAJ }}\n* {{ME-ref|ROAD}} <!--Shippey 2005-->\n* {{ME-ref|TH}}   <!--Tolkien 1937-->\n* {{ME-ref|FOTR}} <!--Tolkien 1954a-->\n* {{ME-ref|TT}}   <!--Tolkien 1954-->\n* {{ME-ref|ROTK}} <!--Tolkien 1955-->\n* {{ME-ref|Silm}} <!--Tolkien 1977-->\n* {{ME-ref|UT}} <!--Tolkien 1980-->\n* {{cite book |editor-last=Williams |editor-first=Hamish |editor-link=Hamish Williams |title=Tolkien and the Classical World |title-link=Tolkien and the Classical World (book) |publisher=[[Walking Tree Publishers]] |publication-place=Zurich |date=2021 |isbn=978-3-905703-45-0 |oclc=1237352408 }}\n\n[[Category:Middle-earth forests]]\n[[Category:Themes of The Lord of the Rings]]\n\n{{Middle-earth}}\n{{Lord of the Rings}}",
+  "redirect_chain": [],
+  "revision_id": 1358629633,
+  "revision_timestamp": "2026-06-09T23:09:44Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Context"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Forests"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Forests"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Forests",
+        "The Hobbit"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Forests",
+        "The Hobbit"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Forests",
+        "The Lord of the Rings"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Forests",
+        "The Lord of the Rings"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Forests",
+        "The Lord of the Rings"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Forests",
+        "The Lord of the Rings"
+      ],
+      "paragraph_ordinal": 6,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Forests",
+        "The Lord of the Rings"
+      ],
+      "paragraph_ordinal": 7,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Forests",
+        "The Silmarillion"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Forests",
+        "The Silmarillion"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Dark forbidding forest of fairy tale"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Dark forbidding forest of fairy tale"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Dark forbidding forest of fairy tale"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Communion with non-industrialized nature"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

@@ -1,0 +1,278 @@
+{
+  "article_artifact_id": "article_cb6866213908b656a742679da535d67a62432d90bfa16ad2db124cb97d6ef09e",
+  "canonical_title": "Melian (Middle-earth)",
+  "dump_run": "20260701",
+  "extracted_passages": [
+    {
+      "article_artifact_id": "article_cb6866213908b656a742679da535d67a62432d90bfa16ad2db124cb97d6ef09e",
+      "heading_path": [
+        "Lead"
+      ],
+      "normalized_text": "Melian is an important character in the First Age of Middle-earth, and an essential part of the ancestral backgrounding of the interracial romances between her daughter Lúthien and the mortal Man Beren, as well as that of her descendants Aragorn and Arwen. Commentators have analysed the character's mystical nature, as well as her role as a forerunner of the Elf-queen Galadriel in The Lord of the Rings.",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_04292cc6c7b00a6ab3e40be15e48b12ec0cf7ab14a1109fbed820e7b15eb5c8b",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_cb6866213908b656a742679da535d67a62432d90bfa16ad2db124cb97d6ef09e",
+      "heading_path": [
+        "Fictional biography"
+      ],
+      "normalized_text": "thumb|right|upright=2|Sketch map of Beleriand in the First Age. Thingol's woodland realm of Doriath is in the centre; Nan Elmoth is the smaller forest near its eastern edge.",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_8ad781117a382fe1e2c87f317db4300059de5b31d10c281dee0c136f09a5ae1e",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_cb6866213908b656a742679da535d67a62432d90bfa16ad2db124cb97d6ef09e",
+      "heading_path": [
+        "Analysis",
+        "Female authority figure"
+      ],
+      "normalized_text": "In an article for Tor.com's bi-weekly series on \"Exploring the People of Middle-earth\", Megan N. Fontenot said that she admires how Melian's strength and wisdom is characterised, as well as her discreet nature and foresight to choose the appropriate time to speak, or to listen and observe. For Fontenot, Melian's backstory and nature represent \"an important metaphor in Tolkien for one's ability to remain hopeful even in the most dire and desperate of circumstances\", as she is accompanied by nightingales, birds that sing in the darkness, demonstrating that the ability \"to enjoy and appreciate even the shadows brought other joy and beauty to Middle-earth\".",
+      "paragraph_ordinal": 2,
+      "passage_id": "passage_191d50c9d88986aa9da28a677506fffeec4711f9414f5138866ff72eb98b674c",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_cb6866213908b656a742679da535d67a62432d90bfa16ad2db124cb97d6ef09e",
+      "heading_path": [
+        "Analysis",
+        "Female authority figure"
+      ],
+      "normalized_text": "Writing in Mythlore about female authority figures in fiction, Lisa Hopkins argued that \"power in the works of Tolkien is often to be found in the hands of a woman\", and that in Melian's case \"the role of woman as mother as well as wife is markedly stressed\". For Hopkins, Melian's marriage with Thingol is parallel to the marriage between Elves and mortal Men, where the wives are always of Elven heritage, and considerable status is attributed to these women within their marriages. She noted the Girdle of Melian is capable of repelling even the power of Morgoth himself, \"providing a considerably more potent protection than any which could have been afforded by her husband Thingol\".",
+      "paragraph_ordinal": 3,
+      "passage_id": "passage_021c665f6f179142a822e3398e5e7c7599581d5ff6af0cdae1f246988e33af62",
+      "structure": "prose paragraph"
+    },
+    {
+      "article_artifact_id": "article_cb6866213908b656a742679da535d67a62432d90bfa16ad2db124cb97d6ef09e",
+      "heading_path": [
+        "Analysis",
+        "Comparisons with other characters"
+      ],
+      "normalized_text": "Fontenot makes some comparisons with classical figures, too. She describes Melian as \"the Orpheus of Arda\", since, much like the lyre-playing musician of Greek myth, \"Her voice is so beautiful that all of paradise leaves off its normal activities just to listen to her.\" Further, she likens Melian to Cassandra, the prophetess of Troy who makes accurate predictions of trouble to come, but is ignored all the same.",
+      "paragraph_ordinal": 4,
+      "passage_id": "passage_f21ce134c27dcd22b5bd33437977460c30932a1f3eef878ad18cb25af418b524",
+      "structure": "prose paragraph"
+    }
+  ],
+  "extractor_configuration": {
+    "exclude_lists_tables_quotes_and_unresolved_templates": true,
+    "lead_heading": "Lead",
+    "remove_inline_references": true,
+    "replace_links_with_display_labels": true,
+    "supported_structure": "prose paragraphs",
+    "whitespace_normalization": "collapse"
+  },
+  "extractor_identity": "mwparserfromhell 0.7.2",
+  "history_url": "https://en.wikipedia.org/w/index.php?title=Melian_(Middle-earth)&action=history",
+  "namespace": 0,
+  "page_id": 63511247,
+  "parent_revision_id": 1336853927,
+  "permanent_revision_url": "https://en.wikipedia.org/w/index.php?oldid=1357834120",
+  "raw_wikitext": "{{short description|Fictional character created by J. R. R. Tolkien}}\n{{good article}}\n{{Use dmy dates|date=July 2018}}\n{{Use British English|date=May 2022}}\n{{Infobox character\n| name   = Melian\n| series = [[J. R. R. Tolkien|Tolkien]]\n| alias  = Queen of [[Doriath (Middle-earth)|Doriath]],<br/>Queen of the [[Sindar]],<br/>Queen of the [[Teleri]],<br/>Queen of [[Beleriand]]\n| race   = [[Maia (Middle-earth)|Maia]]\n| lbl24  = Book(s)\n| data24 = ''[[The Silmarillion]]''<br/>''[[The History of Middle-earth]]''<br/>''[[The Children of Húrin]]''<br/>''[[The Tale of Beren and Lúthien|Beren & Lúthien]]''\n}}\n'''Melian''' is a fictional character in [[J.R.R. Tolkien]]'s [[Middle-earth]] [[Tolkien's legendarium|legendarium]]. She appears in ''[[The Silmarillion]]'', ''[[The Children of Húrin]]'', ''[[Beren and Lúthien]]'', and in several stories within ''[[The History of Middle-earth]]'' series. An early version of Melian is found in ''[[The Book of Lost Tales]] II'', part of ''The History of Middle-earth'', where her characterization differs significantly. The final version of the character is presented as a [[Maia (Middle-earth)|Maia]], a lesser class of powerful divine beings in Tolkien's legendarium known as the [[Ainu (Middle-earth)|Ainur]], who takes the form of an [[Elves in Middle-earth|Elf]] and becomes the loyal [[queen consort]] of [[Elu Thingol]].\n\nMelian is an important character in the [[First Age]] of Middle-earth, and an essential part of the ancestral backgrounding of the interracial romances between her daughter [[Lúthien]] and the [[Man (Middle-earth)|mortal Man]] [[Beren]], as well as that of her descendants [[The Tale of Aragorn and Arwen|Aragorn and Arwen]]. Commentators have analysed the character's mystical nature, as well as her role as a forerunner of the Elf-queen [[Galadriel]] in ''[[The Lord of the Rings]]''.\n\n== Fictional biography ==\n\n{{Quote box\n |width=30em\n |align=right\n |title= Melian counsels Thingol\n |quote=Now Melian had much foresight, after the manner of the Maiar; and when the second age of the captivity of Melkor had passed, she counselled Thingol that the Peace of Arda would not last for ever. He took thought therefore how he should make for himself a kingly dwelling, and a place that should be strong, if evil were to awake again in Middle-earth; and he sought aid and counsel of the Dwarves of Belegost. They gave it willingly, for they were unwearied in those days and eager for new works; and though the Dwarves ever demanded a price for all that they did, whether with delight or with toil, at this time they held themselves paid.<ref name=\"The Sindar\" group=T>{{harvnb|Tolkien|1977}} ch. 10 \"Of the Sindar\"</ref>\n}}\n\nMelian is an angelic being, a [[Maiar in Middle-earth|Maia]] close to the godlike [[Valar in Middle-earth|Valië]], the Queen of the Earth, [[Yavanna]]. She originally tended fruit trees in the gardens of Lórien and served the Valier Estë and Vána prior to her departure for Middle-earth. She is defined by her beauty, her connection to the natural world, her gifts of foresight and wisdom, and especially her \"angelic and haunting singing\".<ref name=\"Thingol and Melian\" group=T>{{harvnb|Tolkien|1977|loc=ch. 4 \"Of Thingol and Melian\"}}</ref><ref name=\"Drout2006\">{{cite encyclopedia |year=2013 |title=Melian |encyclopedia=[[J.R.R. Tolkien Encyclopedia]] |publisher=[[Routledge]] |url=https://books.google.com/books?id=B0loOBA3ejIC&pg=PA412 |last=Hesser |first=Katherine |orig-year=2006 |editor=[[Michael D. C. Drout]] |pages=412–413 |isbn=978-0-415-86511-1}}</ref> It is said that she arrives in [[Middle-earth]] to teach its birds to sing, and dwells in the forest of Nan Elmoth, to the east of Doriath in [[Beleriand]]. Because she is from [[Valinor]], her face carries the strength and splendour of the light of Valinor when she arrives in Middle-earth, much like the Noldor who had seen the light of the [[Two Trees of Valinor|Two Trees]].<ref name=\"Thingol and Melian\" group=T/><ref name=\"Coutras54\"/> In Nan Elmoth, she meets her future husband, the [[Elves in Middle-earth|Elf]] Prince [[Elwë]], while she is singing with the nightingales one day. It was then that Elwë, being \"filled with love\" for Melian, falls under an enchantment and utterly forgets his people the [[Sindar]], wishing instead to spend the rest of his years with her.<ref name=\"Thingol and Melian\" group=T/><ref name=\"Drout2006\"/> Taking the form of an elf and thus subjecting herself to the limits of physical embodiment,<ref name=\"Coutras54\">{{cite book |last=Coutras |first=Lisa |title=Tolkien's Theology of Beauty: Majesty, Splendor, and Transcendence in Middle-earth |publisher=[[Springer Publishing|Springer]] |year=2016 |isbn=978-1-1375-5345-4 |pages=54–56 |chapter=The Light of Being |chapter-url=https://books.google.com/books?id=zrLIDAAAQBAJ&pg=PA54}}</ref> Melian spends many years in solitude with Elwë, who is thought lost to his people in Nan Elmoth until the couple re-emerge into Middle-earth society.<ref name=\"Drout2006\"/>\n\n[[File:Sketch Map of Beleriand.svg|thumb|right|upright=2|Sketch map of [[Beleriand]] in the [[First Age]]. [[Thingol]]'s woodland realm of Doriath is in the centre; Nan Elmoth is the smaller forest near its eastern edge.]]\n\nMelian and her husband, now known as Elu Thingol, settle in Beleriand, and establish a realm called Doriath, which they rule over as its monarchs. Their only daughter, Lúthien, is the most beautiful person who ever lived in Middle-earth. Weaving \"much magic and mystery\" around Thingol's halls, Melian uses her vast powers to shroud Doriath in an impenetrable, invisible barrier known as the Girdle of Melian to protect them from Morgoth's forces. It prevents anyone from entering without her or Thingol's permission, bewildering and confusing travellers and wanderers, or driving them mad.<ref name=\"The Sindar\" group=T/><ref name=\"Beleriand and its Realms\" group=T>{{harvnb|Tolkien|1977}} ch. 14 \"Of Beleriand and its Realms\"</ref><ref name=\"Part2\">{{cite web |last=Huehner |first=Mariah |date=24 April 2015 |title=The Silmarillion Recaps: Of Beren & Lúthien, Werewolves, and Half-Goddesses |url=https://www.themarysue.com/the-silmarillion-recaps-part-2/ |access-date=15 February 2021 |website=[[The Mary Sue]]}}</ref> The Girdle of Melian proves to be stronger than any power except unselfish love as the mortal Man Beren, who falls in love with her daughter, manages to overcome it.<ref name=\"Girdle\">{{cite journal |editor=Thomas Fornet-Ponse |year=2015 |title=Hither Shore 11: Nature and Landscape in Tolkien |journal=[[Mythlore]] |volume=11 |publisher=Atelier für Textaufgaben |isbn=978-3981061291 |url=https://www.academia.edu/23861535}}</ref> As a divine being in Tolkien's legendarium, Melian's bloodline which is carried on from the marriage between Beren and Lúthien represents \"a strain of the Ainur who were with [[Ilúvatar]] before [[Eä]]\": her descendants include [[Elwing]], [[Elrond]], [[Arwen]], [[Elendil]], and [[Aragorn]].<ref name=\"Deathless\">{{cite web |last=Fontenot |first=Megan N. |url=https://www.tor.com/2020/03/05/exploring-the-people-of-middle-earth-melian-divine-enchantress-and-deathless-queen-rerun/|title=Exploring the People of Middle-earth: Melian, Divine Enchantress and Deathless Queen |date=5 March 2020 |website=[[Tor.com]] |access-date=15 February 2021}}</ref>\n\nSaid to be wiser than \"any child of Middle-Earth\", Melian is known for her insights into the future, though her counsel is repeatedly left unheeded.<ref name=\"Larsen 2020\"/> In ''[[The Children of Húrin]]'', Melian is depicted as trying in vain to \"avert the evil that was prepared in the thought of Morgoth\": she attempts to convince Morwen against leaving the safety of Doriath,<ref group=T>{{harvnb|Tolkien|2007}}, p. 77.</ref> advises [[Túrin Turambar|Túrin]] on the best course of action,<ref group=T>{{harvnb|Tolkien|2007}}, p. 85.</ref> and warns Beleg not to take up Anglachel, a cursed blade forged by the Dark Elf Eöl.<ref group=T>{{harvnb|Tolkien|2007}}, p. 97.</ref> She does convince [[Húrin]] to come to terms with his grief over the tragic fate of his family, after he goes on a violent rampage fuelled by rage and bitterness.<ref name=\"Incest\">{{cite web |last=Huehner |first=Mariah |date=25 September 2015 |title=The Silmarillion Recaps: Dragons, Curses, and Incest Oh My! |url=https://www.themarysue.com/the-silmarillion-part-3/ |access-date=15 February 2021 |website=[[The Mary Sue]]}}</ref> Thingol himself seldom heeds her advice or warnings; this leads to disaster when his greed for the Silmaril retrieved from Morgoth's crown triggers a series of events which culminates in his own death and the fall of Doriath. Following Thingol's passing, she confers with Lúthien and Beren one final time, before returning to Valinor on her own.\n\n== Creation and conception ==\n\nThe name \"Melian\" means ''Beloved'' in Tolkien's [[constructed language]] of [[Sindarin]]. In [[Quenya]], another of Tolkien's languages, her name is \"''Melyanna''\", signifying \"Dear Gift\" or \"Gift of Love\" (Q. ''melya'', \"dear, lovely\" < Q. ''mel-'', \"love\"; Q. ''anna'', \"gift\").<ref group=T>{{harvnb|Tolkien|1987}} \"[[The Etymologies (Tolkien)|The Etymologies]]\"</ref>\n\nTolkien had given Melian other names throughout the development process of his legendarium. She appears in ''[[The Book of Lost Tales]] Part One'' as Tindriel or Wendelin in Quenya, and in a [[Gnomish (Tolkien)|Gnomish]] dictionary as Gwendeling or Gwendhiling.<ref name=\"lt1\" group=T>{{harvnb|Tolkien|1984}} Part I, entry \"Wendelin\"</ref> Within the story of ''The Book of Lost Tales'', Vëannë and Ausir argued whether she should be called Wendelin or Gwendeling. These names were reintroduced into the 2017 book ''[[Beren and Lúthien]]'', an extended story about the tale of [[Lúthien and Beren]].\n\nTolkien defined Melian as a [[Fairy|fay]] in earlier drafts of his work, and she was written as a somewhat sinister character. This version of the character appears in \"The Tale of Tinúviel\", Tolkien's first story about Beren and Lúthien, which was written in archaic English and published in ''The Book of Lost Tales Part Two''.<ref name=\"lt2\" group=T>{{harvnb|Tolkien|1984b}} Part 2 \"The Tale of Tinúviel\"</ref> In one variant of her backstory, she is a daughter of the [[Vala (Middle-earth)#Lords|Vala Irmo]], also known as Lórien. She is discovered by Tinwelint, a precursor of [[Thingol]], while listening to the song of nightingales; when he tried to touch her hair, she ran away laughing, after which he fell into a deep slumber and she kept watch over him while he slept. She later became his wife and the queen of Artanor, and together they have a son, Tinfang, and a daughter, Tinúviel.<ref name=\"lt1\" group=T/> She appears in another later narrative within the same publication, although her character is portrayed as being far weaker and more frail. [[Christopher Tolkien]] noted that in this early version, the Girdle of Melian is sufficiently weaker in power that it is possible for [[Morgoth]]'s forces to follow Beren and Tinúviel all the way back to Doriath.<ref name=\"lt2\" group=T/>\n\n== Analysis ==\n\n=== Female authority figure ===\n\n{{Quote box\n |width=27em\n |align=right\n |quote= \n\"What strikes me about the story of Melian is that she gives up the splendor, joy, and privilege of eternal life in Valinor to dwell in the middle-world, a world of shadows as well as light, out of a vast, unreasonable, powerful love. Thus does Melian the Maia, in her willing sacrifice, become the foremother of some of the most powerful, redeeming figures in Middle-earth's long, scarred history.\" <br/>\n—  Megan N. Fontenot, ''Exploring the People of Middle-earth: Melian, Divine Enchantress and Deathless Queen''<ref name=\"Deathless\"/>\n}}\n\nIn an article for ''[[Tor Books|Tor.com's]]'' bi-weekly series on \"Exploring the People of Middle-earth\", Megan N. Fontenot said that she admires how Melian's strength and wisdom is characterised, as well as her discreet nature and foresight to choose the appropriate time to speak, or to listen and observe. For Fontenot, Melian's backstory and nature represent \"an important metaphor in Tolkien for one's ability to remain hopeful even in the most dire and desperate of circumstances\", as she is accompanied by [[nightingale]]s, birds that sing in the darkness, demonstrating that the ability \"to enjoy and appreciate even the shadows brought other joy and beauty to Middle-earth\".<ref name=\"Deathless\"/><ref name=\"Drout2006\"/>\n\nWriting in ''[[Mythlore]]'' about female authority figures in fiction, Lisa Hopkins argued that \"power in the works of Tolkien is often to be found in the hands of a woman\", and that in Melian's case \"the role of woman as mother as well as wife is markedly stressed\".<ref name=\"Authority\"/> For Hopkins, Melian's marriage with Thingol is parallel to the marriage between Elves and mortal Men, where the wives are always of Elven heritage, and considerable status is attributed to these women within their marriages. She noted the Girdle of Melian is capable of repelling even the power of Morgoth himself, \"providing a considerably more potent protection than any which could have been afforded by her husband Thingol\".<ref name=\"Authority\"/>\n\n=== Marriage to Thingol ===\n\nMelian's association with Thingol, as well as the continuation of her divine bloodline through the [[Half-elf#Tolkien's Middle-earth|Half-elven]] and the royal bloodline of the [[Dúnedain]], is considered to be an important element within Tolkien's legendarium.<ref name=\"Deathless\"/><ref name=\"Authority\"/> The scholar Cathy Akers-Jordan noted that as an Elf and thus \"the lesser race\", Thingol is ennobled by his marriage to Melian the Maia, \"a greater race\".<ref name=\"Akers-Jordan 2004\">{{cite book |last=Akers-Jordan |first=Cathy |chapter=Fairy Princess or Tragic Heroine? The Metamorphosis of Arwen Undómiel in Peter Jackson's The Lord of the Rings Films |editor-last=Croft |editor-first=Janet Brennan |editor-link=Janet Brennan Croft |title=Tolkien on Film: Essays on Peter Jackson's The Lord of the Rings |title-link=Tolkien on Film |publisher=[[Mythopoeic Press]] |year=2004 |pages=195-213 <!--esp. pp. 197-198--> |isbn=978-1-887726-09-2}}</ref>  Commentators noted that Lúthien's power is [[Ancestry as guide to character in Tolkien's legendarium|derived from her inheritance]] of at least some of her mother's might.<ref name=\"Authority\">{{cite journal |last=Hopkins |first=Lisa |year=1996 |title=Female Authority Figures in the Works of Tolkien, C.S. Lewis and Charles Williams |journal=[[Mythlore]] |volume=21 |issue=2 |at=article 55 |url=https://dc.swosu.edu/cgi/viewcontent.cgi?article=2172&context=mythlore}}</ref><ref name=\"Power\">{{cite journal |last=Klag |first=Katarzyna |year=2014 |title=The Power of Music in the Tale of Beren and Lúthien by J.R.R. Tolkien |journal=Analyses/Rereadings/Theories Journal |volume=2 |issue=2 |url=https://dspace.uni.lodz.pl/xmlui/bitstream/handle/11089/22047/3.2.pdf?sequence=1&isAllowed=y}}</ref> Fontenot suggested that it is partially due to Melian's influence or standing with her Ainur brethren that Lúthien was given an audience with Mandos, and that her plea to have Beren returned to life was ultimately granted.<ref name=\"Deathless\"/> Hopkins in particular highlighted Lúthien as an equal to Beren and suggested that he \"would undoubtedly never have survived his quest without her help\".<ref name=\"Authority\"/>\n\nMelian's decision to take \"upon herself the form of the Elder Children of Iluvatar\" out of love for Thingol represents a more fatal version of the adoption of form by the Ainur, as \"in that union she became bound by the chain and trammels of the flesh of Arda\".<ref name=\"Degenerative\">{{cite journal |last=Evans |first=Robley |year=1987 |title=Tolkien's World Creation: Degenerative Recurrence |journal=[[Mythlore]] |volume=14 |issue=1 |at=article 55 |url=https://dc.swosu.edu/cgi/viewcontent.cgi?article=2327&context=mythlore}}</ref> Writing in ''Mythlore'', Robley Evans explained that Tolkien represents creation through music, \"the art of time, with its potential for modulation\". He drew attention to Tolkien's explanation that The Ainur \"are shown visions but not their fulfillment, darkness but not its meaning. They participate in the divine music without knowing its purposes, and give form without knowing consequences, so that creativity, by analogy, will always be ambiguous in its delimiting power\".<ref name=\"Degenerative\"/> Thus, Melian assumes the form of Elf based on her \"knowledge of the visible World, rather than of the World itself\".<ref name=\"Degenerative\"/>\n\n=== Shielding her realm, like Galadriel ===\n\nSeveral commentators have discussed the relationship between Melian and Galadriel at length. The scholar of English literature [[Marjorie Burns]] describes Melian as \"the most traditional [[Enchantress (fantasy)|enchantress]] in Tolkien's literature\", comparing her [[Celtic mythology|Celtic]] nature to that of Galadriel.<ref name=\"Burns 2005\">{{cite book |last=Burns |first=Marjorie |title=Perilous Realms: Celtic and Norse in Tolkien's Middle-earth |title-link=Perilous Realms |publisher=[[University of Toronto Press]] |year=2005 |isbn=978-0-8020-3806-7 |pages=121–124 |author-link=Marjorie Burns}}</ref> Burns observed that unlike Galadriel, Melian is overtly sexual, with her clothes \"'filmy' and \"most lovely\", and her singing and dancing is like 'strong wine'\" to Thingol, who is bewitched by her.<ref name=\"Burns 2005\" /> Commentators agreed that Galadriel's protective shield around her realm generated through the [[Three Rings|power of the Ring of Nenya]] is directly inspired by the Girdle of Melian; Evans in particular considered it a \"lovely but pale reflection\".<ref name=\"Degenerative\"/> Jeff LaSala and Megan N. Fontenot from ''Tor.com'' agree that Melian's close relationship with Galadriel as depicted in ''The Silmarillion'' provided much context for how Galadriel is characterized and presented in ''The Lord of the Rings''.<ref name=LaSala>{{cite web |last=LaSala |first=Jeff |url=https://www.tor.com/2017/04/18/the-trial-of-galadriel/|title=The Trial of Galadriel |date=18 April 2017 |website=[[Tor.com]]  |access-date=14 February 2021}}</ref><ref name=Fontenot>{{cite web |last=Fontenot |first=Megan N. |url=https://www.tor.com/2020/02/20/exploring-the-people-of-middle-earth-galadriel-mighty-and-valiant-part-2/ |title=Exploring the People of Middle-earth: Galadriel, Mighty and Valiant (Part 2) |date=20 February 2020 |website=[[Tor.com]] |access-date=14 February 2021}}</ref><ref name=\"Girdle2\">{{cite journal |last1=Fortner |first1=Angela |last2=Marshall |first2=Peter |year=1997 |title=Perspectives in Strength: Four Women in the Writings of C.S. Lewis and J.R.R. Tolkien |journal=Inklings Forever |volume=1 |publisher=[[Taylor University]] |pages=142–143 |url=https://pillars.taylor.edu/cgi/viewcontent.cgi?article=1022&context=inklings_forever}}</ref> The depiction of Melian distributing ''lembas'' bread is noted as a particularly significant act within the legendarium; Fontenot suggested that Galadriel \"consciously mirrored it\"  when she gives ''lembas'' to the Fellowship in ''The Fellowship of the Ring''; ''The Catholic World Report'' [[Christianity in Middle-earth#The Eucharist|compared it to the Eucharist]].<ref name=\"Deathless\" /><ref name=Catholic>{{cite web |last=Birzer |first=Bradley J. |author-link=Bradley J. Birzer |url=https://www.catholicworldreport.com/2016/01/28/the-story-of-kullervo-and-the-origins-of-tolkiens-legendarium/|title=The Story of Kullervo and the origins of Tolkien's legendarium |date=28 January 2016 |website=The Catholic World Report |access-date=15 February 2021}}</ref>\n\nMelian is somewhat [[List of Homeric characters|Homeric]] in opposing [[Ungoliant]], the monstrous spider of darkness in ''The Silmarillion'', just as Galadriel opposes Ungoliant's spawn [[Shelob]] in ''The Lord of the Rings''.<ref name=\"Burns 2005\" /> Mac Fenwick noted that while Melian is no longer present in Middle-earth by the Third Age, Galadriel continues her legacy, just as Sauron and Shelob continue the thematic positions of their predecessors Morgoth and Ungoliant.<ref name=\"Fenwick 1996\">{{cite journal |last=Fenwick |first=Mac |year=1996 |title=Breastplates of Silk: Homeric Women in The Lord of the Rings |journal=[[Mythlore]] |volume=21 |issue=3 |at=article 4 |url=https://dc.swosu.edu/mythlore/vol21/iss3/4}}</ref>\n\n=== Comparisons with other characters ===\n\n{{Quote box\n |width=27em\n |align=right\n |quote= \"The moral of the story, one that clearly resonates down through the legendarium in an unbroken line from The Story of Kullervo through ''Turambar and the Foalókë'' and ''The Children of Húrin'', potent enough to find its way into ''The Tale of Tinúviel'' and all its antecedents, is that when the Lady of the Forest tells you to stick to the path, whether it be physical or metaphorical, you best listen. Nothing less than your very fate hangs in the balance.\"<br/> \n—  Kristine Larsen, ''Ladies of the Forest: Melian and Mielikki''<ref name=\"Larsen 2020\"/>\n}}\n\nIvana Šarić contrasted Melian with [[Gandalf]], another Maia character whom she considers equal to Melian in power and wisdom. She commented that unlike the [[Wizard (Middle-earth)|Wizard]] she is absent as an active agent in Tolkien's stories, as she is primarily bound to Middle-earth out of love for Thingol, and remains largely passive due to her primary characterization as his wife. Šarić noted that the absence of any masculine qualities in her appearance, described by Tolkien as exceedingly beautiful, is a signal of Melian's more subservient nature, as she maintains a strictly defensive position with her Girdle over Doriath and is never shown as having a desire for power.<ref name=\"Šarić\">{{cite thesis |last=Šarić |first=Ivana |date=2015 |title=Representation of Women in J.R.R. Tolkien's and G.R.R. Martin's Epic Fantasy |url=http://darhiv.ffzg.unizg.hr/id/eprint/5278/1/diplomski_representations%20of%20women%20in%20epic%20fantasy_ivana%20saric_final.pdf |url-status=live |archive-url=https://web.archive.org/web/20240619075648/https://darhiv.ffzg.unizg.hr/id/eprint/5278/1/diplomski_representations%20of%20women%20in%20epic%20fantasy_ivana%20saric_final.pdf |archive-date=19 June 2024 |degree=Diploma |publisher=[[University of Zagreb]] }}</ref>\n\nIn an article published by [[Central Connecticut State University]], Kristine Larsen contended that Melian was recycled from another character in the ''[[Kalevala]]''. Larsen compared her to the Finnish goddess [[Mielikki]] in ''[[The Story of Kullervo]]'', which played a central role in Tolkien's first attempts to compose original mythology.<ref name=\"Larsen 2020\"/> [[Verlyn Flieger]], the editor of ''The Story of Kullervo'', identifies its \"blue-robed Lady of the Forest\" character as Mielikki.<ref group=T>{{harvnb|Tolkien|2015}}, pp. 61-62.</ref> Larsen associates the blue robes with Melian's magical powers of enchantment as well as the gift of foresight, a reflection of what Flieger terms Tolkien's \"long [[Magic in Middle-earth|preoccupation with the nature of magic]] and the supernatural\". Larsen noted that when Tolkien expanded and revised the tale of [[Beren and Lúthien]] over the years, he also emphasized the role of Melian as a sage \"who pronounces dooms and whose advice is ignored only at significant risk\", as well as the tragic consequences suffered by the characters who do not heed her advice.<ref name=\"Larsen 2020\">{{cite journal |last=Larsen |first=Kristine |title=Ladies of the Forest: Melian and Mielikki |journal=[[Journal of Tolkien Research]] |date=2020 |volume=9 |issue=1 |at=article 6 |url=https://scholar.valpo.edu/journaloftolkienresearch/vol9/iss1/6}}</ref> Lisa Coutras noted that Thingol's reckless actions and refusal to heed Melian's counsel about the Silmarils brought about the downfall of his kingdom.<ref name=\"Coutras193\">{{cite book |last=Coutras |first=Lisa |title=Tolkien's Theology of Beauty: Majesty, Splendor, and Transcendence in Middle-earth |publisher=[[Springer Publishing|Springer]] |year=2016 |isbn=978-1-1375-5345-4 |page=193 |chapter=Tolkien and Feminist Criticism |chapter-url=https://books.google.com/books?id=zrLIDAAAQBAJ&pg=PA193}}</ref>\n\nFontenot makes some [[Tolkien and the classical world|comparisons with classical figures]], too. She describes Melian as \"the [[Orpheus]] of Arda\", since, much like the lyre-playing musician of Greek myth, \"Her voice is so beautiful that all of paradise leaves off its normal activities just to listen to her.\"<ref name=\"Deathless\"/> Further, she likens Melian to [[Cassandra]], the prophetess of [[Troy]] who makes accurate predictions of trouble to come, but is ignored all the same.<ref name=\"Deathless\"/>\n\n== Genealogy ==\n\n{{Half-elven family tree}}\n\n== References ==\n\n=== Primary ===\n\n{{reflist|group=T|28em}}\n\n=== Secondary ===\n{{reflist|28em}}\n\n=== Sources ===\n\n* {{ME-ref|ROTK}}\n* {{ME-ref|Silm}}\n* {{ME-ref|BoLT}}\n* {{ME-ref|BoLT2}}\n* {{ME-ref|LROW}}\n* {{ME-ref|Children of Hurin}}\n* {{ME-ref|SK}}\n\n{{Middle-earth}}\n\n[[Category:The Children of Húrin characters]]\n[[Category:The Silmarillion characters]]\n[[Category:Fictional characters who use magic]]\n[[Category:Fictional queens]]\n[[Category:Literary characters introduced in 1977]]\n[[Category:Maiar]]\n[[Category:Middle-earth rulers]]",
+  "redirect_chain": [],
+  "revision_id": 1357834120,
+  "revision_timestamp": "2026-06-04T23:18:06Z",
+  "source_snapshot": {
+    "dump_run": "20260701",
+    "extraction_profile": "full non-multistream article dump",
+    "filename": "enwiki-20260701-pages-articles.xml.bz2",
+    "retrieval_timestamp": "2026-07-20T17:17:59.761380+00:00",
+    "source_url": "https://dumps.wikimedia.org/enwiki/20260701/enwiki-20260701-pages-articles.xml.bz2",
+    "wiki_database": "enwiki"
+  },
+  "structural_exclusions": [
+    {
+      "heading_path": [
+        "Lead"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography"
+      ],
+      "paragraph_ordinal": 4,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Fictional biography"
+      ],
+      "paragraph_ordinal": 5,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Creation and conception"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Creation and conception"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Creation and conception"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Female authority figure"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Marriage to Thingol"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Marriage to Thingol"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Shielding her realm, like Galadriel"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Shielding her realm, like Galadriel"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Comparisons with other characters"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Comparisons with other characters"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Analysis",
+        "Comparisons with other characters"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "Genealogy"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: unresolved template",
+      "structure_type": "unresolved template"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Primary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Secondary"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 1,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 2,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    },
+    {
+      "heading_path": [
+        "References",
+        "Sources"
+      ],
+      "paragraph_ordinal": 3,
+      "reason": "excluded by extractor policy: reference or administrative material",
+      "structure_type": "reference or administrative material"
+    }
+  ],
+  "wiki_database": "enwiki"
+}

@@ -33,6 +33,12 @@ def _archive_path(directory: Path, label: str) -> Path:
     return directory / f"{ARCHIVE_BASENAME_PREFIX}-{label}{ARCHIVE_SUFFIX}"
 
 
+def _read_tar_member(tar: tarfile.TarFile, member: str | tarfile.TarInfo) -> bytes:
+    stream = tar.extractfile(member)
+    assert stream is not None
+    return stream.read()
+
+
 def _sidecar_path(directory: Path, label: str) -> Path:
     return directory / f"{ARCHIVE_BASENAME_PREFIX}-{label}{ARCHIVE_SUFFIX}.sha256"
 
@@ -245,9 +251,7 @@ def test_manifest_records_label_head_source_and_digests(tmp_path: Path) -> None:
     create_backup(repo, label="manifest", output_dir=out)
     archive = _archive_path(out, "manifest")
     with tarfile.open(archive, "r:gz") as tar:
-        manifest = json.loads(
-            tar.extractfile("backup-manifest.json").read().decode()  # type: ignore[union-attr]
-        )
+        manifest = json.loads(_read_tar_member(tar, "backup-manifest.json").decode())
 
     assert manifest["schema_version"] == 1
     assert manifest["label"] == "manifest"
@@ -521,7 +525,7 @@ def test_verify_detects_missing_or_extra_members(tmp_path: Path) -> None:
     rebuilt = tmp_path / "backups" / "members-rebuilt.tar.gz"
     with tarfile.open(archive, "r:gz") as src, tarfile.open(rebuilt, "w:gz") as dst:
         for member in src.getmembers():
-            data = src.extractfile(member).read() if member.isfile() else None  # type: ignore[union-attr]
+            data = _read_tar_member(src, member)
             if member.name == "backup-manifest.json":
                 manifest = json.loads(data.decode())
                 manifest["members"].append(
@@ -585,7 +589,7 @@ def test_verify_detects_member_hash_mismatch(tmp_path: Path) -> None:
         import io
 
         for member in src.getmembers():
-            data = src.extractfile(member).read() if member.isfile() else None  # type: ignore[union-attr]
+            data = _read_tar_member(src, member)
             if member.name == "data/corpus/articles/article_aaa.json":
                 payload = json.loads(data.decode())
                 # Replace the leading text with a same-length but different
@@ -758,7 +762,7 @@ def test_verify_rejects_evil_member_even_if_manifest_lists_it(
     rebuilt = tmp_path / "backups" / "allowlist-rebuilt.tar.gz"
     with tarfile.open(archive, "r:gz") as src, tarfile.open(rebuilt, "w:gz") as dst:
         for member in src.getmembers():
-            data = src.extractfile(member).read() if member.isfile() else None  # type: ignore[union-attr]
+            data = _read_tar_member(src, member)
             if member.name == "backup-manifest.json":
                 manifest = json.loads(data.decode())
                 manifest["members"].append(
@@ -822,7 +826,7 @@ def test_verify_rejects_unsanitized_manifest_label(tmp_path: Path) -> None:
     rebuilt = tmp_path / "backups" / "labelcheck-rebuilt.tar.gz"
     with tarfile.open(archive, "r:gz") as src, tarfile.open(rebuilt, "w:gz") as dst:
         for member in src.getmembers():
-            data = src.extractfile(member).read()  # type: ignore[union-attr]
+            data = _read_tar_member(src, member)
             if member.name == "backup-manifest.json":
                 manifest = json.loads(data.decode())
                 manifest["label"] = "contains a space"
@@ -852,7 +856,7 @@ def test_verify_rejects_duplicate_manifest_paths(tmp_path: Path) -> None:
     rebuilt = tmp_path / "backups" / "dupmanifest-rebuilt.tar.gz"
     with tarfile.open(archive, "r:gz") as src, tarfile.open(rebuilt, "w:gz") as dst:
         for member in src.getmembers():
-            data = src.extractfile(member).read() if member.isfile() else None  # type: ignore[union-attr]
+            data = _read_tar_member(src, member)
             if member.name == "backup-manifest.json":
                 manifest = json.loads(data.decode())
                 first = manifest["members"][0]

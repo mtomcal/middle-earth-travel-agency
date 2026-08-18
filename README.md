@@ -16,9 +16,10 @@ Tolkien Estate or other rights holders.
 
 The implemented slice currently covers offline candidate discovery, acquisition
 and extraction from the pinned Wikimedia source, deterministic corpus backup,
-and a passage-only terminal curation cockpit with auditable SQLite working state
-and a deterministic, versionable JSONL representation.
-Release publication, retrieval indexing, travel planning, guide generation,
+a passage-only terminal curation cockpit with auditable SQLite working state and
+a deterministic, versionable JSONL representation, and immutable release
+creation and validation for lore-bearing articles.
+Release activation, retrieval indexing, travel planning, guide generation,
 evaluation, and the web experience are not implemented yet.
 
 ## Documentation
@@ -56,6 +57,7 @@ The implementation uses `middle_earth_travel_agency` as its Python package and
 - [Acquire the corpus](docs/runbooks/acquire-corpus.md)
 - [Back up and restore corpus evidence](docs/runbooks/back-up-and-restore.md)
 - [Curate extracted passages](docs/runbooks/curate-corpus.md)
+- [Create and validate a corpus release](docs/runbooks/release-corpus.md)
 
 ## Verification
 
@@ -63,6 +65,7 @@ The implementation uses `middle_earth_travel_agency` as its Python package and
 uv run pytest
 uv run ruff check .
 uv run ruff format --check .
+uv run pyright
 uv run pre-commit run --all-files
 ```
 

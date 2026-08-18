@@ -1,4 +1,5 @@
 import json
+from argparse import Namespace
 from types import SimpleNamespace
 
 import pytest
@@ -310,6 +311,84 @@ def test_curation_snapshot_commands_delegate_and_report(tmp_path, monkeypatch, c
     assert "loaded 7 audit event(s)" in output
 
 
+def test_corpus_release_commands_delegate_and_report(tmp_path, monkeypatch, capsys):
+    articles = tmp_path / "articles"
+    curation = tmp_path / "curation.jsonl"
+    manifest = tmp_path / "manifest.json"
+    observed = []
+    result = SimpleNamespace(
+        release_id="corpus-v1-rc1",
+        article_count=51,
+        passage_count=182,
+        manifest_sha256="abc123",
+    )
+    monkeypatch.setattr(
+        cli,
+        "create_release",
+        lambda **kwargs: observed.append(("create", kwargs)) or result,
+    )
+    monkeypatch.setattr(
+        cli,
+        "validate_release",
+        lambda **kwargs: observed.append(("validate", kwargs)) or result,
+    )
+
+    assert (
+        main(
+            [
+                "corpus",
+                "create-release",
+                "--release-id",
+                "corpus-v1-rc1",
+                "--articles-dir",
+                str(articles),
+                "--curation",
+                str(curation),
+                "--output",
+                str(manifest),
+            ]
+        )
+        == 0
+    )
+    assert (
+        main(
+            [
+                "corpus",
+                "validate-release",
+                str(manifest),
+                "--articles-dir",
+                str(articles),
+                "--curation",
+                str(curation),
+            ]
+        )
+        == 0
+    )
+
+    assert observed == [
+        (
+            "create",
+            {
+                "release_id": "corpus-v1-rc1",
+                "articles_dir": articles,
+                "curation_snapshot": curation,
+                "output": manifest,
+            },
+        ),
+        (
+            "validate",
+            {
+                "manifest": manifest,
+                "articles_dir": articles,
+                "curation_snapshot": curation,
+            },
+        ),
+    ]
+    output = capsys.readouterr().out
+    assert "created corpus-v1-rc1 with 51 article(s)" in output
+    assert "validated corpus-v1-rc1: 51 article(s)" in output
+
+
 def test_console_reports_expected_operator_errors(monkeypatch, capsys):
     monkeypatch.setattr(cli, "main", lambda: (_ for _ in ()).throw(ValueError("bad input")))
 
@@ -327,7 +406,7 @@ def test_cli_validation_rejects_unsafe_discovery_and_acquisition_inputs(tmp_path
     with pytest.raises(FileExistsError, match="refusing to overwrite"):
         cli._write_new_json(existing, {})
 
-    discover = SimpleNamespace(
+    discover = Namespace(
         category=[],
         nominate=[],
         max_candidates=100,
@@ -352,7 +431,7 @@ def test_cli_validation_rejects_unsafe_discovery_and_acquisition_inputs(tmp_path
 
     discoveries = tmp_path / "discoveries.json"
     _write_discoveries(discoveries)
-    acquire = SimpleNamespace(
+    acquire = Namespace(
         discoveries=discoveries,
         data_dir=tmp_path / "corpus",
         download_rate_mib=0,

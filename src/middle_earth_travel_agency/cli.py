@@ -24,6 +24,7 @@ from .corpus_acquisition import (
 )
 from .corpus_backup import create_backup, verify_backup
 from .corpus_curation import CurationState, load_corpus, run_terminal
+from .corpus_release import create_release, validate_release
 from .curation_snapshot import export_snapshot, load_snapshot
 
 
@@ -121,6 +122,21 @@ def _parser() -> argparse.ArgumentParser:
     load_curation.add_argument(
         "--state-db", type=Path, required=True, help="new SQLite curation state to create"
     )
+
+    release = corpus_commands.add_parser(
+        "create-release", help="write an immutable lore-bearing corpus release manifest"
+    )
+    release.add_argument("--release-id", required=True, help="stable identifier for the release")
+    release.add_argument("--articles-dir", type=Path, required=True)
+    release.add_argument("--curation", type=Path, required=True, help="curation JSONL snapshot")
+    release.add_argument("--output", type=Path, required=True, help="new manifest to create")
+
+    validate = corpus_commands.add_parser(
+        "validate-release", help="validate a corpus release against retained evidence"
+    )
+    validate.add_argument("manifest", type=Path, help="release manifest to validate")
+    validate.add_argument("--articles-dir", type=Path, required=True)
+    validate.add_argument("--curation", type=Path, required=True, help="curation JSONL snapshot")
     return parser
 
 
@@ -297,6 +313,33 @@ def _load_curation(arguments: argparse.Namespace) -> int:
     return 0
 
 
+def _create_release(arguments: argparse.Namespace) -> int:
+    result = create_release(
+        release_id=arguments.release_id,
+        articles_dir=arguments.articles_dir,
+        curation_snapshot=arguments.curation,
+        output=arguments.output,
+    )
+    print(
+        f"created {result.release_id} with {result.article_count} article(s) and "
+        f"{result.passage_count} lore passage(s); sha256 {result.manifest_sha256}"
+    )
+    return 0
+
+
+def _validate_release(arguments: argparse.Namespace) -> int:
+    result = validate_release(
+        manifest=arguments.manifest,
+        articles_dir=arguments.articles_dir,
+        curation_snapshot=arguments.curation,
+    )
+    print(
+        f"validated {result.release_id}: {result.article_count} article(s), "
+        f"{result.passage_count} lore passage(s); sha256 {result.manifest_sha256}"
+    )
+    return 0
+
+
 def main(argv: Sequence[str] | None = None) -> int:
     load_dotenv(dotenv_path=Path.cwd() / ".env")
     arguments = _parser().parse_args(argv)
@@ -314,6 +357,10 @@ def main(argv: Sequence[str] | None = None) -> int:
         return _export_curation(arguments)
     if arguments.corpus_command == "load-curation":
         return _load_curation(arguments)
+    if arguments.corpus_command == "create-release":
+        return _create_release(arguments)
+    if arguments.corpus_command == "validate-release":
+        return _validate_release(arguments)
     raise AssertionError("unreachable command")
 
 

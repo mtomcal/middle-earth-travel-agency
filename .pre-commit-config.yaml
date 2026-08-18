@@ -17,6 +17,13 @@ repos:
         pass_filenames: false
         always_run: true
 
+      - id: pyright
+        name: Pyright type check
+        entry: uv run --frozen pyright
+        language: system
+        pass_filenames: false
+        always_run: true
+
       - id: pytest-coverage
         name: Pytest with 90% coverage
         entry: env -u GIT_INDEX_FILE uv run --frozen pytest

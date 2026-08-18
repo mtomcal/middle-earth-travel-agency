@@ -15,7 +15,7 @@ import tty
 from dataclasses import dataclass
 from datetime import UTC, datetime
 from pathlib import Path
-from typing import Iterable, TextIO
+from typing import Iterable, Protocol, TypeVar
 
 
 INITIAL_RUBRIC_ID = "tolkien-corpus-rubric-v1"
@@ -27,6 +27,7 @@ CLASSIFICATIONS = {
     "r": "reference or administrative material",
 }
 ACTION_KEYS = frozenset((*CLASSIFICATIONS, "s"))
+_Value = TypeVar("_Value")
 
 CURATION_SCHEMA_SQL = """
 CREATE TABLE IF NOT EXISTS curation_meta (key TEXT PRIMARY KEY, value TEXT NOT NULL);
@@ -59,11 +60,29 @@ class Corpus:
     fingerprint: str
 
 
-def _required(document: dict[str, object], name: str, kind: type) -> object:
+def _required(document: dict[str, object], name: str, kind: type[_Value]) -> _Value:
     value = document.get(name)
-    if not isinstance(value, kind) or (kind is str and not value.strip()):
+    if not isinstance(value, kind) or (isinstance(value, str) and not value.strip()):
         raise ValueError(f"artifact field {name!r} must be a non-empty {kind.__name__}")
     return value
+
+
+class _HasFileno(Protocol):
+    def fileno(self) -> int: ...
+
+
+class _TerminalInput(_HasFileno, Protocol):
+    def isatty(self) -> bool: ...
+
+    def read(self, size: int, /) -> str: ...
+
+
+class _TerminalOutput(_HasFileno, Protocol):
+    def isatty(self) -> bool: ...
+
+    def write(self, text: str, /) -> int: ...
+
+    def flush(self) -> None: ...
 
 
 def load_corpus(articles_dir: Path) -> Corpus:
@@ -464,13 +483,13 @@ def render(
     return "\n".join(lines)
 
 
-def _write_terminal(output: TextIO, text: str) -> None:
+def _write_terminal(output: _TerminalOutput, text: str) -> None:
     """Write CRLF frames because raw mode disables ONLCR conversion."""
     normalized = text.replace("\r\n", "\n").replace("\r", "\n").replace("\n", "\r\n")
     output.write(normalized)
 
 
-def _terminal_width(output: TextIO) -> int:
+def _terminal_width(output: _HasFileno) -> int:
     try:
         columns = os.get_terminal_size(output.fileno()).columns
     except (AttributeError, OSError):
@@ -497,7 +516,7 @@ class KeyGuard:
         return not repeated
 
 
-def _flush_input(stream: TextIO) -> None:
+def _flush_input(stream: _HasFileno) -> None:
     try:
         termios.tcflush(stream.fileno(), termios.TCIFLUSH)
     except termios.error:
@@ -515,8 +534,8 @@ def run_terminal(
     state: CurationState,
     *,
     review_deferred: bool = False,
-    input_stream: TextIO = sys.stdin,
-    output: TextIO = sys.stdout,
+    input_stream: _TerminalInput = sys.stdin,
+    output: _TerminalOutput = sys.stdout,
 ) -> None:
     """Run the raw-terminal cockpit, restoring the terminal for every exit path."""
     if not input_stream.isatty() or not output.isatty():

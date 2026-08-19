@@ -1,0 +1,387 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Retrieval-enabled model comparison — prototype</title>
+  <style>
+    :root {
+      --paper: #f4edda;
+      --paper-deep: #e6d8b8;
+      --ink: #28271f;
+      --muted: #665f4d;
+      --forest: #23483a;
+      --forest-soft: #dce7dd;
+      --gold: #a8792b;
+      --line: #c6b892;
+      --danger: #8b352e;
+      --danger-soft: #f1ded8;
+      --warn: #74521c;
+      --warn-soft: #f3e6bd;
+      --shadow: 0 12px 28px rgb(54 43 23 / 10%);
+    }
+
+    * { box-sizing: border-box; }
+
+    html { color-scheme: light; scroll-behavior: smooth; }
+
+    body {
+      margin: 0;
+      color: var(--ink);
+      background:
+        linear-gradient(90deg, rgb(108 83 42 / 4%) 1px, transparent 1px) 0 0 / 32px 32px,
+        var(--paper);
+      font: 15px/1.5 Georgia, "Times New Roman", serif;
+    }
+
+    a { color: var(--forest); text-underline-offset: 3px; }
+    a:focus-visible, summary:focus-visible { outline: 3px solid var(--gold); outline-offset: 3px; }
+
+    .prototype-banner {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      padding: .55rem 1rem;
+      color: #fff8e6;
+      background: var(--danger);
+      border-bottom: 3px solid #5d241f;
+      font: 800 .76rem/1.2 system-ui, sans-serif;
+      letter-spacing: .14em;
+      text-align: center;
+      text-transform: uppercase;
+    }
+
+    main { width: min(100% - 2rem, 1540px); margin: 0 auto; padding: 2.5rem 0 5rem; }
+
+    .masthead {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 2rem;
+      align-items: end;
+      padding: 1.8rem;
+      background: rgb(255 252 241 / 82%);
+      border: 1px solid var(--line);
+      border-top: 5px solid var(--forest);
+      box-shadow: var(--shadow);
+    }
+
+    .eyebrow, .kicker, .label {
+      margin: 0 0 .45rem;
+      color: var(--forest);
+      font: 800 .72rem/1.2 system-ui, sans-serif;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+    }
+
+    h1, h2 { color: #1d392f; }
+    h1 { margin: 0; font-size: clamp(2rem, 4vw, 3.6rem); line-height: 1.02; letter-spacing: -.035em; }
+    h2 { margin: 0 0 .4rem; font-size: clamp(1.35rem, 2vw, 1.8rem); }
+    p { margin: .45rem 0; }
+    .lede { max-width: 74ch; color: var(--muted); font-size: 1.02rem; }
+    .condition { color: var(--forest); }
+
+    .companion {
+      display: inline-block;
+      min-width: 12rem;
+      padding: .75rem 1rem;
+      border: 1px solid var(--forest);
+      background: var(--forest);
+      color: #fff;
+      font: 750 .84rem/1.2 system-ui, sans-serif;
+      text-align: center;
+      text-decoration: none;
+    }
+
+    .meta-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 1px;
+      margin-top: 1.2rem;
+      background: var(--line);
+      border: 1px solid var(--line);
+    }
+
+    .meta-grid > div { padding: .9rem 1rem; background: #fbf6e9; }
+    .meta-grid dt { color: var(--muted); font: 700 .7rem/1.2 system-ui, sans-serif; letter-spacing: .08em; text-transform: uppercase; }
+    .meta-grid dd { margin: .28rem 0 0; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .82rem; overflow-wrap: anywhere; }
+
+    .notice {
+      margin: 1.4rem 0;
+      padding: 1rem 1.1rem;
+      border-left: 5px solid var(--gold);
+      background: #fff9e9;
+      box-shadow: var(--shadow);
+    }
+
+    .section-card {
+      margin-top: 1.4rem;
+      padding: 1.4rem;
+      background: rgb(255 252 241 / 78%);
+      border: 1px solid var(--line);
+      box-shadow: var(--shadow);
+    }
+
+    .model-list, .inventory { margin: .8rem 0 0; padding: 0; list-style: none; }
+    .model-list { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: .55rem; }
+    .model-list li { padding: .7rem; background: var(--forest-soft); border: 1px solid #adc0b0; font: 650 .76rem/1.35 ui-monospace, monospace; overflow-wrap: anywhere; }
+
+    .inventory { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .7rem 1.2rem; counter-reset: questions; }
+    .inventory li { position: relative; min-height: 4.3rem; padding: .8rem .9rem .8rem 3.2rem; border-top: 1px solid var(--line); background: #fbf6e9; }
+    .inventory li::before { counter-increment: questions; content: counter(questions, decimal-leading-zero); position: absolute; left: .8rem; top: .7rem; color: var(--gold); font: 800 1rem/1 system-ui, sans-serif; }
+    .difficulty { display: block; margin-bottom: .25rem; color: var(--muted); font: 750 .68rem/1.2 system-ui, sans-serif; letter-spacing: .08em; text-transform: uppercase; }
+
+    details.config { margin-top: 1.4rem; border: 1px solid var(--line); background: #fbf6e9; }
+    details.config > summary { cursor: pointer; padding: .9rem 1rem; color: var(--forest); font: 750 .85rem/1.2 system-ui, sans-serif; }
+    .config-body { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1px; padding: 1px; background: var(--line); border-top: 1px solid var(--line); }
+    .config-body dl { margin: 0; padding: .75rem; background: #fffaf0; }
+    .config-body dt { color: var(--muted); font: 700 .67rem/1.2 system-ui, sans-serif; text-transform: uppercase; }
+    .config-body dd { margin: .25rem 0; font: .78rem/1.35 ui-monospace, monospace; overflow-wrap: anywhere; }
+
+    .matrix-heading { display: flex; gap: 1rem; justify-content: space-between; align-items: end; margin: 2.3rem 0 .8rem; }
+    .legend { display: flex; flex-wrap: wrap; gap: .4rem; justify-content: flex-end; }
+    .table-wrap { max-height: 78vh; overflow: auto; border: 1px solid #9e8c64; background: #fffaf0; box-shadow: var(--shadow); }
+    table { width: 100%; min-width: 1840px; border-collapse: separate; border-spacing: 0; table-layout: fixed; }
+    caption { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+    th, td { padding: .8rem; vertical-align: top; border-right: 1px solid var(--line); border-bottom: 1px solid var(--line); background: #fffaf0; }
+    thead th { position: sticky; top: 0; z-index: 20; height: 5.5rem; color: #fff; background: var(--forest); box-shadow: inset 0 -2px #163128; font: 750 .77rem/1.35 ui-monospace, monospace; overflow-wrap: anywhere; }
+    thead th:first-child { left: 0; z-index: 30; width: 330px; text-align: left; }
+    tbody th { position: sticky; left: 0; z-index: 10; width: 330px; background: #efe4c8; box-shadow: 3px 0 0 rgb(94 72 34 / 12%); text-align: left; }
+    tbody th .case-id { display: block; margin-bottom: .45rem; color: var(--forest); font: 800 .7rem/1.2 ui-monospace, monospace; letter-spacing: .08em; text-transform: uppercase; }
+    tbody th .question { font-size: .98rem; line-height: 1.38; }
+    td { width: 302px; font-size: .87rem; }
+    .answer { margin: .6rem 0 .75rem; }
+
+    .badge {
+      display: inline-block;
+      padding: .28rem .48rem;
+      border-radius: 999px;
+      font: 800 .64rem/1 system-ui, sans-serif;
+      letter-spacing: .075em;
+      text-transform: uppercase;
+    }
+    .grounded { color: #153a2c; background: #cfe3d2; border: 1px solid #91b59a; }
+    .ungrounded { color: #694910; background: var(--warn-soft); border: 1px solid #ccb26a; }
+    .insufficient { color: #4e4855; background: #e5dfeb; border: 1px solid #bdb0c9; }
+    .failed { color: #742b25; background: var(--danger-soft); border: 1px solid #c8948b; }
+
+    .evidence, .diagnostics { margin-top: .65rem; border-top: 1px dashed #b7a67e; }
+    .evidence summary, .diagnostics summary { cursor: pointer; padding: .55rem 0 .15rem; color: var(--forest); font: 750 .73rem/1.2 system-ui, sans-serif; }
+    .evidence dl, .diagnostics dl { margin: .45rem 0 0; padding: .62rem; background: #f4edda; border-left: 3px solid var(--gold); }
+    .evidence dt, .diagnostics dt { margin-top: .38rem; color: var(--muted); font: 700 .62rem/1.2 system-ui, sans-serif; letter-spacing: .06em; text-transform: uppercase; }
+    .evidence dt:first-child, .diagnostics dt:first-child { margin-top: 0; }
+    .evidence dd, .diagnostics dd { margin: .12rem 0 0; overflow-wrap: anywhere; }
+    .passage { font: .65rem/1.35 ui-monospace, monospace; }
+    .excerpt { color: #514b3e; font-style: italic; }
+    .cell-note { color: var(--muted); font-size: .76rem; }
+
+    footer { margin-top: 1.4rem; padding-top: 1rem; color: var(--muted); border-top: 1px solid var(--line); font-size: .8rem; }
+
+    @media (max-width: 900px) {
+      main { width: min(100% - 1rem, 1540px); padding-top: 1rem; }
+      .masthead { grid-template-columns: 1fr; }
+      .meta-grid, .inventory, .config-body { grid-template-columns: 1fr; }
+      .model-list { grid-template-columns: 1fr 1fr; }
+      .matrix-heading { align-items: flex-start; flex-direction: column; }
+      .legend { justify-content: flex-start; }
+    }
+
+    @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+    @media print {
+      .prototype-banner { position: static; }
+      .table-wrap { max-height: none; overflow: visible; }
+      table { min-width: 0; font-size: 8pt; }
+      thead th, tbody th { position: static; }
+    }
+  </style>
+</head>
+<body>
+  <div class="prototype-banner" role="status">Prototype · illustrative data only · not a production report</div>
+
+  <main>
+    <header class="masthead">
+      <div>
+        <p class="eyebrow">Phase 0 · human grounding review</p>
+        <h1><span class="condition">Retrieval enabled</span><br>model comparison</h1>
+        <p class="lede">One matched batch, ten reviewed lore questions, and five candidate models. Answers are shown first; retrieved support stays close at hand without turning the report into an automatic scorecard.</p>
+      </div>
+      <a class="companion" href="#" aria-label="Open the companion retrieval-disabled control report">View retrieval-disabled control ↗</a>
+    </header>
+
+    <dl class="meta-grid" aria-label="Run identity">
+      <div><dt>Condition</dt><dd>retrieval-enabled</dd></div>
+      <div><dt>Batch</dt><dd>batch-2026-08-19T1814Z-a7c4</dd></div>
+      <div><dt>Release</dt><dd>corpus-v1-rc1</dd></div>
+    </dl>
+
+    <aside class="notice" aria-label="Interpretation notice">
+      <p class="kicker">Review, do not rank</p>
+      <p>Statuses describe attempt shape, not factual quality. A <strong>grounded</strong> badge means the submitted evidence IDs were returned during that attempt; reviewers must still compare the prose with the passages. No winner, score, or model recommendation is computed here.</p>
+    </aside>
+
+    <section class="section-card" aria-labelledby="models-title">
+      <h2 id="models-title">Declared model order</h2>
+      <p class="lede">Five plausible mock OpenRouter identifiers, frozen for this illustrative batch.</p>
+      <ol class="model-list">
+        <li>meta-llama/llama-3.2-3b-instruct</li>
+        <li>google/gemma-3-4b-it</li>
+        <li>qwen/qwen3-4b</li>
+        <li>mistralai/ministral-3b</li>
+        <li>microsoft/phi-4-mini-instruct</li>
+      </ol>
+    </section>
+
+    <details class="config">
+      <summary>Run configuration · non-secret · collapsed by default</summary>
+      <div class="config-body">
+        <dl><dt>Retrieval</dt><dd>all-terms · limit 5</dd><dd>BM25 5.0 / 2.0 / 1.0</dd><dd>tie: passage-id</dd></dl>
+        <dl><dt>Index</dt><dd>SQLite FTS5</dd><dd>unicode61</dd><dd>remove_diacritics 2</dd></dl>
+        <dl><dt>Agent</dt><dd>budget 4 calls</dd><dd>temperature 0.0</dd><dd>max output 1024</dd></dl>
+        <dl><dt>Provider / runner</dt><dd>request 60s · attempt 300s</dd><dd>1 retry</dd><dd>concurrency 5</dd></dl>
+      </div>
+    </details>
+
+    <section class="section-card" aria-labelledby="inventory-title">
+      <h2 id="inventory-title">Question inventory</h2>
+      <p class="lede">The complete approved inventory appears here and again beside its five response cells.</p>
+      <ol class="inventory">
+        <li><span class="difficulty">Easy · easy-01</span>Who rules Lothlórien, and from what city do they rule?</li>
+        <li><span class="difficulty">Easy · easy-02</span>Who killed Smaug, and what weakness made it possible?</li>
+        <li><span class="difficulty">Easy · easy-03</span>Where was Shelob's lair, and why did Sauron leave her there?</li>
+        <li><span class="difficulty">Easy · easy-04</span>What drove Boromir to seize the Ring, and how did he respond after realizing his betrayal?</li>
+        <li><span class="difficulty">Easy · easy-05</span>What happened to Isildur and the Ring at the Gladden Fields?</li>
+        <li><span class="difficulty">Hard · hard-01</span>Explain how Sauron's deception contributed to Númenor's fall and the later founding of Gondor and Arnor.</li>
+        <li><span class="difficulty">Hard · hard-02</span>Explain why the Captains of the West marched to the Morannon after the Pelennor Fields and how their plan helped Frodo and Sam.</li>
+        <li><span class="difficulty">Hard · hard-03</span>Explain how the Ents and Huorns contributed differently to Saruman's defeats at Isengard and Helm's Deep.</li>
+        <li><span class="difficulty">Hard · hard-04</span>Compare Sauron's influence over Saruman and Denethor through the palantíri, including the limits of that influence.</li>
+        <li><span class="difficulty">Hard · hard-05</span>Explain how the apparent Corsair fleet changed the Battle of the Pelennor Fields, who was actually aboard, and why its arrival became the turning point.</li>
+      </ol>
+    </section>
+
+    <div class="matrix-heading">
+      <div>
+        <p class="eyebrow">Answer-first inspection</p>
+        <h2 id="matrix-title">Comparison matrix</h2>
+        <p class="lede">Scroll horizontally to compare candidates. The model header and exact question column remain pinned where the browser permits.</p>
+      </div>
+      <div class="legend" aria-label="Status legend">
+        <span class="badge grounded">Grounded</span>
+        <span class="badge ungrounded">Ungrounded</span>
+        <span class="badge insufficient">Insufficient evidence</span>
+        <span class="badge failed">Failed</span>
+      </div>
+    </div>
+
+    <div class="table-wrap" tabindex="0" role="region" aria-labelledby="matrix-title" aria-describedby="matrix-help">
+      <p id="matrix-help" hidden>Horizontally scrollable table with ten question rows and five model response columns.</p>
+      <table>
+        <caption>Retrieval-enabled responses for ten approved questions across five candidate models</caption>
+        <thead>
+          <tr>
+            <th scope="col">Question</th>
+            <th scope="col">meta-llama/<br>llama-3.2-3b-instruct</th>
+            <th scope="col">google/<br>gemma-3-4b-it</th>
+            <th scope="col">qwen/<br>qwen3-4b</th>
+            <th scope="col">mistralai/<br>ministral-3b</th>
+            <th scope="col">microsoft/<br>phi-4-mini-instruct</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row"><span class="case-id">Easy · easy-01</span><span class="question">Who rules Lothlórien, and from what city do they rule?</span></th>
+            <td><span class="badge grounded">Grounded</span><p class="answer">Galadriel and Celeborn rule Lothlórien from Caras Galadhon, the city among the mallorn trees.</p><details class="evidence"><summary>Evidence · 1 passage</summary><dl><dt>Title</dt><dd>Lothlórien</dd><dt>Complete section path</dt><dd>Lothlórien › Government and settlements</dd><dt>Passage ID</dt><dd class="passage">passage_cd951a6124c61d767a60ef128cca6b70dda0f4c89c0ee105e19c2419c07392f5</dd><dt>Truncated excerpt</dt><dd class="excerpt">“Galadriel and Celeborn ruled from Caras Galadhon, the chief city… [excerpt truncated]”</dd></dl></details></td>
+            <td><span class="badge grounded">Grounded</span><p class="answer">The realm is governed by Galadriel and Celeborn. Their seat is Caras Galadhon.</p><details class="evidence"><summary>Evidence · 1 passage</summary><dl><dt>Title</dt><dd>Lothlórien</dd><dt>Complete section path</dt><dd>Lothlórien › Government and settlements</dd><dt>Passage ID</dt><dd class="passage">passage_cd951a6124c61d767a60ef128cca6b70dda0f4c89c0ee105e19c2419c07392f5</dd><dt>Truncated excerpt</dt><dd class="excerpt">“The Lord and Lady dwelt in Caras Galadhon… [excerpt truncated]”</dd></dl></details></td>
+            <td><span class="badge grounded">Grounded</span><p class="answer">Galadriel and Celeborn are the rulers, and Caras Galadhon is their city and seat.</p><details class="evidence"><summary>Evidence · 1 passage</summary><dl><dt>Title</dt><dd>Lothlórien</dd><dt>Complete section path</dt><dd>Lothlórien › Government and settlements</dd><dt>Passage ID</dt><dd class="passage">passage_cd951a6124c61d767a60ef128cca6b70dda0f4c89c0ee105e19c2419c07392f5</dd><dt>Truncated excerpt</dt><dd class="excerpt">“Caras Galadhon was the city of Galadriel and Celeborn… [excerpt truncated]”</dd></dl></details></td>
+            <td><span class="badge grounded">Grounded</span><p class="answer">Celeborn and Galadriel rule Lothlórien from Caras Galadhon.</p><details class="evidence"><summary>Evidence · 1 passage</summary><dl><dt>Title</dt><dd>Lothlórien</dd><dt>Complete section path</dt><dd>Lothlórien › Government and settlements</dd><dt>Passage ID</dt><dd class="passage">passage_cd951a6124c61d767a60ef128cca6b70dda0f4c89c0ee105e19c2419c07392f5</dd><dt>Truncated excerpt</dt><dd class="excerpt">“Its rulers were Celeborn and Galadriel… [excerpt truncated]”</dd></dl></details></td>
+            <td><span class="badge grounded">Grounded</span><p class="answer">Lothlórien is ruled by Galadriel and Celeborn, whose seat is Caras Galadhon.</p><details class="evidence"><summary>Evidence · 1 passage</summary><dl><dt>Title</dt><dd>Lothlórien</dd><dt>Complete section path</dt><dd>Lothlórien › Government and settlements</dd><dt>Passage ID</dt><dd class="passage">passage_cd951a6124c61d767a60ef128cca6b70dda0f4c89c0ee105e19c2419c07392f5</dd><dt>Truncated excerpt</dt><dd class="excerpt">“They made their dwelling at Caras Galadhon… [excerpt truncated]”</dd></dl></details></td>
+          </tr>
+
+          <tr>
+            <th scope="row"><span class="case-id">Easy · easy-02</span><span class="question">Who killed Smaug, and what weakness made it possible?</span></th>
+            <td><span class="badge grounded">Grounded</span><p class="answer">Bard the Bowman killed Smaug with the Black Arrow. A missing scale exposed a bare patch on the dragon's breast.</p><details class="evidence"><summary>Evidence · 1 passage</summary><dl><dt>Title</dt><dd>Smaug</dd><dt>Complete section path</dt><dd>Smaug › The attack on Lake-town › Death</dd><dt>Passage ID</dt><dd class="passage">passage_250e73944f58316003ff1267d838a55d69479385f1d82eb5ea1fc61f732f1a67</dd><dt>Truncated excerpt</dt><dd class="excerpt">“Bard aimed at the bare patch beneath the left breast… [excerpt truncated]”</dd></dl></details></td>
+            <td><span class="badge grounded">Grounded</span><p class="answer">Bard slew Smaug. Bilbo had noticed a gap in the dragon's jeweled armor, and Bard's arrow struck that vulnerable place.</p><details class="evidence"><summary>Evidence · 1 passage</summary><dl><dt>Title</dt><dd>Smaug</dd><dt>Complete section path</dt><dd>Smaug › The attack on Lake-town › Death</dd><dt>Passage ID</dt><dd class="passage">passage_250e73944f58316003ff1267d838a55d69479385f1d82eb5ea1fc61f732f1a67</dd><dt>Truncated excerpt</dt><dd class="excerpt">“The thrush told Bard of the one unguarded hollow… [excerpt truncated]”</dd></dl></details></td>
+            <td><span class="badge grounded">Grounded</span><p class="answer">Bard of Lake-town fired the fatal shot into the unarmored hollow on Smaug's underside.</p><details class="evidence"><summary>Evidence · 1 passage</summary><dl><dt>Title</dt><dd>Smaug</dd><dt>Complete section path</dt><dd>Smaug › The attack on Lake-town › Death</dd><dt>Passage ID</dt><dd class="passage">passage_250e73944f58316003ff1267d838a55d69479385f1d82eb5ea1fc61f732f1a67</dd><dt>Truncated excerpt</dt><dd class="excerpt">“There was a bare place in the hollow of his left breast… [excerpt truncated]”</dd></dl></details></td>
+            <td><span class="badge insufficient">Insufficient evidence</span><p class="answer">The retrieved passage identifies Bard as the slayer but the excerpt available to this attempt does not establish the precise weakness, so I cannot answer the second part confidently.</p><details class="evidence"><summary>Related but inadequate evidence · 1 passage</summary><dl><dt>Title</dt><dd>Bard the Bowman</dd><dt>Complete section path</dt><dd>Bard the Bowman › War of the Dwarves and Orcs › Lake-town</dd><dt>Passage ID</dt><dd class="passage">passage_mock_related_bard_001</dd><dt>Truncated excerpt</dt><dd class="excerpt">“Bard became renowned for the death of Smaug… [excerpt truncated before the method]”</dd></dl></details></td>
+            <td><span class="badge grounded">Grounded</span><p class="answer">Bard killed Smaug by shooting the bare spot in the dragon's breast, where a scale was missing.</p><details class="evidence"><summary>Evidence · 1 passage</summary><dl><dt>Title</dt><dd>Smaug</dd><dt>Complete section path</dt><dd>Smaug › The attack on Lake-town › Death</dd><dt>Passage ID</dt><dd class="passage">passage_250e73944f58316003ff1267d838a55d69479385f1d82eb5ea1fc61f732f1a67</dd><dt>Truncated excerpt</dt><dd class="excerpt">“The last arrow entered the unprotected spot… [excerpt truncated]”</dd></dl></details></td>
+          </tr>
+
+          <tr>
+            <th scope="row"><span class="case-id">Easy · easy-03</span><span class="question">Where was Shelob's lair, and why did Sauron leave her there?</span></th>
+            <td><span class="badge grounded">Grounded</span><p class="answer">Shelob lived in the tunnels of Torech Ungol above Cirith Ungol. Sauron tolerated her because she guarded a useful approach into Mordor and consumed intruders.</p><details class="evidence"><summary>Evidence · 1 passage</summary><dl><dt>Title</dt><dd>Shelob</dd><dt>Complete section path</dt><dd>Shelob › History › Torech Ungol</dd><dt>Passage ID</dt><dd class="passage">passage_61b36ab0308d24de5ddbf55d86e2c9404372f0a4324c830a7431ad1ece67c28b</dd><dt>Truncated excerpt</dt><dd class="excerpt">“Her tunnels lay beneath the pass, and Sauron let her remain as a guard… [excerpt truncated]”</dd></dl></details></td>
+            <td><span class="badge grounded">Grounded</span><p class="answer">Her lair was Torech Ungol, reached through the pass of Cirith Ungol. Sauron found her presence useful as a barrier to unwanted travelers.</p><details class="evidence"><summary>Evidence · 1 passage</summary><dl><dt>Title</dt><dd>Shelob</dd><dt>Complete section path</dt><dd>Shelob › History › Torech Ungol</dd><dt>Passage ID</dt><dd class="passage">passage_61b36ab0308d24de5ddbf55d86e2c9404372f0a4324c830a7431ad1ece67c28b</dd><dt>Truncated excerpt</dt><dd class="excerpt">“Sauron knew of the creature and was content for her to catch trespassers… [excerpt truncated]”</dd></dl></details></td>
+            <td><span class="badge grounded">Grounded</span><p class="answer">Shelob nested in Torech Ungol near Cirith Ungol. Sauron did not command her; he left her as a dangerous, self-serving watch on the pass.</p><details class="evidence"><summary>Evidence · 1 passage</summary><dl><dt>Title</dt><dd>Shelob</dd><dt>Complete section path</dt><dd>Shelob › History › Torech Ungol</dd><dt>Passage ID</dt><dd class="passage">passage_61b36ab0308d24de5ddbf55d86e2c9404372f0a4324c830a7431ad1ece67c28b</dd><dt>Truncated excerpt</dt><dd class="excerpt">“She served none, yet the Dark Lord valued what she devoured… [excerpt truncated]”</dd></dl></details></td>
+            <td><span class="badge grounded">Grounded</span><p class="answer">The lair was in Torech Ungol at Cirith Ungol. Sauron allowed Shelob to stay because she helped keep the route into Mordor closed.</p><details class="evidence"><summary>Evidence · 1 passage</summary><dl><dt>Title</dt><dd>Shelob</dd><dt>Complete section path</dt><dd>Shelob › History › Torech Ungol</dd><dt>Passage ID</dt><dd class="passage">passage_61b36ab0308d24de5ddbf55d86e2c9404372f0a4324c830a7431ad1ece67c28b</dd><dt>Truncated excerpt</dt><dd class="excerpt">“The tunnels guarded the high pass into the Black Land… [excerpt truncated]”</dd></dl></details></td>
+            <td><span class="badge grounded">Grounded</span><p class="answer">Shelob occupied Torech Ungol above Minas Morgul's road. Her appetite made her an effective incidental guardian, which suited Sauron.</p><details class="evidence"><summary>Evidence · 1 passage</summary><dl><dt>Title</dt><dd>Shelob</dd><dt>Complete section path</dt><dd>Shelob › History › Torech Ungol</dd><dt>Passage ID</dt><dd class="passage">passage_61b36ab0308d24de5ddbf55d86e2c9404372f0a4324c830a7431ad1ece67c28b</dd><dt>Truncated excerpt</dt><dd class="excerpt">“He left her in the pass, where prey came rarely… [excerpt truncated]”</dd></dl></details></td>
+          </tr>
+
+          <tr>
+            <th scope="row"><span class="case-id">Easy · easy-04</span><span class="question">What drove Boromir to seize the Ring, and how did he respond after realizing his betrayal?</span></th>
+            <td><span class="badge grounded">Grounded</span><p class="answer">Fear for Gondor and the Ring's temptation convinced Boromir that he could use it against Sauron. When the madness passed, he repented, wept, and died defending Merry and Pippin.</p><details class="evidence"><summary>Evidence · 2 passages</summary><dl><dt>Title</dt><dd>Boromir</dd><dt>Complete section path</dt><dd>Boromir › War of the Ring › Amon Hen</dd><dt>Passage ID</dt><dd class="passage">passage_1cbc40ac40853d82cf2b93735ee4bc165e456fd095bd8d8b7fe6a905eceeff49</dd><dt>Truncated excerpt</dt><dd class="excerpt">“Desire to save his city overcame his counsel… [excerpt truncated]”</dd></dl><dl><dt>Title</dt><dd>Boromir</dd><dt>Complete section path</dt><dd>Boromir › War of the Ring › Last stand</dd><dt>Passage ID</dt><dd class="passage">passage_9709fe8f54b6d7b80b0939729d3d6b25793fdb843cdc7b6f040c63163065aa31</dd><dt>Truncated excerpt</dt><dd class="excerpt">“He confessed his fault and defended the hobbits… [excerpt truncated]”</dd></dl></details></td>
+            <td><span class="badge grounded">Grounded</span><p class="answer">Boromir's desperation to protect Gondor made him vulnerable to the Ring. He quickly recognized the wrong, sought forgiveness, and redeemed himself by fighting for the hobbits.</p><details class="evidence"><summary>Evidence · 2 passages</summary><dl><dt>Title</dt><dd>Boromir</dd><dt>Complete section path</dt><dd>Boromir › War of the Ring › Amon Hen</dd><dt>Passage ID</dt><dd class="passage">passage_1cbc40ac40853d82cf2b93735ee4bc165e456fd095bd8d8b7fe6a905eceeff49</dd><dt>Truncated excerpt</dt><dd class="excerpt">“He argued that the weapon could save Minas Tirith… [excerpt truncated]”</dd></dl><dl><dt>Title</dt><dd>Boromir</dd><dt>Complete section path</dt><dd>Boromir › War of the Ring › Last stand</dd><dt>Passage ID</dt><dd class="passage">passage_9709fe8f54b6d7b80b0939729d3d6b25793fdb843cdc7b6f040c63163065aa31</dd><dt>Truncated excerpt</dt><dd class="excerpt">“After confessing, he fought until overcome… [excerpt truncated]”</dd></dl></details></td>
+            <td><span class="badge grounded">Grounded</span><p class="answer">The burden of Gondor's defense and the Ring's corrupting promise drove the attempt. Boromir then came to himself, admitted his betrayal, and made a sacrificial defense of Merry and Pippin.</p><details class="evidence"><summary>Evidence · 2 passages</summary><dl><dt>Title</dt><dd>Boromir</dd><dt>Complete section path</dt><dd>Boromir › War of the Ring › Amon Hen</dd><dt>Passage ID</dt><dd class="passage">passage_1cbc40ac40853d82cf2b93735ee4bc165e456fd095bd8d8b7fe6a905eceeff49</dd><dt>Truncated excerpt</dt><dd class="excerpt">“The Ring worked upon his fear and pride… [excerpt truncated]”</dd></dl><dl><dt>Title</dt><dd>Boromir</dd><dt>Complete section path</dt><dd>Boromir › War of the Ring › Last stand</dd><dt>Passage ID</dt><dd class="passage">passage_9709fe8f54b6d7b80b0939729d3d6b25793fdb843cdc7b6f040c63163065aa31</dd><dt>Truncated excerpt</dt><dd class="excerpt">“He repented and gave his life in their defense… [excerpt truncated]”</dd></dl></details></td>
+            <td><span class="badge grounded">Grounded</span><p class="answer">He tried to take the Ring out of desperate patriotism amplified by its influence. Once clear-minded, he was remorseful and died resisting the Orcs who captured the hobbits.</p><details class="evidence"><summary>Evidence · 2 passages</summary><dl><dt>Title</dt><dd>Boromir</dd><dt>Complete section path</dt><dd>Boromir › War of the Ring › Amon Hen</dd><dt>Passage ID</dt><dd class="passage">passage_1cbc40ac40853d82cf2b93735ee4bc165e456fd095bd8d8b7fe6a905eceeff49</dd><dt>Truncated excerpt</dt><dd class="excerpt">“He begged Frodo to lend the power to Gondor… [excerpt truncated]”</dd></dl><dl><dt>Title</dt><dd>Boromir</dd><dt>Complete section path</dt><dd>Boromir › War of the Ring › Last stand</dd><dt>Passage ID</dt><dd class="passage">passage_9709fe8f54b6d7b80b0939729d3d6b25793fdb843cdc7b6f040c63163065aa31</dd><dt>Truncated excerpt</dt><dd class="excerpt">“He told Aragorn that he had failed… [excerpt truncated]”</dd></dl></details></td>
+            <td><span class="badge grounded">Grounded</span><p class="answer">Boromir believed the Ring might save Gondor, and temptation turned that hope into force. He immediately regretted frightening Frodo, confessed, and spent his last strength protecting the others.</p><details class="evidence"><summary>Evidence · 2 passages</summary><dl><dt>Title</dt><dd>Boromir</dd><dt>Complete section path</dt><dd>Boromir › War of the Ring › Amon Hen</dd><dt>Passage ID</dt><dd class="passage">passage_1cbc40ac40853d82cf2b93735ee4bc165e456fd095bd8d8b7fe6a905eceeff49</dd><dt>Truncated excerpt</dt><dd class="excerpt">“At Amon Hen his resolve finally broke… [excerpt truncated]”</dd></dl><dl><dt>Title</dt><dd>Boromir</dd><dt>Complete section path</dt><dd>Boromir › War of the Ring › Last stand</dd><dt>Passage ID</dt><dd class="passage">passage_9709fe8f54b6d7b80b0939729d3d6b25793fdb843cdc7b6f040c63163065aa31</dd><dt>Truncated excerpt</dt><dd class="excerpt">“His final words acknowledged the wrong… [excerpt truncated]”</dd></dl></details></td>
+          </tr>
+
+          <tr>
+            <th scope="row"><span class="case-id">Easy · easy-05</span><span class="question">What happened to Isildur and the Ring at the Gladden Fields?</span></th>
+            <td><span class="badge grounded">Grounded</span><p class="answer">Orcs ambushed Isildur's company at the Gladden Fields. While he tried to escape through the Anduin, the Ring slipped from his finger, revealing him; Orc archers killed him and the Ring sank into the river.</p><details class="evidence"><summary>Evidence · 1 passage</summary><dl><dt>Title</dt><dd>Isildur</dd><dt>Complete section path</dt><dd>Isildur › Death › Disaster of the Gladden Fields</dd><dt>Passage ID</dt><dd class="passage">passage_0e39706c45f9b4d43647d85549519ec791b69809d6a81295af93a7e5e35d5bfa</dd><dt>Truncated excerpt</dt><dd class="excerpt">“The Ring abandoned him in the water, and he was seen and shot… [excerpt truncated]”</dd></dl></details></td>
+            <td><span class="badge grounded">Grounded</span><p class="answer">Isildur was overwhelmed in an Orc ambush. The Ring came off during his swim across the Anduin; he became visible and was slain, while it remained lost in the river.</p><details class="evidence"><summary>Evidence · 1 passage</summary><dl><dt>Title</dt><dd>Isildur</dd><dt>Complete section path</dt><dd>Isildur › Death › Disaster of the Gladden Fields</dd><dt>Passage ID</dt><dd class="passage">passage_0e39706c45f9b4d43647d85549519ec791b69809d6a81295af93a7e5e35d5bfa</dd><dt>Truncated excerpt</dt><dd class="excerpt">“He entered the Great River, but the Ring slipped away… [excerpt truncated]”</dd></dl></details></td>
+            <td><span class="badge grounded">Grounded</span><p class="answer">At the Gladden Fields, Isildur's force was attacked. His escape failed when the Ring left him in the river, exposing him to the Orcs; both his death and the Ring's long loss followed.</p><details class="evidence"><summary>Evidence · 1 passage</summary><dl><dt>Title</dt><dd>Isildur</dd><dt>Complete section path</dt><dd>Isildur › Death › Disaster of the Gladden Fields</dd><dt>Passage ID</dt><dd class="passage">passage_0e39706c45f9b4d43647d85549519ec791b69809d6a81295af93a7e5e35d5bfa</dd><dt>Truncated excerpt</dt><dd class="excerpt">“Arrows struck him after invisibility failed… [excerpt truncated]”</dd></dl></details></td>
+            <td><span class="badge grounded">Grounded</span><p class="answer">An Orc attack destroyed Isildur's party. The Ring betrayed him by falling away as he swam, and after he was killed it lay hidden in the Anduin.</p><details class="evidence"><summary>Evidence · 1 passage</summary><dl><dt>Title</dt><dd>Isildur</dd><dt>Complete section path</dt><dd>Isildur › Death › Disaster of the Gladden Fields</dd><dt>Passage ID</dt><dd class="passage">passage_0e39706c45f9b4d43647d85549519ec791b69809d6a81295af93a7e5e35d5bfa</dd><dt>Truncated excerpt</dt><dd class="excerpt">“The current took the Ring into the mud of the riverbed… [excerpt truncated]”</dd></dl></details></td>
+            <td><span class="badge grounded">Grounded</span><p class="answer">Isildur was slain after the Ring slipped off in the Anduin and made him visible. The Ring was left at the river bottom near the Gladden Fields.</p><details class="evidence"><summary>Evidence · 1 passage</summary><dl><dt>Title</dt><dd>Isildur</dd><dt>Complete section path</dt><dd>Isildur › Death › Disaster of the Gladden Fields</dd><dt>Passage ID</dt><dd class="passage">passage_0e39706c45f9b4d43647d85549519ec791b69809d6a81295af93a7e5e35d5bfa</dd><dt>Truncated excerpt</dt><dd class="excerpt">“There it remained until it was found many years later… [excerpt truncated]”</dd></dl></details></td>
+          </tr>
+
+          <tr>
+            <th scope="row"><span class="case-id">Hard · hard-01</span><span class="question">Explain how Sauron's deception contributed to Númenor's fall and the later founding of Gondor and Arnor.</span></th>
+            <td><span class="badge insufficient">Insufficient evidence</span><p class="answer">The retrieved material establishes Sauron's corruption of Ar-Pharazôn and Númenor's destruction, but this attempt did not retrieve enough about the Faithful's later realms to connect both Gondor and Arnor responsibly.</p><details class="evidence"><summary>Related but inadequate evidence · 1 passage</summary><dl><dt>Title</dt><dd>Númenor</dd><dt>Complete section path</dt><dd>Númenor › Downfall › Sauron and Ar-Pharazôn</dd><dt>Passage ID</dt><dd class="passage">passage_2f3d4f6b4936b65ea4378ff2b685cc08acf4a4302efc8a6014068d07e4e708c1</dd><dt>Truncated excerpt</dt><dd class="excerpt">“Sauron rose from captive to counsellor and turned the king toward defiance… [excerpt truncated]”</dd></dl></details></td>
+            <td><span class="badge grounded">Grounded</span><p class="answer">Sauron gained Ar-Pharazôn's trust, cultivated worship of Morgoth, and urged the king to seize immortality by invading Aman. That rebellion brought Númenor's destruction. Elendil and the Faithful escaped, then established Arnor in the north and Gondor in the south.</p><details class="evidence"><summary>Evidence · 2 passages</summary><dl><dt>Title</dt><dd>Númenor</dd><dt>Complete section path</dt><dd>Númenor › Downfall › Sauron and Ar-Pharazôn</dd><dt>Passage ID</dt><dd class="passage">passage_2f3d4f6b4936b65ea4378ff2b685cc08acf4a4302efc8a6014068d07e4e708c1</dd><dt>Truncated excerpt</dt><dd class="excerpt">“He persuaded the king that death could be conquered by force… [excerpt truncated]”</dd></dl><dl><dt>Title</dt><dd>Realms in Exile</dd><dt>Complete section path</dt><dd>Realms in Exile › Foundation › Arnor and Gondor</dd><dt>Passage ID</dt><dd class="passage">passage_039470affe9dc665c38734b224857dd3babfeb6b078006adebf317b0bc912b0e</dd><dt>Truncated excerpt</dt><dd class="excerpt">“The survivors founded two kingdoms: Arnor and Gondor… [excerpt truncated]”</dd></dl></details></td>
+            <td><span class="badge grounded">Grounded</span><p class="answer">By exploiting Númenórean fear of death, Sauron converted his captivity into political control and induced Ar-Pharazôn's assault on Aman. The catastrophe spared the Faithful under Elendil and his sons, whose exile produced the two Dúnedain kingdoms, Arnor and Gondor.</p><details class="evidence"><summary>Evidence · 2 passages</summary><dl><dt>Title</dt><dd>Númenor</dd><dt>Complete section path</dt><dd>Númenor › Downfall › Sauron and Ar-Pharazôn</dd><dt>Passage ID</dt><dd class="passage">passage_2f3d4f6b4936b65ea4378ff2b685cc08acf4a4302efc8a6014068d07e4e708c1</dd><dt>Truncated excerpt</dt><dd class="excerpt">“His lies turned longing for deathlessness into open rebellion… [excerpt truncated]”</dd></dl><dl><dt>Title</dt><dd>Realms in Exile</dd><dt>Complete section path</dt><dd>Realms in Exile › Foundation › Arnor and Gondor</dd><dt>Passage ID</dt><dd class="passage">passage_039470affe9dc665c38734b224857dd3babfeb6b078006adebf317b0bc912b0e</dd><dt>Truncated excerpt</dt><dd class="excerpt">“Elendil ruled in Arnor while his sons founded Gondor… [excerpt truncated]”</dd></dl></details></td>
+            <td><span class="badge grounded">Grounded</span><p class="answer">Sauron manipulated Ar-Pharazôn into defying the Ban and sailing west, which precipitated the Downfall. The Faithful fled the wreck; Elendil formed Arnor, while Isildur and Anárion formed Gondor.</p><details class="evidence"><summary>Evidence · 2 passages</summary><dl><dt>Title</dt><dd>Númenor</dd><dt>Complete section path</dt><dd>Númenor › Downfall › Sauron and Ar-Pharazôn</dd><dt>Passage ID</dt><dd class="passage">passage_2f3d4f6b4936b65ea4378ff2b685cc08acf4a4302efc8a6014068d07e4e708c1</dd><dt>Truncated excerpt</dt><dd class="excerpt">“At last the Great Armada broke the Ban… [excerpt truncated]”</dd></dl><dl><dt>Title</dt><dd>Realms in Exile</dd><dt>Complete section path</dt><dd>Realms in Exile › Foundation › Arnor and Gondor</dd><dt>Passage ID</dt><dd class="passage">passage_039470affe9dc665c38734b224857dd3babfeb6b078006adebf317b0bc912b0e</dd><dt>Truncated excerpt</dt><dd class="excerpt">“Nine ships of the Faithful survived and reached Middle-earth… [excerpt truncated]”</dd></dl></details></td>
+            <td><span class="badge grounded">Grounded</span><p class="answer">Sauron's counsel transformed Ar-Pharazôn's resentment of mortality into war against Aman. Númenor fell, but the Faithful escaped with Elendil, Isildur, and Anárion; their new northern and southern realms became Arnor and Gondor.</p><details class="evidence"><summary>Evidence · 2 passages</summary><dl><dt>Title</dt><dd>Númenor</dd><dt>Complete section path</dt><dd>Númenor › Downfall › Sauron and Ar-Pharazôn</dd><dt>Passage ID</dt><dd class="passage">passage_2f3d4f6b4936b65ea4378ff2b685cc08acf4a4302efc8a6014068d07e4e708c1</dd><dt>Truncated excerpt</dt><dd class="excerpt">“The prisoner became master of the king's counsels… [excerpt truncated]”</dd></dl><dl><dt>Title</dt><dd>Realms in Exile</dd><dt>Complete section path</dt><dd>Realms in Exile › Foundation › Arnor and Gondor</dd><dt>Passage ID</dt><dd class="passage">passage_039470affe9dc665c38734b224857dd3babfeb6b078006adebf317b0bc912b0e</dd><dt>Truncated excerpt</dt><dd class="excerpt">“The Exiles ordered their two realms after landing… [excerpt truncated]”</dd></dl></details></td>
+          </tr>
+
+          <tr>
+            <th scope="row"><span class="case-id">Hard · hard-02</span><span class="question">Explain why the Captains of the West marched to the Morannon after the Pelennor Fields and how their plan helped Frodo and Sam.</span></th>
+            <td><span class="badge grounded">Grounded</span><p class="answer">The captains knew they could not defeat Sauron by force. They marched on the Black Gate to make him believe they held the Ring and draw his attention and armies away from Mordor's interior, giving Frodo and Sam a chance to cross unseen.</p><details class="evidence"><summary>Evidence · 2 passages</summary><dl><dt>Title</dt><dd>Black Gate</dd><dt>Complete section path</dt><dd>Black Gate › War of the Ring › The Last Debate</dd><dt>Passage ID</dt><dd class="passage">passage_e2f25ce5188a7d76407225471da1033dfa6c4eb984f83cd6d2b7846780ca9560</dd><dt>Truncated excerpt</dt><dd class="excerpt">“Their purpose was not victory but to challenge the Eye… [excerpt truncated]”</dd></dl><dl><dt>Title</dt><dd>Frodo Baggins</dd><dt>Complete section path</dt><dd>Frodo Baggins › Mordor › The road to Orodruin</dd><dt>Passage ID</dt><dd class="passage">passage_2848f46126ff06c152afd2669d8b27292ade954769215e0afe8bad0d0aec5602</dd><dt>Truncated excerpt</dt><dd class="excerpt">“The land emptied as forces hurried north… [excerpt truncated]”</dd></dl></details></td>
+            <td><span class="badge grounded">Grounded</span><p class="answer">Their assault was a deliberate bluff: a small western host posed as a threat at the Morannon so Sauron would focus on it. The resulting troop movement reduced scrutiny along the Ring-bearers' route to Mount Doom.</p><details class="evidence"><summary>Evidence · 2 passages</summary><dl><dt>Title</dt><dd>Black Gate</dd><dt>Complete section path</dt><dd>Black Gate › War of the Ring › The Last Debate</dd><dt>Passage ID</dt><dd class="passage">passage_e2f25ce5188a7d76407225471da1033dfa6c4eb984f83cd6d2b7846780ca9560</dd><dt>Truncated excerpt</dt><dd class="excerpt">“They would draw out the strength of Mordor… [excerpt truncated]”</dd></dl><dl><dt>Title</dt><dd>Frodo Baggins</dd><dt>Complete section path</dt><dd>Frodo Baggins › Mordor › The road to Orodruin</dd><dt>Passage ID</dt><dd class="passage">passage_2848f46126ff06c152afd2669d8b27292ade954769215e0afe8bad0d0aec5602</dd><dt>Truncated excerpt</dt><dd class="excerpt">“The diversion cleared their perilous road… [excerpt truncated]”</dd></dl></details></td>
+            <td><span class="badge grounded">Grounded</span><p class="answer">They chose strategic sacrifice over conventional victory. By openly challenging the Morannon, they fixed Sauron's gaze on the supposed new Ring-lord and pulled defenders north, indirectly opening the way for Frodo and Sam.</p><details class="evidence"><summary>Evidence · 2 passages</summary><dl><dt>Title</dt><dd>Black Gate</dd><dt>Complete section path</dt><dd>Black Gate › War of the Ring › The Last Debate</dd><dt>Passage ID</dt><dd class="passage">passage_e2f25ce5188a7d76407225471da1033dfa6c4eb984f83cd6d2b7846780ca9560</dd><dt>Truncated excerpt</dt><dd class="excerpt">“The challenge was meant to seem proud and premature… [excerpt truncated]”</dd></dl><dl><dt>Title</dt><dd>Frodo Baggins</dd><dt>Complete section path</dt><dd>Frodo Baggins › Mordor › The road to Orodruin</dd><dt>Passage ID</dt><dd class="passage">passage_2848f46126ff06c152afd2669d8b27292ade954769215e0afe8bad0d0aec5602</dd><dt>Truncated excerpt</dt><dd class="excerpt">“All minds were bent upon the battle in the north… [excerpt truncated]”</dd></dl></details></td>
+            <td><span class="badge failed">Failed</span><p class="answer">No answer was submitted for this attempt.</p><details class="diagnostics"><summary>Sanitized diagnostics</summary><dl><dt>Code</dt><dd>attempt_timeout</dd><dt>Stage</dt><dd>provider_request</dd><dt>Message</dt><dd>The overall attempt deadline elapsed after one permitted retry.</dd><dt>Retry count</dt><dd>1</dd></dl></details></td>
+            <td><span class="badge grounded">Grounded</span><p class="answer">After Pelennor, the West had bought time but not military superiority. The Morannon march was meant to distract Sauron from the real danger, the Ring inside Mordor, and its pressure helped Frodo and Sam approach the Mountain.</p><details class="evidence"><summary>Evidence · 2 passages</summary><dl><dt>Title</dt><dd>Black Gate</dd><dt>Complete section path</dt><dd>Black Gate › War of the Ring › The Last Debate</dd><dt>Passage ID</dt><dd class="passage">passage_e2f25ce5188a7d76407225471da1033dfa6c4eb984f83cd6d2b7846780ca9560</dd><dt>Truncated excerpt</dt><dd class="excerpt">“They resolved to keep the Eye from its own land… [excerpt truncated]”</dd></dl><dl><dt>Title</dt><dd>Frodo Baggins</dd><dt>Complete section path</dt><dd>Frodo Baggins › Mordor › The road to Orodruin</dd><dt>Passage ID</dt><dd class="passage">passage_2848f46126ff06c152afd2669d8b27292ade954769215e0afe8bad0d0aec5602</dd><dt>Truncated excerpt</dt><dd class="excerpt">“Unwatched, they turned south toward the Mountain… [excerpt truncated]”</dd></dl></details></td>
+          </tr>
+
+          <tr>
+            <th scope="row"><span class="case-id">Hard · hard-03</span><span class="question">Explain how the Ents and Huorns contributed differently to Saruman's defeats at Isengard and Helm's Deep.</span></th>
+            <td><span class="badge grounded">Grounded</span><p class="answer">The Ents directly assaulted Isengard, broke its defenses, and released the waters that flooded its works. The Huorns went to Helm's Deep, formed a forest behind Saruman's retreating army, and destroyed the Orcs who fled into it.</p><details class="evidence"><summary>Evidence · 2 passages</summary><dl><dt>Title</dt><dd>Isengard</dd><dt>Complete section path</dt><dd>Isengard › War of the Ring › Entmoot and destruction</dd><dt>Passage ID</dt><dd class="passage">passage_42e06d8c76bf5944cd1aa20ce0efecd7105e709d0067e934a9ac9d98cb53caaa</dd><dt>Truncated excerpt</dt><dd class="excerpt">“The Ents tore down the gates and diverted the Isen… [excerpt truncated]”</dd></dl><dl><dt>Title</dt><dd>Battle of the Hornburg</dd><dt>Complete section path</dt><dd>Battle of the Hornburg › Battle › The Huorns</dd><dt>Passage ID</dt><dd class="passage">passage_1e4067a9580322f1cb2fa54465fdc7fc8dbeddaf5e4231075c556c865fb0164e</dd><dt>Truncated excerpt</dt><dd class="excerpt">“The fleeing host entered the strange wood and did not return… [excerpt truncated]”</dd></dl></details></td>
+            <td><span class="badge grounded">Grounded</span><p class="answer">At Isengard, Ents were siege-breakers: they acted openly against the ring and machinery. At Helm's Deep, Huorns were a closing trap, silently blocking the Orcs' escape and finishing the routed force.</p><details class="evidence"><summary>Evidence · 2 passages</summary><dl><dt>Title</dt><dd>Isengard</dd><dt>Complete section path</dt><dd>Isengard › War of the Ring › Entmoot and destruction</dd><dt>Passage ID</dt><dd class="passage">passage_42e06d8c76bf5944cd1aa20ce0efecd7105e709d0067e934a9ac9d98cb53caaa</dd><dt>Truncated excerpt</dt><dd class="excerpt">“Stone yielded beneath their strength… [excerpt truncated]”</dd></dl><dl><dt>Title</dt><dd>Battle of the Hornburg</dd><dt>Complete section path</dt><dd>Battle of the Hornburg › Battle › The Huorns</dd><dt>Passage ID</dt><dd class="passage">passage_1e4067a9580322f1cb2fa54465fdc7fc8dbeddaf5e4231075c556c865fb0164e</dd><dt>Truncated excerpt</dt><dd class="excerpt">“A wood stood where no wood had stood before… [excerpt truncated]”</dd></dl></details></td>
+            <td><span class="badge grounded">Grounded</span><p class="answer">The Ents dismantled Saruman's industrial fortress and imprisoned him in Orthanc. The Huorns intervened on the battlefield, enclosing and eliminating the army driven from Helm's Deep.</p><details class="evidence"><summary>Evidence · 2 passages</summary><dl><dt>Title</dt><dd>Isengard</dd><dt>Complete section path</dt><dd>Isengard › War of the Ring › Entmoot and destruction</dd><dt>Passage ID</dt><dd class="passage">passage_42e06d8c76bf5944cd1aa20ce0efecd7105e709d0067e934a9ac9d98cb53caaa</dd><dt>Truncated excerpt</dt><dd class="excerpt">“Only Orthanc resisted their assault… [excerpt truncated]”</dd></dl><dl><dt>Title</dt><dd>Battle of the Hornburg</dd><dt>Complete section path</dt><dd>Battle of the Hornburg › Battle › The Huorns</dd><dt>Passage ID</dt><dd class="passage">passage_1e4067a9580322f1cb2fa54465fdc7fc8dbeddaf5e4231075c556c865fb0164e</dd><dt>Truncated excerpt</dt><dd class="excerpt">“None of the Orcs escaped through those trees… [excerpt truncated]”</dd></dl></details></td>
+            <td><span class="badge grounded">Grounded</span><p class="answer">Ents attacked the source of Saruman's power at Isengard; Huorns neutralized his field army after its defeat at the Hornburg. Their roles were therefore assault and containment, respectively.</p><details class="evidence"><summary>Evidence · 2 passages</summary><dl><dt>Title</dt><dd>Isengard</dd><dt>Complete section path</dt><dd>Isengard › War of the Ring › Entmoot and destruction</dd><dt>Passage ID</dt><dd class="passage">passage_42e06d8c76bf5944cd1aa20ce0efecd7105e709d0067e934a9ac9d98cb53caaa</dd><dt>Truncated excerpt</dt><dd class="excerpt">“They ruined the pits and works of the valley… [excerpt truncated]”</dd></dl><dl><dt>Title</dt><dd>Battle of the Hornburg</dd><dt>Complete section path</dt><dd>Battle of the Hornburg › Battle › The Huorns</dd><dt>Passage ID</dt><dd class="passage">passage_1e4067a9580322f1cb2fa54465fdc7fc8dbeddaf5e4231075c556c865fb0164e</dd><dt>Truncated excerpt</dt><dd class="excerpt">“The dark trees waited beneath the Dike… [excerpt truncated]”</dd></dl></details></td>
+            <td><span class="badge grounded">Grounded</span><p class="answer">The Ents overran and flooded Isengard, ending Saruman's production base. The Huorns marched separately to Helm's Deep and became the deadly forest into which the defeated Orcs fled.</p><details class="evidence"><summary>Evidence · 2 passages</summary><dl><dt>Title</dt><dd>Isengard</dd><dt>Complete section path</dt><dd>Isengard › War of the Ring › Entmoot and destruction</dd><dt>Passage ID</dt><dd class="passage">passage_42e06d8c76bf5944cd1aa20ce0efecd7105e709d0067e934a9ac9d98cb53caaa</dd><dt>Truncated excerpt</dt><dd class="excerpt">“Waters filled the circle and quenched its fires… [excerpt truncated]”</dd></dl><dl><dt>Title</dt><dd>Battle of the Hornburg</dd><dt>Complete section path</dt><dd>Battle of the Hornburg › Battle › The Huorns</dd><dt>Passage ID</dt><dd class="passage">passage_1e4067a9580322f1cb2fa54465fdc7fc8dbeddaf5e4231075c556c865fb0164e</dd><dt>Truncated excerpt</dt><dd class="excerpt">“By morning the wood and the enemy were gone… [excerpt truncated]”</dd></dl></details></td>
+          </tr>
+
+          <tr>
+            <th scope="row"><span class="case-id">Hard · hard-04</span><span class="question">Compare Sauron's influence over Saruman and Denethor through the palantíri, including the limits of that influence.</span></th>
+            <td><span class="badge grounded">Grounded</span><p class="answer">Sauron used a palantír to dominate Saruman's communications and bend him into fearful service. Denethor was not simply controlled: his lawful use and strong will resisted direct mastery, but Sauron selected what he saw, feeding despair and distorted conclusions.</p><details class="evidence"><summary>Evidence · 2 passages</summary><dl><dt>Title</dt><dd>Isengard</dd><dt>Complete section path</dt><dd>Isengard › War of the Ring › Saruman and the palantír</dd><dt>Passage ID</dt><dd class="passage">passage_42e06d8c76bf5944cd1aa20ce0efecd7105e709d0067e934a9ac9d98cb53caaa</dd><dt>Truncated excerpt</dt><dd class="excerpt">“Saruman's stone brought him into contact with the Dark Tower… [excerpt truncated]”</dd></dl><dl><dt>Title</dt><dd>Denethor II</dd><dt>Complete section path</dt><dd>Denethor II › Stewardship › The Anor-stone</dd><dt>Passage ID</dt><dd class="passage">passage_9b1aa84909139eec31b0fa35944fcbede350bc51a521f80b4f2cd1915e1e217b</dd><dt>Truncated excerpt</dt><dd class="excerpt">“He could not be forced, but the visions shown to him were chosen… [excerpt truncated]”</dd></dl></details></td>
+            <td><span class="badge grounded">Grounded</span><p class="answer">Both were exposed through seeing-stones, but the effect differed. Saruman became compromised and entangled with Sauron's plans; Denethor retained agency while being deceived through selective truth. The stones enabled pressure, not effortless mind control.</p><details class="evidence"><summary>Evidence · 2 passages</summary><dl><dt>Title</dt><dd>Isengard</dd><dt>Complete section path</dt><dd>Isengard › War of the Ring › Saruman and the palantír</dd><dt>Passage ID</dt><dd class="passage">passage_42e06d8c76bf5944cd1aa20ce0efecd7105e709d0067e934a9ac9d98cb53caaa</dd><dt>Truncated excerpt</dt><dd class="excerpt">“Long use exposed his purposes and deepened his fear… [excerpt truncated]”</dd></dl><dl><dt>Title</dt><dd>Denethor II</dd><dt>Complete section path</dt><dd>Denethor II › Stewardship › The Anor-stone</dd><dt>Passage ID</dt><dd class="passage">passage_9b1aa84909139eec31b0fa35944fcbede350bc51a521f80b4f2cd1915e1e217b</dd><dt>Truncated excerpt</dt><dd class="excerpt">“The Steward saw true things, but not the whole… [excerpt truncated]”</dd></dl></details></td>
+            <td><span class="badge ungrounded">Ungrounded</span><p class="answer">Sauron completely enslaved Saruman through the Orthanc-stone, while Denethor broke free because the Anor-stone belonged to Gondor.</p><p class="cell-note">The model submitted a factual answer with no valid in-scope evidence IDs. Text is retained for human inspection; no evidence control is rendered.</p></td>
+            <td><span class="badge grounded">Grounded</span><p class="answer">The palantíri gave Sauron leverage over both men. Saruman's ambitions and repeated contact left him subservient; Denethor's authority limited direct coercion, though curated visions strengthened his hopelessness. Influence is better supported than total control.</p><details class="evidence"><summary>Evidence · 2 passages</summary><dl><dt>Title</dt><dd>Isengard</dd><dt>Complete section path</dt><dd>Isengard › War of the Ring › Saruman and the palantír</dd><dt>Passage ID</dt><dd class="passage">passage_42e06d8c76bf5944cd1aa20ce0efecd7105e709d0067e934a9ac9d98cb53caaa</dd><dt>Truncated excerpt</dt><dd class="excerpt">“The wizard was ensnared by what he chose to seek… [excerpt truncated]”</dd></dl><dl><dt>Title</dt><dd>Denethor II</dd><dt>Complete section path</dt><dd>Denethor II › Stewardship › The Anor-stone</dd><dt>Passage ID</dt><dd class="passage">passage_9b1aa84909139eec31b0fa35944fcbede350bc51a521f80b4f2cd1915e1e217b</dd><dt>Truncated excerpt</dt><dd class="excerpt">“Denethor's right to the stone gave him resistance… [excerpt truncated]”</dd></dl></details></td>
+            <td><span class="badge grounded">Grounded</span><p class="answer">Sauron exploited Saruman's stone-use until the wizard acted under intimidation and false partnership. With Denethor, he could not fabricate the images or wholly command the viewer, but he could control context and induce despair by emphasizing overwhelming strength.</p><details class="evidence"><summary>Evidence · 2 passages</summary><dl><dt>Title</dt><dd>Isengard</dd><dt>Complete section path</dt><dd>Isengard › War of the Ring › Saruman and the palantír</dd><dt>Passage ID</dt><dd class="passage">passage_42e06d8c76bf5944cd1aa20ce0efecd7105e709d0067e934a9ac9d98cb53caaa</dd><dt>Truncated excerpt</dt><dd class="excerpt">“Saruman could not conceal all that the stone revealed… [excerpt truncated]”</dd></dl><dl><dt>Title</dt><dd>Denethor II</dd><dt>Complete section path</dt><dd>Denethor II › Stewardship › The Anor-stone</dd><dt>Passage ID</dt><dd class="passage">passage_9b1aa84909139eec31b0fa35944fcbede350bc51a521f80b4f2cd1915e1e217b</dd><dt>Truncated excerpt</dt><dd class="excerpt">“Sauron showed enough truth to make hope appear foolish… [excerpt truncated]”</dd></dl></details></td>
+          </tr>
+
+          <tr>
+            <th scope="row"><span class="case-id">Hard · hard-05</span><span class="question">Explain how the apparent Corsair fleet changed the Battle of the Pelennor Fields, who was actually aboard, and why its arrival became the turning point.</span></th>
+            <td><span class="badge grounded">Grounded</span><p class="answer">The black-sailed ships first appeared to be Corsair reinforcements, deepening the defenders' fear. They had instead been captured by Aragorn, and carried him, Legolas, Gimli, and forces from southern Gondor. Their arrival added fresh troops at the moment both sides thought Mordor would be reinforced, reversing the battle's momentum.</p><details class="evidence"><summary>Evidence · 2 passages</summary><dl><dt>Title</dt><dd>Battle of the Pelennor Fields</dd><dt>Complete section path</dt><dd>Battle of the Pelennor Fields › Battle › The fleet arrives</dd><dt>Passage ID</dt><dd class="passage">passage_464b301a0b822f177bcadcb56c8ff6913ef5419f9a6ffb150af03ef4930a54b5</dd><dt>Truncated excerpt</dt><dd class="excerpt">“Black sails were seen, and hope failed until the standard broke out… [excerpt truncated]”</dd></dl><dl><dt>Title</dt><dd>Aragorn II</dd><dt>Complete section path</dt><dd>Aragorn II › War of the Ring › Paths of the Dead and Pelargir</dd><dt>Passage ID</dt><dd class="passage">passage_bac1edca70491adbea6ebd60d8bfe3cd9dfef5231cb9f2b951a68009d31ca878</dd><dt>Truncated excerpt</dt><dd class="excerpt">“Aragorn seized the fleet and filled it with the men of the southern fiefs… [excerpt truncated]”</dd></dl></details></td>
+            <td><span class="badge grounded">Grounded</span><p class="answer">The fleet initially signaled disaster because everyone expected Corsairs to reinforce Mordor. Aragorn had taken the ships at Pelargir and used them to transport southern allies. The reveal converted expected enemy strength into a fresh friendly force on the enemy's flank.</p><details class="evidence"><summary>Evidence · 2 passages</summary><dl><dt>Title</dt><dd>Battle of the Pelennor Fields</dd><dt>Complete section path</dt><dd>Battle of the Pelennor Fields › Battle › The fleet arrives</dd><dt>Passage ID</dt><dd class="passage">passage_464b301a0b822f177bcadcb56c8ff6913ef5419f9a6ffb150af03ef4930a54b5</dd><dt>Truncated excerpt</dt><dd class="excerpt">“The banner of the King was unfurled upon the foremost ship… [excerpt truncated]”</dd></dl><dl><dt>Title</dt><dd>Aragorn II</dd><dt>Complete section path</dt><dd>Aragorn II › War of the Ring › Paths of the Dead and Pelargir</dd><dt>Passage ID</dt><dd class="passage">passage_bac1edca70491adbea6ebd60d8bfe3cd9dfef5231cb9f2b951a68009d31ca878</dd><dt>Truncated excerpt</dt><dd class="excerpt">“The ships bore Gondor's gathered strength northward… [excerpt truncated]”</dd></dl></details></td>
+            <td><span class="badge grounded">Grounded</span><p class="answer">From a distance the fleet seemed to complete Gondor's encirclement by hostile forces. The vessels were prizes carrying Aragorn and reinforcements from the southern fiefs. Their unexpected landing shattered the enemy's numerical and psychological advantage.</p><details class="evidence"><summary>Evidence · 2 passages</summary><dl><dt>Title</dt><dd>Battle of the Pelennor Fields</dd><dt>Complete section path</dt><dd>Battle of the Pelennor Fields › Battle › The fleet arrives</dd><dt>Passage ID</dt><dd class="passage">passage_464b301a0b822f177bcadcb56c8ff6913ef5419f9a6ffb150af03ef4930a54b5</dd><dt>Truncated excerpt</dt><dd class="excerpt">“The hosts of Mordor faltered at the sight of the device… [excerpt truncated]”</dd></dl><dl><dt>Title</dt><dd>Aragorn II</dd><dt>Complete section path</dt><dd>Aragorn II › War of the Ring › Paths of the Dead and Pelargir</dd><dt>Passage ID</dt><dd class="passage">passage_bac1edca70491adbea6ebd60d8bfe3cd9dfef5231cb9f2b951a68009d31ca878</dd><dt>Truncated excerpt</dt><dd class="excerpt">“With the Corsairs overcome, their vessels served the captains of Gondor… [excerpt truncated]”</dd></dl></details></td>
+            <td><span class="badge grounded">Grounded</span><p class="answer">The black ships produced despair before their identity was known. Aragorn, his companions, and Gondorian reinforcements were aboard, not Corsairs. Their timely appearance supplied fresh combatants and revealed that the feared southern threat had already been defeated.</p><details class="evidence"><summary>Evidence · 2 passages</summary><dl><dt>Title</dt><dd>Battle of the Pelennor Fields</dd><dt>Complete section path</dt><dd>Battle of the Pelennor Fields › Battle › The fleet arrives</dd><dt>Passage ID</dt><dd class="passage">passage_464b301a0b822f177bcadcb56c8ff6913ef5419f9a6ffb150af03ef4930a54b5</dd><dt>Truncated excerpt</dt><dd class="excerpt">“Those on the field watched the ships draw near in dread… [excerpt truncated]”</dd></dl><dl><dt>Title</dt><dd>Aragorn II</dd><dt>Complete section path</dt><dd>Aragorn II › War of the Ring › Paths of the Dead and Pelargir</dd><dt>Passage ID</dt><dd class="passage">passage_bac1edca70491adbea6ebd60d8bfe3cd9dfef5231cb9f2b951a68009d31ca878</dd><dt>Truncated excerpt</dt><dd class="excerpt">“The Grey Company and men of Lebennin sailed with him… [excerpt truncated]”</dd></dl></details></td>
+            <td><span class="badge grounded">Grounded</span><p class="answer">What looked like the arrival of Corsairs was actually Aragorn's captured fleet. It brought Aragorn's company and southern Gondorian soldiers. The surprise removed the Corsair danger and placed rested allies behind Mordor's forces, making the fleet's arrival the decisive reversal.</p><details class="evidence"><summary>Evidence · 2 passages</summary><dl><dt>Title</dt><dd>Battle of the Pelennor Fields</dd><dt>Complete section path</dt><dd>Battle of the Pelennor Fields › Battle › The fleet arrives</dd><dt>Passage ID</dt><dd class="passage">passage_464b301a0b822f177bcadcb56c8ff6913ef5419f9a6ffb150af03ef4930a54b5</dd><dt>Truncated excerpt</dt><dd class="excerpt">“Joy rose among the defenders as the king's banner was seen… [excerpt truncated]”</dd></dl><dl><dt>Title</dt><dd>Aragorn II</dd><dt>Complete section path</dt><dd>Aragorn II › War of the Ring › Paths of the Dead and Pelargir</dd><dt>Passage ID</dt><dd class="passage">passage_bac1edca70491adbea6ebd60d8bfe3cd9dfef5231cb9f2b951a68009d31ca878</dd><dt>Truncated excerpt</dt><dd class="excerpt">“The captured ships carried the levy of southern Gondor… [excerpt truncated]”</dd></dl></details></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <footer>
+      <p><strong>Prototype note:</strong> All answers, excerpts, run identities, and model identifiers are illustrative. This static artifact demonstrates the approved information hierarchy and report behaviors; it does not represent completed inference or a human qualification decision.</p>
+    </footer>
+  </main>
+</body>
+</html>

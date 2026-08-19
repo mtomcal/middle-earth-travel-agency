@@ -263,7 +263,7 @@ Program-level contracts, modules, concrete schemas, query translation, ranking c
 
 ### Program entity diagram
 
-This UML-style diagram distinguishes orchestration/services from immutable or append-only experiment records. Names are design entities; final Python module and class names will be fixed after the remaining Program Design interview.
+This UML-style diagram distinguishes orchestration/services from immutable or append-only experiment records. Names are approved design entities; implementation may choose equivalent private class names while preserving the documented responsibilities and dependency direction.
 
 ```mermaid
 classDiagram
@@ -514,6 +514,9 @@ provider:
 
 runner:
   max_concurrency: 5
+
+report:
+  evidence_excerpt_characters: 1200
 ```
 
 Phase 0 adds PyYAML and uses safe loading plus application validation. The parser rejects duplicate keys, unknown sections/fields, missing required fields, YAML tags that construct arbitrary objects, incorrect scalar types, and unsupported schema versions.
@@ -532,7 +535,8 @@ Validation bounds are:
 - request timeout: number 1 through 600 seconds;
 - attempt timeout: number 1 through 3600 seconds and not less than request timeout;
 - retries: integer 0 through 3;
-- concurrency: integer 1 through 5.
+- concurrency: integer 1 through 5;
+- evidence excerpt characters: integer 200 through 4000.
 
 `build-index` uses the `index` section and records the whole retrieval baseline as index compatibility metadata. `experiment run` requires all sections and verifies that its index/retrieval settings match the supplied index before making provider calls. The complete normalized YAML values are embedded in `run.json`; the original YAML file may be archived alongside the run but is not the runtime authority after resolution.
 
@@ -616,7 +620,7 @@ Official technical references used for this boundary are the [LangChain `ChatOpe
 
 ### Phase 0 scheduling
 
-The runner creates 20 waves in stable case-catalog order: one retrieval-enabled and one retrieval-disabled wave for each of the ten questions. Each wave contains exactly five independent attempts, one for each configured model.
+The runner creates 20 waves in stable case-catalog order: one retrieval-disabled wave followed by one retrieval-enabled wave for each of the ten questions. Each wave contains exactly five independent attempts, one for each configured model. Running the control first is a fixed experiment convention, not model state: every attempt remains fresh and stateless.
 
 - All five model attempts in a wave start concurrently by default.
 - The runner waits until all five attempts reach a terminal success or failure before starting the next wave.
@@ -626,7 +630,7 @@ The runner creates 20 waves in stable case-catalog order: one retrieval-enabled 
 - The default maximum concurrency is five. The operator may lower it for rate limits, but may not configure more than five active model attempts in Phase 0.
 - The resolved concurrency and actual attempt timing are retained in run metadata.
 
-Condition order within each question and the exact asynchronous primitive belong to the remaining Program Design, but they cannot change the five-model wave boundary.
+The implementation uses one `asyncio.TaskGroup` per wave. Each task converts its own exceptions into classified terminal records so an isolated cell failure cannot cancel siblings. A semaphore enforces the configured concurrency when it is lower than five. The task group must close and all five records must be durably handled before the next wave begins.
 
 ### Phase 0 experiment artifacts
 
@@ -645,6 +649,23 @@ review.json
 `attempts.jsonl` is append-only within the running process. Each attempt is written as one complete canonical JSON line immediately after reaching a terminal outcome, then flushed before the scheduler treats that attempt as checkpointed. Lines may appear in completion order; stable attempt IDs and coordinates identify case, model, and condition. The renderer rejects duplicate coordinates and never infers a missing attempt as success.
 
 `retrieval-enabled.html` and `retrieval-disabled.html` are deterministic pure projections of `run.json` plus the complete validated `attempts.jsonl`. They are written only after all 100 attempt coordinates are terminal. A report-rendering failure leaves the structured inputs intact.
+
+### Phase 0 HTML report contract
+
+The human approved the report layout prototype on 2026-08-19. The non-production reference artifact is `.tasks/rpi/agent-lore-retrieval/prototypes/retrieval-enabled-report-prototype.html`; implementation may simplify its mock copy but must preserve this approved information architecture and behavior:
+
+- each self-contained report has a prominent condition label, batch ID, release identity, ordered five-model list, and link to the companion condition report;
+- a native collapsed configuration section exposes all resolved non-secret settings;
+- the exact ten-question inventory is directly visible near the top;
+- a horizontally scrollable comparison table uses ten case rows, one prominent question column, and five model columns in configured order, with sticky model headers and question cells where supported;
+- each cell presents a status and full answer first while preserving paragraph breaks;
+- a successful enabled cell has a collapsed native `<details>` evidence control for each cited passage, showing title, complete section path, passage ID, and an excerpt;
+- enabled `insufficient_evidence` and `ungrounded_answer` states remain visible and honestly labeled; failed cells expose only the approved sanitized diagnostics in native collapsed details;
+- disabled cells explicitly state `No retrieval available` and render no evidence control;
+- narrow screens retain readable column widths through horizontal scrolling rather than compressing five answers;
+- all dynamic values are HTML-escaped, and output contains inline CSS only: no JavaScript, remote assets, remote fonts, executable content, scoring, ranking, or winner highlighting.
+
+Evidence excerpts use Unicode code-point length, default to 1,200 characters, and are configurable from 200 through 4,000 characters in the shared YAML. Text beyond the bound is replaced by a visible truncation marker. The structured attempt retains the evidence supplied during the run; report truncation never reruns retrieval or changes the answer record.
 
 `review.json` is created as an unscored human-fillable template referencing the run ID and the five candidate models. The human completes it with decision `selected` plus one configured model ID and rationale, or decision `none` plus rationale. An incomplete template does not satisfy the Phase 0 gate.
 
@@ -707,7 +728,9 @@ Phase 0 Program Design will define the small human-authored review-record format
 
 The three-field Phase 0 result is implemented as the bound terminal `submit_answer` tool rather than provider-native structured output. `AttemptRecord` separately stores the model-declared outcome and application classification so answered text without evidence remains visible as `ungrounded_answer`. Phase 1 Program Design must not promote this schema without resolving claim-level grounding.
 
-Program Design interviewing is in progress and has not yet been approved.
+### Phase 0 Program Design approval
+
+The Phase 0 Program Design interview is complete and was explicitly approved by the human on 2026-08-19. Phase 0 is implementation-ready under this TDD. Phase 1 Program Design remains gated by the completed human model review and is not part of this prerequisite implementation slice.
 
 ## Testing and Validation
 
@@ -753,11 +776,12 @@ Phase 0 acceptance:
 - artifact tests proving `run.json` precedes calls, every terminal attempt is flushed as one unique JSONL record, completion order is irrelevant, missing/duplicate coordinates are rejected, reports are pure deterministic projections, and a crash preserves earlier lines without creating qualifying reports;
 - review-template tests proving only `selected` with one configured model and rationale or `none` with rationale satisfies the gate;
 - scheduling tests proving five concurrent model attempts per default wave, a hard maximum of five, wave barriers, stateless attempts, lower configured concurrency, failure isolation, and stable report ordering despite out-of-order completion;
-- report tests covering deterministic output from fixed run data, HTML escaping, model and question labeling, success and failure cells, no secret leakage, and browser-readable self-contained output;
+- report tests covering deterministic output from fixed run data, HTML escaping, model and question labeling, success and failure cells, no secret leakage, browser-readable self-contained output, inline-CSS-only generation, and absence of scripts or remote resources;
 - paired-report tests proving both files derive from one batch, contain only their declared condition, preserve identical row/column ordering, identify the condition prominently, and link to one another;
-- enabled-report tests proving each response remains visible while escaped title, section, excerpt, and passage ID appear in the correct expandable evidence control;
+- enabled-report tests proving each response remains visible while escaped title, complete section path, excerpt, and passage ID appear in the correct native expandable evidence control;
 - disabled-report tests proving no evidence control is rendered and the absence of retrieved evidence is explicit;
-- report tests proving that all ten exact questions and easy/hard labels are directly visible and remain associated with the correct five response cells;
+- report tests proving that all ten exact questions and easy/hard labels are directly visible and remain associated with the correct five response cells, configured model order is preserved, and the table exposes horizontal overflow without collapsing readable column widths;
+- excerpt tests proving the 1,200-character default, accepted 200-through-4,000 overrides, Unicode code-point truncation, visible truncation marker, exact non-truncated boundary, HTML escaping after bounding, and no retrieval during rendering;
 - tests proving the experiment output contains no automated score, rank, winner, or model-selection verdict;
 - review-record validation proving it refers to the reviewed batch and either selects one configured exact model identifier with non-empty rationale or records that no candidate qualifies;
 - no numeric acceptance threshold; Phase 1 eligibility depends on the human-authored qualitative record;
@@ -773,7 +797,7 @@ Phase 1 acceptance, performed only after the Phase 0 gate:
 - an end-to-end test with real SQLite FTS and a deterministic fake model adapter;
 - a small manual smoke test against `corpus-v1-rc1` once implementation is authorized separately.
 
-Exact fixtures and acceptance cases remain open until System and Program Design are approved.
+Implementation may choose compact fixture file names and constructors, but the observable acceptance cases above are approved and must not be weakened without reopening the TDD.
 
 ## Rollout and Risks
 
@@ -827,9 +851,6 @@ The first pass should be opt-in through a new command and should not alter exist
 
 No unresolved System Design questions remain.
 
-Phase 0 Program Design questions still under interview:
-
-1. Concrete SQLite index schema.
-2. Exception classification and final pure-renderer details.
+No unresolved Phase 0 System Design or Program Design questions remain. The prerequisite experiment slice is approved for a later implementation task.
 
 Phase 1 Program Design remains gated by the Phase 0 human review.

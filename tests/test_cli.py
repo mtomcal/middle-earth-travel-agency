@@ -389,6 +389,72 @@ def test_corpus_release_commands_delegate_and_report(tmp_path, monkeypatch, caps
     assert "validated corpus-v1-rc1: 51 article(s)" in output
 
 
+def test_build_index_command_validates_release_before_projection(tmp_path, monkeypatch, capsys):
+    release = tmp_path / "release"
+    manifest = release / "manifest.json"
+    config_path = tmp_path / "experiment.yaml"
+    output = tmp_path / "index.sqlite"
+    config = SimpleNamespace(config_identity="config-123")
+    events = []
+
+    monkeypatch.setattr(
+        cli,
+        "load_experiment_config",
+        lambda path: events.append(("config", path)) or config,
+    )
+    monkeypatch.setattr(
+        cli,
+        "validate_release",
+        lambda **kwargs: events.append(("validate", kwargs)) or SimpleNamespace(),
+    )
+    result = SimpleNamespace(
+        metadata=SimpleNamespace(
+            release_id="corpus-v1-rc1",
+            passage_count=182,
+            config_identity="config-123",
+        ),
+        output=output,
+    )
+    monkeypatch.setattr(
+        cli,
+        "build_index",
+        lambda **kwargs: events.append(("build", kwargs)) or result,
+    )
+
+    assert (
+        main(
+            [
+                "corpus",
+                "build-index",
+                "--manifest",
+                str(manifest),
+                "--config",
+                str(config_path),
+                "--output",
+                str(output),
+            ]
+        )
+        == 0
+    )
+
+    assert events == [
+        ("config", config_path),
+        (
+            "validate",
+            {
+                "manifest": manifest,
+                "articles_dir": release / "articles",
+                "curation_snapshot": release / "curation.jsonl",
+            },
+        ),
+        ("build", {"manifest": manifest, "output": output, "config": config}),
+    ]
+    assert capsys.readouterr().out == (
+        f"built corpus-v1-rc1 retrieval index with 182 lore passage(s) at {output}; "
+        "config config-123\n"
+    )
+
+
 def test_console_reports_expected_operator_errors(monkeypatch, capsys):
     monkeypatch.setattr(cli, "main", lambda: (_ for _ in ()).throw(ValueError("bad input")))
 

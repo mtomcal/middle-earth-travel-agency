@@ -1,4 +1,4 @@
-1. [ ] Phase 1 — Publish and query a compatible lore index
+1. [x] Phase 1 — Publish and query a compatible lore index
 2. [ ] Phase 2 — Produce one bounded evidence-aware model attempt
 3. [ ] Phase 3 — Retain one complete matched comparison batch
 4. [ ] Phase 4 — Deliver the operator command and paired review reports
@@ -21,21 +21,21 @@ Dependency: none. An operator can run `meta corpus build-index --manifest MANIFE
 
 ### Automated checks
 
-- [ ] Configuration tests reject unsafe tags, duplicate or unknown keys, missing fields, wrong scalar types, unsupported schema versions, and every out-of-range value; accepted defaults and overrides normalize and hash deterministically.
-- [ ] Projection tests prove that every and only manifest-admitted lore passage enters `passages` and `passages_fts`; lore, non-lore, and structural-exclusion coordinates are represented without copying unavailable text, while an absent coordinate remains detectable as an ordinal gap.
-- [ ] Schema validation rejects missing/duplicate metadata, passage/FTS count mismatches, dangling content or lore coordinates, coordinate disagreement, unavailable coordinates with passage IDs, and lore passages without exactly one matching coordinate.
-- [ ] Search tests cover title, full-heading display, and body matches; `unicode61 remove_diacritics 2`; safely quoted `all-terms` and `any-terms` translation; `5/2/1` BM25 weights; result bounds; ascending rank; and both approved deterministic tie breakers.
-- [ ] Context tests return the target plus at most one consecutive neighbor per side and stop with `section-edge`, `non-lore-or-excluded`, or `ordinal-gap` without crossing article/heading boundaries or skipping unavailable coordinates.
-- [ ] Compatibility tests reject the wrong release, manifest digest, schema/config identity, tokenizer/indexed-column contract, count, absent or malformed index, and tampering before retrieval is exposed through a read-only connection.
-- [ ] Publication tests prove release validation precedes projection, staged validation precedes atomic publication, an existing destination is never overwritten, concurrent builders publish at most one complete index, and failures leave no partial sibling or activation change.
-- [ ] CLI tests lock the approved argument shape, `Path` conversion, exact delegation, stable success summary, and existing `error: ...`/status-1 operator-failure behavior.
-- [ ] `uv run pytest tests/test_experiment_config.py tests/test_retrieval_index.py tests/test_cli.py`, `uv run ruff check .`, `uv run ruff format --check .`, and `uv run pyright` pass.
+- [x] Configuration tests reject unsafe tags, duplicate or unknown keys, missing fields, wrong scalar types, unsupported schema versions, and every out-of-range value; accepted defaults and overrides normalize and hash deterministically.
+- [x] Projection tests prove that every and only manifest-admitted lore passage enters `passages` and `passages_fts`; lore, non-lore, and structural-exclusion coordinates are represented without copying unavailable text, while an absent coordinate remains detectable as an ordinal gap.
+- [x] Schema validation rejects missing/duplicate metadata, passage/FTS count mismatches, dangling content or lore coordinates, coordinate disagreement, unavailable coordinates with passage IDs, and lore passages without exactly one matching coordinate.
+- [x] Search tests cover title, full-heading display, and body matches; `unicode61 remove_diacritics 2`; safely quoted `all-terms` and `any-terms` translation; `5/2/1` BM25 weights; result bounds; ascending rank; and both approved deterministic tie breakers.
+- [x] Context tests return the target plus at most one consecutive neighbor per side and stop with `section-edge`, `non-lore-or-excluded`, or `ordinal-gap` without crossing article/heading boundaries or skipping unavailable coordinates.
+- [x] Compatibility tests reject the wrong release, manifest digest, schema/config identity, tokenizer/indexed-column contract, count, absent or malformed index, and tampering before retrieval is exposed through a read-only connection.
+- [x] Publication tests prove release validation precedes projection, staged validation precedes atomic publication, an existing destination is never overwritten, concurrent builders publish at most one complete index, and failures leave no partial sibling or activation change.
+- [x] CLI tests lock the approved argument shape, `Path` conversion, exact delegation, stable success summary, and existing `error: ...`/status-1 operator-failure behavior.
+- [x] `uv run pytest tests/test_experiment_config.py tests/test_retrieval_index.py tests/test_cli.py`, `uv run ruff check .`, `uv run ruff format --check .`, and `uv run pyright` pass.
 
 ### Manual validation
 
-- [ ] Build a fresh scratch index from `data/releases/corpus-v1-rc1/manifest.json` with the baseline YAML and confirm the summary identifies `corpus-v1-rc1`, 182 passages, the destination, and the configuration identity.
-- [ ] Open the published index through `RetrievalIndex`, search representative accented and title/body terms, and inspect context near a section edge and a non-lore boundary; only admitted normalized prose and stable evidence identity are visible.
-- [ ] Repeat the build against the same destination and confirm it fails safely without changing the previously readable index.
+- [x] Build a fresh scratch index from `data/releases/corpus-v1-rc1/manifest.json` with the baseline YAML and confirm the summary identifies `corpus-v1-rc1`, 182 passages, the destination, and the configuration identity.
+- [x] Open the published index through `RetrievalIndex`, search representative accented and title/body terms, and inspect context near a section edge and a non-lore boundary; only admitted normalized prose and stable evidence identity are visible.
+- [x] Repeat the build against the same destination and confirm it fails safely without changing the previously readable index.
 
 ## Phase 2 — Produce one bounded evidence-aware model attempt
 

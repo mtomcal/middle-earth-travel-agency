@@ -26,6 +26,8 @@ from .corpus_backup import create_backup, verify_backup
 from .corpus_curation import CurationState, load_corpus, run_terminal
 from .corpus_release import create_release, validate_release
 from .curation_snapshot import export_snapshot, load_snapshot
+from .experiment_config import load_experiment_config
+from .retrieval_index import build_index
 
 
 class _EmptyCatalog:
@@ -137,6 +139,13 @@ def _parser() -> argparse.ArgumentParser:
     validate.add_argument("manifest", type=Path, help="release manifest to validate")
     validate.add_argument("--articles-dir", type=Path, required=True)
     validate.add_argument("--curation", type=Path, required=True, help="curation JSONL snapshot")
+
+    index = corpus_commands.add_parser(
+        "build-index", help="publish a retrieval index for an immutable corpus release"
+    )
+    index.add_argument("--manifest", type=Path, required=True)
+    index.add_argument("--config", type=Path, required=True)
+    index.add_argument("--output", type=Path, required=True)
     return parser
 
 
@@ -340,6 +349,23 @@ def _validate_release(arguments: argparse.Namespace) -> int:
     return 0
 
 
+def _build_index(arguments: argparse.Namespace) -> int:
+    config = load_experiment_config(arguments.config)
+    manifest: Path = arguments.manifest
+    validate_release(
+        manifest=manifest,
+        articles_dir=manifest.parent / "articles",
+        curation_snapshot=manifest.parent / "curation.jsonl",
+    )
+    result = build_index(manifest=manifest, output=arguments.output, config=config)
+    print(
+        f"built {result.metadata.release_id} retrieval index with "
+        f"{result.metadata.passage_count} lore passage(s) at {result.output}; "
+        f"config {result.metadata.config_identity}"
+    )
+    return 0
+
+
 def main(argv: Sequence[str] | None = None) -> int:
     load_dotenv(dotenv_path=Path.cwd() / ".env")
     arguments = _parser().parse_args(argv)
@@ -361,6 +387,8 @@ def main(argv: Sequence[str] | None = None) -> int:
         return _create_release(arguments)
     if arguments.corpus_command == "validate-release":
         return _validate_release(arguments)
+    if arguments.corpus_command == "build-index":
+        return _build_index(arguments)
     raise AssertionError("unreachable command")
 
 

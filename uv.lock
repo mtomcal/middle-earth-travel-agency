@@ -241,6 +241,7 @@ dependencies = [
     { name = "mwparserfromhell" },
     { name = "python-dotenv" },
     { name = "pywikibot" },
+    { name = "pyyaml" },
 ]
 
 [package.dev-dependencies]
@@ -257,6 +258,7 @@ requires-dist = [
     { name = "mwparserfromhell", specifier = ">=0.7,<0.8" },
     { name = "python-dotenv", specifier = ">=1,<2" },
     { name = "pywikibot", specifier = ">=11,<12" },
+    { name = "pyyaml", specifier = ">=6,<7" },
 ]
 
 [package.metadata.requires-dev]

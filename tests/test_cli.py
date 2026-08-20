@@ -455,6 +455,200 @@ def test_build_index_command_validates_release_before_projection(tmp_path, monke
     )
 
 
+def test_experiment_run_preflights_then_runs_and_writes_reports(tmp_path, monkeypatch, capsys):
+    manifest = tmp_path / "release" / "manifest.json"
+    index_path = tmp_path / "index.sqlite"
+    config_path = tmp_path / "experiment.yaml"
+    output_dir = tmp_path / "run"
+    config = SimpleNamespace(config_identity="config-123")
+    environment = SimpleNamespace(
+        models=("model-1", "model-2", "model-3", "model-4", "model-5"),
+        openrouter_api_key="secret-value",
+    )
+    events = []
+
+    class Index:
+        def close(self):
+            events.append("close")
+
+    class Adapter:
+        def __init__(self, *, model, api_key, config):
+            events.append(("adapter", model, api_key, config))
+            self.model = model
+
+    class Runner:
+        def __init__(self, **kwargs):
+            events.append(("runner", kwargs))
+            kwargs["adapter_factory"]("model-1")
+
+        async def run(self):
+            events.append("run")
+            return SimpleNamespace(
+                envelope=SimpleNamespace(run_id="in-memory", config_identity="in-memory"),
+                attempts=("in-memory",),
+            )
+
+    retained = SimpleNamespace(
+        envelope=SimpleNamespace(run_id="run-1", config_identity="config-123"),
+        attempts=("retained-attempt",),
+    )
+    reports = SimpleNamespace(
+        retrieval_enabled=output_dir / "retrieval-enabled.html",
+        retrieval_disabled=output_dir / "retrieval-disabled.html",
+    )
+    monkeypatch.setattr(
+        cli, "load_experiment_config", lambda path: events.append(("config", path)) or config
+    )
+    monkeypatch.setattr(
+        cli, "load_experiment_environment", lambda: events.append("environment") or environment
+    )
+    monkeypatch.setattr(
+        cli, "open_index", lambda **kwargs: events.append(("index", kwargs)) or Index()
+    )
+    monkeypatch.setattr(cli, "OpenRouterModelAdapter", Adapter)
+    monkeypatch.setattr(cli, "ExperimentRunner", Runner)
+    monkeypatch.setattr(
+        cli,
+        "load_run_artifacts",
+        lambda destination: events.append(("load-retained", destination)) or retained,
+    )
+    monkeypatch.setattr(
+        cli,
+        "write_reports",
+        lambda envelope, attempts, destination: events.append(
+            ("reports", envelope, attempts, destination)
+        )
+        or reports,
+    )
+    monkeypatch.setattr(cli, "_source_revision", lambda: "source-123")
+
+    assert (
+        main(
+            [
+                "experiment",
+                "run",
+                "--manifest",
+                str(manifest),
+                "--index",
+                str(index_path),
+                "--config",
+                str(config_path),
+                "--output-dir",
+                str(output_dir),
+            ]
+        )
+        == 0
+    )
+
+    assert events[0:2] == [("config", config_path), "environment"]
+    assert events[2] == ("index", {"manifest": manifest, "index": index_path, "config": config})
+    assert events[3][0] == "runner"
+    assert events[3][1]["models"] == environment.models
+    assert events[3][1]["output_dir"] == output_dir
+    assert events[3][1]["source_revision"] == "source-123"
+    assert events[4] == ("adapter", "model-1", "secret-value", config)
+    assert events[5:9] == [
+        "run",
+        "close",
+        ("load-retained", output_dir),
+        ("reports", retained.envelope, retained.attempts, output_dir),
+    ]
+    output = capsys.readouterr().out
+    assert "completed experiment run-1" in output
+    assert "config config-123" in output
+    assert "secret-value" not in output
+
+
+def test_experiment_run_refuses_corrupted_retained_artifacts_before_reporting(
+    tmp_path, monkeypatch
+):
+    output_dir = tmp_path / "run"
+
+    class Index:
+        def close(self):
+            pass
+
+    class Runner:
+        def __init__(self, **_kwargs):
+            pass
+
+        async def run(self):
+            output_dir.mkdir()
+            (output_dir / "run.json").write_text("{")
+            (output_dir / "attempts.jsonl").write_text("corrupt\n")
+            return SimpleNamespace()
+
+    monkeypatch.setattr(cli, "load_experiment_config", lambda _path: SimpleNamespace())
+    monkeypatch.setattr(
+        cli,
+        "load_experiment_environment",
+        lambda: SimpleNamespace(models=("a", "b", "c", "d", "e"), openrouter_api_key="secret"),
+    )
+    monkeypatch.setattr(cli, "open_index", lambda **_kwargs: Index())
+    monkeypatch.setattr(cli, "ExperimentRunner", Runner)
+    monkeypatch.setattr(cli, "write_reports", lambda *_args: pytest.fail("must not report"))
+
+    with pytest.raises(ValueError, match="invalid retained experiment artifact"):
+        main(
+            [
+                "experiment",
+                "run",
+                "--manifest",
+                str(tmp_path / "manifest.json"),
+                "--index",
+                str(tmp_path / "index.sqlite"),
+                "--config",
+                str(tmp_path / "config.yaml"),
+                "--output-dir",
+                str(output_dir),
+            ]
+        )
+
+    assert not (output_dir / "retrieval-enabled.html").exists()
+    assert not (output_dir / "retrieval-disabled.html").exists()
+
+
+def test_experiment_run_rejects_existing_output_before_opening_index(tmp_path, monkeypatch):
+    output_dir = tmp_path / "run"
+    output_dir.mkdir()
+    monkeypatch.setattr(cli, "load_experiment_config", lambda path: SimpleNamespace())
+    monkeypatch.setattr(
+        cli,
+        "load_experiment_environment",
+        lambda: SimpleNamespace(models=("a", "b", "c", "d", "e"), openrouter_api_key="secret"),
+    )
+    monkeypatch.setattr(cli, "open_index", lambda **kwargs: pytest.fail("must not open the index"))
+
+    with pytest.raises(FileExistsError, match="reuse experiment"):
+        main(
+            [
+                "experiment",
+                "run",
+                "--manifest",
+                str(tmp_path / "manifest.json"),
+                "--index",
+                str(tmp_path / "index.sqlite"),
+                "--config",
+                str(tmp_path / "config.yaml"),
+                "--output-dir",
+                str(output_dir),
+            ]
+        )
+
+
+def test_source_revision_reads_a_valid_head_without_a_shell(tmp_path):
+    git_dir = tmp_path / ".git"
+    git_dir.mkdir()
+    revision = "a" * 40
+    (git_dir / "HEAD").write_text("ref: refs/heads/main\n")
+    (git_dir / "refs" / "heads").mkdir(parents=True)
+    (git_dir / "refs" / "heads" / "main").write_text(f"{revision}\n")
+
+    assert cli._source_revision(tmp_path) == revision
+    (git_dir / "HEAD").write_text("not-a-revision\n")
+    assert cli._source_revision(tmp_path) == "unknown"
+
+
 def test_console_reports_expected_operator_errors(monkeypatch, capsys):
     monkeypatch.setattr(cli, "main", lambda: (_ for _ in ()).throw(ValueError("bad input")))
 

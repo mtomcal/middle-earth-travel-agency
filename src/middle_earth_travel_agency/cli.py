@@ -3,8 +3,10 @@
 from __future__ import annotations
 
 import argparse
+import asyncio
 import json
 import os
+import re
 import sys
 from dataclasses import asdict
 from datetime import UTC, datetime
@@ -26,8 +28,11 @@ from .corpus_backup import create_backup, verify_backup
 from .corpus_curation import CurationState, load_corpus, run_terminal
 from .corpus_release import create_release, validate_release
 from .curation_snapshot import export_snapshot, load_snapshot
-from .experiment_config import load_experiment_config
-from .retrieval_index import build_index
+from .experiment_config import load_experiment_config, load_experiment_environment
+from .experiment_report import write_reports
+from .lore_agent import OpenRouterModelAdapter
+from .lore_experiment import BatchFailure, ExperimentRunner, load_run_artifacts
+from .retrieval_index import build_index, open_index
 
 
 class _EmptyCatalog:
@@ -146,6 +151,16 @@ def _parser() -> argparse.ArgumentParser:
     index.add_argument("--manifest", type=Path, required=True)
     index.add_argument("--config", type=Path, required=True)
     index.add_argument("--output", type=Path, required=True)
+
+    experiment = commands.add_parser("experiment", help="disposable lore grounding experiment")
+    experiment_commands = experiment.add_subparsers(dest="experiment_command", required=True)
+    run_experiment = experiment_commands.add_parser(
+        "run", help="run a matched five-model grounding comparison"
+    )
+    run_experiment.add_argument("--manifest", type=Path, required=True)
+    run_experiment.add_argument("--index", type=Path, required=True)
+    run_experiment.add_argument("--config", type=Path, required=True)
+    run_experiment.add_argument("--output-dir", type=Path, required=True)
     return parser
 
 
@@ -366,9 +381,62 @@ def _build_index(arguments: argparse.Namespace) -> int:
     return 0
 
 
+def _source_revision(root: Path | None = None) -> str:
+    """Read the checked-out Git revision without executing a shell command."""
+    git_dir = (root or Path.cwd()) / ".git"
+    head = git_dir / "HEAD"
+    try:
+        value = head.read_text(encoding="ascii").strip()
+        if value.startswith("ref: "):
+            reference = value.removeprefix("ref: ")
+            if not reference.startswith("refs/") or ".." in reference:
+                return "unknown"
+            value = (git_dir / reference).read_text(encoding="ascii").strip()
+    except OSError:
+        return "unknown"
+    return value if re.fullmatch(r"[0-9a-f]{40}", value) else "unknown"
+
+
+def _run_experiment(arguments: argparse.Namespace) -> int:
+    config = load_experiment_config(arguments.config)
+    environment = load_experiment_environment()
+    output_dir: Path = arguments.output_dir
+    if output_dir.exists():
+        raise FileExistsError(f"refusing to reuse experiment output directory: {output_dir}")
+    index = open_index(manifest=arguments.manifest, index=arguments.index, config=config)
+    try:
+        runner = ExperimentRunner(
+            index=index,
+            config=config,
+            models=environment.models,
+            adapter_factory=lambda model: OpenRouterModelAdapter(
+                model=model,
+                api_key=environment.openrouter_api_key,
+                config=config,
+            ),
+            output_dir=output_dir,
+            source_revision=_source_revision(),
+        )
+        asyncio.run(runner.run())
+    finally:
+        index.close()
+    retained = load_run_artifacts(output_dir)
+    reports = write_reports(retained.envelope, retained.attempts, output_dir)
+    print(
+        f"completed experiment {retained.envelope.run_id}: "
+        f"{reports.retrieval_enabled}, {reports.retrieval_disabled}; "
+        f"config {retained.envelope.config_identity}"
+    )
+    return 0
+
+
 def main(argv: Sequence[str] | None = None) -> int:
     load_dotenv(dotenv_path=Path.cwd() / ".env")
     arguments = _parser().parse_args(argv)
+    if arguments.command == "experiment":
+        if arguments.experiment_command == "run":
+            return _run_experiment(arguments)
+        raise AssertionError("unreachable command")
     if arguments.corpus_command == "discover":
         return _discover(arguments)
     if arguments.corpus_command == "acquire":
@@ -395,6 +463,6 @@ def main(argv: Sequence[str] | None = None) -> int:
 def console() -> None:
     try:
         raise SystemExit(main())
-    except (OSError, ValueError, json.JSONDecodeError) as error:
+    except (OSError, ValueError, BatchFailure, json.JSONDecodeError) as error:
         print(f"error: {error}", file=sys.stderr)
         raise SystemExit(1) from error

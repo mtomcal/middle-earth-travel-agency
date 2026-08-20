@@ -2,7 +2,10 @@ import hashlib
 
 import pytest
 
-from middle_earth_travel_agency.experiment_config import load_experiment_config
+from middle_earth_travel_agency.experiment_config import (
+    load_experiment_config,
+    load_experiment_environment,
+)
 
 
 BASELINE = """\
@@ -191,3 +194,47 @@ def test_rejects_every_documented_out_of_range_value(tmp_path, old, new, message
 def test_rejects_missing_unknown_malformed_and_merged_values(tmp_path, content):
     with pytest.raises(ValueError):
         load_experiment_config(_config_file(tmp_path, content))
+
+
+def test_loads_trimmed_secret_and_ordered_candidate_models():
+    environment = load_experiment_environment(
+        {
+            "META_OPENROUTER_API_KEY": "  secret-value  ",
+            "META_EXPERIMENT_MODELS": " first , second,third , fourth , fifth ",
+        }
+    )
+
+    assert environment.openrouter_api_key == "secret-value"
+    assert environment.models == ("first", "second", "third", "fourth", "fifth")
+    assert "secret-value" not in repr(environment)
+
+
+@pytest.mark.parametrize(
+    "values",
+    [
+        {},
+        {"META_OPENROUTER_API_KEY": "   "},
+    ],
+)
+def test_environment_rejects_absent_or_blank_secret_without_echoing_it(values):
+    with pytest.raises(ValueError, match="META_OPENROUTER_API_KEY") as error:
+        load_experiment_environment(values)
+
+    assert "secret" not in str(error.value).lower()
+
+
+@pytest.mark.parametrize(
+    "models",
+    [
+        "",
+        "one,two,three,four",
+        "one,two,three,four,five,six",
+        "one,two,three,four,one",
+        "one,two, ,four,five",
+    ],
+)
+def test_environment_rejects_malformed_candidate_model_lists(models):
+    with pytest.raises(ValueError, match="META_EXPERIMENT_MODELS"):
+        load_experiment_environment(
+            {"META_OPENROUTER_API_KEY": "secret-value", "META_EXPERIMENT_MODELS": models}
+        )

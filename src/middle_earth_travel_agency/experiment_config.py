@@ -5,9 +5,10 @@ from __future__ import annotations
 import hashlib
 import json
 import math
-from dataclasses import dataclass
+import os
+from dataclasses import dataclass, field
 from pathlib import Path
-from typing import Any
+from typing import Any, Mapping
 
 import yaml
 
@@ -76,6 +77,14 @@ class RunnerConfig:
 @dataclass(frozen=True)
 class ReportConfig:
     evidence_excerpt_characters: int
+
+
+@dataclass(frozen=True)
+class ExperimentEnvironment:
+    """Validated process-local provider credentials and candidate model order."""
+
+    openrouter_api_key: str = field(repr=False)
+    models: tuple[str, ...]
 
 
 @dataclass(frozen=True)
@@ -277,3 +286,19 @@ def load_experiment_config(path: Path) -> ExperimentConfig:
             )
         ),
     )
+
+
+def load_experiment_environment(
+    environment: Mapping[str, str] | None = None,
+) -> ExperimentEnvironment:
+    """Read the two Phase 0 environment values without mutating process state."""
+    values = os.environ if environment is None else environment
+    api_key = values.get("META_OPENROUTER_API_KEY", "").strip()
+    if not api_key:
+        raise ValueError("META_OPENROUTER_API_KEY is absent")
+
+    raw_models = values.get("META_EXPERIMENT_MODELS", "")
+    models = tuple(model.strip() for model in raw_models.split(","))
+    if len(models) != 5 or any(not model for model in models) or len(set(models)) != len(models):
+        raise ValueError("META_EXPERIMENT_MODELS must contain exactly five unique non-empty models")
+    return ExperimentEnvironment(openrouter_api_key=api_key, models=models)

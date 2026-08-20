@@ -2,7 +2,7 @@
 2. [x] Phase 2 — Produce one bounded evidence-aware model attempt
 3. [x] Phase 3 — Retain one complete matched comparison batch
 4. [x] Phase 4 — Deliver the operator command and paired review reports
-5. [ ] Phase 5 — Run the live qualification and record the human gate
+5. [x] Phase 5 — Run the live qualification and record the human gate
 
 ## Phase 1 — Publish and query a compatible lore index
 
@@ -148,13 +148,13 @@ Dependency: Phase 4. The operator completes one real 100-attempt OpenRouter batc
 
 - [x] Build/open preflight validates the exact manifest, published index, release identity, index/config compatibility, and all ten expected evidence IDs before any live provider call.
 - [x] Batch validation confirms one immutable envelope and exactly 100 unique terminal attempts with paired settings, disabled isolation, no missing cells, no secret-bearing fields, and two reports derived from that same batch.
-- [ ] Review-gate validation binds the completed decision to the batch and configured model list and rejects an incomplete template, altered run ID, unconfigured model, missing rationale, or any automatic/numeric verdict.
-- [ ] After the model-default update, `uv run pytest`, `uv run ruff check .`, `uv run ruff format --check .`, `uv run pyright`, and `uv run pre-commit run --all-files` pass.
+- [x] Review-gate validation binds the completed decision to the batch and configured model list and rejects an incomplete template, altered run ID, unconfigured model, missing rationale, or any automatic/numeric verdict.
+- [x] After the model-default update, `uv run pytest`, `uv run ruff check .`, `uv run ruff format --check .`, `uv run pyright`, and `uv run pre-commit run --all-files` pass.
 
 ### Manual validation
 
 - [x] Run the published index build and one live experiment command with the approved baseline, capturing exact model identifiers and all resolved non-secret settings in the new batch rather than editing an earlier run.
-- [ ] Review every enabled/disabled model pair for pretrained recall, unsupported specificity, search/tool use, evidence fidelity, distortion, contradiction, uncertainty, and abstention; do not convert notes into a score or threshold.
-- [ ] Complete `review.json` with either one qualifying exact model plus written rationale or `none` plus rationale, then run the gate validator and confirm the result.
-- [ ] If a model qualifies, place that exact identifier in `.env.example` as `META_LORE_MODEL`; if none qualifies, leave Phase 1 blocked and record the retrieval/orchestration or candidate-set hypothesis that must change before a new separately identified batch.
-- [ ] Confirm with the human that Phase 0 is complete and that any Phase 1 Program Design or implementation will require a later explicit task rather than continuing from this structure automatically.
+- [x] Review every enabled/disabled model pair for pretrained recall, unsupported specificity, search/tool use, evidence fidelity, distortion, contradiction, uncertainty, and abstention; do not convert notes into a score or threshold.
+- [x] Complete `review.json` with either one qualifying exact model plus written rationale or `none` plus rationale, then run the gate validator and confirm the result.
+- [x] If a model qualifies, place that exact identifier in `.env.example` as `META_LORE_MODEL`; if none qualifies, leave Phase 1 blocked and record the retrieval/orchestration or candidate-set hypothesis that must change before a new separately identified batch.
+- [x] Confirm with the human that Phase 0 is complete and that any Phase 1 Program Design or implementation will require a later explicit task rather than continuing from this structure automatically.

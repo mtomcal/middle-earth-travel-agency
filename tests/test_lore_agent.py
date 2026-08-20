@@ -21,17 +21,19 @@ from middle_earth_travel_agency.lore_agent import (
     OpenRouterModelAdapter,
     SEARCH_LORE_SCHEMA,
     SUBMIT_ANSWER_SCHEMA,
-    SYSTEM_PROMPT,
     answer_case,
 )
 from middle_earth_travel_agency.retrieval_index import ContextResult, EvidencePassage, SearchResult
+
+
+SYSTEM_PROMPT = "Use the configured test prompt."
 
 
 def _config(budget=4):
     return ExperimentConfig(
         index=IndexConfig("unicode61", 2),
         retrieval=RetrievalConfig("all-terms", 5, 5, 2, 1, "passage-id"),
-        agent=AgentConfig(budget, 0, 1024),
+        agent=AgentConfig(budget, 0, 1024, SYSTEM_PROMPT),
         provider=ProviderConfig(1, 5, 1),
         runner=RunnerConfig(5),
         report=ReportConfig(200),

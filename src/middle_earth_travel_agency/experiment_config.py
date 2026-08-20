@@ -13,7 +13,8 @@ from typing import Any, Mapping
 import yaml
 
 
-SCHEMA_VERSION = 1
+SCHEMA_VERSION = 2
+_INDEX_IDENTITY_SCHEMA_VERSION = 1
 
 
 class _StrictSafeLoader(yaml.SafeLoader):
@@ -60,6 +61,7 @@ class AgentConfig:
     retrieval_budget: int
     temperature: float
     max_output_tokens: int
+    system_prompt: str
 
 
 @dataclass(frozen=True)
@@ -116,6 +118,7 @@ class ExperimentConfig:
                 "tie_breaker": self.retrieval.tie_breaker,
             },
             "agent": {
+                "system_prompt": self.agent.system_prompt,
                 "retrieval_budget": self.agent.retrieval_budget,
                 "temperature": self.agent.temperature,
                 "max_output_tokens": self.agent.max_output_tokens,
@@ -143,7 +146,7 @@ class ExperimentConfig:
         values = self.to_dict()
         serialized = json.dumps(
             {
-                "schema_version": self.schema_version,
+                "schema_version": _INDEX_IDENTITY_SCHEMA_VERSION,
                 "index": values["index"],
                 "retrieval": values["retrieval"],
             },
@@ -193,6 +196,15 @@ def _choice(value: object, name: str, choices: set[str]) -> str:
     return value
 
 
+def _string(value: object, name: str, maximum: int) -> str:
+    if not isinstance(value, str):
+        raise ValueError(f"{name} must be a string")
+    normalized = value.strip()
+    if not normalized or len(normalized) > maximum:
+        raise ValueError(f"{name} must contain between 1 and {maximum} characters")
+    return normalized
+
+
 def _load_document(path: Path) -> dict[str, Any]:
     try:
         with path.open(encoding="utf-8") as stream:
@@ -227,7 +239,9 @@ def load_experiment_config(path: Path) -> ExperimentConfig:
         },
     )
     agent = _mapping(
-        document["agent"], "agent", {"retrieval_budget", "temperature", "max_output_tokens"}
+        document["agent"],
+        "agent",
+        {"system_prompt", "retrieval_budget", "temperature", "max_output_tokens"},
     )
     provider = _mapping(
         document["provider"],
@@ -258,6 +272,7 @@ def load_experiment_config(path: Path) -> ExperimentConfig:
         retrieval_budget=_integer(agent["retrieval_budget"], "retrieval_budget", 1, 20),
         temperature=_number(agent["temperature"], "temperature", 0, 2),
         max_output_tokens=_integer(agent["max_output_tokens"], "max_output_tokens", 64, 8192),
+        system_prompt=_string(agent["system_prompt"], "system_prompt", 20_000),
     )
     provider_config = ProviderConfig(
         request_timeout_seconds=_number(

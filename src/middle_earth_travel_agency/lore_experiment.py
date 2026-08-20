@@ -23,7 +23,6 @@ from .experiment_config import (
     RunnerConfig,
 )
 from .lore_agent import (
-    SYSTEM_PROMPT,
     AttemptError,
     AttemptRecord,
     ModelAdapter,
@@ -35,6 +34,9 @@ from .retrieval_index import EvidencePassage, RetrievalIndex
 
 RUN_SCHEMA_VERSION = 1
 REVIEW_SCHEMA_VERSION = 1
+_LEGACY_PROMPT_IDENTITIES = frozenset(
+    {"0dc860735b243cb14f34282c2f861faeb6012af5795668733a8354c03a6888a2"}
+)
 
 
 @dataclass(frozen=True)
@@ -230,8 +232,8 @@ def _attempt_id(run_id: str, case_id: str, model: str, condition: str) -> str:
     return hashlib.sha256(f"{run_id}\0{case_id}\0{model}\0{condition}".encode()).hexdigest()
 
 
-def _prompt_identity() -> str:
-    return hashlib.sha256(SYSTEM_PROMPT.encode()).hexdigest()
+def _prompt_identity(system_prompt: str) -> str:
+    return hashlib.sha256(system_prompt.encode()).hexdigest()
 
 
 def _validate_cases(
@@ -269,7 +271,7 @@ def _validate_models(models: Sequence[str]) -> tuple[str, ...]:
 
 def _validate_config(config: ExperimentConfig) -> None:
     """Validate direct construction with the same bounds as the YAML boundary."""
-    if not isinstance(config, ExperimentConfig) or config.schema_version != 1:
+    if not isinstance(config, ExperimentConfig) or config.schema_version not in {1, 2}:
         raise ValueError("experiment configuration is invalid")
     index, retrieval = config.index, config.retrieval
     agent, provider, runner, report = config.agent, config.provider, config.runner, config.report
@@ -292,6 +294,9 @@ def _validate_config(config: ExperimentConfig) -> None:
         and 0 <= agent.temperature <= 2
         and isinstance(agent.max_output_tokens, int)
         and 64 <= agent.max_output_tokens <= 8192
+        and isinstance(agent.system_prompt, str)
+        and bool(agent.system_prompt.strip())
+        and len(agent.system_prompt) <= 20_000
         and isinstance(provider.request_timeout_seconds, (int, float))
         and isinstance(provider.attempt_timeout_seconds, (int, float))
         and 1 <= provider.request_timeout_seconds <= 600
@@ -381,7 +386,7 @@ class ExperimentRunner:
             cases=self._cases,
             conditions=("retrieval-disabled", "retrieval-enabled"),
             expected_attempts=100,
-            prompt_identity=_prompt_identity(),
+            prompt_identity=_prompt_identity(self._config.agent.system_prompt),
         )
 
     async def run(self) -> RunResult:
@@ -563,11 +568,12 @@ def _serialized_config(value: object) -> dict[str, object]:
         },
         "retrieval configuration",
     )
-    agent = _strict_mapping(
-        root["agent"],
-        {"retrieval_budget", "temperature", "max_output_tokens"},
-        "agent configuration",
-    )
+    raw_agent = root["agent"]
+    legacy_agent = root["schema_version"] == 1
+    agent_fields = {"retrieval_budget", "temperature", "max_output_tokens"}
+    if not legacy_agent:
+        agent_fields.add("system_prompt")
+    agent = _strict_mapping(raw_agent, agent_fields, "agent configuration")
     provider = _strict_mapping(
         root["provider"],
         {"request_timeout_seconds", "attempt_timeout_seconds", "max_retries"},
@@ -589,7 +595,10 @@ def _serialized_config(value: object) -> dict[str, object]:
                 retrieval["tie_breaker"],
             ),
             AgentConfig(
-                agent["retrieval_budget"], agent["temperature"], agent["max_output_tokens"]
+                agent["retrieval_budget"],
+                agent["temperature"],
+                agent["max_output_tokens"],
+                agent.get("system_prompt", "legacy prompt retained by identity"),
             ),
             ProviderConfig(
                 provider["request_timeout_seconds"],
@@ -695,10 +704,20 @@ def _load_envelope(value: object) -> RunEnvelope:
         raise ValueError("run envelope has invalid experiment coordinates")
     if len(envelope.cases) != 10 or len({case.case_id for case in envelope.cases}) != 10:
         raise ValueError("run envelope has invalid cases")
+    serialized_agent = envelope.config["agent"]
+    if not isinstance(serialized_agent, Mapping):
+        raise ValueError("run envelope has invalid agent configuration")
+    serialized_prompt = serialized_agent.get("system_prompt")
+    prompt_matches = (
+        envelope.prompt_identity in _LEGACY_PROMPT_IDENTITIES
+        if serialized_prompt is None
+        else isinstance(serialized_prompt, str)
+        and envelope.prompt_identity == _prompt_identity(serialized_prompt)
+    )
     if (
         envelope.cases != CASES
         or envelope.conditions != ("retrieval-disabled", "retrieval-enabled")
-        or envelope.prompt_identity != _prompt_identity()
+        or not prompt_matches
     ):
         raise ValueError("run envelope does not match the approved experiment")
     return envelope

@@ -9,7 +9,7 @@ from middle_earth_travel_agency.experiment_config import (
 
 
 BASELINE = """\
-schema_version: 1
+schema_version: 2
 index:
   tokenizer: unicode61
   remove_diacritics: 2
@@ -21,6 +21,8 @@ retrieval:
   body_weight: 1.0
   tie_breaker: passage-id
 agent:
+  system_prompt: >-
+    Test system prompt.
   retrieval_budget: 4
   temperature: 0.0
   max_output_tokens: 1024
@@ -45,11 +47,13 @@ def _config_file(tmp_path, content=BASELINE):
 def test_loads_the_complete_baseline_into_immutable_normalized_values(tmp_path):
     config = load_experiment_config(_config_file(tmp_path))
 
+    assert config.schema_version == 2
     assert config.index.tokenizer == "unicode61"
     assert config.index.remove_diacritics == 2
     assert config.retrieval.result_limit == 5
     assert config.retrieval.weights == (5.0, 2.0, 1.0)
     assert config.agent.retrieval_budget == 4
+    assert config.agent.system_prompt == "Test system prompt."
     assert config.provider.request_timeout_seconds == 60.0
     assert config.runner.max_concurrency == 5
     assert config.report.evidence_excerpt_characters == 1200
@@ -59,9 +63,9 @@ def test_loads_the_complete_baseline_into_immutable_normalized_values(tmp_path):
 
 def test_canonical_non_secret_representation_and_identity_are_stable(tmp_path):
     config = load_experiment_config(_config_file(tmp_path))
-    reordered = BASELINE.replace("schema_version: 1\n", "").replace(
+    reordered = BASELINE.replace("schema_version: 2\n", "").replace(
         "report:\n  evidence_excerpt_characters: 1200\n",
-        "report:\n  evidence_excerpt_characters: 1200\nschema_version: 1\n",
+        "report:\n  evidence_excerpt_characters: 1200\nschema_version: 2\n",
     )
 
     assert (
@@ -85,18 +89,25 @@ def test_index_identity_changes_only_for_index_and_retrieval_settings(tmp_path):
     retrieval_change = load_experiment_config(
         _config_file(tmp_path / "retrieval", BASELINE.replace("result_limit: 5", "result_limit: 6"))
     )
+    prompt_change = load_experiment_config(
+        _config_file(
+            tmp_path / "prompt", BASELINE.replace("Test system prompt.", "Changed system prompt.")
+        )
+    )
 
     assert runner_change.config_identity != baseline.config_identity
     assert runner_change.index_identity == baseline.index_identity
     assert retrieval_change.config_identity != baseline.config_identity
     assert retrieval_change.index_identity != baseline.index_identity
+    assert prompt_change.config_identity != baseline.config_identity
+    assert prompt_change.index_identity == baseline.index_identity
 
 
 @pytest.mark.parametrize(
     ("content", "message"),
     [
-        (BASELINE.replace("schema_version: 1", "schema_version: 2"), "schema_version"),
-        (BASELINE.replace("schema_version: 1", "schema_version: 1\nunknown: value"), "unknown"),
+        (BASELINE.replace("schema_version: 2", "schema_version: 3"), "schema_version"),
+        (BASELINE.replace("schema_version: 2", "schema_version: 2\nunknown: value"), "unknown"),
         (BASELINE.replace("result_limit: 5", "result_limit: 5\n  result_limit: 3"), "duplicate"),
         (BASELINE.replace("query_mode: all-terms", "query_mode: !unsafe all-terms"), "tag"),
         (BASELINE.replace("result_limit: 5", "result_limit: 51"), "result_limit"),
@@ -111,6 +122,9 @@ def test_index_identity_changes_only_for_index_and_retrieval_settings(tmp_path):
             "attempt_timeout",
         ),
         (BASELINE.replace("temperature: 0.0", "temperature: true"), "temperature"),
+        (BASELINE.replace("Test system prompt.", "   "), "system_prompt"),
+        (BASELINE.replace("Test system prompt.", "x" * 20_001), "system_prompt"),
+        (BASELINE.replace("system_prompt: >-", "system_prompt: 42\n  ignored: >-"), "unknown"),
     ],
 )
 def test_rejects_unsafe_or_invalid_configuration(tmp_path, content, message):
@@ -187,6 +201,7 @@ def test_rejects_every_documented_out_of_range_value(tmp_path, old, new, message
         BASELINE.replace("report:\n  evidence_excerpt_characters: 1200\n", ""),
         BASELINE.replace("result_limit: 5", "result_limit: 5\n  unknown: true"),
         BASELINE.replace("max_output_tokens: 1024", "max_output_tokens: words"),
+        BASELINE.replace("  system_prompt: >-\n    Test system prompt.\n", ""),
         BASELINE.replace("index:\n  tokenizer: unicode61\n  remove_diacritics: 2", "index: []"),
         BASELINE.replace("index:", "defaults: &defaults {}\nindex:\n  <<: *defaults"),
     ],

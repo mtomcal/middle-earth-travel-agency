@@ -19,7 +19,7 @@ from middle_earth_travel_agency.experiment_config import (
     RetrievalConfig,
     RunnerConfig,
 )
-from middle_earth_travel_agency.lore_agent import SYSTEM_PROMPT, AttemptError, AttemptRecord
+from middle_earth_travel_agency.lore_agent import AttemptError, AttemptRecord
 from middle_earth_travel_agency.lore_experiment import (
     CASES,
     BatchFailure,
@@ -27,6 +27,7 @@ from middle_earth_travel_agency.lore_experiment import (
     ReviewDecision,
     StoredAttempt,
     _attempt_id,
+    _load_envelope,
     load_run_artifacts,
     _prompt_identity,
     validate_complete_batch,
@@ -52,12 +53,15 @@ class _Adapter:
         self.model = model
 
 
+SYSTEM_PROMPT = "Use the configured experiment test prompt."
+
+
 @pytest.fixture
 def config() -> ExperimentConfig:
     return ExperimentConfig(
         index=IndexConfig("unicode61", 2),
         retrieval=RetrievalConfig("all-terms", 5, 5.0, 2.0, 1.0, "passage-id"),
-        agent=AgentConfig(4, 0.0, 1024),
+        agent=AgentConfig(4, 0.0, 1024, SYSTEM_PROMPT),
         provider=ProviderConfig(60.0, 300.0, 1),
         runner=RunnerConfig(5),
         report=ReportConfig(1200),
@@ -117,7 +121,39 @@ def test_catalog_is_exact_and_human_only_fields_do_not_enter_attempts() -> None:
 
 
 def test_prompt_identity_matches_the_exact_agent_system_prompt() -> None:
-    assert _prompt_identity() == hashlib.sha256(SYSTEM_PROMPT.encode()).hexdigest()
+    assert _prompt_identity(SYSTEM_PROMPT) == hashlib.sha256(SYSTEM_PROMPT.encode()).hexdigest()
+
+
+def test_envelope_binds_the_resolved_prompt_and_accepts_legacy_prompt_identity(
+    tmp_path: Path, config: ExperimentConfig
+) -> None:
+    document = _runner(tmp_path, config)._envelope().to_dict()
+    document_config = document["config"]
+    assert isinstance(document_config, dict)
+    document_agent = document_config["agent"]
+    assert isinstance(document_agent, dict)
+    assert document_agent["system_prompt"] == SYSTEM_PROMPT
+    assert document["prompt_identity"] == _prompt_identity(SYSTEM_PROMPT)
+
+    changed = json.loads(json.dumps(document))
+    changed["config"]["agent"]["system_prompt"] = "Changed after the run."
+    changed["config_identity"] = hashlib.sha256(
+        json.dumps(changed["config"], sort_keys=True, separators=(",", ":")).encode()
+    ).hexdigest()
+    with pytest.raises(ValueError, match="approved experiment"):
+        _load_envelope(changed)
+
+    legacy = json.loads(json.dumps(document))
+    legacy["config"]["schema_version"] = 1
+    legacy["config"]["agent"].pop("system_prompt")
+    legacy["config_identity"] = hashlib.sha256(
+        json.dumps(legacy["config"], sort_keys=True, separators=(",", ":")).encode()
+    ).hexdigest()
+    legacy["prompt_identity"] = "0dc860735b243cb14f34282c2f861faeb6012af5795668733a8354c03a6888a2"
+    loaded = _load_envelope(legacy)
+    loaded_agent = loaded.config["agent"]
+    assert isinstance(loaded_agent, dict)
+    assert "system_prompt" not in loaded_agent
 
 
 def test_runner_persists_100_terminal_cells_in_disabled_then_enabled_waves(

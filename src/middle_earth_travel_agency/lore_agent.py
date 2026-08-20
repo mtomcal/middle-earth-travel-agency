@@ -23,11 +23,6 @@ from .retrieval_index import ContextResult, EvidencePassage, SearchResult
 
 OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"
 _MAX_ERROR_MESSAGE = 240
-SYSTEM_PROMPT = (
-    "Answer the user's question using approved lore tools when useful. "
-    "Finish only by calling submit_answer. Use insufficient_evidence when the "
-    "available evidence cannot support an answer."
-)
 
 
 SEARCH_LORE_SCHEMA: dict[str, object] = {
@@ -392,7 +387,7 @@ async def answer_case(
     budget = config.agent.retrieval_budget
     provider_calls = _ProviderCallStats()
     messages: list[BaseMessage] = [
-        SystemMessage(content=SYSTEM_PROMPT),
+        SystemMessage(content=config.agent.system_prompt),
         HumanMessage(content=question),
     ]
     final_only = False

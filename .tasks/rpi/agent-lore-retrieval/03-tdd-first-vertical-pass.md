@@ -488,7 +488,7 @@ The eventual `.env.example` contains a blank `META_OPENROUTER_API_KEY`, a docume
 Both Phase 0 commands receive the same explicit YAML file. A human can copy and edit this non-secret baseline:
 
 ```yaml
-schema_version: 1
+schema_version: 2
 
 index:
   tokenizer: unicode61
@@ -503,6 +503,10 @@ retrieval:
   tie_breaker: passage-id
 
 agent:
+  system_prompt: >-
+    Answer the user's question using approved lore tools when useful. Finish only by
+    calling submit_answer. Use insufficient_evidence when the available evidence cannot
+    support an answer.
   retrieval_budget: 4
   temperature: 0.0
   max_output_tokens: 1024

@@ -97,7 +97,7 @@ The sections control:
 |---|---|
 | `index` | FTS tokenizer and diacritic folding |
 | `retrieval` | query mode, result limit, BM25 weights, and deterministic tie breaker |
-| `agent` | retrieval-call budget, temperature, and maximum output tokens |
+| `agent` | system prompt, retrieval-call budget, temperature, and maximum output tokens |
 | `provider` | request timeout, overall attempt timeout, and transient retry count |
 | `runner` | maximum concurrent attempts, from one through five |
 | `report` | displayed evidence-excerpt length |
@@ -112,9 +112,12 @@ index. Changing only agent, provider, runner, report, or model-list values does
 not require rebuilding the index, but always requires a new experiment output
 directory. Never change settings between cells in one batch.
 
-The prompt and ten-case catalog are deliberately code-owned. They have no CLI,
-environment, or YAML override. Changing either is an implementation change and
-requires corresponding tests and a newly identified batch.
+The system prompt is deliberately YAML-owned experiment surface area. Copy the
+baseline configuration, edit `agent.system_prompt`, and use a newly identified
+batch directory for every prompt hypothesis. The exact normalized prompt is
+retained in `run.json` and covered by both configuration and prompt identities.
+Changing the prompt does not require rebuilding the retrieval index. The
+ten-case catalog remains code-owned and has no CLI, environment, or YAML override.
 
 ## Build a compatible retrieval index
 

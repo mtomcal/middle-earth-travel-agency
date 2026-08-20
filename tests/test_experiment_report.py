@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import re
 from pathlib import Path
 
 import pytest
@@ -83,6 +84,22 @@ def _record(case_id: str, model: str, condition: str) -> AttemptRecord:
             retry_count=0,
             duration_seconds=0.01,
         )
+    if case_id == "easy-03" and model == "model-three" and enabled:
+        return AttemptRecord(
+            question=case.question,
+            model=model,
+            retrieval_enabled=True,
+            classification="failed",
+            outcome=None,
+            answer=None,
+            evidence_passage_ids=(),
+            evidence=(),
+            tool_trace=(),
+            error=AttemptError("missing_submission", "submission", "No terminal submission"),
+            provider_request_count=1,
+            retry_count=0,
+            duration_seconds=0.01,
+        )
     return AttemptRecord(
         question=case.question,
         model=model,
@@ -116,6 +133,16 @@ def _attempts() -> tuple[StoredAttempt, ...]:
     )
 
 
+def _totals(report: str, label: str) -> dict[str, int]:
+    start = report.index(f'<dl class="result-totals" aria-label="{label}">')
+    end = report.index("</dl>", start)
+    fragment = report[start:end]
+    return {
+        name: int(count)
+        for name, count in re.findall(r"</span>([^<]+)</dt><dd>(\d+)</dd>", fragment)
+    }
+
+
 def test_rendering_is_deterministic_escaped_and_condition_specific() -> None:
     envelope = _envelope()
     attempts = _attempts()
@@ -133,6 +160,7 @@ def test_rendering_is_deterministic_escaped_and_condition_specific() -> None:
     assert "… [excerpt truncated]" in enabled
     assert "Sanitized failure details" in enabled
     assert "&lt;message&gt;" in enabled
+    assert '<span class="badge missing_submission">No submission</span>' in enabled
     assert "<script" not in enabled.lower()
     assert "<script" not in disabled.lower()
     assert "No retrieval available." in disabled
@@ -144,6 +172,49 @@ def test_rendering_is_deterministic_escaped_and_condition_specific() -> None:
         disabled.index(model) for model in MODELS
     )
     assert "score, rank, winner, or recommendation" in enabled
+
+
+def test_rendering_totals_each_result_type_by_question_and_model() -> None:
+    enabled = render_report(_envelope(), _attempts(), "retrieval-enabled")
+
+    assert "Counts are terminal result totals, not scores." in enabled
+    assert _totals(enabled, "Result totals for question easy-01") == {
+        "Grounded": 1,
+        "Ungrounded answer": 0,
+        "Insufficient evidence": 4,
+        "No submission": 0,
+        "Failed": 0,
+    }
+    assert _totals(enabled, "Result totals for question easy-03") == {
+        "Grounded": 0,
+        "Ungrounded answer": 0,
+        "Insufficient evidence": 4,
+        "No submission": 1,
+        "Failed": 0,
+    }
+    assert _totals(enabled, "Result totals for model model-one") == {
+        "Grounded": 1,
+        "Ungrounded answer": 0,
+        "Insufficient evidence": 9,
+        "No submission": 0,
+        "Failed": 0,
+    }
+    assert _totals(enabled, "Result totals for model model-three") == {
+        "Grounded": 0,
+        "Ungrounded answer": 0,
+        "Insufficient evidence": 9,
+        "No submission": 1,
+        "Failed": 0,
+    }
+    assert _totals(enabled, "Result totals for retrieval-enabled") == {
+        "Grounded": 1,
+        "Ungrounded answer": 0,
+        "Insufficient evidence": 47,
+        "No submission": 1,
+        "Failed": 1,
+    }
+    assert "Result totals by question" in enabled
+    assert "Result totals by model" in enabled
 
 
 def test_rendering_requires_one_complete_terminal_record_per_coordinate() -> None:

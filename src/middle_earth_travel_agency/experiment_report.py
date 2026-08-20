@@ -6,6 +6,7 @@ import html
 import json
 import os
 import tempfile
+from collections import Counter
 from collections.abc import Mapping, Sequence
 from dataclasses import dataclass
 from pathlib import Path
@@ -16,6 +17,13 @@ from .retrieval_index import EvidencePassage
 
 _CONDITIONS = ("retrieval-disabled", "retrieval-enabled")
 _TRUNCATION_MARKER = "… [excerpt truncated]"
+_RESULT_TYPES = (
+    ("grounded", "Grounded"),
+    ("ungrounded_answer", "Ungrounded answer"),
+    ("insufficient_evidence", "Insufficient evidence"),
+    ("missing_submission", "No submission"),
+    ("failed", "Failed"),
+)
 
 
 @dataclass(frozen=True)
@@ -54,8 +62,21 @@ def _condition_label(condition: str) -> str:
 
 def _status(record: StoredAttempt) -> str:
     if record.record.error is not None:
+        if record.record.error.code == "missing_submission":
+            return "missing_submission"
         return "failed"
     return record.record.classification
+
+
+def _result_totals(attempts: Sequence[StoredAttempt], label: str) -> str:
+    counts = Counter(_status(attempt) for attempt in attempts)
+    items = "".join(
+        '<div class="result-total">'
+        f'<dt><span class="result-swatch {_text(status)}" aria-hidden="true"></span>'
+        f"{_text(display)}</dt><dd>{counts[status]}</dd></div>"
+        for status, display in _RESULT_TYPES
+    )
+    return f'<dl class="result-totals" aria-label="{_text(label)}">{items}</dl>'
 
 
 def _ordered_evidence(attempt: StoredAttempt) -> tuple[EvidencePassage, ...]:
@@ -101,7 +122,7 @@ def _diagnostics(attempt: StoredAttempt) -> str:
 
 def _cell(attempt: StoredAttempt, condition: str, excerpt_limit: int) -> str:
     status = _status(attempt)
-    label = status.replace("_", " ")
+    label = dict(_RESULT_TYPES)[status]
     parts = [f'<span class="badge {_text(status)}">{_text(label)}</span>']
     if attempt.record.error is None and attempt.record.answer:
         parts.append(f'<p class="answer">{_paragraphs(attempt.record.answer)}</p>')
@@ -121,9 +142,10 @@ main { max-width:1540px; margin:auto; } header, section, details.config { margin
 h1,h2 { color:var(--forest); } .condition { color:var(--forest); } .companion { color:#fff; background:var(--forest); padding:.6rem .8rem; text-decoration:none; }
 .meta { display:flex; flex-wrap:wrap; gap:1rem; font: .82rem/1.35 ui-monospace,monospace; } .notice { border-left:5px solid #a8792b; padding:.8rem; background:#fff9e9; }
 .models, .inventory { padding-left:1.2rem; } .models { font-family:ui-monospace,monospace; overflow-wrap:anywhere; } .case-notes { margin-top:.7rem; }
-.table-wrap { overflow:auto; max-height:78vh; border:1px solid var(--line); } table { min-width:1840px; width:100%; border-collapse:separate; border-spacing:0; table-layout:fixed; }
+.table-wrap { overflow:auto; max-height:78vh; border:1px solid var(--line); } table { min-width:2150px; width:100%; border-collapse:separate; border-spacing:0; table-layout:fixed; }
 th,td { padding:.8rem; vertical-align:top; border-right:1px solid var(--line); border-bottom:1px solid var(--line); background:#fffaf0; } thead th { position:sticky; top:0; z-index:2; color:#fff; background:var(--forest); font-family:ui-monospace,monospace; } tbody th { position:sticky; left:0; z-index:1; width:330px; background:#efe4c8; text-align:left; } td { width:302px; }
-.case-id { display:block; color:var(--forest); font:700 .75rem/1.2 ui-monospace,monospace; } .badge { display:inline-block; padding:.25rem .45rem; border-radius:999px; font:700 .68rem/1 system-ui,sans-serif; text-transform:uppercase; } .grounded { background:#cfe3d2; } .ungrounded_answer { background:#f3e6bd; } .insufficient_evidence { background:#e5dfeb; } .failed { background:#f1ded8; }
+.case-id { display:block; color:var(--forest); font:700 .75rem/1.2 ui-monospace,monospace; } .badge { display:inline-block; padding:.25rem .45rem; border-radius:999px; font:700 .68rem/1 system-ui,sans-serif; text-transform:uppercase; } .badge.grounded,.result-swatch.grounded { background:#cfe3d2; } .badge.ungrounded_answer,.result-swatch.ungrounded_answer { background:#f3e6bd; } .badge.insufficient_evidence,.result-swatch.insufficient_evidence { background:#e5dfeb; } .badge.missing_submission,.result-swatch.missing_submission { background:#ead8c5; } .badge.failed,.result-swatch.failed { background:#f1ded8; }
+.totals-heading,.totals-cell { width:250px; } .totals-cell,tfoot th,tfoot td { background:#f7efd9; } tfoot th { position:sticky; left:0; z-index:1; text-align:left; color:var(--forest); } .result-totals { display:grid; grid-template-columns:1fr auto; gap:.25rem .65rem; margin:0; font: .72rem/1.3 system-ui,sans-serif; } .result-total { display:contents; } .result-total dt { display:flex; align-items:center; gap:.35rem; color:var(--ink); font:inherit; text-transform:none; } .result-total dd { margin:0; font-weight:800; text-align:right; } .result-swatch { width:.7rem; height:.7rem; border:1px solid rgb(40 39 31 / 25%); border-radius:50%; flex:none; } .matrix-note { color:var(--muted); }
 .evidence,.diagnostics { margin-top:.65rem; border-top:1px dashed var(--line); } summary { cursor:pointer; } dl { margin:.5rem 0; } dt { color:var(--muted); font:700 .68rem/1.2 system-ui,sans-serif; text-transform:uppercase; } dd { margin:.15rem 0 .5rem; overflow-wrap:anywhere; } .passage { font-family:ui-monospace,monospace; } .excerpt { font-style:italic; } .cell-note { color:var(--muted); }
 @media (max-width:900px) { body { padding:.5rem; } } @media print { .table-wrap { max-height:none; overflow:visible; } thead th,tbody th { position:static; } table { min-width:0; font-size:8pt; } }
 </style>"""
@@ -142,17 +164,17 @@ def render_report(envelope: RunEnvelope, attempts: Sequence[StoredAttempt], cond
     )
     rows = []
     for case in envelope.cases:
+        row_attempts = [
+            attempts_by_coordinate[(case.case_id, model, condition)] for model in envelope.models
+        ]
         cells = "".join(
-            "<td>"
-            + _cell(
-                attempts_by_coordinate[(case.case_id, model, condition)], condition, excerpt_limit
-            )
-            + "</td>"
-            for model in envelope.models
+            "<td>" + _cell(attempt, condition, excerpt_limit) + "</td>" for attempt in row_attempts
         )
+        totals = _result_totals(row_attempts, f"Result totals for question {case.case_id}")
         rows.append(
             '<tr><th scope="row"><span class="case-id">'
-            f"{_text(case.difficulty)} · {_text(case.case_id)}</span>{_text(case.question)}</th>{cells}</tr>"
+            f"{_text(case.difficulty)} · {_text(case.case_id)}</span>{_text(case.question)}</th>"
+            f'{cells}<td class="totals-cell">{totals}</td></tr>'
         )
     inventory = "".join(
         "<li><strong>"
@@ -163,6 +185,21 @@ def render_report(envelope: RunEnvelope, attempts: Sequence[StoredAttempt], cond
         for case in envelope.cases
     )
     headers = "".join(f'<th scope="col">{_text(model)}</th>' for model in envelope.models)
+    column_totals = "".join(
+        "<td>"
+        + _result_totals(
+            [attempts_by_coordinate[(case.case_id, model, condition)] for case in envelope.cases],
+            f"Result totals for model {model}",
+        )
+        + "</td>"
+        for model in envelope.models
+    )
+    condition_attempts = [
+        attempts_by_coordinate[(case.case_id, model, condition)]
+        for case in envelope.cases
+        for model in envelope.models
+    ]
+    all_totals = _result_totals(condition_attempts, f"Result totals for {condition}")
     config = _text(json.dumps(envelope.config, ensure_ascii=False, sort_keys=True, indent=2))
     label = _condition_label(condition)
     return "\n".join(
@@ -183,10 +220,16 @@ def render_report(envelope: RunEnvelope, attempts: Sequence[StoredAttempt], cond
             + "</ol></section>",
             f'<details class="config"><summary>Run configuration · non-secret</summary><pre>{config}</pre></details>',
             f'<section><h2>Question inventory</h2><ol class="inventory">{inventory}</ol></section>',
-            '<section><h2>Comparison matrix</h2><div class="table-wrap"><table><caption>'
-            f'{_text(label)} responses</caption><thead><tr><th scope="col">Question</th>{headers}</tr></thead><tbody>'
+            "<section><h2>Comparison matrix</h2>"
+            '<p class="matrix-note">Counts are terminal result totals, not scores. No submission is the '
+            "<code>missing_submission</code> failure subtype; Failed contains all other failures.</p>"
+            '<div class="table-wrap"><table><caption>'
+            f"{_text(label)} responses and result totals by question and model</caption>"
+            f'<thead><tr><th scope="col">Question</th>{headers}<th scope="col" class="totals-heading">Result totals by question</th></tr></thead><tbody>'
             + "".join(rows)
-            + "</tbody></table></div></section>",
+            + '</tbody><tfoot><tr><th scope="row">Result totals by model</th>'
+            + column_totals
+            + f'<td class="totals-cell">{all_totals}</td></tr></tfoot></table></div></section>',
             "</main></body></html>",
         )
     )

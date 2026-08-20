@@ -18,9 +18,11 @@ The implemented slice currently covers offline candidate discovery, acquisition
 and extraction from the pinned Wikimedia source, deterministic corpus backup,
 a passage-only terminal curation cockpit with auditable SQLite working state and
 a deterministic, versionable JSONL representation, and immutable release
-creation and validation for lore-bearing articles.
-Release activation, retrieval indexing, travel planning, guide generation,
-evaluation, and the web experience are not implemented yet.
+creation and validation for lore-bearing articles. It also includes disposable
+SQLite lore indexing and a human-reviewed five-model grounding experiment with
+matched retrieval-enabled and retrieval-disabled reports.
+Release activation, travel planning, guide generation, and the web experience
+are not implemented yet.
 
 ## Documentation
 
@@ -58,6 +60,7 @@ The implementation uses `middle_earth_travel_agency` as its Python package and
 - [Back up and restore corpus evidence](docs/runbooks/back-up-and-restore.md)
 - [Curate extracted passages](docs/runbooks/curate-corpus.md)
 - [Create and validate a corpus release](docs/runbooks/release-corpus.md)
+- [Run a lore-grounding experiment](docs/runbooks/run-lore-grounding-experiment.md)
 
 ## Verification
 

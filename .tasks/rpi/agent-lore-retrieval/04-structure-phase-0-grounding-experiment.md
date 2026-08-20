@@ -1,7 +1,7 @@
 1. [x] Phase 1 — Publish and query a compatible lore index
-2. [ ] Phase 2 — Produce one bounded evidence-aware model attempt
-3. [ ] Phase 3 — Retain one complete matched comparison batch
-4. [ ] Phase 4 — Deliver the operator command and paired review reports
+2. [x] Phase 2 — Produce one bounded evidence-aware model attempt
+3. [x] Phase 3 — Retain one complete matched comparison batch
+4. [x] Phase 4 — Deliver the operator command and paired review reports
 5. [ ] Phase 5 — Run the live qualification and record the human gate
 
 ## Phase 1 — Publish and query a compatible lore index
@@ -52,21 +52,21 @@ Dependency: Phase 1. Given one question, one pinned `RetrievalIndex`, one retrie
 
 ### Automated checks
 
-- [ ] Adapter tests verify the exact OpenRouter model ID, `https://openrouter.ai/api/v1`, direct secret injection without global environment mutation, frozen decoding/timeouts/retries, streaming disabled, and no server tools, web search, fallback models, or router-specific required fields.
-- [ ] Tool-schema tests prove prompts can supply only plain query text or a previously returned passage ID and cannot access SQL, paths, manifests, index lifecycle, release selection, ranking controls, result limits, files, or alternate evidence sources.
-- [ ] Loop tests require the first retrieval call to be search, execute calls sequentially in declared order, emit one correlated `ToolMessage` per call, count each valid or invalid retrieval request, restrict context to evidence already returned in the attempt, and record the ordered safe trace.
-- [ ] Budget tests enforce the default four-call limit, all valid configured limits, and a derived model-turn ceiling; reject mixed retrieval/final or multiple final calls; send excess calls bounded errors; provide one correction opportunity while budget remains; and make exactly one final-only invocation after exhaustion.
-- [ ] Submission tests accept only one non-empty typed `submit_answer`, preserve ordered duplicate-free in-scope evidence IDs, classify answered-with-valid-evidence as grounded, keep unsupported answer text visibly `ungrounded_answer`, and never treat plain assistant text as completion.
-- [ ] Disabled-condition and insufficiency tests prove the model receives the same prompt without being told its condition, search/context return no evidence, no fallback exists, answered model-memory prose stays ungrounded, and an honest insufficient-evidence submission remains distinct from a model/retrieval failure.
-- [ ] Retry/timeout tests cover only transport failures, request timeouts, HTTP 429, and HTTP 5xx; identical retry inputs; `Retry-After` and bounded jitter; overall-deadline cancellation; no budget/turn consumption; and no retries for authentication, other 4xx, tool, or submission errors.
-- [ ] Sanitization tests prove records never contain API keys, headers, raw exception representations, provider bodies, stack traces, hidden reasoning, or unapproved prompt content while retaining safe failure code/stage/message, request/retry counts, timing, usage, and returned model identity.
-- [ ] `uv run pytest tests/test_lore_agent.py`, `uv run ruff check .`, `uv run ruff format --check .`, and `uv run pyright` pass.
+- [x] Adapter tests verify the exact OpenRouter model ID, `https://openrouter.ai/api/v1`, direct secret injection without global environment mutation, frozen decoding/timeouts/retries, streaming disabled, and no server tools, web search, fallback models, or router-specific required fields.
+- [x] Tool-schema tests prove prompts can supply only plain query text or a previously returned passage ID and cannot access SQL, paths, manifests, index lifecycle, release selection, ranking controls, result limits, files, or alternate evidence sources.
+- [x] Loop tests require the first retrieval call to be search, execute calls sequentially in declared order, emit one correlated `ToolMessage` per call, count each valid or invalid retrieval request, restrict context to evidence already returned in the attempt, and record the ordered safe trace.
+- [x] Budget tests enforce the default four-call limit, all valid configured limits, and a derived model-turn ceiling; reject mixed retrieval/final or multiple final calls; send excess calls bounded errors; provide one correction opportunity while budget remains; and make exactly one final-only invocation after exhaustion.
+- [x] Submission tests accept only one non-empty typed `submit_answer`, preserve ordered duplicate-free in-scope evidence IDs, classify answered-with-valid-evidence as grounded, keep unsupported answer text visibly `ungrounded_answer`, and never treat plain assistant text as completion.
+- [x] Disabled-condition and insufficiency tests prove the model receives the same prompt without being told its condition, search/context return no evidence, no fallback exists, answered model-memory prose stays ungrounded, and an honest insufficient-evidence submission remains distinct from a model/retrieval failure.
+- [x] Retry/timeout tests cover only transport failures, request timeouts, HTTP 429, and HTTP 5xx; identical retry inputs; `Retry-After` and bounded jitter; overall-deadline cancellation; no budget/turn consumption; and no retries for authentication, other 4xx, tool, or submission errors.
+- [x] Sanitization tests prove records never contain API keys, headers, raw exception representations, provider bodies, stack traces, hidden reasoning, or unapproved prompt content while retaining safe failure code/stage/message, request/retry counts, timing, usage, and returned model identity.
+- [x] `uv run pytest tests/test_lore_agent.py`, `uv run ruff check .`, `uv run ruff format --check .`, and `uv run pyright` pass.
 
 ### Manual validation
 
-- [ ] Drive one easy enabled case through the deterministic adapter and inspect the resulting answer, evidence IDs, ordered tool trace, budget transitions, and resolved display passages.
-- [ ] Drive the same case with retrieval disabled and confirm that no passage content appears and any factual submitted answer is labeled ungrounded rather than promoted.
-- [ ] Simulate a malformed call, a transient retry, and a timeout and confirm each retained diagnostic is useful but contains no credential or provider payload.
+- [x] Drive one easy enabled case through the deterministic adapter and inspect the resulting answer, evidence IDs, ordered tool trace, budget transitions, and resolved display passages.
+- [x] Drive the same case with retrieval disabled and confirm that no passage content appears and any factual submitted answer is labeled ungrounded rather than promoted.
+- [x] Simulate a malformed call, a transient retry, and a timeout and confirm each retained diagnostic is useful but contains no credential or provider payload.
 
 ## Phase 3 — Retain one complete matched comparison batch
 
@@ -82,21 +82,21 @@ Dependency: Phase 2. A direct `ExperimentRunner` invocation freezes one validate
 
 ### Automated checks
 
-- [ ] Catalog tests lock the exact five easy and five hard IDs/questions, require unique IDs/questions, validate every human-only expected passage against the pinned index, and prove review focus/evidence expectations never enter messages, searches, or tool results.
-- [ ] Preflight tests reject missing/duplicate/malformed five-model lists, incompatible manifest/index/config identities, bad output destinations, and invalid resolved configuration before a provider call or run directory is created.
-- [ ] Envelope tests prove `run.json` is written before calls and retains schema/run identity, creation time, source revision, release/index/config identities, ordered models/cases/conditions, expected count, prompt identity, and every non-secret resolved value without credentials.
-- [ ] Scheduling tests execute 20 stable case waves, disabled before enabled, five fresh stateless model attempts per wave, identical frozen prompt/decoding/orchestration settings across paired conditions, a configurable maximum concurrency no greater than five, a barrier between waves, and stable report coordinates despite out-of-order completion.
-- [ ] Durability tests flush each terminal attempt as one canonical JSONL line before checkpointing, accept completion-order lines, reject duplicate/missing coordinates or a changed envelope, preserve partial diagnostics after interruption, and never resume or mutate an existing run.
-- [ ] Failure tests stop scheduling and suppress qualification on authentication/authorization, durable-write, or run-integrity batch failures while allowing request timeout, exhausted transient retry, model rejection, invalid tool behavior, malformed submission, and isolated retrieval errors to remain cell-local.
-- [ ] Completeness tests produce 50 enabled plus 50 disabled records even when selected cells fail, retain timing/outcome/evidence/error/model/config metadata independently, and do not reuse messages, tool budgets, responses, or state across cells.
-- [ ] Review validation accepts only a matching run ID plus either `selected` with one configured exact model and non-empty rationale or `none` with non-empty rationale; the generated incomplete template never satisfies the gate.
-- [ ] `uv run pytest tests/test_lore_experiment.py tests/test_lore_agent.py`, `uv run ruff check .`, `uv run ruff format --check .`, and `uv run pyright` pass.
+- [x] Catalog tests lock the exact five easy and five hard IDs/questions, require unique IDs/questions, validate every human-only expected passage against the pinned index, and prove review focus/evidence expectations never enter messages, searches, or tool results.
+- [x] Preflight tests reject missing/duplicate/malformed five-model lists, incompatible manifest/index/config identities, bad output destinations, and invalid resolved configuration before a provider call or run directory is created.
+- [x] Envelope tests prove `run.json` is written before calls and retains schema/run identity, creation time, source revision, release/index/config identities, ordered models/cases/conditions, expected count, prompt identity, and every non-secret resolved value without credentials.
+- [x] Scheduling tests execute 20 stable case waves, disabled before enabled, five fresh stateless model attempts per wave, identical frozen prompt/decoding/orchestration settings across paired conditions, a configurable maximum concurrency no greater than five, a barrier between waves, and stable report coordinates despite out-of-order completion.
+- [x] Durability tests flush each terminal attempt as one canonical JSONL line before checkpointing, accept completion-order lines, reject duplicate/missing coordinates or a changed envelope, preserve partial diagnostics after interruption, and never resume or mutate an existing run.
+- [x] Failure tests stop scheduling and suppress qualification on authentication/authorization, durable-write, or run-integrity batch failures while allowing request timeout, exhausted transient retry, model rejection, invalid tool behavior, malformed submission, and isolated retrieval errors to remain cell-local.
+- [x] Completeness tests produce 50 enabled plus 50 disabled records even when selected cells fail, retain timing/outcome/evidence/error/model/config metadata independently, and do not reuse messages, tool budgets, responses, or state across cells.
+- [x] Review validation accepts only a matching run ID plus either `selected` with one configured exact model and non-empty rationale or `none` with non-empty rationale; the generated incomplete template never satisfies the gate.
+- [x] `uv run pytest tests/test_lore_experiment.py tests/test_lore_agent.py`, `uv run ruff check .`, `uv run ruff format --check .`, and `uv run pyright` pass.
 
 ### Manual validation
 
-- [ ] Run a deterministic five-model batch into a new scratch directory and inspect that `run.json` precedes 100 complete uniquely coordinated JSONL lines and that the disabled/enabled ordering is visible in attempt metadata.
-- [ ] Force one fake model to fail and confirm its cell remains diagnostic while all 99 siblings complete; then force an authentication failure and confirm the batch stops without pretending to qualify.
-- [ ] Fill copies of `review.json` with selected, none, mismatched-model, wrong-run, and blank-rationale decisions and confirm only the two approved human-authored shapes pass gate validation.
+- [x] Run a deterministic five-model batch into a new scratch directory and inspect that `run.json` precedes 100 complete uniquely coordinated JSONL lines and that the disabled/enabled ordering is visible in attempt metadata.
+- [x] Force one fake model to fail and confirm its cell remains diagnostic while all 99 siblings complete; then force an authentication failure and confirm the batch stops without pretending to qualify.
+- [x] Fill copies of `review.json` with selected, none, mismatched-model, wrong-run, and blank-rationale decisions and confirm only the two approved human-authored shapes pass gate validation.
 
 ## Phase 4 — Deliver the operator command and paired review reports
 
@@ -115,22 +115,22 @@ Dependency: Phase 3. An operator can run `meta experiment run --manifest MANIFES
 
 ### Automated checks
 
-- [ ] Renderer tests require exactly one terminal record for all 100 coordinates, deterministic output from fixed structured data, identical case/model ordering between reports, condition-exclusive cells, shared batch identity, and relative companion links.
-- [ ] Enabled-report tests keep full answers visible and render escaped status plus evidence grouped in tool-call order with title, complete section path, bounded excerpt, and passage ID in native collapsed details; ungrounded, insufficient, and failed cells remain honestly distinct.
-- [ ] Disabled-report tests state retrieval was unavailable at page and cell level, retain answer text/status, and render no empty or misleading evidence control.
-- [ ] Layout tests keep batch/release/model/config identity, all exact questions, difficulty labels, and expandable human-only case notes directly visible; preserve configured five-model column order; use sticky headers/question cells where supported; and retain readable horizontally scrollable columns on narrow screens.
-- [ ] Security tests HTML-escape every model/corpus/config/error value, truncate excerpts by Unicode code points after the configured 200–4,000 bound, include inline CSS only, and emit no JavaScript, remote resource, secret, executable content, semantic scoring, ranking, or winner highlight.
-- [ ] Artifact tests write `retrieval-enabled.html` and `retrieval-disabled.html` atomically only after complete structured validation, never invoke retrieval/provider code during rendering, and preserve `run.json`/`attempts.jsonl` if rendering fails.
-- [ ] Environment tests require a trimmed non-empty secret and exactly five trimmed unique non-empty models, preserve declared order, expose only secret presence/absence in errors, and prove there is no CLI/YAML override or global `OPENAI_API_KEY` mutation.
-- [ ] CLI tests lock the approved command shape and sequencing, require a new output directory and explicit compatible inputs, render both reports after 100 terminal cells, print deterministic paths/identity, and preserve the current status-1 operator-error contract.
-- [ ] Dependency-direction checks prove `cli -> config/retrieval/experiment/report`, `experiment -> agent/config/retrieval`, `agent -> config/retrieval`, and `report -> experiment records`, with no runner-to-renderer, retrieval-to-agent, or lower-level-to-CLI import.
-- [ ] `uv run pytest`, `uv run ruff check .`, `uv run ruff format --check .`, `uv run pyright`, and `uv run pre-commit run --all-files` pass with at least 90% total coverage.
+- [x] Renderer tests require exactly one terminal record for all 100 coordinates, deterministic output from fixed structured data, identical case/model ordering between reports, condition-exclusive cells, shared batch identity, and relative companion links.
+- [x] Enabled-report tests keep full answers visible and render escaped status plus evidence grouped in tool-call order with title, complete section path, bounded excerpt, and passage ID in native collapsed details; ungrounded, insufficient, and failed cells remain honestly distinct.
+- [x] Disabled-report tests state retrieval was unavailable at page and cell level, retain answer text/status, and render no empty or misleading evidence control.
+- [x] Layout tests keep batch/release/model/config identity, all exact questions, difficulty labels, and expandable human-only case notes directly visible; preserve configured five-model column order; use sticky headers/question cells where supported; and retain readable horizontally scrollable columns on narrow screens.
+- [x] Security tests HTML-escape every model/corpus/config/error value, truncate excerpts by Unicode code points after the configured 200–4,000 bound, include inline CSS only, and emit no JavaScript, remote resource, secret, executable content, semantic scoring, ranking, or winner highlight.
+- [x] Artifact tests write `retrieval-enabled.html` and `retrieval-disabled.html` atomically only after complete structured validation, never invoke retrieval/provider code during rendering, and preserve `run.json`/`attempts.jsonl` if rendering fails.
+- [x] Environment tests require a trimmed non-empty secret and exactly five trimmed unique non-empty models, preserve declared order, expose only secret presence/absence in errors, and prove there is no CLI/YAML override or global `OPENAI_API_KEY` mutation.
+- [x] CLI tests lock the approved command shape and sequencing, require a new output directory and explicit compatible inputs, render both reports after 100 terminal cells, print deterministic paths/identity, and preserve the current status-1 operator-error contract.
+- [x] Dependency-direction checks prove `cli -> config/retrieval/experiment/report`, `experiment -> agent/config/retrieval`, `agent -> config/retrieval`, and `report -> experiment records`, with no runner-to-renderer, retrieval-to-agent, or lower-level-to-CLI import.
+- [x] `uv run pytest`, `uv run ruff check .`, `uv run ruff format --check .`, `uv run pyright`, and `uv run pre-commit run --all-files` pass with at least 90% total coverage.
 
 ### Manual validation
 
-- [ ] Render the same retained deterministic batch twice and compare bytes; open both reports locally and confirm condition labels, companion links, exact question inventory, sticky/scrolling matrix behavior, statuses, and collapsed evidence match the approved prototype's information architecture.
-- [ ] Inspect representative grounded, ungrounded, insufficient, and failed cells plus malicious HTML-like answer/evidence text; confirm answers remain readable, content is inert, disabled cells have no evidence UI, and no score or recommendation appears.
-- [ ] Run `meta experiment run` with missing environment values, an incompatible index, and an existing output directory and confirm each fails before provider work without leaking the key or altering prior artifacts.
+- [x] Render the same retained deterministic batch twice and compare bytes; open both reports locally and confirm condition labels, companion links, exact question inventory, sticky/scrolling matrix behavior, statuses, and collapsed evidence match the approved prototype's information architecture.
+- [x] Inspect representative grounded, ungrounded, insufficient, and failed cells plus malicious HTML-like answer/evidence text; confirm answers remain readable, content is inert, disabled cells have no evidence UI, and no score or recommendation appears.
+- [x] Run `meta experiment run` with missing environment values, an incompatible index, and an existing output directory and confirm each fails before provider work without leaking the key or altering prior artifacts.
 
 ## Phase 5 — Run the live qualification and record the human gate
 
@@ -146,14 +146,14 @@ Dependency: Phase 4. The operator completes one real 100-attempt OpenRouter batc
 
 ### Automated checks
 
-- [ ] Build/open preflight validates the exact manifest, published index, release identity, index/config compatibility, and all ten expected evidence IDs before any live provider call.
-- [ ] Batch validation confirms one immutable envelope and exactly 100 unique terminal attempts with paired settings, disabled isolation, no missing cells, no secret-bearing fields, and two reports derived from that same batch.
+- [x] Build/open preflight validates the exact manifest, published index, release identity, index/config compatibility, and all ten expected evidence IDs before any live provider call.
+- [x] Batch validation confirms one immutable envelope and exactly 100 unique terminal attempts with paired settings, disabled isolation, no missing cells, no secret-bearing fields, and two reports derived from that same batch.
 - [ ] Review-gate validation binds the completed decision to the batch and configured model list and rejects an incomplete template, altered run ID, unconfigured model, missing rationale, or any automatic/numeric verdict.
 - [ ] After the model-default update, `uv run pytest`, `uv run ruff check .`, `uv run ruff format --check .`, `uv run pyright`, and `uv run pre-commit run --all-files` pass.
 
 ### Manual validation
 
-- [ ] Run the published index build and one live experiment command with the approved baseline, capturing exact model identifiers and all resolved non-secret settings in the new batch rather than editing an earlier run.
+- [x] Run the published index build and one live experiment command with the approved baseline, capturing exact model identifiers and all resolved non-secret settings in the new batch rather than editing an earlier run.
 - [ ] Review every enabled/disabled model pair for pretrained recall, unsupported specificity, search/tool use, evidence fidelity, distortion, contradiction, uncertainty, and abstention; do not convert notes into a score or threshold.
 - [ ] Complete `review.json` with either one qualifying exact model plus written rationale or `none` plus rationale, then run the gate validator and confirm the result.
 - [ ] If a model qualifies, place that exact identifier in `.env.example` as `META_LORE_MODEL`; if none qualifies, leave Phase 1 blocked and record the retrieval/orchestration or candidate-set hypothesis that must change before a new separately identified batch.

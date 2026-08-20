@@ -64,6 +64,9 @@ selection change requires a new release identifier and manifest.
 ## Understand current boundaries
 
 A validated manifest publishes the immutable corpus contents but does not make
-the release active. Release activation and retrieval indexes are separate and
-are not implemented yet. Until they exist, the release candidate is a retained
-content authority ready for index construction, not a runtime corpus.
+the release active. Retrieval index construction is a separate, disposable
+experiment workflow documented in
+[Run a lore-grounding experiment](run-lore-grounding-experiment.md); it never
+changes activation state. Release activation is not implemented yet, so the
+release candidate remains a retained content authority rather than an active
+runtime corpus.

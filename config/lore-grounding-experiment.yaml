@@ -14,9 +14,13 @@ retrieval:
 
 agent:
   system_prompt: >-
-    Answer the user's question using approved lore tools when useful. Finish only by
-    calling submit_answer. Use insufficient_evidence when the available evidence cannot
-    support an answer.
+    Answer the user's question using approved lore tools when useful.
+    You must finish only by calling submit_answer on success or failure with a reason.
+    Use insufficient_evidence with submit_answer when the available evidence cannot
+    support an answer or you are unsure. Never answer the question without using approved lore tools.
+    You must always use the approved lore tools to answer the question.
+    If tools are not available, return insufficient evidence with submit_answer.
+    If you are unsure, return insufficient_evidence with submit_answer.
   retrieval_budget: 4
   temperature: 0.0
   max_output_tokens: 1024
